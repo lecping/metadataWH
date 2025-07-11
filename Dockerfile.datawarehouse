@@ -1,0 +1,34 @@
+FROM python:3.9-slim
+
+# Install system dependencies
+RUN apt-get update && \
+    apt-get install -y \
+    git \
+    curl \
+    build-essential \
+    libpq-dev \
+    && rm -rf /var/lib/apt/lists/*
+
+# Install Python packages
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Configure workspace
+RUN mkdir -p /workspace /dataset /git && \
+    chown -R 1000:1000 /workspace /dataset /git
+	
+# Set Git to use workspace directory for config
+ENV GIT_CONFIG_GLOBAL=/workspace/.gitconfig
+RUN git config --global init.defaultBranch main
+
+RUN mkdir -p /workspace/.git && \
+    chown -R 1000:1000 /workspace && \
+    git config --global --add safe.directory /workspace
+	
+RUN git config --global --add safe.directory /workspace
+
+USER 1000
+WORKDIR /workspace
+
+# Keep container running
+CMD ["tail", "-f", "/dev/null"]

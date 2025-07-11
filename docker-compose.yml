@@ -1,0 +1,59 @@
+services:
+  postgres:
+    image: postgres:17
+    container_name: dw_postgres
+    environment:
+      POSTGRES_USER: ingest
+      POSTGRES_PASSWORD: pw1234
+      POSTGRES_DB: datawarehouse
+    ports:
+      - "5433:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+      - ./postgres-init.sql:/docker-entrypoint-initdb.d/init.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ingest -d datawarehouse"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  hasura:
+    image: hasura/graphql-engine:v2.30.1
+    container_name: dw_hasura
+    depends_on:
+      postgres:
+        condition: service_healthy
+    ports:
+      - "8080:8080"
+    environment:
+      HASURA_GRAPHQL_METADATA_DATABASE_URL: "postgres://ingest:pw1234@postgres:5432/datawarehouse"
+      HASURA_GRAPHQL_DATABASE_URL: "postgres://ingest:pw1234@postgres:5432/datawarehouse"
+      HASURA_GRAPHQL_ENABLE_CONSOLE: "true"
+      HASURA_GRAPHQL_ADMIN_SECRET: "myadminsecret"
+    volumes:
+      - ./hasura/metadata:/hasura-metadata
+      - ./hasura/migrations:/hasura-migrations
+
+  datawarehouse:
+    build:
+      context: .
+      dockerfile: Dockerfile.datawarehouse
+    container_name: dw_app
+    depends_on:
+      postgres:
+        condition: service_healthy
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: "postgres://ingest:pw1234@postgres:5432/datawarehouse"
+      DBT_PROFILES_DIR: "/workspace/.dbt"
+    volumes:
+      - ./:/workspace
+      - ./dataset:/dataset
+      - git_repos:/git
+    working_dir: /workspace
+
+volumes:
+  pg_data:
+  dataset:
+  git_repos:
