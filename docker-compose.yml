@@ -53,6 +53,19 @@ services:
       - git_repos:/git
     working_dir: /workspace
 
+  dbt:
+    image: ghcr.io/dbt-labs/dbt-postgres:1.9.latest
+    container_name: dw_dbt
+    depends_on:
+      postgres:
+        condition: service_healthy
+    volumes:
+      - ./dbt_project:/usr/app/dbt
+      - ./dbt_profiles:/root/.dbt
+    environment:
+      DBT_PROFILES_DIR: "/root/.dbt"
+    entrypoint: ["sleep", "infinity"]  # Keeps container running, so you can enter shell
+
 volumes:
   pg_data:
   dataset:

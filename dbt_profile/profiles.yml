@@ -1,0 +1,12 @@
+dbt_datawarehouse:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: postgres
+      user: ingest
+      password: pw1234
+      port: 5432
+      dbname: datawarehouse
+      schema: public
+      threads: 1
