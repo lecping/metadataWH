@@ -1,0 +1,239 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4320511831",
+  "doi": "10.2991/978-2-494069-83-1_69",
+  "name": "Impact Analysis of Digital Mutual Fund Platform on Investment Growth in Indonesian Capital Market",
+  "headline": "Impact Analysis of Digital Mutual Fund Platform on Investment Growth in Indonesian Capital Market",
+  "datePublished": "2022-01-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Advances in Social Science, Education and Humanities Research/Advances in social science, education and humanities research",
+    "issn": "2731-8060",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5002317530",
+      "name": "Venti Eka Satya",
+      "givenName": "Venti",
+      "familyName": "Satya",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4394709097",
+          "name": "Politeknik Negeri Samarinda",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": null
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210163768",
+          "name": "Dewan Kesenian Jakarta",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210143305",
+          "name": "Universitas 17 Agustus 1945 Samarinda",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5056071254",
+      "name": "Ratna Wulaningrum",
+      "givenName": "Ratna",
+      "familyName": "Wulaningrum",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4394709097",
+          "name": "Politeknik Negeri Samarinda",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": null
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210163768",
+          "name": "Dewan Kesenian Jakarta",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210143305",
+          "name": "Universitas 17 Agustus 1945 Samarinda",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-8952-0445"
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W1489265676",
+    "https://openalex.org/W1755880734",
+    "https://openalex.org/W2345949718",
+    "https://openalex.org/W2536779724",
+    "https://openalex.org/W2571811451",
+    "https://openalex.org/W2887363771",
+    "https://openalex.org/W2903695402",
+    "https://openalex.org/W3002341766",
+    "https://openalex.org/W3011566696",
+    "https://openalex.org/W3013007373",
+    "https://openalex.org/W3137711456",
+    "https://openalex.org/W658250913"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.569559
+    },
+    {
+      "id": "https://openalex.org/keywords/mutual-fund",
+      "display_name": "Mutual fund",
+      "score": 0.51754445
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4212879
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.41604576
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779207338",
+      "name": "Indonesian",
+      "sameAs": "https://www.wikidata.org/wiki/Q9240"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2777064782",
+      "name": "Mutual fund",
+      "sameAs": "https://www.wikidata.org/wiki/Q791974"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C143910263",
+      "name": "Capital market",
+      "sameAs": "https://www.wikidata.org/wiki/Q750458"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C73283319",
+      "name": "Financial system",
+      "sameAs": "https://www.wikidata.org/wiki/Q1416617"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Digital revolution is transforming the way customers access financial products and services.Since 2017, the number of investors in the Indonesian capital market, based on Single Investor Identification (SID), has increased significantly.This is due to the emergence of digital platforms in mutual funds trading.This study aims to determine the impact of the Digital Mutual Fund Platform on the development of investment in the capital market which includes the number of investors, values and volume of investment, and the number of companies listed on stock exchange.Analytical method used is descriptive qualitative by analyzing, describing, and summarizing the data obtained.The results showed that in December 2021, number of capital market investors was 7,489,337 investors, an increase of 569% compared to 2017, and trading volume reached 5.096 billion shares.The number of companies listed on IDX at the end of 2021 are 766 companies.More than 73.99% of Single Investor Identification (SID) have investment accounts in fintech selling agents, that used digital mutual fund platforms in running their business.This shows that the Capital Market growth is affected by the development of digital platforms in mutual funds trading.",
+  "url": "https://doi.org/10.2991/978-2-494069-83-1_69",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.atlantis-press.com/article/125983520.pdf",
+    "encodingFormat": "text/html"
+  }
+}

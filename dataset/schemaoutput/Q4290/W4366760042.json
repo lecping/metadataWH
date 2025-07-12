@@ -1,0 +1,192 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4366760042",
+  "doi": "10.46852/0424-2513.1.2023.13",
+  "name": "Volume of Timber Consumption in Sawmill Industries of Valley Districts of Manipur State, India: Its Determinants and Implications",
+  "headline": "Volume of Timber Consumption in Sawmill Industries of Valley Districts of Manipur State, India: Its Determinants and Implications",
+  "datePublished": "2023-03-25",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Economic Affairs",
+    "issn": "0424-2513",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5046242489",
+      "name": "Hanjabam Isworchandra Sharma",
+      "givenName": "Hanjabam",
+      "familyName": "Sharma",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-8537-9843"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1270398959",
+    "https://openalex.org/W1966103437",
+    "https://openalex.org/W2050467756",
+    "https://openalex.org/W2801896877",
+    "https://openalex.org/W3174798152"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/consumption",
+      "display_name": "Consumption",
+      "score": 0.74807596
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6129452
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.42614973
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C30772137",
+      "name": "Consumption (sociology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q5164762"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C152877465",
+      "name": "Regression analysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q208042"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C122637931",
+      "name": "Unit (ring theory)",
+      "sameAs": "https://www.wikidata.org/wiki/Q118084"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C20556612",
+      "name": "Volume (thermodynamics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q4469374"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105795698",
+      "name": "Statistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q12483"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C36289849",
+      "name": "Social science",
+      "sameAs": "https://www.wikidata.org/wiki/Q34749"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121332964",
+      "name": "Physics",
+      "sameAs": "https://www.wikidata.org/wiki/Q413"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145420912",
+      "name": "Mathematics education",
+      "sameAs": "https://www.wikidata.org/wiki/Q853077"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C62520636",
+      "name": "Quantum mechanics",
+      "sameAs": "https://www.wikidata.org/wiki/Q944"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "\"The present paper seeks to determine the volume and species of timber consumption in sawmill industries of Valley districts of Manipur State, India. The study finds a high growth rate of prices for all timber species. Species-wise data shows that about 60 percent of total inputs consumed by sawmill units are for furniture use and the rest for housing and construction. The study employs a log-linear multiple regression model to determine input consumption’s determinants. The regression analysis shows that units are not fully utilizing their installed capacity, as shown by the negative relationship between installed capacity and input consumption. Other factors like the area of the unit, capital investment, and perennial operation are factors that have positive impacts on the input consumption of the sawmill units.\"",
+  "url": "https://doi.org/10.46852/0424-2513.1.2023.13",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.46852/0424-2513.1.2023.13",
+    "encodingFormat": "text/html"
+  }
+}

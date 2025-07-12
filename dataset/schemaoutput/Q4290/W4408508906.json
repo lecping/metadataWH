@@ -1,0 +1,322 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4408508906",
+  "doi": "10.1016/j.iref.2025.104050",
+  "name": "The Influence of Government Health Investment on Economic Resilience: A Perspective from Health Human Capital",
+  "headline": "The Influence of Government Health Investment on Economic Resilience: A Perspective from Health Human Capital",
+  "datePublished": "2025-03-01",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-nd",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Review of Economics & Finance",
+    "issn": "1059-0560",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Elsevier BV"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5066169695",
+      "name": "Tian Guo",
+      "givenName": "Tongji",
+      "familyName": "Guo",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-7166-3376"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5025452322",
+      "name": "Yun Tong",
+      "givenName": "Yun",
+      "familyName": "Tong",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5116651797",
+      "name": "Yuanze Yu",
+      "givenName": "Yuanze",
+      "familyName": "Yu",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W1520998938",
+    "https://openalex.org/W1982714632",
+    "https://openalex.org/W2006048654",
+    "https://openalex.org/W2014407480",
+    "https://openalex.org/W2018620829",
+    "https://openalex.org/W2019901218",
+    "https://openalex.org/W2023389247",
+    "https://openalex.org/W2091683152",
+    "https://openalex.org/W2096015313",
+    "https://openalex.org/W2104746949",
+    "https://openalex.org/W2113224665",
+    "https://openalex.org/W2129484434",
+    "https://openalex.org/W2185362044",
+    "https://openalex.org/W2233443419",
+    "https://openalex.org/W2337933850",
+    "https://openalex.org/W2560275473",
+    "https://openalex.org/W2568783430",
+    "https://openalex.org/W2620374873",
+    "https://openalex.org/W2762573193",
+    "https://openalex.org/W2901399290",
+    "https://openalex.org/W2921262978",
+    "https://openalex.org/W2944019331",
+    "https://openalex.org/W2955474164",
+    "https://openalex.org/W2967438043",
+    "https://openalex.org/W3020811414",
+    "https://openalex.org/W3125799782",
+    "https://openalex.org/W3137029866",
+    "https://openalex.org/W3167261915",
+    "https://openalex.org/W3187132001",
+    "https://openalex.org/W3205168576",
+    "https://openalex.org/W4252307431",
+    "https://openalex.org/W4255465007",
+    "https://openalex.org/W4285009052",
+    "https://openalex.org/W4306968935",
+    "https://openalex.org/W4307775688",
+    "https://openalex.org/W4309726659",
+    "https://openalex.org/W4321111680",
+    "https://openalex.org/W4366816038",
+    "https://openalex.org/W4376866546",
+    "https://openalex.org/W4384126798",
+    "https://openalex.org/W4385420421",
+    "https://openalex.org/W4387142808",
+    "https://openalex.org/W4387677064",
+    "https://openalex.org/W4388042776",
+    "https://openalex.org/W4389661416",
+    "https://openalex.org/W4391019691",
+    "https://openalex.org/W4391540225",
+    "https://openalex.org/W4392719842",
+    "https://openalex.org/W4395016161",
+    "https://openalex.org/W4396703788",
+    "https://openalex.org/W4396843662",
+    "https://openalex.org/W4398765998",
+    "https://openalex.org/W4399069980",
+    "https://openalex.org/W4399785413",
+    "https://openalex.org/W4400085335",
+    "https://openalex.org/W4400903325",
+    "https://openalex.org/W4402053662",
+    "https://openalex.org/W4403069978"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 2680,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6153709
+    },
+    {
+      "id": "https://openalex.org/keywords/resilience",
+      "display_name": "Resilience",
+      "score": 0.5838516
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.44314525
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-accumulation",
+      "display_name": "Capital Accumulation",
+      "score": 0.4408752
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4298846
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C12713177",
+      "name": "Perspective (graphical)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1900281"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779585090",
+      "name": "Resilience (materials science)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3457762"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778137410",
+      "name": "Government (linguistics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2732820"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C137176749",
+      "name": "Psychological resilience",
+      "sameAs": "https://www.wikidata.org/wiki/Q4105337"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C100001284",
+      "name": "Public economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q2248246"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C81751973",
+      "name": "Capital accumulation",
+      "sameAs": "https://www.wikidata.org/wiki/Q420062"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C74363100",
+      "name": "Economic system",
+      "sameAs": "https://www.wikidata.org/wiki/Q273005"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C77805123",
+      "name": "Social psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q161272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121332964",
+      "name": "Physics",
+      "sameAs": "https://www.wikidata.org/wiki/Q413"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C154945302",
+      "name": "Artificial intelligence",
+      "sameAs": "https://www.wikidata.org/wiki/Q11660"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C97355855",
+      "name": "Thermodynamics",
+      "sameAs": "https://www.wikidata.org/wiki/Q11473"
+    }
+  ],
+  "url": "https://doi.org/10.1016/j.iref.2025.104050",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1016/j.iref.2025.104050",
+    "encodingFormat": "text/html"
+  }
+}

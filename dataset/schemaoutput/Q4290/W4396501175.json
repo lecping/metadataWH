@@ -1,0 +1,265 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4396501175",
+  "doi": "10.24018/ejdevelop.2024.4.2.360",
+  "name": "Impact of the COVID-19 Pandemic on Investment Capital in Thai Nguyen Province, Vietnam",
+  "headline": "Impact of the COVID-19 Pandemic on Investment Capital in Thai Nguyen Province, Vietnam",
+  "datePublished": "2024-04-28",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "European Journal of Development Studies",
+    "issn": "2736-660X",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5095944486",
+      "name": "Quy Nguyen Thi Thanh",
+      "givenName": "Quy",
+      "familyName": "Thanh",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210115718",
+          "name": "Thai Nguyen University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "VN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5095944487",
+      "name": "Nha Do Thi Hoa",
+      "givenName": "Nha",
+      "familyName": "Hoa",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210115718",
+          "name": "Thai Nguyen University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "VN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5095944488",
+      "name": "Hanh Phung Tran My",
+      "givenName": "Hanh",
+      "familyName": "My",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210115718",
+          "name": "Thai Nguyen University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "VN"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W3157784992",
+    "https://openalex.org/W3198343632",
+    "https://openalex.org/W4205968142",
+    "https://openalex.org/W4212777266"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/pandemic",
+      "display_name": "Pandemic",
+      "score": 0.79463875
+    },
+    {
+      "id": "https://openalex.org/keywords/2019-20-coronavirus-outbreak",
+      "display_name": "2019-20 coronavirus outbreak",
+      "score": 0.63038164
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5195549
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.47677353
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4236201
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C3008058167",
+      "name": "Coronavirus disease 2019 (COVID-19)",
+      "sameAs": "https://www.wikidata.org/wiki/Q84263196"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C89623803",
+      "name": "Pandemic",
+      "sameAs": "https://www.wikidata.org/wiki/Q12184"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C3006700255",
+      "name": "2019-20 coronavirus outbreak",
+      "sameAs": "https://www.wikidata.org/wiki/Q81068910"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C3007834351",
+      "name": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+      "sameAs": "https://www.wikidata.org/wiki/Q82069695"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C47768531",
+      "name": "Development economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q1127188"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C159047783",
+      "name": "Virology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7215"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C71924100",
+      "name": "Medicine",
+      "sameAs": "https://www.wikidata.org/wiki/Q11190"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C195244886",
+      "name": "Ancient history",
+      "sameAs": "https://www.wikidata.org/wiki/Q41493"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C116675565",
+      "name": "Outbreak",
+      "sameAs": "https://www.wikidata.org/wiki/Q3241045"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C524204448",
+      "name": "Infectious disease (medical specialty)",
+      "sameAs": "https://www.wikidata.org/wiki/Q788926"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779134260",
+      "name": "Disease",
+      "sameAs": "https://www.wikidata.org/wiki/Q12136"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C142724271",
+      "name": "Pathology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7208"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The COVID-19 pandemic has had a huge impact on investment capital in Thai Nguyen, including both domestic private businesses and businesses with foreign direct investment. In an effort to overcome the impact of the COVID-19 pandemic, Thai Nguyen province has proactively grasped difficulties and problems and has plans to support and create favorable conditions for businesses in the area, including FDI enterprises and production peace of mind. The results also show that Thai Nguyen proactively grasps the difficulties and problems of investors to promptly resolve, create and strengthen the trust of investors who have been implementing investment projects in the province.",
+  "url": "https://doi.org/10.24018/ejdevelop.2024.4.2.360",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://ej-develop.org/index.php/ejdevelop/article/download/360/238",
+    "encodingFormat": "text/html"
+  }
+}

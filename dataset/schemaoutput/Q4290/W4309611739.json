@@ -1,0 +1,228 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4309611739",
+  "doi": "10.33087/jiubj.v22i3.2590",
+  "name": "Faktor-Faktor Penentu Pariwisata yang Mempengaruhi Pertumbuhan Ekonomi: Tinjauan Sistematis",
+  "headline": "Faktor-Faktor Penentu Pariwisata yang Mempengaruhi Pertumbuhan Ekonomi: Tinjauan Sistematis",
+  "datePublished": "2022-10-31",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Jurnal Ilmiah Universitas Batanghari Jambi",
+    "issn": "1411-8939",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5112382858",
+      "name": "Zaim Mukaffi",
+      "givenName": "Zaim",
+      "familyName": "Mukaffi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3020190299",
+          "name": "Universitas Islam Negeri Maulana Malik Ibrahim",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5050912684",
+      "name": "Tri Haryanto",
+      "givenName": "Tri",
+      "familyName": "Haryanto",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3020190299",
+          "name": "Universitas Islam Negeri Maulana Malik Ibrahim",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210120931",
+          "name": "Badan Penelitian dan Pengembangan Kesehatan",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-9038-3698"
+    }
+  ],
+  "citationCount": 3,
+  "citation": [
+    "https://openalex.org/W2115087452",
+    "https://openalex.org/W2115519090",
+    "https://openalex.org/W2172182205",
+    "https://openalex.org/W2373460079",
+    "https://openalex.org/W2800221651",
+    "https://openalex.org/W2883256557",
+    "https://openalex.org/W2974560808",
+    "https://openalex.org/W3024195466",
+    "https://openalex.org/W3082890739",
+    "https://openalex.org/W3134774891",
+    "https://openalex.org/W3157238109",
+    "https://openalex.org/W3174025934",
+    "https://openalex.org/W3183059382",
+    "https://openalex.org/W3211023085",
+    "https://openalex.org/W3217171903",
+    "https://openalex.org/W4250820461"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.53326005
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.49413064
+    },
+    {
+      "id": "https://openalex.org/keywords/affect",
+      "display_name": "Affect",
+      "score": 0.41431418
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18918823",
+      "name": "Tourism",
+      "sameAs": "https://www.wikidata.org/wiki/Q49389"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778137410",
+      "name": "Government (linguistics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2732820"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776687071",
+      "name": "Destinations",
+      "sameAs": "https://www.wikidata.org/wiki/Q5265193"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39896193",
+      "name": "Descriptive statistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q380344"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776035688",
+      "name": "Affect (linguistics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1606558"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105795698",
+      "name": "Statistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q12483"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The tourism sector is one of the development sectors that affect economic growth. Where this tourism activity can create a multiplier effect for the community, especially around tourist destinations, in the form of economic activities, such as the emergence of new businesses, trade and other business activities. This systematic review aims to determine the determinants of tourism demand that affect regional and national economic growth. This review is methodologically limited to descriptive methods rather than statistical methods in the analysis of results by carrying out 3 stages of analysis. The data used are 40 journals. The results of this systematic review show that the tourism factors that affect economic growth are the number of tourist visits, income, networks and attractions, the amount of government spending in the tourism sector, capital investment, the number of workers, the number of restaurants/restaurants, and the availability of the number of hotel rooms. and quality of infrastructure",
+  "url": "https://doi.org/10.33087/jiubj.v22i3.2590",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "http://ji.unbari.ac.id/index.php/ilmiah/article/download/2590/1308",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4376527031",
+  "doi": "10.25236/ajbm.2023.050409",
+  "name": "A Comparative Study on the Application of NPV and IRR in Financial Market Investment Decision",
+  "headline": "A Comparative Study on the Application of NPV and IRR in Financial Market Investment Decision",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Academic Journal of Business & Management",
+    "issn": "2616-5902",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5007855665",
+      "name": "Jingxuan Lin",
+      "givenName": "Jingxuan",
+      "familyName": "Lin",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 4,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.7091924
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-budgeting",
+      "display_name": "Capital Budgeting",
+      "score": 0.5496007
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.44580778
+    },
+    {
+      "id": "https://openalex.org/keywords/investment-decisions",
+      "display_name": "Investment Decisions",
+      "score": 0.4390041
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C57918260",
+      "name": "Capital budgeting",
+      "sameAs": "https://www.wikidata.org/wiki/Q1354666"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778865806",
+      "name": "Investment decisions",
+      "sameAs": "https://www.wikidata.org/wiki/Q6060850"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C98045186",
+      "name": "Process (computing)",
+      "sameAs": "https://www.wikidata.org/wiki/Q205663"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C19244329",
+      "name": "Financial market",
+      "sameAs": "https://www.wikidata.org/wiki/Q208697"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181230689",
+      "name": "Net present value",
+      "sameAs": "https://www.wikidata.org/wiki/Q192472"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162118730",
+      "name": "Actuarial science",
+      "sameAs": "https://www.wikidata.org/wiki/Q1128453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C109574028",
+      "name": "Behavioral economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q647525"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21425071",
+      "name": "Project appraisal",
+      "sameAs": "https://www.wikidata.org/wiki/Q7249389"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111919701",
+      "name": "Operating system",
+      "sameAs": "https://www.wikidata.org/wiki/Q9135"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    }
+  ],
+  "abstract": "Investment activities in financial markets are the main part of determining whether an enterprise is profitable or not, with large capital investment and long time. The quantitative analysis of the feasibility of investment activities is of great significance in the operation process. The rational use of index analysis can improve the scientificity of project decision-making. The basic indicators of investment decision-making are mainly NPV and IRR, which are representative and scientific. This paper summarizes the NPV and IRR indicators, compares the advantages and disadvantages of their respective indicators, and analyzes the comparison between the independent project and the mutually exclusive project investment in the decision-making process of the financial market.",
+  "url": "https://doi.org/10.25236/ajbm.2023.050409",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "http://francis-press.com/uploads/papers/tvuwOBEIstKhCU4flAMj2WdlmSMw23SciWwUNauU.pdf",
+    "encodingFormat": "text/html"
+  }
+}

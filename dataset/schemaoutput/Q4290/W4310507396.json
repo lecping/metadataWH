@@ -1,0 +1,255 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4310507396",
+  "doi": "10.1007/978-981-19-5542-6_22",
+  "name": "Integrating Agricultural and Industrial Development",
+  "headline": "Integrating Agricultural and Industrial Development",
+  "datePublished": "2022-12-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Emerging-economy state and international policy studies",
+    "issn": "2524-5023",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Springer Nature"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5024812953",
+      "name": "Takeshi Aida",
+      "givenName": "Takeshi",
+      "familyName": "Aida",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2799600557",
+          "name": "Japan External Trade Organization",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "JP"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-1523-4646"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W180771031",
+    "https://openalex.org/W1965102529",
+    "https://openalex.org/W1984031574",
+    "https://openalex.org/W1989104954",
+    "https://openalex.org/W2012817932",
+    "https://openalex.org/W2020154773",
+    "https://openalex.org/W2026217839",
+    "https://openalex.org/W2072059359",
+    "https://openalex.org/W2105717288",
+    "https://openalex.org/W2136039427",
+    "https://openalex.org/W2159401107",
+    "https://openalex.org/W2204097737",
+    "https://openalex.org/W2265933053",
+    "https://openalex.org/W2507958419",
+    "https://openalex.org/W2742439215",
+    "https://openalex.org/W2788506292",
+    "https://openalex.org/W2801643999",
+    "https://openalex.org/W2889829378",
+    "https://openalex.org/W2924919195",
+    "https://openalex.org/W3010010041",
+    "https://openalex.org/W3013655004",
+    "https://openalex.org/W3122117525",
+    "https://openalex.org/W3122537061",
+    "https://openalex.org/W3123472814",
+    "https://openalex.org/W3126110634",
+    "https://openalex.org/W4210791648",
+    "https://openalex.org/W4300926133",
+    "https://openalex.org/W4301479345",
+    "https://openalex.org/W53378877"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/expediting",
+      "display_name": "Expediting",
+      "score": 0.8976418
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5067771
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.49140608
+    },
+    {
+      "id": "https://openalex.org/keywords/agricultural-development",
+      "display_name": "Agricultural Development",
+      "score": 0.48819906
+    },
+    {
+      "id": "https://openalex.org/keywords/industrial-revolution",
+      "display_name": "Industrial Revolution",
+      "score": 0.4825789
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134448949",
+      "name": "Expediting",
+      "sameAs": "https://www.wikidata.org/wiki/Q1384274"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C118518473",
+      "name": "Agriculture",
+      "sameAs": "https://www.wikidata.org/wiki/Q11451"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2992730755",
+      "name": "Agricultural development",
+      "sameAs": "https://www.wikidata.org/wiki/Q55603353"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C517468935",
+      "name": "Industrial Revolution",
+      "sameAs": "https://www.wikidata.org/wiki/Q2269"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204983608",
+      "name": "Productivity",
+      "sameAs": "https://www.wikidata.org/wiki/Q2111958"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C128383755",
+      "name": "Agricultural productivity",
+      "sameAs": "https://www.wikidata.org/wiki/Q3816336"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C191172861",
+      "name": "Upstream (networking)",
+      "sameAs": "https://www.wikidata.org/wiki/Q7899321"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C74363100",
+      "name": "Economic system",
+      "sameAs": "https://www.wikidata.org/wiki/Q273005"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26271046",
+      "name": "Economic geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q187097"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C187736073",
+      "name": "Management",
+      "sameAs": "https://www.wikidata.org/wiki/Q2920921"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C76155785",
+      "name": "Telecommunications",
+      "sameAs": "https://www.wikidata.org/wiki/Q418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Abstract The Green Revolution has brought about a significant increase in agricultural productivity, expediting a shift in industrial structure. Although economic theories have been based on the dichotomy of agricultural and industrial sectors, the actual shift is more gradual. In this chapter, we discuss the role of upstream and downstream industries of agriculture in development strategy from the perspective of global value chains. We claim that agricultural processing and retail industries can integrate agricultural and industrial developments. In this regard, the model of cluster-based development is informative, and the role of human capital investment and associations is essential. We also provide an overview of the development of the tapioca industry in Thailand as an illustrative case study. This discussion ultimately aims to redefine agricultural development as a part of long-term economic development.",
+  "url": "https://doi.org/10.1007/978-981-19-5542-6_22",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://link.springer.com/content/pdf/10.1007/978-981-19-5542-6_22.pdf",
+    "encodingFormat": "text/html"
+  }
+}

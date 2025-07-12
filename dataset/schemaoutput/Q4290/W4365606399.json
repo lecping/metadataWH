@@ -1,0 +1,155 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4365606399",
+  "doi": "10.5281/zenodo.7830617",
+  "name": "Impact of the British Capital Investment during Indian National Movement (1915-1939)",
+  "headline": "Impact of the British Capital Investment during Indian National Movement (1915-1939)",
+  "datePublished": "2022-05-05",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Zenodo (CERN European Organization for Nuclear Research)",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": "European Organization for Nuclear Research"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5107863867",
+      "name": "Avinash Kumar",
+      "givenName": "Avinash",
+      "familyName": "Kumar",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2914622271",
+          "name": "Jai Prakash Vishwavidyalaya",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5073417755",
+      "name": "Abdul Wasim Khan",
+      "givenName": "Abdul",
+      "familyName": "Khan",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5774216
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5720314
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5200279
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780226923",
+      "name": "Movement (music)",
+      "sameAs": "https://www.wikidata.org/wiki/Q929848"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C195244886",
+      "name": "Ancient history",
+      "sameAs": "https://www.wikidata.org/wiki/Q41493"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C142362112",
+      "name": "Art",
+      "sameAs": "https://www.wikidata.org/wiki/Q735"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C107038049",
+      "name": "Aesthetics",
+      "sameAs": "https://www.wikidata.org/wiki/Q35986"
+    }
+  ],
+  "url": "https://zenodo.org/record/7830617",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://zenodo.org/records/7830617/files/Avinash%20Kumar%20%26%20Abdul%20Wasim%20Khan%20(April%202022),%20pp.%2036-39.pdf",
+    "encodingFormat": "text/html"
+  }
+}

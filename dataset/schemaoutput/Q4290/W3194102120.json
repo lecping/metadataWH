@@ -1,0 +1,349 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W3194102120",
+  "doi": "10.3390/ijerph18178926",
+  "name": "Innovative Culture and Firm Performance of Medical Device Companies: Mediating Effects of Investment in Education and Training",
+  "headline": "Innovative Culture and Firm Performance of Medical Device Companies: Mediating Effects of Investment in Education and Training",
+  "datePublished": "2021-08-25",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Environmental Research and Public Health",
+    "issn": "1660-4601",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Multidisciplinary Digital Publishing Institute"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5109401732",
+      "name": "Jeong-Min Ryu",
+      "givenName": "Jeong-min",
+      "familyName": "Ryu",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I848706",
+          "name": "Sungkyunkwan University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "KR"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5005056297",
+      "name": "Sewon Park",
+      "givenName": "Sewon",
+      "familyName": "Park",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I848706",
+          "name": "Sungkyunkwan University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "KR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-2661-7020"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5053350751",
+      "name": "Yoonseo Park",
+      "givenName": "Yoonseo",
+      "familyName": "Park",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I57664883",
+          "name": "Ajou University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "KR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-1038-9836"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5040396964",
+      "name": "Jeongwon Park",
+      "givenName": "Jeongwon",
+      "familyName": "Park",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I197347611",
+          "name": "Korea University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "KR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-4988-302X"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5013508833",
+      "name": "Munjae Lee",
+      "givenName": "Munjae",
+      "familyName": "Lee",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I57664883",
+          "name": "Ajou University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "KR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-9781-4187"
+    }
+  ],
+  "citationCount": 9,
+  "citation": [
+    "https://openalex.org/W1621073741",
+    "https://openalex.org/W188807262",
+    "https://openalex.org/W1947836447",
+    "https://openalex.org/W1983989769",
+    "https://openalex.org/W2035142218",
+    "https://openalex.org/W2045275260",
+    "https://openalex.org/W2077571172",
+    "https://openalex.org/W2130611112",
+    "https://openalex.org/W2149668817",
+    "https://openalex.org/W2252788631",
+    "https://openalex.org/W2504294780",
+    "https://openalex.org/W2519312989",
+    "https://openalex.org/W2565263877",
+    "https://openalex.org/W2595605684",
+    "https://openalex.org/W2604397550",
+    "https://openalex.org/W2730844698",
+    "https://openalex.org/W2742924088",
+    "https://openalex.org/W2757331291",
+    "https://openalex.org/W2770364588",
+    "https://openalex.org/W2780744508",
+    "https://openalex.org/W2785902509",
+    "https://openalex.org/W2793837331",
+    "https://openalex.org/W2793871013",
+    "https://openalex.org/W2794203305",
+    "https://openalex.org/W2801382137",
+    "https://openalex.org/W2802626483",
+    "https://openalex.org/W2866638813",
+    "https://openalex.org/W2883097997",
+    "https://openalex.org/W2883265329",
+    "https://openalex.org/W2886690751",
+    "https://openalex.org/W2888141738",
+    "https://openalex.org/W2891452716",
+    "https://openalex.org/W2892727770",
+    "https://openalex.org/W2896186949",
+    "https://openalex.org/W2896816860",
+    "https://openalex.org/W2902755267",
+    "https://openalex.org/W2911453310",
+    "https://openalex.org/W2917927931",
+    "https://openalex.org/W2919472905",
+    "https://openalex.org/W2922518864",
+    "https://openalex.org/W2929292156",
+    "https://openalex.org/W2973134473",
+    "https://openalex.org/W2997055251",
+    "https://openalex.org/W3005690019",
+    "https://openalex.org/W3025268617",
+    "https://openalex.org/W3037448908",
+    "https://openalex.org/W3043066866",
+    "https://openalex.org/W3081220166",
+    "https://openalex.org/W3119442381",
+    "https://openalex.org/W4232835044"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 2500,
+      "currency": "CHF"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/corporation",
+      "display_name": "Corporation",
+      "score": 0.68694603
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.68439585
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4387636
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348171",
+      "name": "Corporation",
+      "sameAs": "https://www.wikidata.org/wiki/Q167037"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C67674302",
+      "name": "Organizational culture",
+      "sameAs": "https://www.wikidata.org/wiki/Q730573"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C6422946",
+      "name": "Panel data",
+      "sameAs": "https://www.wikidata.org/wiki/Q857354"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C668760",
+      "name": "Vocational education",
+      "sameAs": "https://www.wikidata.org/wiki/Q6869278"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C169549615",
+      "name": "Return on investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q939134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C56739046",
+      "name": "Knowledge management",
+      "sameAs": "https://www.wikidata.org/wiki/Q192060"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C187736073",
+      "name": "Management",
+      "sameAs": "https://www.wikidata.org/wiki/Q2920921"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C19417346",
+      "name": "Pedagogy",
+      "sameAs": "https://www.wikidata.org/wiki/Q7922"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149782125",
+      "name": "Econometrics",
+      "sameAs": "https://www.wikidata.org/wiki/Q160039"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    }
+  ],
+  "abstract": "This research explored the mediating effect of investment in education and training relating to the innovative culture and organizational performance of medical device companies. We used the Human Capital Corporate Panel data provided by the Korea Vocational Competency Development Institute. In the industrial classification system of panel data, the industries related to medical devices were extracted and conclusively analyzed for 8629 workers and 368 companies. The independent and dependent variables were innovative culture and corporation performance, respectively. Investment in training and education was a mediating variable between the independent and dependent variables. Quantitative data were analyzed using SPSS software. A higher level of organizational satisfaction emerged in an innovative culture. Innovative culture positively affected organizational satisfaction. Further, investment in education and training to promote an innovative culture positively affected organizational satisfaction. Medical device companies should improve their performance by creating an innovative culture.",
+  "url": "https://doi.org/10.3390/ijerph18178926",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.mdpi.com/1660-4601/18/17/8926/pdf?version=1629879962",
+    "encodingFormat": "text/html"
+  }
+}

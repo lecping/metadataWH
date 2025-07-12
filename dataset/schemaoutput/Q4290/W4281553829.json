@@ -1,0 +1,346 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4281553829",
+  "doi": "10.1016/j.trd.2022.103320",
+  "name": "Designing electric vehicle incentives to meet emission reduction targets",
+  "headline": "Designing electric vehicle incentives to meet emission reduction targets",
+  "datePublished": "2022-05-26",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Transportation Research Part D Transport and Environment",
+    "issn": "1361-9209",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Elsevier BV"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5043369795",
+      "name": "Yen-Chu Wu",
+      "givenName": "Yen-Chu",
+      "familyName": "Wu",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I157725225",
+          "name": "University of Illinois Urbana-Champaign",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5021602963",
+      "name": "Eleftheria Kontou",
+      "givenName": "Eleftheria",
+      "familyName": "Kontou",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I157725225",
+          "name": "University of Illinois Urbana-Champaign",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-1367-4226"
+    }
+  ],
+  "citationCount": 34,
+  "citation": [
+    "https://openalex.org/W1917213560",
+    "https://openalex.org/W1964593686",
+    "https://openalex.org/W1972872372",
+    "https://openalex.org/W1974077465",
+    "https://openalex.org/W1994534476",
+    "https://openalex.org/W2001883119",
+    "https://openalex.org/W2012961428",
+    "https://openalex.org/W2024060531",
+    "https://openalex.org/W2035508307",
+    "https://openalex.org/W2045675085",
+    "https://openalex.org/W2054025581",
+    "https://openalex.org/W2059884818",
+    "https://openalex.org/W2069300301",
+    "https://openalex.org/W2087406228",
+    "https://openalex.org/W2088984636",
+    "https://openalex.org/W2091317819",
+    "https://openalex.org/W2125279795",
+    "https://openalex.org/W2128193809",
+    "https://openalex.org/W2135164748",
+    "https://openalex.org/W2235669071",
+    "https://openalex.org/W223708877",
+    "https://openalex.org/W2252793872",
+    "https://openalex.org/W2346874961",
+    "https://openalex.org/W2523274246",
+    "https://openalex.org/W2556011612",
+    "https://openalex.org/W2605175225",
+    "https://openalex.org/W2608412979",
+    "https://openalex.org/W2620110662",
+    "https://openalex.org/W2740013619",
+    "https://openalex.org/W2780775735",
+    "https://openalex.org/W2797656660",
+    "https://openalex.org/W2801930296",
+    "https://openalex.org/W2810671567",
+    "https://openalex.org/W2900993153",
+    "https://openalex.org/W2904149197",
+    "https://openalex.org/W2907576498",
+    "https://openalex.org/W2934001491",
+    "https://openalex.org/W2990376979",
+    "https://openalex.org/W2995242369",
+    "https://openalex.org/W3011789766",
+    "https://openalex.org/W3087109196",
+    "https://openalex.org/W3088048457",
+    "https://openalex.org/W3088804645",
+    "https://openalex.org/W3123598766",
+    "https://openalex.org/W4200442956"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 3100,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/externality",
+      "display_name": "Externality",
+      "score": 0.6465275
+    },
+    {
+      "id": "https://openalex.org/keywords/minification",
+      "display_name": "Minification",
+      "score": 0.53809875
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.48909503
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.43958992
+    },
+    {
+      "id": "https://openalex.org/keywords/time-horizon",
+      "display_name": "Time horizon",
+      "score": 0.42832845
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776422217",
+      "name": "Electric vehicle",
+      "sameAs": "https://www.wikidata.org/wiki/Q13629441"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C29122968",
+      "name": "Incentive",
+      "sameAs": "https://www.wikidata.org/wiki/Q1414816"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C16118543",
+      "name": "Externality",
+      "sameAs": "https://www.wikidata.org/wiki/Q275372"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C147764199",
+      "name": "Minification",
+      "sameAs": "https://www.wikidata.org/wiki/Q6865248"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C126980161",
+      "name": "Simulated annealing",
+      "sameAs": "https://www.wikidata.org/wiki/Q863783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C115527620",
+      "name": "Nonlinear programming",
+      "sameAs": "https://www.wikidata.org/wiki/Q769909"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C56086750",
+      "name": "Integer programming",
+      "sameAs": "https://www.wikidata.org/wiki/Q6042592"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111335779",
+      "name": "Reduction (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3454686"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C28761237",
+      "name": "Time horizon",
+      "sameAs": "https://www.wikidata.org/wiki/Q7805321"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41045048",
+      "name": "Linear programming",
+      "sameAs": "https://www.wikidata.org/wiki/Q202843"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134560507",
+      "name": "Environmental economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q753291"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C22212356",
+      "name": "Transport engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q775325"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C42475967",
+      "name": "Operations research",
+      "sameAs": "https://www.wikidata.org/wiki/Q194292"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C158622935",
+      "name": "Nonlinear system",
+      "sameAs": "https://www.wikidata.org/wiki/Q660848"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C163258240",
+      "name": "Power (physics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q25342"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121332964",
+      "name": "Physics",
+      "sameAs": "https://www.wikidata.org/wiki/Q413"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2524010",
+      "name": "Geometry",
+      "sameAs": "https://www.wikidata.org/wiki/Q8087"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C11413529",
+      "name": "Algorithm",
+      "sameAs": "https://www.wikidata.org/wiki/Q8366"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C62520636",
+      "name": "Quantum mechanics",
+      "sameAs": "https://www.wikidata.org/wiki/Q944"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199360897",
+      "name": "Programming language",
+      "sameAs": "https://www.wikidata.org/wiki/Q9143"
+    }
+  ],
+  "abstract": "Electric vehicles are expected to reduce transportation emissions. We design and allocate rebates and charging infrastructure investments to induce electric vehicle adoption and achieve emission reduction targets. A nonlinear mixed-integer mathematical model is proposed to optimize the investment allocation over a planning horizon. Logistic functions describe the vehicle demand driven by capital and ownership costs and network externalities. A simulated annealing algorithm is used to solve the nonlinear programming problem that is applied using data representative of the United States market. Our analysis indicates that rebates should be provided earlier than chargers due to neighborhood effects of electric vehicle adoption and the minimization of expenditure; availability of home charging influences consumers choice and the drivers electrified travel distance; rebates are more effective for modest drivers while charging stations should be prioritized for frequent drivers; network externalities should be further investigated because of their impact on electric vehicle demand.",
+  "url": "https://doi.org/10.1016/j.trd.2022.103320",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1016/j.trd.2022.103320",
+    "encodingFormat": "text/html"
+  }
+}

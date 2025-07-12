@@ -1,0 +1,251 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4392293505",
+  "doi": "10.3390/risks12030044",
+  "name": "Market Equilibrium and the Cost of Capital with Heterogeneous Investment Horizons",
+  "headline": "Market Equilibrium and the Cost of Capital with Heterogeneous Investment Horizons",
+  "datePublished": "2024-02-29",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Risks",
+    "issn": "2227-9091",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Multidisciplinary Digital Publishing Institute"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5036543091",
+      "name": "Moshe Levy",
+      "givenName": "Moshe",
+      "familyName": "Levy",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I197251160",
+          "name": "Hebrew University of Jerusalem",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IL"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-2570-6128"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5103048893",
+      "name": "Haim Levy",
+      "givenName": "Haim",
+      "familyName": "Levy",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I197251160",
+          "name": "Hebrew University of Jerusalem",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IL"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-8623-3507"
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W1558438642",
+    "https://openalex.org/W1562019181",
+    "https://openalex.org/W1963969817",
+    "https://openalex.org/W1967364653",
+    "https://openalex.org/W1971432209",
+    "https://openalex.org/W1978844375",
+    "https://openalex.org/W1995834279",
+    "https://openalex.org/W1999030527",
+    "https://openalex.org/W2003912439",
+    "https://openalex.org/W2005158847",
+    "https://openalex.org/W2005432509",
+    "https://openalex.org/W2007361991",
+    "https://openalex.org/W2008603157",
+    "https://openalex.org/W2011043606",
+    "https://openalex.org/W2013325653",
+    "https://openalex.org/W2013782935",
+    "https://openalex.org/W2014290939",
+    "https://openalex.org/W2017946410",
+    "https://openalex.org/W2028387625",
+    "https://openalex.org/W2041946752",
+    "https://openalex.org/W2042695214",
+    "https://openalex.org/W2045495606",
+    "https://openalex.org/W2055337889",
+    "https://openalex.org/W2059627964",
+    "https://openalex.org/W2062229217",
+    "https://openalex.org/W2068016300",
+    "https://openalex.org/W2068046750",
+    "https://openalex.org/W2072400110",
+    "https://openalex.org/W2084050624",
+    "https://openalex.org/W2086994642",
+    "https://openalex.org/W2089260477",
+    "https://openalex.org/W2100844788",
+    "https://openalex.org/W2101341554",
+    "https://openalex.org/W2109767864",
+    "https://openalex.org/W2130660756",
+    "https://openalex.org/W2134807435",
+    "https://openalex.org/W2136120210",
+    "https://openalex.org/W2149990348",
+    "https://openalex.org/W2166215547",
+    "https://openalex.org/W2167915877",
+    "https://openalex.org/W2570834760",
+    "https://openalex.org/W2724651323",
+    "https://openalex.org/W2913463434",
+    "https://openalex.org/W2994310245",
+    "https://openalex.org/W3011865677",
+    "https://openalex.org/W3121698694",
+    "https://openalex.org/W3122187992",
+    "https://openalex.org/W3122614478",
+    "https://openalex.org/W3122620067",
+    "https://openalex.org/W3123142049",
+    "https://openalex.org/W3125703041",
+    "https://openalex.org/W3125704882",
+    "https://openalex.org/W3125795336",
+    "https://openalex.org/W3209609397",
+    "https://openalex.org/W4230661391",
+    "https://openalex.org/W4241584625",
+    "https://openalex.org/W4241965756",
+    "https://openalex.org/W4242595893",
+    "https://openalex.org/W4250520408",
+    "https://openalex.org/W4309047207",
+    "https://openalex.org/W4362470559"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 1400,
+      "currency": "CHF"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.60651916
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.51758397
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4964574
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C74734477",
+      "name": "Cost of capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q1479274"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181622380",
+      "name": "Profit (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q26911"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Expected returns, variances, betas, and alphas are all non-linear functions of the investment horizon. This seems to be a fatal conceptual problem for the capital asset pricing model (CAPM), which assumes a unique common horizon for all investors. We show that under the standard assumptions, the theoretical CAPM equilibrium surprisingly holds with the 1-period parameters, even when investors have heterogeneous and possibly much longer horizons. This is true not only for risk-averse investors, but for any investors with non-decreasing preferences, including prospect theory investors. Thus, the widespread practice of using monthly betas to estimate the cost of capital is theoretically justified.",
+  "url": "https://doi.org/10.3390/risks12030044",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.mdpi.com/2227-9091/12/3/44/pdf?version=1709188989",
+    "encodingFormat": "text/html"
+  }
+}

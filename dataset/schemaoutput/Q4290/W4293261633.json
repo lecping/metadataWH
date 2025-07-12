@@ -1,0 +1,255 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4293261633",
+  "doi": "10.35877/sainsmat673",
+  "name": "Feasibility Study of Potential Utilization of Tofu Industry Waste Into Cat Fish Feed",
+  "headline": "Feasibility Study of Potential Utilization of Tofu Industry Waste Into Cat Fish Feed",
+  "datePublished": "2021-09-12",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-sa",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "SAINSMAT Journal of Applied Sciences Mathematics and Its Education",
+    "issn": "2775-5371",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5102336530",
+      "name": "SYARIFUDDIN SYARIFUDDIN",
+      "givenName": "None",
+      "familyName": "Syarifuddin",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3130850664",
+          "name": "Malikussaleh University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5034840720",
+      "name": "Khairul Anshar",
+      "givenName": "Khairul",
+      "familyName": "Anshar",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3130850664",
+          "name": "Malikussaleh University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-0358-1045"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5103277064",
+      "name": "Subhan Subhan",
+      "givenName": "None",
+      "familyName": "Subhan",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3130850664",
+          "name": "Malikussaleh University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-3084-8323"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5072480688",
+      "name": "Rizka Mulyawan",
+      "givenName": "Rizka",
+      "familyName": "Mulyawan",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3130850664",
+          "name": "Malikussaleh University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-4061-0861"
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W2034180288",
+    "https://openalex.org/W2172613293",
+    "https://openalex.org/W2619308794",
+    "https://openalex.org/W2772528845",
+    "https://openalex.org/W2790241347",
+    "https://openalex.org/W2801717532",
+    "https://openalex.org/W2901767174",
+    "https://openalex.org/W2949206397",
+    "https://openalex.org/W2986843787",
+    "https://openalex.org/W2990062943",
+    "https://openalex.org/W3099523421",
+    "https://openalex.org/W3193371126",
+    "https://openalex.org/W4250659232"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/commercial-fish-feed",
+      "display_name": "Commercial fish feed",
+      "score": 0.5591852
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5105585
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41648582
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2909208804",
+      "name": "Fish <Actinopterygii>",
+      "sameAs": "https://www.wikidata.org/wiki/Q127282"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C168857316",
+      "name": "Commercial fish feed",
+      "sameAs": "https://www.wikidata.org/wiki/Q5152559"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C206139338",
+      "name": "Raw material",
+      "sameAs": "https://www.wikidata.org/wiki/Q192355"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37621935",
+      "name": "Agricultural science",
+      "sameAs": "https://www.wikidata.org/wiki/Q3606845"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C505870484",
+      "name": "Fishery",
+      "sameAs": "https://www.wikidata.org/wiki/Q180538"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86909935",
+      "name": "Aquaculture",
+      "sameAs": "https://www.wikidata.org/wiki/Q188989"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    }
+  ],
+  "abstract": "Cat fish is one of preferred food for most Acehnese people, particularly in Lhokseumawe regions. This is the motive of most people are interested in cultivating such fish; beside the selling price is relatively high, it also has increasing ramp of demand every year. In order to meet the increasing demand, the fish farms are in need of appropriate feed aiming for upgrading cat fish growing rate. Around Lhokseumawe region, despite of numerous tofu industries the dregs are still not well utilized. The waste of tofu industries, which is tofu dregs, functions as cat fish feed. Tofu dregs made cat fish feed has numbers of advantages, such as accelerating the fish growth until 17-18%. This is due to the coarse fiber protein contain to be 7.11%, fat 4.93% and BETN 44.50%. Beside its nutritional advantages as alternative cat fish feed raw material, tofu dregs as cat fish feed material should be examined in technical and financial aspects so that it is guaranteed to be implemented. Hence, in this research the feasibility study was conducted on technical aspects of processing solid tofu dregs to be cat fish feed by using BEP and PP analysis methods. According to Payback Period (PP) value, the business has three months and six days period of time in order to return the initial investment capital. The production rate in one months must be above 542 kg in order to avoid from being lost. With the existing production capacity (1.092 kg/month), the cat fish feed price must be above IDR 6.116/kg in order to cover all expenditure in the time period.",
+  "url": "https://doi.org/10.35877/sainsmat673",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://jscimath.win/index.php/sainsmat/article/download/673/446",
+    "encodingFormat": "text/html"
+  }
+}

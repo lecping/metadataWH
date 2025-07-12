@@ -1,0 +1,202 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4295949057",
+  "doi": "10.54097/fcis.v1i1.1370",
+  "name": "The Present Situation, Problems and Countermeasures of Manufacturing Investment in Anhui Province",
+  "headline": "The Present Situation, Problems and Countermeasures of Manufacturing Investment in Anhui Province",
+  "datePublished": "2022-08-21",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Frontiers in Computing and Intelligent Systems",
+    "issn": "2832-6024",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5112863539",
+      "name": "Qianrong Ma",
+      "givenName": "Qianrong",
+      "familyName": "Ma",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I188935350",
+          "name": "Anhui University of Finance and Economics",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100454251",
+      "name": "Le Yang",
+      "givenName": "Le",
+      "familyName": "Yang",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I188935350",
+          "name": "Anhui University of Finance and Economics",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-9985-7458"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5110828477",
+      "name": "Zejiong Zhou",
+      "givenName": "Zejiong",
+      "familyName": "Zhou",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I188935350",
+          "name": "Anhui University of Finance and Economics",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.82360053
+    },
+    {
+      "id": "https://openalex.org/keywords/manufacturing",
+      "display_name": "Manufacturing",
+      "score": 0.57166034
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5607608
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4900943
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175700187",
+      "name": "Manufacturing",
+      "sameAs": "https://www.wikidata.org/wiki/Q187939"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778755073",
+      "name": "Scale (ratio)",
+      "sameAs": "https://www.wikidata.org/wiki/Q10858537"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C58640448",
+      "name": "Cartography",
+      "sameAs": "https://www.wikidata.org/wiki/Q42515"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Firstly, this paper analyzes the overall investment situation and sub industry investment situation of manufacturing industry in Anhui Province. Then, it points out the existing problems in the scale of manufacturing investment, sub industry investment, capital source, investment efficiency and regional investment coordination in Anhui Province. Finally, the paper puts forward countermeasures and suggestions on how to improve the investment efficiency of manufacturing industry in Anhui Province.",
+  "url": "https://doi.org/10.54097/fcis.v1i1.1370",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://drpress.org/ojs/index.php/fcis/article/download/1370/1301",
+    "encodingFormat": "text/html"
+  }
+}

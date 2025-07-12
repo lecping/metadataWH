@@ -1,0 +1,199 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4390499567",
+  "doi": "10.15407/steelcast2023.03.029",
+  "name": "The current state and prospects for the development of the Lost Foam Casting process",
+  "headline": "The current state and prospects for the development of the Lost Foam Casting process",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Metal and Casting of Ukraine",
+    "issn": "2077-1304",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5007484388",
+      "name": "O. Shinsky",
+      "givenName": "V.O.",
+      "familyName": "Shinsky",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0001-6200-0709"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5021657373",
+      "name": "V.S. Doroshenko",
+      "givenName": "V.S.",
+      "familyName": "Doroshenko",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-0070-5663"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5085369241",
+      "name": "S.I. Klymenko",
+      "givenName": "S.I.",
+      "familyName": "Klymenko",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2802143324",
+    "https://openalex.org/W2903665967",
+    "https://openalex.org/W3112996966",
+    "https://openalex.org/W3203106766",
+    "https://openalex.org/W4380249089",
+    "https://openalex.org/W4381957054"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/foundry",
+      "display_name": "Foundry",
+      "score": 0.94421643
+    },
+    {
+      "id": "https://openalex.org/keywords/investment-casting",
+      "display_name": "Investment casting",
+      "score": 0.48056105
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4378376
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2781087836",
+      "name": "Foundry",
+      "sameAs": "https://www.wikidata.org/wiki/Q13883136"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C16635281",
+      "name": "Casting",
+      "sameAs": "https://www.wikidata.org/wiki/Q496098"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C98045186",
+      "name": "Process (computing)",
+      "sameAs": "https://www.wikidata.org/wiki/Q205663"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C117671659",
+      "name": "Manufacturing engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11049265"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21880701",
+      "name": "Process engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q2144042"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778086310",
+      "name": "Investment casting",
+      "sameAs": "https://www.wikidata.org/wiki/Q11559461"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C192562407",
+      "name": "Materials science",
+      "sameAs": "https://www.wikidata.org/wiki/Q228736"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C191897082",
+      "name": "Metallurgy",
+      "sameAs": "https://www.wikidata.org/wiki/Q11467"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780566776",
+      "name": "Mold",
+      "sameAs": "https://www.wikidata.org/wiki/Q159341"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C159985019",
+      "name": "Composite material",
+      "sameAs": "https://www.wikidata.org/wiki/Q181790"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111919701",
+      "name": "Operating system",
+      "sameAs": "https://www.wikidata.org/wiki/Q9135"
+    }
+  ],
+  "abstract": "Increasing the capacity of foundry production can play a decisive role in the recovery of the machine-building and defense sectors of the Ukrainian industry. The current state and prospects for the development of foundry technology — Lost Foam Casting (LFС) process, as well as its possibilities for increasing the volume of metal processing into finished parts on the example of China, are considered. For foundries of low-volume casting, which need fast production of foundry patterns, the LFС method contributes to the minimization of capital and current costs. The melting, casting and finishing processes in LFС are the same as in typical foundry processes, with the exception of the need for a 30—50 oC higher pour temperature. The process of making patterns from polystyrene foam (EPS) has been developed in several variants and can initially be implemented on a small scale to obtain trial castings. An existing foundry, after successful trials with a simplified LFC process, can increase batch sizes of castings along with increased investment in tooling and equipment to do so. Mechanical processing when obtaining foam patterns is beneficial for volumes of less than 100 castings, and for a series of more than 1000 castings (common use of LFС) sintering of granulated EPS in molds is used, including the use of automated equipment for this. In terms of the amount of solid and gaseous waste, LFС in forms with dry vacuumed sand is ecologically superior to most foundry processes. The LFС process is constantly developing and improving, easily includes 3D technologies in the sequence of its operations and is amenable to digitization, automation, robotization and scaling, refers to high-precision casting in sand molds using noncapital- intensive equipment. The example of China shows the possibility of a rapid increase in the production of castings in a wide range of their weight, nomenclature and type of used metal alloys.",
+  "url": "https://doi.org/10.15407/steelcast2023.03.029",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://metalsandcasting.com/index.php/mcu/article/download/231/229",
+    "encodingFormat": "text/html"
+  }
+}

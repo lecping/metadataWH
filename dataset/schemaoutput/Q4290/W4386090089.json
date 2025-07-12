@@ -1,0 +1,208 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4386090089",
+  "doi": "10.1155/2023/9862736",
+  "name": "Retracted: An Early Warning Risk and Control Model for Manpower Capital Investment Using Data Warehousing and Computational Intelligence",
+  "headline": "Retracted: An Early Warning Risk and Control Model for Manpower Capital Investment Using Data Warehousing and Computational Intelligence",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Computational Intelligence and Neuroscience",
+    "issn": "1687-5265",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Hindawi Publishing Corporation"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5026926043",
+      "name": "Computational Intelligence and Neuroscience",
+      "givenName": "Computational",
+      "familyName": "Neuroscience",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W4220792996"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 2100,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6189988
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.49632913
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.48191264
+    },
+    {
+      "id": "https://openalex.org/keywords/risk-control",
+      "display_name": "Risk Control",
+      "score": 0.42167324
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C29825287",
+      "name": "Warning system",
+      "sameAs": "https://www.wikidata.org/wiki/Q1427940"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2775924081",
+      "name": "Control (management)",
+      "sameAs": "https://www.wikidata.org/wiki/Q55608371"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C135572916",
+      "name": "Data warehouse",
+      "sameAs": "https://www.wikidata.org/wiki/Q193351"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780257099",
+      "name": "Risk Control",
+      "sameAs": "https://www.wikidata.org/wiki/Q65089289"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C42475967",
+      "name": "Operations research",
+      "sameAs": "https://www.wikidata.org/wiki/Q194292"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2522767166",
+      "name": "Data science",
+      "sameAs": "https://www.wikidata.org/wiki/Q2374463"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C124101348",
+      "name": "Data mining",
+      "sameAs": "https://www.wikidata.org/wiki/Q172491"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C154945302",
+      "name": "Artificial intelligence",
+      "sameAs": "https://www.wikidata.org/wiki/Q11660"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C32896092",
+      "name": "Risk management",
+      "sameAs": "https://www.wikidata.org/wiki/Q189447"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C76155785",
+      "name": "Telecommunications",
+      "sameAs": "https://www.wikidata.org/wiki/Q418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "[This retracts the article DOI: 10.1155/2022/7624135.].",
+  "url": "https://doi.org/10.1155/2023/9862736",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://downloads.hindawi.com/journals/cin/2023/9862736.pdf",
+    "encodingFormat": "text/html"
+  }
+}

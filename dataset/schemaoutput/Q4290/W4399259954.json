@@ -1,0 +1,225 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4399259954",
+  "doi": "10.52131/pjhss.2024.v12i2.2177",
+  "name": "The Impact of Investment in Human Capital on Industrial Development: An Empirical Analysis of Pakistan",
+  "headline": "The Impact of Investment in Human Capital on Industrial Development: An Empirical Analysis of Pakistan",
+  "datePublished": "2024-05-22",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Pakistan Journal of Humanities and Social Sciences",
+    "issn": "2415-007X",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5109727323",
+      "name": "Tanveer Ahmad Naveed",
+      "givenName": "Tanveer",
+      "familyName": "Naveed",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I99165933",
+          "name": "University of Gujrat",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PK"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5098973501",
+      "name": "Mahvish Sana",
+      "givenName": "Mahvish",
+      "familyName": "Sana",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I99165933",
+          "name": "University of Gujrat",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PK"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5107948465",
+      "name": "Sami Ullah",
+      "givenName": "Sami",
+      "familyName": "Ullah",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I99165933",
+          "name": "University of Gujrat",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PK"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5098973502",
+      "name": "Sundus Aijaz Mughal",
+      "givenName": "Sundus",
+      "familyName": "Mughal",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I99165933",
+          "name": "University of Gujrat",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PK"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1909530319",
+    "https://openalex.org/W1941928279",
+    "https://openalex.org/W1966910378",
+    "https://openalex.org/W1996008897",
+    "https://openalex.org/W2034298601",
+    "https://openalex.org/W2044819410",
+    "https://openalex.org/W2048040523",
+    "https://openalex.org/W2048138799",
+    "https://openalex.org/W2052575688",
+    "https://openalex.org/W2067453524",
+    "https://openalex.org/W2082383308",
+    "https://openalex.org/W2097015019",
+    "https://openalex.org/W2099725077",
+    "https://openalex.org/W2125363062",
+    "https://openalex.org/W2132908860",
+    "https://openalex.org/W2166974667",
+    "https://openalex.org/W2184141272",
+    "https://openalex.org/W2187043983",
+    "https://openalex.org/W2188576741",
+    "https://openalex.org/W2321157259",
+    "https://openalex.org/W2555063465",
+    "https://openalex.org/W2781504972",
+    "https://openalex.org/W3046599851",
+    "https://openalex.org/W3109166562",
+    "https://openalex.org/W3121420420",
+    "https://openalex.org/W3121845422",
+    "https://openalex.org/W3124325793",
+    "https://openalex.org/W3124380383",
+    "https://openalex.org/W31628160",
+    "https://openalex.org/W3186764636",
+    "https://openalex.org/W4205104104",
+    "https://openalex.org/W4283331513",
+    "https://openalex.org/W4362602737"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.58310944
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.44247252
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Over the last half-century, reduction in poverty and reasonable economic growth have been the fruit of continued industrial development, mostly in Asia. Improved telecommunication, liberalized markets, and better infrastructure cannot accelerate economic growth unless an appropriate level of investment in human capital is not available. The study mainly targets to investigate impact of investment in human capital on industrial development in Pakistan from 1980 to 2023. The study incorporates government expenditures on education (EXE), government expenditures on health (EXH), and growth in enrollment rate in vocational institutes (EVG) as indicators of investment in human capital. The study has applied Augmented Dickey-Fuller to check stationarity of variables followed by estimation of Autoregressive Distributive Lag (ARDL) model to find co-integration. It is resulted from estimation that expenditure in health and enrollment in vocational training confirm leaves positive impact on industrial development in case of Pakistan. The empirical outcomes are consistent with existing evidence found on the same subject for other economies. In Pakistan, there is a need for policy formulation to achieve the right direction of educational development for industrial development.",
+  "url": "https://doi.org/10.52131/pjhss.2024.v12i2.2177",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://journals.internationalrasd.org/index.php/pjhss/article/download/2177/1470",
+    "encodingFormat": "text/html"
+  }
+}

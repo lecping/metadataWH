@@ -1,0 +1,144 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4378632149",
+  "doi": "10.5281/zenodo.7980085",
+  "name": "A STUDY ON PRE-INVESTMENT DUE DILIGENCE BY CAPITAL MARKET INVESTORS OF MUMBAI SUBURBAN AREA",
+  "headline": "A STUDY ON PRE-INVESTMENT DUE DILIGENCE BY CAPITAL MARKET INVESTORS OF MUMBAI SUBURBAN AREA",
+  "datePublished": "2023-06-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Zenodo (CERN European Organization for Nuclear Research)",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": "European Organization for Nuclear Research"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5092041345",
+      "name": "LION Dr. Nishikant Jha",
+      "givenName": "LION",
+      "familyName": "Jha,",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5092041346",
+      "name": "Prof. Aashish Vakilna",
+      "givenName": "Prof.",
+      "familyName": "Vakilna",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/due-diligence",
+      "display_name": "Due diligence",
+      "score": 0.7462573
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.58932865
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4675426
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41693968
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2781016034",
+      "name": "Due diligence",
+      "sameAs": "https://www.wikidata.org/wiki/Q794134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C73283319",
+      "name": "Financial system",
+      "sameAs": "https://www.wikidata.org/wiki/Q1416617"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "url": "https://zenodo.org/record/7980085",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://zenodo.org/records/7980085/files/2.%20LION%20Dr.%20Nishikant%20Jha.pdf",
+    "encodingFormat": "text/html"
+  }
+}

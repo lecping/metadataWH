@@ -1,0 +1,249 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4399463804",
+  "doi": "10.59890/ijsr.v2i3.1817",
+  "name": "Capital Rationing and SMEs Profitability in Nigeria",
+  "headline": "Capital Rationing and SMEs Profitability in Nigeria",
+  "datePublished": "2024-05-19",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Sustainability in Research",
+    "issn": "3025-7379",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5020578023",
+      "name": "Adu Cecilia Adurayemi",
+      "givenName": "Adu",
+      "familyName": "Adurayemi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3131076172",
+          "name": "Crawford University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NG"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5099061503",
+      "name": "Ajigbotoso Moses Ade",
+      "givenName": "Ajigbotoso",
+      "familyName": "Ade",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3131076172",
+          "name": "Crawford University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NG"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W4391692245"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/rationing",
+      "display_name": "Rationing",
+      "score": 0.7202753
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.6677427
+    },
+    {
+      "id": "https://openalex.org/keywords/credit-rationing",
+      "display_name": "Credit rationing",
+      "score": 0.58918256
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.57194847
+    },
+    {
+      "id": "https://openalex.org/keywords/empirical-research",
+      "display_name": "Empirical Research",
+      "score": 0.4462812
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.42512783
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C129361004",
+      "name": "Profitability index",
+      "sameAs": "https://www.wikidata.org/wiki/Q2470236"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2775994111",
+      "name": "Rationing",
+      "sameAs": "https://www.wikidata.org/wiki/Q843478"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778137473",
+      "name": "Credit rationing",
+      "sameAs": "https://www.wikidata.org/wiki/Q1787079"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C60679458",
+      "name": "Working capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q823288"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C120936955",
+      "name": "Empirical research",
+      "sameAs": "https://www.wikidata.org/wiki/Q2155640"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C44750222",
+      "name": "Financial capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q1897397"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175025494",
+      "name": "Interest rate",
+      "sameAs": "https://www.wikidata.org/wiki/Q179179"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C160735492",
+      "name": "Health care",
+      "sameAs": "https://www.wikidata.org/wiki/Q31207"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111472728",
+      "name": "Epistemology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9471"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This research paper examined the effect of capital rationing on SMEs profitability in Nigeria. The study discussed the existing literature, empirical review, nature of capital rationing and its implications on investment, and financial performance of SMEs. The paradoxical nature of capital rationing, its challenges and potential use of capital were discussed. The study adopted descriptive research method while findings and recommendations were highlighted.",
+  "url": "https://doi.org/10.59890/ijsr.v2i3.1817",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://journal.multitechpublisher.com/index.php/ijsr/article/download/1817/1971",
+    "encodingFormat": "text/html"
+  }
+}

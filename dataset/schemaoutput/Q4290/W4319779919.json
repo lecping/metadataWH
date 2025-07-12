@@ -1,0 +1,171 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4319779919",
+  "doi": "10.24843/spektrum.2022.v09.i01.p5",
+  "name": "PERANCANGAN PLTS ATAP DI KAMPUS SEKOLAH TINGGI ILMU EKONOMI WIDYA GAMA LUMAJANG",
+  "headline": "PERANCANGAN PLTS ATAP DI KAMPUS SEKOLAH TINGGI ILMU EKONOMI WIDYA GAMA LUMAJANG",
+  "datePublished": "2022-04-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Jurnal SPEKTRUM",
+    "issn": "2684-9186",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5035986299",
+      "name": "Krisda Bimas Permada",
+      "givenName": "Krisda",
+      "familyName": "Permada",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I126826664",
+          "name": "Udayana University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5001807938",
+      "name": "Iwan Setiawan",
+      "givenName": "I",
+      "familyName": "Setiawan",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210116728",
+          "name": "Universitas Patria Artha",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I126826664",
+          "name": "Udayana University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-6979-4318"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5109409538",
+      "name": "I Wayan Arta Wijaya",
+      "givenName": "I",
+      "familyName": "Wijaya",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I126826664",
+          "name": "Udayana University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210116728",
+          "name": "Universitas Patria Artha",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W3118961336",
+    "https://openalex.org/W4319429980",
+    "https://openalex.org/W4319430010"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-cost",
+      "display_name": "Capital cost",
+      "score": 0.42538399
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41651595
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C541104983",
+      "name": "Solar energy",
+      "sameAs": "https://www.wikidata.org/wiki/Q40015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C157062255",
+      "name": "Capital cost",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035697"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119599485",
+      "name": "Electrical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q43035"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    }
+  ],
+  "abstract": "Rooftop solar power plant is energy that utilizes solar energy as anenergy source which is then converted into electrical energy as well as analternative to environmentally friendly electricity generation. Rooftop solar power plants can beinstalled on the roofs of large buildings,the roof of the STIE Widya Gama campus with an areaof 2698.4 m2. Rooftop solar power plant aims as an additional power supply to supply electricalpower to the Sekolah Tinggi Ilmu Ekonomi Widya Gama Lumajang campus of 53 kVA installedpower on transformer 1. The design of a rooftop solar power plant at the STIE Widya GamaLumajang Campus uses 100 solar modules of type Vertex TSM-DE18M(II) 500 Wp. Inverterwith a capacity of 53 kVA as much as 1 unit type SUNNY TRIPOWER CORE1.solar power plants produce electrical energy of 82322,2 kWh/year to supply theload on STIE Widya Gama Lumajang. Initial investment capital of Rp. 567.005.500maintenance and operation costs of 1% of the investment capital cost of Rp.5.670.055 and payback periode for 14 years 6 months if inflation in Indonesia is4.25%.",
+  "url": "https://doi.org/10.24843/spektrum.2022.v09.i01.p5",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://ojs.unud.ac.id/index.php/spektrum/article/download/86871/44558",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W3203301750",
+  "doi": "10.31098/bmss.v1i2.255",
+  "name": "Investment Project of Sekala: Should Sekala Open Up a New Outlet?",
+  "headline": "Investment Project of Sekala: Should Sekala Open Up a New Outlet?",
+  "datePublished": "2021-08-29",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "RSF Conference Series Business Management and Social Sciences",
+    "issn": "2807-5803",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5010390594",
+      "name": "Fario Pranadi Prakoso",
+      "givenName": "Fario",
+      "familyName": "Prakoso",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I134635517",
+          "name": "Bandung Institute of Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210107574",
+          "name": "School of Business and Management",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "FR"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5012519702",
+      "name": "Sylviana Maya Damayanti",
+      "givenName": "Sylviana",
+      "familyName": "Damayanti",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I134635517",
+          "name": "Bandung Institute of Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210107574",
+          "name": "School of Business and Management",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "FR"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W2087574092",
+    "https://openalex.org/W2989701705",
+    "https://openalex.org/W3203301750",
+    "https://openalex.org/W590451373"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/payback-period",
+      "display_name": "Payback period",
+      "score": 0.5561225
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5463184
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-budgeting",
+      "display_name": "Capital Budgeting",
+      "score": 0.5360212
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.45317182
+    },
+    {
+      "id": "https://openalex.org/keywords/consumption",
+      "display_name": "Consumption",
+      "score": 0.41441506
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C19499675",
+      "name": "Monte Carlo method",
+      "sameAs": "https://www.wikidata.org/wiki/Q232207"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37917861",
+      "name": "Internal rate of return",
+      "sameAs": "https://www.wikidata.org/wiki/Q507477"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144553756",
+      "name": "Payback period",
+      "sameAs": "https://www.wikidata.org/wiki/Q15081665"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C57918260",
+      "name": "Capital budgeting",
+      "sameAs": "https://www.wikidata.org/wiki/Q1354666"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21200559",
+      "name": "Sensitivity (control systems)",
+      "sameAs": "https://www.wikidata.org/wiki/Q7451068"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C57493831",
+      "name": "Projection (relational algebra)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3134666"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181230689",
+      "name": "Net present value",
+      "sameAs": "https://www.wikidata.org/wiki/Q192472"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780009758",
+      "name": "Measure (data warehouse)",
+      "sameAs": "https://www.wikidata.org/wiki/Q6804172"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C42475967",
+      "name": "Operations research",
+      "sameAs": "https://www.wikidata.org/wiki/Q194292"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C30772137",
+      "name": "Consumption (sociology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q5164762"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149782125",
+      "name": "Econometrics",
+      "sameAs": "https://www.wikidata.org/wiki/Q160039"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21547014",
+      "name": "Operations management",
+      "sameAs": "https://www.wikidata.org/wiki/Q1423657"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105795698",
+      "name": "Statistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q12483"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21425071",
+      "name": "Project appraisal",
+      "sameAs": "https://www.wikidata.org/wiki/Q7249389"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C36289849",
+      "name": "Social science",
+      "sameAs": "https://www.wikidata.org/wiki/Q34749"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C11413529",
+      "name": "Algorithm",
+      "sameAs": "https://www.wikidata.org/wiki/Q8366"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C77088390",
+      "name": "Database",
+      "sameAs": "https://www.wikidata.org/wiki/Q8513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C24326235",
+      "name": "Electronic engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q126095"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    }
+  ],
+  "abstract": "Coffee is one of the most consumed beverages in the world, coffee consumption in the world and Indonesia is growing rapidly year to year. Even in the pandemic, the demand for coffee is still high. This was the reason that there are so many new coffee shops, but some of them did not last long, the main reason was they are not preparing the calculation precisely. Sekala was planning to open up a new outlet in Bandung, with the measurement projection using capital budgeting from the year 2022-2026. This was required to measure whether the project is feasible or not. The project will be considered feasible if it meets certain analysis that was provided by feasibility analysis, sensitivity analysis, and Monte Carlo simulation. Feasibility analysis is required to show whether the projection is feasible or not. Sensitivity analysis is used to measure some criteria that affect the most Sekala in terms of the financial side, later on, it will be used on Monte Carlo analysis to see the project feasibility based on several simulations. The initial investment for this project is IDR 242,177,275.60, and the result of this projection is, payback period of 1.22 years, an estimated NPV of IDR 513,913,208.73, benefit/cost ratio of 3.12, and an internal rate of return of 52.04%. The sensitivity analysis result shows that the 4 most influential criteria are affecting the business. Monte Carlo simulation results show that this project has a high chance probability of giving NPV&lt;0, for 40-55%.",
+  "url": "https://doi.org/10.31098/bmss.v1i2.255",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://proceeding.researchsynergypress.com/index.php/rsfconferenceseries1/article/download/255/254",
+    "encodingFormat": "text/html"
+  }
+}

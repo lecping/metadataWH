@@ -1,0 +1,244 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4388932863",
+  "doi": "10.1093/oso/9780192888174.003.0004",
+  "name": "Investment cost",
+  "headline": "Investment cost",
+  "datePublished": "2023-09-14",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-nd",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Oxford University Press eBooks",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": "Oxford University Press"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5102861675",
+      "name": "Oliver Schmidt",
+      "givenName": "Oliver",
+      "familyName": "Schmidt",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-8902-2913"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5043765100",
+      "name": "Iain Staffell",
+      "givenName": "Iain",
+      "familyName": "Staffell",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0003-1012-7075"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1576373160",
+    "https://openalex.org/W1987317203",
+    "https://openalex.org/W2003278149",
+    "https://openalex.org/W2007032016",
+    "https://openalex.org/W2008426812",
+    "https://openalex.org/W2040656854",
+    "https://openalex.org/W2075404127",
+    "https://openalex.org/W2126807464",
+    "https://openalex.org/W2343934612",
+    "https://openalex.org/W2461202774",
+    "https://openalex.org/W2471764423",
+    "https://openalex.org/W2517796793",
+    "https://openalex.org/W2519382271",
+    "https://openalex.org/W2731050121",
+    "https://openalex.org/W2782288789",
+    "https://openalex.org/W3035200949",
+    "https://openalex.org/W4234000222",
+    "https://openalex.org/W574436714",
+    "https://openalex.org/W932685903"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6980222
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-cost",
+      "display_name": "Capital cost",
+      "score": 0.54343075
+    },
+    {
+      "id": "https://openalex.org/keywords/cost-reduction",
+      "display_name": "Cost reduction",
+      "score": 0.5174659
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4491345
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.44136378
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105339364",
+      "name": "Software deployment",
+      "sameAs": "https://www.wikidata.org/wiki/Q2297740"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C157062255",
+      "name": "Capital cost",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035697"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778820799",
+      "name": "Cost reduction",
+      "sameAs": "https://www.wikidata.org/wiki/Q3454688"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C14036430",
+      "name": "Function (biology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3736076"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C206658404",
+      "name": "Electricity",
+      "sameAs": "https://www.wikidata.org/wiki/Q12725"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134560507",
+      "name": "Environmental economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q753291"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119599485",
+      "name": "Electrical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q43035"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C115903868",
+      "name": "Software engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q80993"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C187736073",
+      "name": "Management",
+      "sameAs": "https://www.wikidata.org/wiki/Q2920921"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78458016",
+      "name": "Evolutionary biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q840400"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Abstract The cost of energy storage fell rapidly in the past, but to what extent will these reductions continue in the future? This chapter introduces an objective method to answer this question by applying experience curves, which model a technology’s price as a function of how much of it has been built. It derives experience curves for electricity storage technologies using the latest cost and deployment data. It then projects future investment costs based on market growth models and explores potential barriers and limitations to the cost reduction potential of each technology, including raw materials costs, timescales, and the amount of financial capital required. The discussion considers the implications of these findings and critiques the experience curve method in comparison to alternatives. A worked example tied to www.EnergyStorage.ninja&amp;gt; allows readers to explore how experience rates and market growth rates will impact future investment costs for any storage technology.",
+  "url": "https://doi.org/10.1093/oso/9780192888174.003.0004",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1093/oso/9780192888174.003.0004",
+    "encodingFormat": "text/html"
+  }
+}

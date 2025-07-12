@@ -1,0 +1,194 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4399767050",
+  "doi": "10.54097/ynbww254",
+  "name": "MOSFET Characteristics and Related Biological Devices Analysis",
+  "headline": "MOSFET Characteristics and Related Biological Devices Analysis",
+  "datePublished": "2024-03-26",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Highlights in Science Engineering and Technology",
+    "issn": "2791-0210",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100867841",
+      "name": "Runze Zhou",
+      "givenName": "Runze",
+      "familyName": "Zhou",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I13591777",
+          "name": "University of Nottingham Ningbo China",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2101656718",
+    "https://openalex.org/W2114853176",
+    "https://openalex.org/W2145765216",
+    "https://openalex.org/W2203888028",
+    "https://openalex.org/W2595507424",
+    "https://openalex.org/W3018357099",
+    "https://openalex.org/W3045543896",
+    "https://openalex.org/W3174195390",
+    "https://openalex.org/W4206462029"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.580764
+    },
+    {
+      "id": "https://openalex.org/keywords/electronic-component",
+      "display_name": "Electronic component",
+      "score": 0.43530294
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.43030912
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138331895",
+      "name": "Electronics",
+      "sameAs": "https://www.wikidata.org/wiki/Q11650"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C167740415",
+      "name": "Aerospace",
+      "sameAs": "https://www.wikidata.org/wiki/Q2876213"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121017731",
+      "name": "Information technology",
+      "sameAs": "https://www.wikidata.org/wiki/Q11661"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C81060104",
+      "name": "Electronic component",
+      "sameAs": "https://www.wikidata.org/wiki/Q11653"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C117671659",
+      "name": "Manufacturing engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11049265"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C112930515",
+      "name": "Risk analysis (engineering)",
+      "sameAs": "https://www.wikidata.org/wiki/Q4389547"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119599485",
+      "name": "Electrical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q43035"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C76155785",
+      "name": "Telecommunications",
+      "sameAs": "https://www.wikidata.org/wiki/Q418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C146978453",
+      "name": "Aerospace engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q3798668"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111919701",
+      "name": "Operating system",
+      "sameAs": "https://www.wikidata.org/wiki/Q9135"
+    }
+  ],
+  "abstract": "With the development of modern electronic information technology, portable, fast, and high-performance electronic information products have brought great changes to people's life and health. People pay more and more attention to electronic information products. Not only in the civil aspect, high-end precision electronics industry, such as artificial intelligence, the new generation of electronic communication technology, medical devices, aerospace, and defense fields are based on various chips, to establish a complete national industrial system. This article describes MOSFET basic introduction, working principle and structure, etc., which plays an important role in the modern electronic information industry, including its application in implantable medical devices-current stimulator. The conclusion of this article is that with more and more capital and talent investment, the future of the chip industry with MOSEF as the basic component is very optimistic. The significance of this paper is to introduce the existing MOSFET technology and put forward views for future development.",
+  "url": "https://doi.org/10.54097/ynbww254",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://drpress.org/ojs/index.php/HSET/article/download/19235/18796",
+    "encodingFormat": "text/html"
+  }
+}

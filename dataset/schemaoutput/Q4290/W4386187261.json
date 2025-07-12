@@ -1,0 +1,163 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4386187261",
+  "doi": "10.5281/zenodo.8284868",
+  "name": "Intangible capital and the attractiveness of foreign direct investment: a tumultuous relationship - economic modeling - \"The case of the Moroccan industrial sector",
+  "headline": "Intangible capital and the attractiveness of foreign direct investment: a tumultuous relationship - economic modeling - \"The case of the Moroccan industrial sector",
+  "datePublished": "2023-08-25",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Zenodo (CERN European Organization for Nuclear Research)",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": "European Organization for Nuclear Research"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5045576181",
+      "name": "ZOHEIR Ahmed",
+      "givenName": "ZOHEIR",
+      "familyName": "Ahmed",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5047207958",
+      "name": "SALHI Imane",
+      "givenName": "SALHI",
+      "familyName": "Imane",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5003474
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.48895442
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4463611
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C31173074",
+      "name": "Attractiveness",
+      "sameAs": "https://www.wikidata.org/wiki/Q2632514"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33842695",
+      "name": "Foreign direct investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q490513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C142362112",
+      "name": "Art",
+      "sameAs": "https://www.wikidata.org/wiki/Q735"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C195244886",
+      "name": "Ancient history",
+      "sameAs": "https://www.wikidata.org/wiki/Q41493"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C107038049",
+      "name": "Aesthetics",
+      "sameAs": "https://www.wikidata.org/wiki/Q35986"
+    }
+  ],
+  "url": "https://zenodo.org/record/8284868",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://zenodo.org/records/8284868/files/N03A04-Intangible%20capital%20and%20the%20attractiveness%20of%20foreign%20direct%20investment%20a%20tumultuous%20relationship%20economic%20modeling%20The%20case%20of%20the%20Moroccan%20industrial%20sector.pdf",
+    "encodingFormat": "text/html"
+  }
+}

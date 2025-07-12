@@ -1,0 +1,230 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4307368003",
+  "doi": "10.47067/real.v5i3.247",
+  "name": "Nexus between Tourism and Economic Growth in Pakistan: Using Gregory Hansen and ARDL with Structural Break",
+  "headline": "Nexus between Tourism and Economic Growth in Pakistan: Using Gregory Hansen and ARDL with Structural Break",
+  "datePublished": "2022-09-30",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Review of Education Administration and Law",
+    "issn": "2708-1788",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5056218916",
+      "name": "Muhammad Asif Amjad",
+      "givenName": "Muhammad",
+      "familyName": "Amjad",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I87482320",
+          "name": "University of Management and Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PK"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-7625-5902"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5025714177",
+      "name": "Hafeez ur Rehman",
+      "givenName": "Hafeez",
+      "familyName": "Rehman",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I87482320",
+          "name": "University of Management and Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PK"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-5071-7750"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5040472842",
+      "name": "Irem Batool",
+      "givenName": "Irem",
+      "familyName": "Batool",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I87482320",
+          "name": "University of Management and Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PK"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-4533-2661"
+    }
+  ],
+  "citationCount": 4,
+  "citation": [
+    "https://openalex.org/W1972956294",
+    "https://openalex.org/W2045076114",
+    "https://openalex.org/W2152743272",
+    "https://openalex.org/W2300870595",
+    "https://openalex.org/W2522288330",
+    "https://openalex.org/W2561614487",
+    "https://openalex.org/W2734648553",
+    "https://openalex.org/W2888210071",
+    "https://openalex.org/W2898762651",
+    "https://openalex.org/W2947996056",
+    "https://openalex.org/W2980258356",
+    "https://openalex.org/W3007201327",
+    "https://openalex.org/W3025970792",
+    "https://openalex.org/W3036927857",
+    "https://openalex.org/W3122685916",
+    "https://openalex.org/W4205904576",
+    "https://openalex.org/W4210320076",
+    "https://openalex.org/W4225805650"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/structural-break",
+      "display_name": "Structural break",
+      "score": 0.65698886
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4674075
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.42267662
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C148609458",
+      "name": "Nexus (standard)",
+      "sameAs": "https://www.wikidata.org/wiki/Q7021281"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18918823",
+      "name": "Tourism",
+      "sameAs": "https://www.wikidata.org/wiki/Q49389"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C186008389",
+      "name": "Structural break",
+      "sameAs": "https://www.wikidata.org/wiki/Q7625010"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33842695",
+      "name": "Foreign direct investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q490513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C47768531",
+      "name": "Development economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q1127188"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18547055",
+      "name": "International economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q47417"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136264566",
+      "name": "Economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q159810"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149782125",
+      "name": "Econometrics",
+      "sameAs": "https://www.wikidata.org/wiki/Q160039"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149635348",
+      "name": "Embedded system",
+      "sameAs": "https://www.wikidata.org/wiki/Q193040"
+    }
+  ],
+  "abstract": "The tourism sector has achieved considerable importance over time in Pakistan as it makes indirect profits that increase foreign trade, public infrastructure, and foreign direct investment. Pakistan has massive potentials in the tourism sector. The present study analyzes the nexus between tourism and economic growth in Pakistan by using the Gregory Hansen co-integration and ARDL structural break econometrics approach on annual data from 1985 to 2020. The findings obtained through Gregory-Hansen's approach showed that structural break had appeared in the year 2009. For estimating the long-run coefficients structural break ARDL approach has been used. The study shows that tourism receipts significantly escalate economic growth. Furthermore, labor force participation and gross capital formation significantly and positively impacts the economic growth. The study recommends that Pakistan should pay proper attention to the tourism industry to promote allied sectors for achieving higher economic growth.",
+  "url": "https://doi.org/10.47067/real.v5i3.247",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://real.spcrd.org/index.php/real/article/download/247/246",
+    "encodingFormat": "text/html"
+  }
+}

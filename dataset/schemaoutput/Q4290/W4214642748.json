@@ -1,0 +1,262 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4214642748",
+  "doi": "10.9734/cjast/2021/v40i4631631",
+  "name": "Projection of Investment and Incremental Capital Output Ratio Analysis of Nusa Tenggara Barat Province",
+  "headline": "Projection of Investment and Incremental Capital Output Ratio Analysis of Nusa Tenggara Barat Province",
+  "datePublished": "2021-12-27",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Current Journal of Applied Science and Technology",
+    "issn": "2457-1024",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Sciencedomain International"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5061717653",
+      "name": "ZULKIEFLIMANSYAH ZULKIEFLIMANSYAH",
+      "givenName": "Zulkieflimansyah",
+      "familyName": ".",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210101474",
+          "name": "Universitas Samawa",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5051845699",
+      "name": "Muhammad Nurjihadi",
+      "givenName": "Muhammad",
+      "familyName": "Nurjihadi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210101474",
+          "name": "Universitas Samawa",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5050051599",
+      "name": "Abdul Hadi Ilman",
+      "givenName": "Abdul",
+      "familyName": "Ilman",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210101474",
+          "name": "Universitas Samawa",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-1208-2106"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5075312876",
+      "name": "Putri Reno Kemala Sari",
+      "givenName": "Putri",
+      "familyName": "Sari",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210101474",
+          "name": "Universitas Samawa",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5021913205",
+      "name": "Rudi Masniadi",
+      "givenName": "Rudi",
+      "familyName": "Masniadi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210101474",
+          "name": "Universitas Samawa",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5056696595",
+      "name": "Diah Anggeraini Hasri",
+      "givenName": "Diah",
+      "familyName": "Hasri",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210101474",
+          "name": "Universitas Samawa",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.7521769
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.6008749
+    },
+    {
+      "id": "https://openalex.org/keywords/value",
+      "display_name": "Value (mathematics)",
+      "score": 0.48287562
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105795698",
+      "name": "Statistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q12483"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C57493831",
+      "name": "Projection (relational algebra)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3134666"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149782125",
+      "name": "Econometrics",
+      "sameAs": "https://www.wikidata.org/wiki/Q160039"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776291640",
+      "name": "Value (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2912517"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C75778745",
+      "name": "Lag",
+      "sameAs": "https://www.wikidata.org/wiki/Q342626"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C31258907",
+      "name": "Computer network",
+      "sameAs": "https://www.wikidata.org/wiki/Q1301371"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C11413529",
+      "name": "Algorithm",
+      "sameAs": "https://www.wikidata.org/wiki/Q8366"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Aims: This study aims to project investment in the Province of NTB.&#x0D; Study design: This research is a quantitative research using secondary data for analysis. Place and Duration of study: West Nusa Tenggara, Duration of study from September to December&#x0D; Methodology: There are two analytical tools used, namely trend analysis to make investment projections based on the MAPE (Mean Absolute Percentage Error) and MAD (Mean Absolute Deviation) values. Furthermore, investment needs are analyzed using the Incremental Capital Output Ratio (ICOR).&#x0D; Results: Based on the results of the study, it was found that the investment trend in NTB was using the exponential growth model. Based on ICOR analysis, the average ICOR value in 2011 – 2020 is 12, 11 with the assumption of a lag of 0, and reaches 8 with a grace period of 3 years. If it is assumed that the ICOR value of NTB has not changed, namely 8, then with economic growth of 7% as targeted in the RPJMD 2109-2023, an increase in investment of 56% is needed, even though if viewed from the average increase in investment, it was only 43% in 2016 – 2020.&#x0D; Conclusion: The projection carried out in this study only uses trend analysis. In subsequent research, the use of other analysis tools to projections such as the use of dynamic systems and modeling can be done so that the projection of investment needs can be in accordance with the regional concert.",
+  "url": "https://doi.org/10.9734/cjast/2021/v40i4631631",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://journalcjast.com/index.php/CJAST/article/download/31631/59346",
+    "encodingFormat": "text/html"
+  }
+}

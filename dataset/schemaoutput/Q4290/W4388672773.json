@@ -1,0 +1,225 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4388672773",
+  "doi": "10.37625/abr.26.2.448-457",
+  "name": "Capital Age and Labor Investment Efficiency",
+  "headline": "Capital Age and Labor Investment Efficiency",
+  "datePublished": "2023-11-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "American Business Review",
+    "issn": "0743-2348",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5102836153",
+      "name": "Amanjot Singh",
+      "givenName": "Amanjot",
+      "familyName": "Singh",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I125749732",
+          "name": "Western University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CA"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I61614213",
+          "name": "The King's University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-0828-2749"
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W2010315157",
+    "https://openalex.org/W2089592294",
+    "https://openalex.org/W2110019611",
+    "https://openalex.org/W2143724982",
+    "https://openalex.org/W2264225654",
+    "https://openalex.org/W2783809539",
+    "https://openalex.org/W2802011556",
+    "https://openalex.org/W2920051315",
+    "https://openalex.org/W2946864900",
+    "https://openalex.org/W2969199917",
+    "https://openalex.org/W3013797164",
+    "https://openalex.org/W3088928475",
+    "https://openalex.org/W3096437970",
+    "https://openalex.org/W3121588848",
+    "https://openalex.org/W3122016225",
+    "https://openalex.org/W3122949048",
+    "https://openalex.org/W3123479862",
+    "https://openalex.org/W3123632618",
+    "https://openalex.org/W3123986693",
+    "https://openalex.org/W3124401164",
+    "https://openalex.org/W3125044981",
+    "https://openalex.org/W3125686936",
+    "https://openalex.org/W3125975571",
+    "https://openalex.org/W3177655144",
+    "https://openalex.org/W4200368833",
+    "https://openalex.org/W4224470047",
+    "https://openalex.org/W4289525877",
+    "https://openalex.org/W4309196681",
+    "https://openalex.org/W4310344174",
+    "https://openalex.org/W4320035839",
+    "https://openalex.org/W4323854287"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.64831436
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.556082
+    },
+    {
+      "id": "https://openalex.org/keywords/sample",
+      "display_name": "Sample (material)",
+      "score": 0.46525604
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.45623422
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145236788",
+      "name": "Labour economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q28161"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136197465",
+      "name": "Variety (cybernetics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1729295"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C198531522",
+      "name": "Sample (material)",
+      "sameAs": "https://www.wikidata.org/wiki/Q485146"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C43617362",
+      "name": "Chromatography",
+      "sameAs": "https://www.wikidata.org/wiki/Q170050"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C154945302",
+      "name": "Artificial intelligence",
+      "sameAs": "https://www.wikidata.org/wiki/Q11660"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "This study examines how capital age affects the efficiency of corporate labor investments. Using a sample of 1,588 US firms from 1991 to 2016, we find that the efficiency of labor investments increases as technology ages. Subsample analysis on labor investment efficiency suggests that old capital decreases labor over- and underinvestment. Our results remain robust to alternative specifications and restricted to small firms and industries requiring high labor skills. These findings add to the growing literature examining how learning affects a variety of phenomena in finance. Managers' increased understanding of their capital over time facilitates the efficiency of corporate labor investments.",
+  "url": "https://doi.org/10.37625/abr.26.2.448-457",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://digitalcommons.newhaven.edu/cgi/viewcontent.cgi?article=2220&context=americanbusinessreview",
+    "encodingFormat": "text/html"
+  }
+}

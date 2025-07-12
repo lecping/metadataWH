@@ -1,0 +1,317 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4390063554",
+  "doi": "10.1186/s44147-023-00336-z",
+  "name": "Evaluating the difficulties and potential responses to implement Industry 4.0 in Bangladesh’s steel sector",
+  "headline": "Evaluating the difficulties and potential responses to implement Industry 4.0 in Bangladesh’s steel sector",
+  "datePublished": "2023-12-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Engineering and Applied Science",
+    "issn": "1110-1903",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Springer Nature"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5079986898",
+      "name": "Md. Abdus Shabur",
+      "givenName": "Md.",
+      "familyName": "Shabur",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I102782458",
+          "name": "Chittagong University of Engineering & Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "BD"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-8295-9930"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5103757857",
+      "name": "Kazi Afzalur Rahman",
+      "givenName": "Kazi",
+      "familyName": "Rahman",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I102782458",
+          "name": "Chittagong University of Engineering & Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "BD"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5092854510",
+      "name": "Md. Raihan Siddiki",
+      "givenName": "Md.",
+      "familyName": "Siddiki",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I183697816",
+          "name": "Bangladesh University of Engineering and Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "BD"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 12,
+  "citation": [
+    "https://openalex.org/W1965190885",
+    "https://openalex.org/W2029608738",
+    "https://openalex.org/W2033401964",
+    "https://openalex.org/W203466237",
+    "https://openalex.org/W2051054517",
+    "https://openalex.org/W2070665593",
+    "https://openalex.org/W2124808847",
+    "https://openalex.org/W2136904762",
+    "https://openalex.org/W2189718286",
+    "https://openalex.org/W2303092797",
+    "https://openalex.org/W2303531378",
+    "https://openalex.org/W2462128664",
+    "https://openalex.org/W2479367333",
+    "https://openalex.org/W2507126430",
+    "https://openalex.org/W2513195681",
+    "https://openalex.org/W2528661529",
+    "https://openalex.org/W2537934640",
+    "https://openalex.org/W2559164450",
+    "https://openalex.org/W2568081791",
+    "https://openalex.org/W2601726957",
+    "https://openalex.org/W2601826487",
+    "https://openalex.org/W2603910901",
+    "https://openalex.org/W2608262991",
+    "https://openalex.org/W2611276622",
+    "https://openalex.org/W2729728390",
+    "https://openalex.org/W2735319856",
+    "https://openalex.org/W2741558154",
+    "https://openalex.org/W2746518050",
+    "https://openalex.org/W2766472196",
+    "https://openalex.org/W2781768742",
+    "https://openalex.org/W2785339424",
+    "https://openalex.org/W2788311125",
+    "https://openalex.org/W2789411814",
+    "https://openalex.org/W2791987562",
+    "https://openalex.org/W2808388724",
+    "https://openalex.org/W2897985668",
+    "https://openalex.org/W3003902771",
+    "https://openalex.org/W3016022285",
+    "https://openalex.org/W3034059140",
+    "https://openalex.org/W3036600965",
+    "https://openalex.org/W3125987011",
+    "https://openalex.org/W3137147281",
+    "https://openalex.org/W3174976249",
+    "https://openalex.org/W4233552703",
+    "https://openalex.org/W4289518517",
+    "https://openalex.org/W4402534316",
+    "https://openalex.org/W752225299"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.58302575
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4757892
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.46194014
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C189430467",
+      "name": "Ranking (information retrieval)",
+      "sameAs": "https://www.wikidata.org/wiki/Q7293293"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778137410",
+      "name": "Government (linguistics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2732820"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779530757",
+      "name": "Quality (philosophy)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1207505"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48103436",
+      "name": "State (computer science)",
+      "sameAs": "https://www.wikidata.org/wiki/Q599031"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C110354214",
+      "name": "Engineering management",
+      "sameAs": "https://www.wikidata.org/wiki/Q6314146"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C154945302",
+      "name": "Artificial intelligence",
+      "sameAs": "https://www.wikidata.org/wiki/Q11660"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111472728",
+      "name": "Epistemology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9471"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C11413529",
+      "name": "Algorithm",
+      "sameAs": "https://www.wikidata.org/wiki/Q8366"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    }
+  ],
+  "abstract": "Abstract With the promise of great benefits for industry and new possibilities for a wide range of applications, Industry 4.0 is quickly rising to prominence as one of the most important and widely discussed topics in academia and in practice. In this study, we look at the steel production business and identify the current state of affairs as well as the barriers to implementing Industry 4.0 there. Initially, the current state of Industry 4.0 was uncovered by visiting and surveying four prominent steel companies in Bangladesh. Less than fifty percent of Industry 4.0 components are now implemented in these plants. To determine the reasons for this unfavorable situation, research was conducted to identify the obstacles impeding the implementation of Industry 4.0. On the basis of the preferences of 9 experts (4 from industry and 5 from academia), 9 of the 12 proposed challenges have been selected as significant obstacles. The ranking of these nine difficulties was then assessed utilizing the popular best–worst method (BWM), a multi-criteria decision-making approach. It was determined that “high capital investment” was the most significant barrier, while “lack of government support” was the least significant. In addition, a sensitivity analysis was conducted, which improved the ranking’s quality. Then, several viable techniques for overcoming these challenges are discussed.",
+  "url": "https://doi.org/10.1186/s44147-023-00336-z",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://jeas.springeropen.com/counter/pdf/10.1186/s44147-023-00336-z",
+    "encodingFormat": "text/html"
+  }
+}

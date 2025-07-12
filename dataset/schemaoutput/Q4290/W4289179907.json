@@ -1,0 +1,320 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4289179907",
+  "doi": "10.22271/tpi.2022.v11.i7sq.13877",
+  "name": "The economics of commercial mulberry saplings production using mini clonal technology over conventional method",
+  "headline": "The economics of commercial mulberry saplings production using mini clonal technology over conventional method",
+  "datePublished": "2022-07-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "The Pharma Innovation",
+    "issn": "2277-7695",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5071436520",
+      "name": "Karthick Mani Bharathi B",
+      "givenName": "Karthick",
+      "familyName": "B",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I134900695",
+          "name": "Tamil Nadu Agricultural University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5085744594",
+      "name": "S Susikaran",
+      "givenName": "Susikaran",
+      "familyName": "S",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I134900695",
+          "name": "Tamil Nadu Agricultural University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5000413243",
+      "name": "Parthiban KT",
+      "givenName": "Parthiban",
+      "familyName": "KT",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I134900695",
+          "name": "Tamil Nadu Agricultural University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5109245311",
+      "name": "Murugesh KA",
+      "givenName": "Murugesh",
+      "familyName": "KA",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I134900695",
+          "name": "Tamil Nadu Agricultural University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5071752314",
+      "name": "K Chozhan",
+      "givenName": "Chozhan",
+      "familyName": "K",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I134900695",
+          "name": "Tamil Nadu Agricultural University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 5,
+  "citation": [
+    "https://openalex.org/W2093530864",
+    "https://openalex.org/W2113895577",
+    "https://openalex.org/W2184479411",
+    "https://openalex.org/W2877870196",
+    "https://openalex.org/W2901987875",
+    "https://openalex.org/W2909671351",
+    "https://openalex.org/W2946601320",
+    "https://openalex.org/W2980809431",
+    "https://openalex.org/W2993120915",
+    "https://openalex.org/W3000194479",
+    "https://openalex.org/W3110521847",
+    "https://openalex.org/W3173588252",
+    "https://openalex.org/W4312602847"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/net-income",
+      "display_name": "Net income",
+      "score": 0.6231247
+    },
+    {
+      "id": "https://openalex.org/keywords/benefit–cost-ratio",
+      "display_name": "Benefit–cost ratio",
+      "score": 0.5966941
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5872549
+    },
+    {
+      "id": "https://openalex.org/keywords/cutting",
+      "display_name": "Cutting",
+      "score": 0.56040984
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5091731
+    },
+    {
+      "id": "https://openalex.org/keywords/economic-evaluation",
+      "display_name": "Economic Evaluation",
+      "score": 0.43764418
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138262166",
+      "name": "Net income",
+      "sameAs": "https://www.wikidata.org/wiki/Q570938"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778709658",
+      "name": "Benefit–cost ratio",
+      "sameAs": "https://www.wikidata.org/wiki/Q4887470"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C187528503",
+      "name": "Cutting",
+      "sameAs": "https://www.wikidata.org/wiki/Q176982"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37621935",
+      "name": "Agricultural science",
+      "sameAs": "https://www.wikidata.org/wiki/Q3606845"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776125615",
+      "name": "Economic evaluation",
+      "sameAs": "https://www.wikidata.org/wiki/Q18391886"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C172008318",
+      "name": "Gross income",
+      "sameAs": "https://www.wikidata.org/wiki/Q3683077"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C150903083",
+      "name": "Biotechnology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7108"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181230689",
+      "name": "Net present value",
+      "sameAs": "https://www.wikidata.org/wiki/Q192472"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144027150",
+      "name": "Horticulture",
+      "sameAs": "https://www.wikidata.org/wiki/Q48803"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C74939039",
+      "name": "State income tax",
+      "sameAs": "https://www.wikidata.org/wiki/Q7603703"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C551662922",
+      "name": "Tax reform",
+      "sameAs": "https://www.wikidata.org/wiki/Q2346630"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C100001284",
+      "name": "Public economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q2248246"
+    }
+  ],
+  "abstract": "A nursery is an area under supervision and designed to provide suitable conditions for juvenile cuttings until they are ready for main field transplantation. The main objective of all nurseries is to generate high quality saplings in sufficient numbers to satisfy the user needs. The present study was conducted to examine the economic viability of the nursery adopting both traditional and modern techniques like Mini clonal Technology of mulberry saplings generation. Analysis of various economic tools have shown that mulberry nurseries using mini clonal technology have an edge over traditional method of propagation. Economic tools used during study include net income and benefit cost ratio. The study showed that initial capital investment for mini clonal nurseries is high compared to traditional nurseries which can be recovered. The economic analysis revealed that entrepreneur involved in nursery business have obtained gross income of Rs.2,56,000/- using traditional technology and gross income of Rs.4,60,800/- using mini clonal technology. The net income of traditional nurseries and clonal nurseries are Rs.1,50,890/- and Rs.2,62,750/- (for first harvest) & Rs.3,18,270/- (from second harvest) respectively. The capital investment on clonal mulberry nurseries is highly viable due to high B:C ratio of 1:2.32 (for first harvest) & 1:3.23 (from second harvest) followed by traditional nurseries having B:C ratio of 1:2.43 is also considerably viable.",
+  "url": "https://doi.org/10.22271/tpi.2022.v11.i7sq.13877",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.thepharmajournal.com/archives/2022/vol11issue7S/PartQ/S-11-7-4-364.pdf",
+    "encodingFormat": "text/html"
+  }
+}

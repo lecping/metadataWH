@@ -1,0 +1,220 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4378554285",
+  "doi": "10.22214/ijraset.2023.52894",
+  "name": "Movie Success and Target Audience Prediction",
+  "headline": "Movie Success and Target Audience Prediction",
+  "datePublished": "2023-05-27",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal for Research in Applied Science and Engineering Technology",
+    "issn": "2321-9653",
+    "publisher": {
+      "@type": "Organization",
+      "name": "International Journal for Research in Applied Science and Engineering Technology (IJRASET)"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5102635532",
+      "name": "Shabnam Farook Sayyad",
+      "givenName": "Dr.",
+      "familyName": "Sayyad",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5092035749",
+      "name": "Aditya Bangali",
+      "givenName": "Aditya",
+      "familyName": "Bangali",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5092035750",
+      "name": "Pooja Ligade",
+      "givenName": "Pooja",
+      "familyName": "Ligade",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5092035751",
+      "name": "Chhaya Gade",
+      "givenName": "Chhaya",
+      "familyName": "Gade",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5092035752",
+      "name": "Aryan Khetarpal",
+      "givenName": "Aryan",
+      "familyName": "Khetarpal",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1993734118",
+    "https://openalex.org/W2809021201",
+    "https://openalex.org/W2898748618",
+    "https://openalex.org/W2916790858",
+    "https://openalex.org/W2955906232",
+    "https://openalex.org/W2977453640",
+    "https://openalex.org/W2978041418",
+    "https://openalex.org/W2998054304",
+    "https://openalex.org/W4225821370"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/film-industry",
+      "display_name": "Film Industry",
+      "score": 0.5233944
+    },
+    {
+      "id": "https://openalex.org/keywords/target-audience",
+      "display_name": "Target audience",
+      "score": 0.4999683
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4273573
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.41286024
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C54040653",
+      "name": "Film industry",
+      "sameAs": "https://www.wikidata.org/wiki/Q1415395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2781286702",
+      "name": "Target audience",
+      "sameAs": "https://www.wikidata.org/wiki/Q2604680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778139618",
+      "name": "Workforce",
+      "sameAs": "https://www.wikidata.org/wiki/Q13440398"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95623464",
+      "name": "Classifier (UML)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1096149"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C153258448",
+      "name": "Gradient descent",
+      "sameAs": "https://www.wikidata.org/wiki/Q1199743"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C154945302",
+      "name": "Artificial intelligence",
+      "sameAs": "https://www.wikidata.org/wiki/Q11660"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50644808",
+      "name": "Artificial neural network",
+      "sameAs": "https://www.wikidata.org/wiki/Q192776"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C519580073",
+      "name": "Movie theater",
+      "sameAs": "https://www.wikidata.org/wiki/Q41253"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C142362112",
+      "name": "Art",
+      "sameAs": "https://www.wikidata.org/wiki/Q735"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C52119013",
+      "name": "Art history",
+      "sameAs": "https://www.wikidata.org/wiki/Q50637"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C153349607",
+      "name": "Visual arts",
+      "sameAs": "https://www.wikidata.org/wiki/Q36649"
+    }
+  ],
+  "abstract": "Abstract: The Film Industry is one of the largest industries in the world that has a huge flowof capital flowing through it. Lots of movies release across the world through differentmediums whether theatrically or through OTT etc. But very few achieve the desired success. The unpredictability of the film industry and the huge amount of capital and workforce investment which is required in film production makes film makers nervous and they require amedium which will assure them about the prediction of success of their movie and also the target audience of their movie before its release, so that they can take right decisions about their project in time. In this model, the movie's success will be predicted and also the targetage group will be determined which can be targeted in attracting the audience by correct marketing and film making policies. Two Imdb datasets are utilized in the model respectively for prediction of success of the movie and its target audience. For predicting the success of themovie we have used Stochastic Gradient Descent Classifier Algorithm.",
+  "url": "https://doi.org/10.22214/ijraset.2023.52894",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.22214/ijraset.2023.52894",
+    "encodingFormat": "text/html"
+  }
+}

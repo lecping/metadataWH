@@ -1,0 +1,308 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4211154182",
+  "doi": "10.1787/f68ca036-en",
+  "name": "On what resources and services is education funding spent?",
+  "headline": "On what resources and services is education funding spent?",
+  "datePublished": "2021-09-15",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Education at a glance. OECD indicators/Education at a glance",
+    "issn": "1563-051X",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Organization for Economic Cooperation and Development"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5110843672",
+      "name": "OECD",
+      "givenName": "OECD",
+      "familyName": "OECD",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W10853826",
+    "https://openalex.org/W1482194397",
+    "https://openalex.org/W1492554012",
+    "https://openalex.org/W1571695898",
+    "https://openalex.org/W1586856310",
+    "https://openalex.org/W1654138926",
+    "https://openalex.org/W1762278500",
+    "https://openalex.org/W1813798516",
+    "https://openalex.org/W1969598650",
+    "https://openalex.org/W1975995226",
+    "https://openalex.org/W2022845425",
+    "https://openalex.org/W2033132608",
+    "https://openalex.org/W2063105878",
+    "https://openalex.org/W2071880078",
+    "https://openalex.org/W2092792929",
+    "https://openalex.org/W2095750684",
+    "https://openalex.org/W2099618021",
+    "https://openalex.org/W2103614342",
+    "https://openalex.org/W2110698467",
+    "https://openalex.org/W2112599650",
+    "https://openalex.org/W2115215733",
+    "https://openalex.org/W2116027073",
+    "https://openalex.org/W2124222455",
+    "https://openalex.org/W2130911785",
+    "https://openalex.org/W2131502562",
+    "https://openalex.org/W2150185638",
+    "https://openalex.org/W2342521023",
+    "https://openalex.org/W2346137291",
+    "https://openalex.org/W2372356850",
+    "https://openalex.org/W2468551592",
+    "https://openalex.org/W2529130202",
+    "https://openalex.org/W2566122356",
+    "https://openalex.org/W2767863677",
+    "https://openalex.org/W2806944052",
+    "https://openalex.org/W2924696138",
+    "https://openalex.org/W2946968006",
+    "https://openalex.org/W2970160835",
+    "https://openalex.org/W2990847672",
+    "https://openalex.org/W3012690941",
+    "https://openalex.org/W3016182787",
+    "https://openalex.org/W3036221759",
+    "https://openalex.org/W3036461879",
+    "https://openalex.org/W3112412668",
+    "https://openalex.org/W3123438593",
+    "https://openalex.org/W3124340029",
+    "https://openalex.org/W3124567728",
+    "https://openalex.org/W4200612234",
+    "https://openalex.org/W4205974275",
+    "https://openalex.org/W4206526213",
+    "https://openalex.org/W4211142342",
+    "https://openalex.org/W4212898620",
+    "https://openalex.org/W4213448892",
+    "https://openalex.org/W4214546728",
+    "https://openalex.org/W4214911790",
+    "https://openalex.org/W4229658306",
+    "https://openalex.org/W4229993436",
+    "https://openalex.org/W4230476134",
+    "https://openalex.org/W4230797033",
+    "https://openalex.org/W4230874240",
+    "https://openalex.org/W4230906942",
+    "https://openalex.org/W4231812208",
+    "https://openalex.org/W4232346493",
+    "https://openalex.org/W4232801221",
+    "https://openalex.org/W4233671849",
+    "https://openalex.org/W4233798261",
+    "https://openalex.org/W4234363527",
+    "https://openalex.org/W4234606406",
+    "https://openalex.org/W4234758319",
+    "https://openalex.org/W4235065959",
+    "https://openalex.org/W4235107388",
+    "https://openalex.org/W4238221476",
+    "https://openalex.org/W4238329247",
+    "https://openalex.org/W4239272984",
+    "https://openalex.org/W4239301791",
+    "https://openalex.org/W4239486370",
+    "https://openalex.org/W4239866687",
+    "https://openalex.org/W4240269440",
+    "https://openalex.org/W4240664770",
+    "https://openalex.org/W4241222140",
+    "https://openalex.org/W4241708939",
+    "https://openalex.org/W4242309378",
+    "https://openalex.org/W4242887307",
+    "https://openalex.org/W4242925322",
+    "https://openalex.org/W4243860750",
+    "https://openalex.org/W4244230134",
+    "https://openalex.org/W4244304129",
+    "https://openalex.org/W4244305114",
+    "https://openalex.org/W4244996802",
+    "https://openalex.org/W4245258552",
+    "https://openalex.org/W4245815237",
+    "https://openalex.org/W4246862341",
+    "https://openalex.org/W4247256386",
+    "https://openalex.org/W4247764870",
+    "https://openalex.org/W4248096945",
+    "https://openalex.org/W4248174210",
+    "https://openalex.org/W4248771848",
+    "https://openalex.org/W4248802679",
+    "https://openalex.org/W4248947138",
+    "https://openalex.org/W4249644466",
+    "https://openalex.org/W4250007322",
+    "https://openalex.org/W4250817556",
+    "https://openalex.org/W4251440276",
+    "https://openalex.org/W4251700654",
+    "https://openalex.org/W4252225114",
+    "https://openalex.org/W4253080122",
+    "https://openalex.org/W4253279810",
+    "https://openalex.org/W4254606903",
+    "https://openalex.org/W4255183729",
+    "https://openalex.org/W4255626097",
+    "https://openalex.org/W4256093683",
+    "https://openalex.org/W4312335387",
+    "https://openalex.org/W4321463536"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/obsolescence",
+      "display_name": "Obsolescence",
+      "score": 0.8862124
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-expenditure",
+      "display_name": "Capital expenditure",
+      "score": 0.78048086
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.58398783
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5369729
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4471203
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C30795975",
+      "name": "Obsolescence",
+      "sameAs": "https://www.wikidata.org/wiki/Q282744"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C172497479",
+      "name": "Capital expenditure",
+      "sameAs": "https://www.wikidata.org/wiki/Q302208"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780023022",
+      "name": "Compensation (psychology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1338171"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C187452473",
+      "name": "Goods and services",
+      "sameAs": "https://www.wikidata.org/wiki/Q2897903"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C100001284",
+      "name": "Public economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q2248246"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145236788",
+      "name": "Labour economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q28161"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C11171543",
+      "name": "Psychoanalysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q41630"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "Expenditure on education is composed of current and capital expenditure. Current expenditure includes staff compensation and spending on the goods and services needed each year to operate schools and universities, while capital expenditure refers to spending on the acquisition or maintenance of assets which last longer than one year (see Definitions section). Differences in current and capital expenditure allocation across countries reflect the degree to which countries have invested in the construction of new buildings – for example as a response to increases in enrolment– or in the restoration of existing school premises, due to obsolescence and ageing of existing structure, or the need to adapt to new educational, societal or safety needs. Unlike current expenditure, capital expenditure can show large fluctuations over time, with peaks in years when investment plans are implemented, followed by years of troughs.",
+  "url": "https://doi.org/10.1787/f68ca036-en",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.oecd-ilibrary.org/deliver/b35a14e5-en.pdf?itemId=%2Fcontent%2Fpublication%2Fb35a14e5-en&mimeType=pdf",
+    "encodingFormat": "text/html"
+  }
+}

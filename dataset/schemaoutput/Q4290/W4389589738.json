@@ -1,0 +1,187 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4389589738",
+  "doi": "10.21608/idj.2023.242323.1096",
+  "name": "Preserving Heritage Areas within the Framework of Sustainable Investment for Historic Government Ministry Buildings after Their Move to the New Administrative Capital",
+  "headline": "Preserving Heritage Areas within the Framework of Sustainable Investment for Historic Government Ministry Buildings after Their Move to the New Administrative Capital",
+  "datePublished": "2023-12-11",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "التصميم الدولية",
+    "issn": "2090-9632",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5111090668",
+      "name": "Sherif Ahmed",
+      "givenName": "Sherif",
+      "familyName": "Ahmed",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210120363",
+          "name": "Higher Institute of Engineering",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "EG"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5110637179",
+      "name": "Mahmoud Mahmoud",
+      "givenName": "Mahmoud",
+      "familyName": "Mahmoud",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I114794399",
+          "name": "Suez Canal University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "EG"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/christian-ministry",
+      "display_name": "Christian ministry",
+      "score": 0.7007282
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.64700496
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.60575736
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.56703216
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C521751864",
+      "name": "Christian ministry",
+      "sameAs": "https://www.wikidata.org/wiki/Q1729207"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778137410",
+      "name": "Government (linguistics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2732820"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C3116431",
+      "name": "Public administration",
+      "sameAs": "https://www.wikidata.org/wiki/Q31728"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C91375879",
+      "name": "Environmental planning",
+      "sameAs": "https://www.wikidata.org/wiki/Q15473274"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "url": "https://doi.org/10.21608/idj.2023.242323.1096",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://idj.journals.ekb.eg/article_330032_b753c1f387f1dcf35974df4497ce777b.pdf",
+    "encodingFormat": "text/html"
+  }
+}

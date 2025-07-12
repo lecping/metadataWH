@@ -1,0 +1,196 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4212848092",
+  "doi": "10.31314/jsap.3.2.41-50.2020",
+  "name": "DETERMINAN PENINGKATAN VOLUME PENJUALAN INDUSTRI KECIL MENENGAH OLAHAN PANGAN DI KABUPATEN GORONTALO",
+  "headline": "DETERMINAN PENINGKATAN VOLUME PENJUALAN INDUSTRI KECIL MENENGAH OLAHAN PANGAN DI KABUPATEN GORONTALO",
+  "datePublished": "2021-12-04",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-sa",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "JSAP Journal Syariah and Accounting Public",
+    "issn": "2622-3538",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5040514056",
+      "name": "Dharmawaty S. Makur",
+      "givenName": "Dharmawaty",
+      "familyName": "Makur",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210134586",
+          "name": "Universitas Muhammadiyah Gorontalo",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6251011
+    },
+    {
+      "id": "https://openalex.org/keywords/food-products",
+      "display_name": "Food Products",
+      "score": 0.59582376
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.547
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2987718291",
+      "name": "Food products",
+      "sameAs": "https://www.wikidata.org/wiki/Q2095"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C90673727",
+      "name": "Product (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q901718"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778137410",
+      "name": "Government (linguistics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2732820"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37621935",
+      "name": "Agricultural science",
+      "sameAs": "https://www.wikidata.org/wiki/Q3606845"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C20556612",
+      "name": "Volume (thermodynamics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q4469374"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C31903555",
+      "name": "Food science",
+      "sameAs": "https://www.wikidata.org/wiki/Q1637030"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2524010",
+      "name": "Geometry",
+      "sameAs": "https://www.wikidata.org/wiki/Q8087"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121332964",
+      "name": "Physics",
+      "sameAs": "https://www.wikidata.org/wiki/Q413"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C62520636",
+      "name": "Quantum mechanics",
+      "sameAs": "https://www.wikidata.org/wiki/Q944"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    }
+  ],
+  "abstract": "This study aims to determine the effect partially or simultaneously on the brand image of IKM products, through government capital assistance and zakat routines on increasing sales volume of IKM food processed products in Gorontalo Regency. This research is a quantitative research. The data analysis technique used is multiple regression analysis.The results of this study indicate that (1) Simultaneously the brand image of IKM products, investment through government capital assistance and routine zakat together has a significant effect on increasing sales volume of IKM food processed products in Gorontalo Regency with a determinant value of 47.7%. While the remaining 52.3% can be explained by other variables not examined in the study such as product quality factors, product prices, promotions and location. (2) partially Image has a positive and significant effect on increasing sales volume of IKM food processed products in Gorontalo Regency. Investment through government capital assistance has a positive but not significant effect on increasing the sales volume of IKM processed food products in Gorontalo Regency. Zakat routines have a positive and significant effect on increasing sales volume of processed food products for SMEs in Gorontalo Regency.",
+  "url": "https://doi.org/10.31314/jsap.3.2.41-50.2020",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://journal.umgo.ac.id/index.php/JSAP/article/download/1204/862",
+    "encodingFormat": "text/html"
+  }
+}

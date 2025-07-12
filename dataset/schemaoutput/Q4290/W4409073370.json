@@ -1,0 +1,159 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4409073370",
+  "doi": "10.21009/jrmsi.016.1.4",
+  "name": "ANALYSIS OF CAPITAL BUDGETING PROJECTIONS IN MAKING FUNDING INVESTMENT CONSIDERATIONS AT PT NUSKAINO",
+  "headline": "ANALYSIS OF CAPITAL BUDGETING PROJECTIONS IN MAKING FUNDING INVESTMENT CONSIDERATIONS AT PT NUSKAINO",
+  "datePublished": "2025-04-01",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-sa",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Jurnal Riset Manajemen Sains Indonesia",
+    "issn": "2087-1139",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Jakarta State University"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5116874118",
+      "name": "Pandu Kameswara",
+      "givenName": "None",
+      "familyName": "Kameswara",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5088653866",
+      "name": "Ratri Kurniasari",
+      "givenName": "None",
+      "familyName": "Kurniasari",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5040263660",
+      "name": "Titik Purwinarti",
+      "givenName": "None",
+      "familyName": "Purwinarti",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-budgeting",
+      "display_name": "Capital Budgeting",
+      "score": 0.7573621
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.54074126
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.49677378
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.49633533
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C57918260",
+      "name": "Capital budgeting",
+      "sameAs": "https://www.wikidata.org/wiki/Q1354666"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21425071",
+      "name": "Project appraisal",
+      "sameAs": "https://www.wikidata.org/wiki/Q7249389"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "PT NUSKAINO currently needs funding of IDR 5 billion through a crowdfunding funding system, however, PT NUSKAINO does not yet have ideal capital budgeting projections and risk analysis. Therefore, this research aims to test the feasibility of considering funding investment projects using the capital budgeting method along with risk analysis based on groupings of economic conditions. The research methodology used in this research is a mixed method, which involves collecting quantitative and qualitative data, integrating two forms of data, and using different designs that can include philosophical assumptions and theoretical frameworks. The results of the research show that by using capital budgeting calculation techniques, when economic conditions are stable, funding investment activities are feasible. Meanwhile, when economic conditions are weak, investment in financing activities is not feasible. Then, when economic conditions are strong, funding investment activities are feasible. The analysis that has been carried out shows that the use of the capital budgeting method can provide good benefits for companies in making investment considerations so that they do not take the wrong steps in the future. Moreover, simulating the economic conditions that will occur could be a wise step for PT NUSKAINO in considering investment funding using the crowdfunding funding system.",
+  "url": "https://doi.org/10.21009/jrmsi.016.1.4",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.21009/jrmsi.016.1.4",
+    "encodingFormat": "text/html"
+  }
+}

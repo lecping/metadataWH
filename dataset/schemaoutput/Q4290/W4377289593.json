@@ -1,0 +1,280 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4377289593",
+  "doi": "10.35429/jtms.2022.22.8.1.9",
+  "name": "Feasibility of a photovoltaic system for irrigation at the Santa Edwiges ranch in the municipality of Delicias, Chihuahua",
+  "headline": "Feasibility of a photovoltaic system for irrigation at the Santa Edwiges ranch in the municipality of Delicias, Chihuahua",
+  "datePublished": "2022-06-30",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Revista Transdisciplinaria de Estudios Migratorios",
+    "issn": "2414-4967",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5091997390",
+      "name": "Lizeth Portillo Garcí",
+      "givenName": "Lizeth",
+      "familyName": "Garcí",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210090124",
+          "name": "Tecnológico Nacional de México",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "MX"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0009-0008-1474-2925"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5058725953",
+      "name": "Martha Lilia Delgado-Martínez",
+      "givenName": "Martha",
+      "familyName": "Martinez",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210090124",
+          "name": "Tecnológico Nacional de México",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "MX"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-5635-6853"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5035194764",
+      "name": "Mario Abelardo Aguirre-Orozco",
+      "givenName": "Mario",
+      "familyName": "Orozco",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210090124",
+          "name": "Tecnológico Nacional de México",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "MX"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-6899-5230"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5002634753",
+      "name": "Olivia Márquez-Monárrez",
+      "givenName": "Olivia",
+      "familyName": "Márquez-Monárrez",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210090124",
+          "name": "Tecnológico Nacional de México",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "MX"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-8549-5935"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2924279782",
+    "https://openalex.org/W3111117268"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.66552794
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5447619
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-cost",
+      "display_name": "Capital cost",
+      "score": 0.47358757
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41291067",
+      "name": "Photovoltaic system",
+      "sameAs": "https://www.wikidata.org/wiki/Q1897785"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C47737302",
+      "name": "Greenhouse gas",
+      "sameAs": "https://www.wikidata.org/wiki/Q167336"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C188573790",
+      "name": "Renewable energy",
+      "sameAs": "https://www.wikidata.org/wiki/Q12705"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C206658404",
+      "name": "Electricity",
+      "sameAs": "https://www.wikidata.org/wiki/Q12725"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134560507",
+      "name": "Environmental economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q753291"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C157062255",
+      "name": "Capital cost",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035697"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C65440619",
+      "name": "Atmosphere (unit)",
+      "sameAs": "https://www.wikidata.org/wiki/Q177974"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C88862950",
+      "name": "Irrigation",
+      "sameAs": "https://www.wikidata.org/wiki/Q11453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C87717796",
+      "name": "Environmental engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q146326"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C153294291",
+      "name": "Meteorology",
+      "sameAs": "https://www.wikidata.org/wiki/Q25261"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119599485",
+      "name": "Electrical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q43035"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121332964",
+      "name": "Physics",
+      "sameAs": "https://www.wikidata.org/wiki/Q413"
+    }
+  ],
+  "abstract": "This investigation was carried out in the Santa Edwiges ranch located in Delicias Chihuahua, the problem of the increase in the costs of electrical energy for pumping water is a situation that reflects a decrease in the profits of the ranch, through this information the option is presented to implement the photovoltaic system as a sustainable option to reduce costs and thus reduce greenhouse gases provided by renewable energy through the use of solar panels, to analyze the information the capital budget methodology was used to determine its feasibility economic and methodological tool to calculate the emission factor of an electrical system and determine the level of carbon dioxide emissions generates electricity. The results of the investigation were the implementation of the system that would be generated with an investment of $636,000 and would stop emitting around 20,000 kg of CO2 into the atmosphere, which represents a significant advance for the environmental impact, in relation to the analysis of economic indicators. It was that for the moment, the implementation of solar in Rancho Santa Edwiges is not recommended, since better performance is generated by not making the investment.",
+  "url": "https://doi.org/10.35429/jtms.2022.22.8.1.9",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.35429/jtms.2022.22.8.1.9",
+    "encodingFormat": "text/html"
+  }
+}

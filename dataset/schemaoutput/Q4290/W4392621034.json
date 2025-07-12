@@ -1,0 +1,214 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4392621034",
+  "doi": "10.37745/gjahss.2013/vol12n21533",
+  "name": "Effect of Household Investment in Human Capital On Economic Development in Oyigbo Local Government Area of Rivers State, Nigeria",
+  "headline": "Effect of Household Investment in Human Capital On Economic Development in Oyigbo Local Government Area of Rivers State, Nigeria",
+  "datePublished": "2024-02-15",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Global Journal of Arts Humanities and Social Sciences",
+    "issn": "2052-6350",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5046178934",
+      "name": "Ugochukwu Henry Agbarakwe",
+      "givenName": "Ugochukwu",
+      "familyName": "Agbarakwe",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I100116408",
+          "name": "University of Port Harcourt",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NG"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1585982087",
+    "https://openalex.org/W1974054822",
+    "https://openalex.org/W2000656032",
+    "https://openalex.org/W2006737932",
+    "https://openalex.org/W2017370442",
+    "https://openalex.org/W2115028778",
+    "https://openalex.org/W2142345452",
+    "https://openalex.org/W2270112929",
+    "https://openalex.org/W2319213039",
+    "https://openalex.org/W2321157259",
+    "https://openalex.org/W2994582114",
+    "https://openalex.org/W3114254511",
+    "https://openalex.org/W3124317057",
+    "https://openalex.org/W399203292",
+    "https://openalex.org/W4231045339",
+    "https://openalex.org/W4240735914",
+    "https://openalex.org/W946000761"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.69524026
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.46327305
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4451258
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48103436",
+      "name": "State (computer science)",
+      "sameAs": "https://www.wikidata.org/wiki/Q599031"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778137410",
+      "name": "Government (linguistics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2732820"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778719706",
+      "name": "Local government",
+      "sameAs": "https://www.wikidata.org/wiki/Q6501447"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C47768531",
+      "name": "Development economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q1127188"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C11413529",
+      "name": "Algorithm",
+      "sameAs": "https://www.wikidata.org/wiki/Q8366"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This study investigated the effect of “Household Investment in Human Capital on Economic Development in Oyigbo Local Government Area of Rivers State” using health care, poverty reduction and political participation as proxies for development. It made use of primary data collected using the instrument of questionnaire administered to the residents in the area. Statistical tools such as frequency distribution table, percentages and mean were used to present and analyze the data while the chi-square was used to test the formulated hypothesis. The study showed a significant positive effect of household investment in human capital investment on economic development in Oyigbo Local Government Area of Rivers State. It therefore recommended that households should be granted some tax reliefs to increase their disposable income capability for sustained human capital investment and sustainable economic development. The government is also advised to redouble their investment on infrastructure and the educational sector to support the effort the households.",
+  "url": "https://doi.org/10.37745/gjahss.2013/vol12n21533",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://eajournals.org/gjahss/wp-content/uploads/sites/33/2024/02/Effect-of-Household-Investment.pdf",
+    "encodingFormat": "text/html"
+  }
+}

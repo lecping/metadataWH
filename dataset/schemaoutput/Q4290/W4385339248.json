@@ -1,0 +1,330 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4385339248",
+  "doi": "10.52202/069564-0254",
+  "name": "A Comparative Study of Standard Carbon Capture Process and Advanced Flash Stripper Configuration Using MEA",
+  "headline": "A Comparative Study of Standard Carbon Capture Process and Advanced Flash Stripper Configuration Using MEA",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "34th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems (ECOS 2021)",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5101228289",
+      "name": "Ruitao Sun",
+      "givenName": "Ruitao",
+      "familyName": "Sun",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I28407311",
+          "name": "University of Manchester",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5019214638",
+      "name": "Peng Huang",
+      "givenName": "Peng",
+      "familyName": "Huang",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3130352432",
+          "name": "Henry Royce Institute",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I28407311",
+          "name": "University of Manchester",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-6614-7310"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5072494269",
+      "name": "Jie Li",
+      "givenName": "Jie",
+      "familyName": "Li",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I28407311",
+          "name": "University of Manchester",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-7806-400X"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100598969",
+      "name": "Li Sun",
+      "givenName": "Li",
+      "familyName": "Sun",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I868834043",
+          "name": "University of the West of Scotland",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W1991628787",
+    "https://openalex.org/W1992623294",
+    "https://openalex.org/W2007314454",
+    "https://openalex.org/W2014458090",
+    "https://openalex.org/W2040159971",
+    "https://openalex.org/W2061595953",
+    "https://openalex.org/W2564630286",
+    "https://openalex.org/W2969073998",
+    "https://openalex.org/W3204635269",
+    "https://openalex.org/W4206700526",
+    "https://openalex.org/W656881340"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/tonne",
+      "display_name": "Tonne",
+      "score": 0.77478796
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.6438031
+    },
+    {
+      "id": "https://openalex.org/keywords/carbon-fibers",
+      "display_name": "Carbon fibers",
+      "score": 0.534603
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.50274587
+    },
+    {
+      "id": "https://openalex.org/keywords/refinery",
+      "display_name": "Refinery",
+      "score": 0.45460033
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C76758496",
+      "name": "Tonne",
+      "sameAs": "https://www.wikidata.org/wiki/Q191118"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778379663",
+      "name": "Carbon capture and storage (timeline)",
+      "sameAs": "https://www.wikidata.org/wiki/Q5037942"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C167206829",
+      "name": "Flue gas",
+      "sameAs": "https://www.wikidata.org/wiki/Q2556360"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C140205800",
+      "name": "Carbon fibers",
+      "sameAs": "https://www.wikidata.org/wiki/Q5860"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778706760",
+      "name": "Life-cycle assessment",
+      "sameAs": "https://www.wikidata.org/wiki/Q581950"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C548081761",
+      "name": "Waste management",
+      "sameAs": "https://www.wikidata.org/wiki/Q180388"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105168734",
+      "name": "Refinery",
+      "sameAs": "https://www.wikidata.org/wiki/Q1867977"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2777526259",
+      "name": "Flash (photography)",
+      "sameAs": "https://www.wikidata.org/wiki/Q221836"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C87717796",
+      "name": "Environmental engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q146326"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C11413529",
+      "name": "Algorithm",
+      "sameAs": "https://www.wikidata.org/wiki/Q8366"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C104779481",
+      "name": "Composite number",
+      "sameAs": "https://www.wikidata.org/wiki/Q50707"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C142362112",
+      "name": "Art",
+      "sameAs": "https://www.wikidata.org/wiki/Q735"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C153349607",
+      "name": "Visual arts",
+      "sameAs": "https://www.wikidata.org/wiki/Q36649"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C132651083",
+      "name": "Climate change",
+      "sameAs": "https://www.wikidata.org/wiki/Q7942"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    }
+  ],
+  "abstract": "The advanced flash stripper (AFS) is proven to have benefits in capital investment and energy saving for carbon capture plants using piperazine, whilst monoethanolamine is still the most used amine in the existing commercial carbon capture plants.The production and use of energy and material consumed during CO2 absorption and regeneration generate CO2.In this research, the 130-tonne daily CO2 capture plants with conventional configuration and AFS configuration are simulated in Aspen Plus.Their total annualized costs are estimated to be 3.33 million USD and 2.87 million USD, respectively.The life cycle assessment is conducted to evaluate the environmental impacts from the cradle and grave of energy and materials consumed during carbon capture, showing 58% equivalent CO2 in flue gas is generated.",
+  "url": "https://doi.org/10.52202/069564-0254",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.proceedings.com/content/069/069564-0254open.pdf",
+    "encodingFormat": "text/html"
+  }
+}

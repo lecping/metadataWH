@@ -1,0 +1,156 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4401909677",
+  "doi": "10.31107/2075-1990-2024-4-114-133",
+  "name": "Venture Capital Investment in Israel: Impact on the Economy and Technological Development",
+  "headline": "Venture Capital Investment in Israel: Impact on the Economy and Technological Development",
+  "datePublished": "2024-01-01",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Financial Journal",
+    "issn": "2075-1990",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5106772267",
+      "name": "A. S. Larionov",
+      "givenName": "A.S.",
+      "familyName": "Larionov",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0009-0002-6165-9282"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.61350185
+    },
+    {
+      "id": "https://openalex.org/keywords/social-venture-capital",
+      "display_name": "Social venture capital",
+      "score": 0.5111683
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.48709154
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.43730694
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21279758",
+      "name": "Venture capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q219409"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134827381",
+      "name": "Social venture capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q261851"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136264566",
+      "name": "Economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q159810"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Israel is one of the world's leading countries in attracting venture capital, which has largely determined Israel's success in building an innovative economy. This study analyzes the dynamics of venture capital investment in Israel from 1991 to 2021 and assesses the correlation between the level of such investment and the level of foreign direct investment, as well as the impact of venture capital investment on the growth of the technological sector of GDP. It is revealed that venture capital investment stimulates the growth of the high-tech sector of Israel’s GDP, and this provides a cumulative positive effect on other sectors of the economy. The stimulating effect of venture capital investment is reflected in an increase of exports of goods and services, citizens’ incomes and the growth of the country’s GDP. The relevance of the topic of the article is confirmed by the immediacy of the problem of attracting venture capital in the Russian Federation and in most developing countries of the world: for them, there is an objective need to resolve the issues related both to the state policy in the field of attracting venture capital and to the creation of infrastructure for the development of the technological innovation sector of the economy.",
+  "url": "https://doi.org/10.31107/2075-1990-2024-4-114-133",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.31107/2075-1990-2024-4-114-133",
+    "encodingFormat": "text/html"
+  }
+}

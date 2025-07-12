@@ -1,0 +1,206 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4352986627",
+  "doi": "10.54691/bcpbm.v35i.3219",
+  "name": "Application Analysis of Internal Rate of Return Capital Budgeting Method in Project Investment Decision-Making",
+  "headline": "Application Analysis of Internal Rate of Return Capital Budgeting Method in Project Investment Decision-Making",
+  "datePublished": "2022-12-31",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "BCP Business & Management",
+    "issn": "2692-6156",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100867475",
+      "name": "Qixiang Sun",
+      "givenName": "Qixiang",
+      "familyName": "Sun",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I90259746",
+          "name": "Capital University of Economics and Business",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2287455098",
+    "https://openalex.org/W2530592259",
+    "https://openalex.org/W2583029958",
+    "https://openalex.org/W2783982648",
+    "https://openalex.org/W2801628966"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-budgeting",
+      "display_name": "Capital Budgeting",
+      "score": 0.88072157
+    },
+    {
+      "id": "https://openalex.org/keywords/rate-of-return",
+      "display_name": "Rate of return",
+      "score": 0.6395169
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.551669
+    },
+    {
+      "id": "https://openalex.org/keywords/present-value",
+      "display_name": "Present value",
+      "score": 0.4523382
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4136606
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37917861",
+      "name": "Internal rate of return",
+      "sameAs": "https://www.wikidata.org/wiki/Q507477"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C57918260",
+      "name": "Capital budgeting",
+      "sameAs": "https://www.wikidata.org/wiki/Q1354666"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149520272",
+      "name": "Modified internal rate of return",
+      "sameAs": "https://www.wikidata.org/wiki/Q4348850"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181230689",
+      "name": "Net present value",
+      "sameAs": "https://www.wikidata.org/wiki/Q192472"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21425071",
+      "name": "Project appraisal",
+      "sameAs": "https://www.wikidata.org/wiki/Q7249389"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86637286",
+      "name": "Rate of return",
+      "sameAs": "https://www.wikidata.org/wiki/Q7317264"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C169549615",
+      "name": "Return on investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q939134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162118730",
+      "name": "Actuarial science",
+      "sameAs": "https://www.wikidata.org/wiki/Q1128453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C6927289",
+      "name": "Present value",
+      "sameAs": "https://www.wikidata.org/wiki/Q1100466"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26584437",
+      "name": "Investment performance",
+      "sameAs": "https://www.wikidata.org/wiki/Q6060874"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Capital budgeting is crucial for a company to make the right investment decision. Among the typically used evaluation methods, the net present value and the internal rate of return are the mostly commonly used and preferred. This paper aims to focus on IRR, providing a comprehensive view of IRR that includes its basic characteristic, advantages and disadvantages when using it as the investment creation, as well as the improvements of its modified version MIRR, there will also be a comparison between the NPV and IRR to illustrate their difference. The study could enable the audience a comprehensive understanding of IRR in project appraisal, and whether to choose IRR or NPV as the investment criterion under different circumstances of the project or base on their own preferences. This research can provide more comprehensive and more realistic economic evaluation decision-making information, making the project economic evaluation more scientific.",
+  "url": "https://doi.org/10.54691/bcpbm.v35i.3219",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://bcpublication.org/index.php/BM/article/download/3219/3172",
+    "encodingFormat": "text/html"
+  }
+}

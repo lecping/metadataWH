@@ -1,0 +1,172 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4310473937",
+  "doi": "10.29235/1818-9806-2022-11-39-48",
+  "name": "Theoretical foundations of rendering state support to аgroindustrial complex organizations",
+  "headline": "Theoretical foundations of rendering state support to аgroindustrial complex organizations",
+  "datePublished": "2022-11-28",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Agrarian Economics",
+    "issn": "1818-9806",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5061794680",
+      "name": "I. G. Sayanava",
+      "givenName": "I.",
+      "familyName": "Sayanava",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I291386647",
+          "name": "Belarusian State University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "BY"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/flowchart",
+      "display_name": "Flow chart",
+      "score": 0.6550165
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.51436293
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4654907
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C84265765",
+      "name": "Subsidy",
+      "sameAs": "https://www.wikidata.org/wiki/Q193219"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C72041958",
+      "name": "Flowchart",
+      "sameAs": "https://www.wikidata.org/wiki/Q185092"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145097563",
+      "name": "Payment",
+      "sameAs": "https://www.wikidata.org/wiki/Q1148747"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48103436",
+      "name": "State (computer science)",
+      "sameAs": "https://www.wikidata.org/wiki/Q599031"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C11413529",
+      "name": "Algorithm",
+      "sameAs": "https://www.wikidata.org/wiki/Q8366"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199360897",
+      "name": "Programming language",
+      "sameAs": "https://www.wikidata.org/wiki/Q9143"
+    }
+  ],
+  "abstract": "The article presents the results of studies of the mechanism for providing state support to agroindustrial complex organizations, including the directions of financing investment projects. Definitions of the terms “subsidies for the payment of interest (part of interest) for the use of loans”, “budget transfers to reimburse part of the capital costs of investment projects”, and a flowchart for improving the mechanisms of state support for the agroindustrial complex of the Republic of Belarus (classification of state support measures) are given.",
+  "url": "https://doi.org/10.29235/1818-9806-2022-11-39-48",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://agreconom.belnauka.by/jour/article/download/632/603",
+    "encodingFormat": "text/html"
+  }
+}

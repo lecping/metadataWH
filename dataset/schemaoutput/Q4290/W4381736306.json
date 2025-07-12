@@ -1,0 +1,267 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4381736306",
+  "doi": "10.26425/1816-4277-2023-5-131-140",
+  "name": "On the comparative assessment of the investments’ economic efficiency in production capital",
+  "headline": "On the comparative assessment of the investments’ economic efficiency in production capital",
+  "datePublished": "2023-06-22",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Vestnik Universiteta",
+    "issn": "1816-4277",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Saint Petersburg State University"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5075640071",
+      "name": "Viktor Serov",
+      "givenName": "V.",
+      "familyName": "Serov",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I111567634",
+          "name": "State University of Management",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-5143-1896"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5006460419",
+      "name": "Yu. P. Tikhonov",
+      "givenName": "Yu.",
+      "familyName": "Tikhonov",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I111567634",
+          "name": "State University of Management",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-2819-6394"
+    }
+  ],
+  "citationCount": 2,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.7109316
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5853111
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.56321234
+    },
+    {
+      "id": "https://openalex.org/keywords/factors-of-production",
+      "display_name": "Factors of production",
+      "score": 0.44958
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-budgeting",
+      "display_name": "Capital Budgeting",
+      "score": 0.42708212
+    },
+    {
+      "id": "https://openalex.org/keywords/economic-efficiency",
+      "display_name": "Economic Efficiency",
+      "score": 0.41342258
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C98045186",
+      "name": "Process (computing)",
+      "sameAs": "https://www.wikidata.org/wiki/Q205663"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778137410",
+      "name": "Government (linguistics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2732820"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C16927522",
+      "name": "Factors of production",
+      "sameAs": "https://www.wikidata.org/wiki/Q210947"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C57918260",
+      "name": "Capital budgeting",
+      "sameAs": "https://www.wikidata.org/wiki/Q1354666"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C76474335",
+      "name": "Comparative advantage",
+      "sameAs": "https://www.wikidata.org/wiki/Q215551"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C109332788",
+      "name": "Economic efficiency",
+      "sameAs": "https://www.wikidata.org/wiki/Q615445"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C112930515",
+      "name": "Risk analysis (engineering)",
+      "sameAs": "https://www.wikidata.org/wiki/Q4389547"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C155202549",
+      "name": "International trade",
+      "sameAs": "https://www.wikidata.org/wiki/Q178803"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21425071",
+      "name": "Project appraisal",
+      "sameAs": "https://www.wikidata.org/wiki/Q7249389"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111919701",
+      "name": "Operating system",
+      "sameAs": "https://www.wikidata.org/wiki/Q9135"
+    }
+  ],
+  "abstract": "The article notes that in the current methodological document approved by government bodies on determining the investment projects effectiveness there are no recommendations for a comparative assessment of the economic efficiency of decisions made in the process of investment and construction activities, and at the same time their necessity is shown. The authors’ approaches to solving this problem are substantiated and presented. It is proposed to use income and property approaches in determining the economic efficiency of investment projects for the creation of new enterprises, industries, reconstruction and technical re-equipment of existing ones. The proposed methods and indicators are presented, which make it possible to give a comparative assessment of both investment projects as a whole and individual decisions on the choice of production technologies, technological and other equipment, design and construction solutions for buildings and structures.",
+  "url": "https://doi.org/10.26425/1816-4277-2023-5-131-140",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://vestnik.guu.ru/jour/article/download/4499/2692",
+    "encodingFormat": "text/html"
+  }
+}

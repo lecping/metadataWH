@@ -1,0 +1,149 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4322419331",
+  "doi": "10.5281/zenodo.7679760",
+  "name": "The Influence of Intellectual Capital (IC), Green Accounting, Foreign Investment, and Company Size on Profitability at Company registered Mines On the Indonesia Stock Exchange",
+  "headline": "The Influence of Intellectual Capital (IC), Green Accounting, Foreign Investment, and Company Size on Profitability at Company registered Mines On the Indonesia Stock Exchange",
+  "datePublished": "2023-02-27",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Zenodo (CERN European Organization for Nuclear Research)",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": "European Organization for Nuclear Research"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5042942269",
+      "name": "Nuri Shofa Allina",
+      "givenName": "Nuri",
+      "familyName": "Allina",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3131389504",
+          "name": "Muhammadiyah University of Surakarta",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210108816",
+          "name": "Universitas Muhammadiyah Jember",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5089254107",
+      "name": "Muhammad Abdul Aris",
+      "givenName": "Muhammad",
+      "familyName": "Aris",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3131389504",
+          "name": "Muhammadiyah University of Surakarta",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210108816",
+          "name": "Universitas Muhammadiyah Jember",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-9647-6748"
+    }
+  ],
+  "citationCount": 3,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/listed-company",
+      "display_name": "Listed company",
+      "score": 0.45829117
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.42899108
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C129361004",
+      "name": "Profitability index",
+      "sameAs": "https://www.wikidata.org/wiki/Q2470236"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C200870193",
+      "name": "Stock exchange",
+      "sameAs": "https://www.wikidata.org/wiki/Q11691"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121955636",
+      "name": "Accounting",
+      "sameAs": "https://www.wikidata.org/wiki/Q4116214"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780838347",
+      "name": "Intellectual capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q1329252"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2993937409",
+      "name": "Listed company",
+      "sameAs": "https://www.wikidata.org/wiki/Q891723"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    }
+  ],
+  "url": "https://zenodo.org/record/7679760",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://zenodo.org/records/7679760/files/1315997785.pdf",
+    "encodingFormat": "text/html"
+  }
+}

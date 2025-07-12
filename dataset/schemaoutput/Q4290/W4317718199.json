@@ -1,0 +1,217 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4317718199",
+  "doi": "10.1007/s12053-023-10084-x",
+  "name": "Impact of ground source heat pumps on house sales prices in Finland",
+  "headline": "Impact of ground source heat pumps on house sales prices in Finland",
+  "datePublished": "2023-01-23",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Energy Efficiency",
+    "issn": "1570-646X",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Springer Science+Business Media"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5046962148",
+      "name": "Jussi Vimpari",
+      "givenName": "Jussi",
+      "familyName": "Vimpari",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I9927081",
+          "name": "Aalto University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "FI"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-0592-9826"
+    }
+  ],
+  "citationCount": 2,
+  "citation": [
+    "https://openalex.org/W1568840751",
+    "https://openalex.org/W1973396628",
+    "https://openalex.org/W2025352602",
+    "https://openalex.org/W2051688880",
+    "https://openalex.org/W2052171425",
+    "https://openalex.org/W2061717395",
+    "https://openalex.org/W2104006915",
+    "https://openalex.org/W2150258813",
+    "https://openalex.org/W2515912751",
+    "https://openalex.org/W2734428005",
+    "https://openalex.org/W3044630931",
+    "https://openalex.org/W3123148488",
+    "https://openalex.org/W3124378774",
+    "https://openalex.org/W3124765604",
+    "https://openalex.org/W3125142666",
+    "https://openalex.org/W3161762549"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 2390,
+      "currency": "EUR"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5197708
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41755697
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-expenditure",
+      "display_name": "Capital expenditure",
+      "score": 0.41585138
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C158739034",
+      "name": "Metropolitan area",
+      "sameAs": "https://www.wikidata.org/wiki/Q1907114"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779343474",
+      "name": "Context (archaeology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3109175"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776461528",
+      "name": "Heat pump",
+      "sameAs": "https://www.wikidata.org/wiki/Q131313"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C182306322",
+      "name": "Order (exchange)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1779371"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C172497479",
+      "name": "Capital expenditure",
+      "sameAs": "https://www.wikidata.org/wiki/Q302208"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78519656",
+      "name": "Mechanical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q101333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C107706546",
+      "name": "Heat exchanger",
+      "sameAs": "https://www.wikidata.org/wiki/Q189124"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Abstract Buildings contribute to approximately 28% of global energy-related emissions. Heat pumps are a key technology for decarbonising the heating emissions of buildings. This study focuses on ground source heat pumps (GSHP), which are increasingly used in colder regions. Since, for an average home, the capital expenditure of GSHP can be an order of magnitude higher than that of traditional heating, it is important to understand whether GSHP has an impact on house transaction prices. A hedonic price model was constructed to estimate the sales prices of detached houses, where heating type is the main variable of interest. The hedonic analysis revealed that for detached houses, GSHP had a statistically significant positive impact of 5.33% on house sales prices. Further analysis puts the premium in the context of housing prices in different locations in Finland. An average house in the Helsinki Metropolitan Area (HMA) could cover the required capital expenditure of a GSHP system with the sales price premium, whereas in other areas in Finland, 5 years of energy savings are required on top of the premium. Hence, in locations with lower housing prices, the house must be owned for a longer period to recoup the investment costs. This is important to understand when national energy aid policies are planned to accelerate investments in heat pumps.",
+  "url": "https://doi.org/10.1007/s12053-023-10084-x",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://link.springer.com/content/pdf/10.1007/s12053-023-10084-x.pdf",
+    "encodingFormat": "text/html"
+  }
+}

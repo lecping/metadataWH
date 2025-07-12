@@ -1,0 +1,258 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4313248203",
+  "doi": "10.21070/pels.v3i0.1318",
+  "name": "Application of Capital Market Investment Planning Expert System Using Website-Based Forward Chaining Method",
+  "headline": "Application of Capital Market Investment Planning Expert System Using Website-Based Forward Chaining Method",
+  "datePublished": "2022-12-27",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Procedia of Engineering and Life Science",
+    "issn": "2807-2243",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Universitas Muhammadiyah Sidoarjo"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5076273289",
+      "name": "Rakhmad Fahmi Putra",
+      "givenName": "Rakhmad",
+      "familyName": "Putra",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210100705",
+          "name": "Universitas Muhammadiyah Sidoarjo",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100773532",
+      "name": "Sumarno Sumarno",
+      "givenName": "None",
+      "familyName": "Sumarno",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210100705",
+          "name": "Universitas Muhammadiyah Sidoarjo",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-7736-8052"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W116172268",
+    "https://openalex.org/W2342768431",
+    "https://openalex.org/W2559659976",
+    "https://openalex.org/W2879761337",
+    "https://openalex.org/W2915669651",
+    "https://openalex.org/W2955346095",
+    "https://openalex.org/W2972657241",
+    "https://openalex.org/W3130820735",
+    "https://openalex.org/W4285101863",
+    "https://openalex.org/W4313033563"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/forward-chaining",
+      "display_name": "Forward chaining",
+      "score": 0.77407557
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.71649224
+    },
+    {
+      "id": "https://openalex.org/keywords/chaining",
+      "display_name": "Chaining",
+      "score": 0.5533297
+    },
+    {
+      "id": "https://openalex.org/keywords/backward-chaining",
+      "display_name": "Backward chaining",
+      "score": 0.4984548
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.47847387
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.45813966
+    },
+    {
+      "id": "https://openalex.org/keywords/financial-literacy",
+      "display_name": "Financial Literacy",
+      "score": 0.4141515
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C142614401",
+      "name": "Forward chaining",
+      "sameAs": "https://www.wikidata.org/wiki/Q777433"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C58328972",
+      "name": "Expert system",
+      "sameAs": "https://www.wikidata.org/wiki/Q184609"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C49020025",
+      "name": "Chaining",
+      "sameAs": "https://www.wikidata.org/wiki/Q1059099"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C129916263",
+      "name": "Backward chaining",
+      "sameAs": "https://www.wikidata.org/wiki/Q1141183"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2777941463",
+      "name": "Financial literacy",
+      "sameAs": "https://www.wikidata.org/wiki/Q1416374"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C122980154",
+      "name": "Feeling",
+      "sameAs": "https://www.wikidata.org/wiki/Q205555"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C46743427",
+      "name": "Inference engine",
+      "sameAs": "https://www.wikidata.org/wiki/Q1341685"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C77805123",
+      "name": "Social psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q161272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C154945302",
+      "name": "Artificial intelligence",
+      "sameAs": "https://www.wikidata.org/wiki/Q11660"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C542102704",
+      "name": "Psychotherapist",
+      "sameAs": "https://www.wikidata.org/wiki/Q183257"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "Good investment planning is the beginning to achieve investment goals. Price fluctuations in the capital market and financial behavior are the guides for the community in making investment plans. The low level of financial literacy in the community causes people to more often forget to make investment plans and if they are made only based on feelings. Thus, it is necessary to have a system that helps the community to make effective investment plans. The expert system was chosen for that because it has everything needed to meet these needs. In this study, the expert system uses the forward chaining method. After developing the expert system, it runs well and can meet the needs of the community.",
+  "url": "https://doi.org/10.21070/pels.v3i0.1318",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://pels.umsida.ac.id/index.php/PELS/article/download/1318/917",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4283692870",
+  "doi": "10.47202/mak.v34i01.154",
+  "name": "FAKTOR YANG MEMPENGARUHI MINAT INVESTASI SELAMA PANDEMI COVID 19 DI AKADEMI TEKNIK MESIN INDUSTRI SURAKARTA",
+  "headline": "FAKTOR YANG MEMPENGARUHI MINAT INVESTASI SELAMA PANDEMI COVID 19 DI AKADEMI TEKNIK MESIN INDUSTRI SURAKARTA",
+  "datePublished": "2022-06-29",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Media Akuntansi",
+    "issn": "0854-2449",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5060093237",
+      "name": "Evi Dewi Kusumawati",
+      "givenName": "Evi",
+      "familyName": "Kusumawati",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5062236802",
+      "name": "Dewi Kartikasari",
+      "givenName": "Dewi",
+      "familyName": "Kartikasari",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0003-4599-6510"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.79332733
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.45897713
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.42384458
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "This study aims to determine the factors that influence investment interest during the covid 19 pandemic at Industrial Mechanical Engineering Academy (ATMI). This research is survey research. The data used is primary data by taking samples of 84 respondents from ATMI’s students. This research is descriptive research with a quantitative approach.The results showed that investment understanding had a significant effect on investment interests of ATMI Surakarta students, minimal capital had no significant effect on investment interests of ATMI Surakarta students, motivation had no significant effect on investment interests of ATMI Surakarta students, risk perception had a significant effect on investment interests of ATMI Surakarta students, literacy The capital market has a significant effect on the investment interest of ATMI Surakarta students. This shows that simultaneously the variables of understanding investment, minimum capital, motivation, risk perception and capital market literacy have a significant effect on investment interest.",
+  "url": "https://doi.org/10.47202/mak.v34i01.154",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://jurnal.stiepignatelli.ac.id/index.php/mak/article/download/154/97",
+    "encodingFormat": "text/html"
+  }
+}

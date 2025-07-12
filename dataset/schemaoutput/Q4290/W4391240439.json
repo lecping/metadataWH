@@ -1,0 +1,148 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4391240439",
+  "doi": "10.54477/lh.25192353.2023.3.pp.8-18",
+  "name": "METHODS OF FUNDING INNOVATIONS AND SOURCES OF INVESTMENT CAPITAL IN UKRAINE",
+  "headline": "METHODS OF FUNDING INNOVATIONS AND SOURCES OF INVESTMENT CAPITAL IN UKRAINE",
+  "datePublished": "2024-01-25",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Legal horizons",
+    "issn": "2519-2353",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Sumy State University"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5093654681",
+      "name": "Al-Hayali Darid",
+      "givenName": "Al-Hayali",
+      "familyName": "Darid",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I189238007",
+          "name": "Taras Shevchenko National University of Kyiv",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0009-0000-1513-1976"
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W1551036771",
+    "https://openalex.org/W2903684368",
+    "https://openalex.org/W3016887786",
+    "https://openalex.org/W4206737356"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6046798
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.55034894
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5469071
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105639569",
+      "name": "Economic policy",
+      "sameAs": "https://www.wikidata.org/wiki/Q582577"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "In contemporary times, innovations are the primary drivers for economic expansion and social advancement. However, substantial financial barriers frequently follow the journey from inventive ideas to tangible products and services. This article examines diverse strategies for funding innovation and provides insights into the numerous approaches, challenges, and viewpoints that should navigate entrepreneurs, companies, and policymakers. In modern times, globalization affects all countries regardless of their level of development. Therefore, it is crucial to consider factors that increase a country’s competitiveness in the global market. The most significant factor is the innovative activity of enterprises. Therefore, the current stage of the country’s economic development is characterized by a high dependence on the scale of scientific research and development, the speed and efficiency of the introduction of new types of products and technologies. Given this, the government and legislative authorities of the leading countries create maximum conditions for promoting scientific research activities. Financial and credit resources are crucial for stabilizing Ukraine’s economy, which is currently undergoing innovative transformations. The search for sources for financing and crediting innovations has become a pressing issue and requires thorough research. The article examines several funding sources, including venture capital, angel investors, and government subsidies. It highlights their importance in promoting innovations, acknowledges their limitations, and outlines some strategies for securing financial support. Furthermore, the paper analyzes the current condition of Ukraine’s financial market, providing an overview of the factors that affect the stability of Ukraine’s financial system.",
+  "url": "https://doi.org/10.54477/lh.25192353.2023.3.pp.8-18",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://legalhorizons.com.ua/lh/article/download/44/26/53",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4406814056",
+  "doi": "10.47153/afs51.13992025",
+  "name": "Exploring Factors Influencing Millennial Generation Investment Decisions in Indonesian Capital Market",
+  "headline": "Exploring Factors Influencing Millennial Generation Investment Decisions in Indonesian Capital Market",
+  "datePublished": "2025-01-25",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Accounting and Finance Studies",
+    "issn": "2774-4256",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5116028619",
+      "name": "Septianus Hasrat Zega",
+      "givenName": "Septianus",
+      "familyName": "Zega",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5116028620",
+      "name": "Yuniarto Satato",
+      "givenName": "Yuniarto",
+      "familyName": "Satato",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6180389
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5299925
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.49639827
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779207338",
+      "name": "Indonesian",
+      "sameAs": "https://www.wikidata.org/wiki/Q9240"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C143910263",
+      "name": "Capital market",
+      "sameAs": "https://www.wikidata.org/wiki/Q750458"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Research Aims: This study explores the factors influencing millennial generation investment decisions in the Indonesian capital market through a phenomenological approach, focusing on understanding how digital technology, social media, cultural factors, and financial knowledge shape their investment behavior. Design/methodology/approach: The study employs a qualitative phenomenological research design with 20 millennial investors aged 27-42 years. Data collection involved semi-structured interviews, three focus group discussions, and investment journal reviews. Analysis utilized Colaizzi's seven-step phenomenological method to identify emergent themes and patterns. Research Findings: The study revealed five major themes: (1) sophisticated integration of multiple digital platforms in investment activities, (2) strong influence of social media and online communities mediated by local cultural values, (3) evolution of risk management approaches combining technological tools with cultural considerations, (4) transformation of financial knowledge acquisition through digital platforms, and (5) significant impact of cultural-economic context on investment decisions. Theoretical Contribution/Originality: This research extends existing investment behavior theories by providing a comprehensive framework for understanding millennial investment decisions in emerging markets. It uniquely combines technological, social, and cultural perspectives, demonstrating how traditional investment theories need modification to accurately reflect millennial investment patterns in the Indonesian context. Research limitation and implication: The study's limitations include its focus on urban millennial investors and potential regional bias within Indonesia. However, the findings provide valuable insights for investment platform developers, financial educators, and policymakers in adapting their approaches to better serve millennial investors in emerging markets.",
+  "url": "https://doi.org/10.47153/afs51.13992025",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://profesionalmudacendekia.com/index.php/afs/article/download/1399/534",
+    "encodingFormat": "text/html"
+  }
+}

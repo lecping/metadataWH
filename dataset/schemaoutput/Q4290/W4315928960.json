@@ -1,0 +1,345 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4315928960",
+  "doi": "10.1016/j.jdeveco.2023.103053",
+  "name": "Labeled loans and human capital investments",
+  "headline": "Labeled loans and human capital investments",
+  "datePublished": "2023-01-14",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Development Economics",
+    "issn": "0304-3878",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Elsevier BV"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5073626286",
+      "name": "Britta Augsburg",
+      "givenName": "Britta",
+      "familyName": "Augsburg",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I139607695",
+          "name": "Institute for Fiscal Studies",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-8864-7751"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5072266469",
+      "name": "Bet Caeyers",
+      "givenName": "Bet",
+      "familyName": "Caeyers",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I931913249",
+          "name": "Norwegian School of Economics",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NO"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I139607695",
+          "name": "Institute for Fiscal Studies",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2800297018",
+          "name": "Chr. Michelsen Institute",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NO"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-3654-6462"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5070512264",
+      "name": "Sara Giunti",
+      "givenName": "Sara",
+      "familyName": "Giunti",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I66752286",
+          "name": "University of Milano-Bicocca",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IT"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-0307-8578"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5039975216",
+      "name": "Bansi Malde",
+      "givenName": "Bansi",
+      "familyName": "Malde",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I20581793",
+          "name": "University of Kent",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I139607695",
+          "name": "Institute for Fiscal Studies",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-1323-3383"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5053566866",
+      "name": "Susanna Smets",
+      "givenName": "Susanna",
+      "familyName": "Smets",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I1334329717",
+          "name": "World Bank",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 6,
+  "citation": [
+    "https://openalex.org/W1516005115",
+    "https://openalex.org/W1525759184",
+    "https://openalex.org/W1607470849",
+    "https://openalex.org/W1758310571",
+    "https://openalex.org/W1973315060",
+    "https://openalex.org/W1980524096",
+    "https://openalex.org/W1991695486",
+    "https://openalex.org/W1994792316",
+    "https://openalex.org/W2001136655",
+    "https://openalex.org/W2010190155",
+    "https://openalex.org/W2022923850",
+    "https://openalex.org/W2050077818",
+    "https://openalex.org/W2063758111",
+    "https://openalex.org/W2067796046",
+    "https://openalex.org/W2078036854",
+    "https://openalex.org/W2078993558",
+    "https://openalex.org/W2080186747",
+    "https://openalex.org/W2119427701",
+    "https://openalex.org/W2121051375",
+    "https://openalex.org/W2123213339",
+    "https://openalex.org/W2135839350",
+    "https://openalex.org/W2152792807",
+    "https://openalex.org/W2261617724",
+    "https://openalex.org/W2267605752",
+    "https://openalex.org/W2338657323",
+    "https://openalex.org/W2348162613",
+    "https://openalex.org/W2527438997",
+    "https://openalex.org/W2555101851",
+    "https://openalex.org/W2585698078",
+    "https://openalex.org/W2597891703",
+    "https://openalex.org/W2620096461",
+    "https://openalex.org/W2806204110",
+    "https://openalex.org/W2884608836",
+    "https://openalex.org/W2884996275",
+    "https://openalex.org/W2887946286",
+    "https://openalex.org/W2890497729",
+    "https://openalex.org/W2943457197",
+    "https://openalex.org/W2954089035",
+    "https://openalex.org/W2966416192",
+    "https://openalex.org/W3008869742",
+    "https://openalex.org/W3027286602",
+    "https://openalex.org/W3121279875",
+    "https://openalex.org/W3121502504",
+    "https://openalex.org/W3122303914",
+    "https://openalex.org/W3122668861",
+    "https://openalex.org/W3123009971",
+    "https://openalex.org/W3123083564",
+    "https://openalex.org/W3123213498",
+    "https://openalex.org/W3124873683",
+    "https://openalex.org/W3125458234",
+    "https://openalex.org/W3125486894",
+    "https://openalex.org/W3166058896",
+    "https://openalex.org/W4239240859",
+    "https://openalex.org/W93284228"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 3324,
+      "currency": "EUR"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.65578973
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.43166232
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.42853045
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780310539",
+      "name": "Imperfect",
+      "sameAs": "https://www.wikidata.org/wiki/Q12547192"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145236788",
+      "name": "Labour economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q28161"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "Imperfect capital markets and commitment problems impede lumpy human capital investments. Labeled loans have been postulated as a potential solution to both constraints, but little is known about the role of the label in influencing investment choices in practice. We draw on a cluster randomized controlled trial in rural India to test predictions from a theoretical model, providing novel evidence that labeled microcredit is effective in influencing household borrowing and investment decisions and increasing take-up of a lumpy human capital investment, a toilet.",
+  "url": "https://doi.org/10.1016/j.jdeveco.2023.103053",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1016/j.jdeveco.2023.103053",
+    "encodingFormat": "text/html"
+  }
+}

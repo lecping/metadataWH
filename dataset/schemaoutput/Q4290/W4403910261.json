@@ -1,0 +1,254 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4403910261",
+  "doi": "10.52970/grdis.v4i2.578",
+  "name": "Analysis of the Influence of Financial Literacy on Saving Interest of Civil Servants of The One-Stop Integrated Capital Investment and Licensing Service of The Northern Nias Regency",
+  "headline": "Analysis of the Influence of Financial Literacy on Saving Interest of Civil Servants of The One-Stop Integrated Capital Investment and Licensing Service of The Northern Nias Regency",
+  "datePublished": "2024-10-30",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-sa",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Golden Ratio of Data in Summary",
+    "issn": "2776-6411",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5114463891",
+      "name": "Risma Nelly Zalukhu",
+      "givenName": "Risma",
+      "familyName": "Zalukhu",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5064310618",
+      "name": "Maria Magdalena Bate’e",
+      "givenName": "Maria",
+      "familyName": "Bate'e",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0001-6304-3188"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5099474504",
+      "name": "Idarni Harefa",
+      "givenName": "Idarni",
+      "familyName": "Harefa",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5029046381",
+      "name": "Yupiter Mendrofa",
+      "givenName": "Yupiter",
+      "familyName": "Mendrofa",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/civil-servants",
+      "display_name": "Civil servants",
+      "score": 0.8009599
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.665061
+    },
+    {
+      "id": "https://openalex.org/keywords/civil-service",
+      "display_name": "Civil Service",
+      "score": 0.6059006
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.56881934
+    },
+    {
+      "id": "https://openalex.org/keywords/financial-literacy",
+      "display_name": "Financial Literacy",
+      "score": 0.5473327
+    },
+    {
+      "id": "https://openalex.org/keywords/ukrainian",
+      "display_name": "Ukrainian",
+      "score": 0.5234375
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-city",
+      "display_name": "Capital city",
+      "score": 0.43989184
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.42595077
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C3018445945",
+      "name": "Civil servants",
+      "sameAs": "https://www.wikidata.org/wiki/Q11771944"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2992250137",
+      "name": "Civil service",
+      "sameAs": "https://www.wikidata.org/wiki/Q11771944"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780378061",
+      "name": "Service (business)",
+      "sameAs": "https://www.wikidata.org/wiki/Q25351891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2777941463",
+      "name": "Financial literacy",
+      "sameAs": "https://www.wikidata.org/wiki/Q1416374"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21931767",
+      "name": "Ukrainian",
+      "sameAs": "https://www.wikidata.org/wiki/Q8798"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2994052530",
+      "name": "Capital city",
+      "sameAs": "https://www.wikidata.org/wiki/Q5119"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139043278",
+      "name": "Financial services",
+      "sameAs": "https://www.wikidata.org/wiki/Q837171"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C3116431",
+      "name": "Public administration",
+      "sameAs": "https://www.wikidata.org/wiki/Q31728"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780110086",
+      "name": "Public service",
+      "sameAs": "https://www.wikidata.org/wiki/Q161837"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26271046",
+      "name": "Economic geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q187097"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    }
+  ],
+  "abstract": "Employees at the One Stop Integrated Investment and Licensing Services Service in North Nias Regency have a different understanding of Financial Literacy. So some employees do not understand basic financial concepts, such as budget planning, investment, risk, and how to manage debt. Some employees are trapped in fraudulent investments and there are still many employees who have consumerist habits, namely buying things based on desire rather than need. This research aims to determine the influence of financial literacy on the interest in saving of Civil Servants at the One Stop Integrated Licensing and Investment Service of North Nias Regency. The variables in this research are financial literacy (X) and interest in saving (Y). The method in this research uses quantitative research methods. The data collection method in this research uses primary data obtained from filling out questionnaires with 31 employee respondents at the One Stop Integrated Licensing and Investment Service Office of North Nias Regency. as well as secondary data obtained from journals related to this research. The data analysis methods used are validity test, reliability test, correlation coefficient test, determinant coefficient test, normality test, heteroscedasticity test, linearity regression test, simple linear regression test and T test. The results of this research show that financial literacy has a positive and significant effect on the interest in saving of Civil Servants at the One Stop Integrated Licensing and Investment Service of North Nias Regency. Simultaneously, the magnitude of the influence of financial literacy on the interest in saving of employees of the One Stop Integrated Investment and Licensing Services Service of North Nias Regency is 43.8%, while the other 56.2% is influenced by other variables not included in the research.",
+  "url": "https://doi.org/10.52970/grdis.v4i2.578",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://goldenratio.id/index.php/grdis/article/download/578/484",
+    "encodingFormat": "text/html"
+  }
+}

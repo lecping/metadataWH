@@ -1,0 +1,273 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4387097097",
+  "doi": "10.1088/1755-1315/1242/1/012034",
+  "name": "Bio-failure or Bio-fuel? Economic Feasibility of Converting Palm Oil Waste to Biogas",
+  "headline": "Bio-failure or Bio-fuel? Economic Feasibility of Converting Palm Oil Waste to Biogas",
+  "datePublished": "2023-09-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "IOP Conference Series Earth and Environmental Science",
+    "issn": "1755-1315",
+    "publisher": {
+      "@type": "Organization",
+      "name": "IOP Publishing"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5092542862",
+      "name": "D. S. Indah Prihatiningtyas",
+      "givenName": "D.",
+      "familyName": "Prihatiningtyas",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I47689905",
+          "name": "Mulawarman University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5066230273",
+      "name": "Eko Heryadi",
+      "givenName": "E",
+      "familyName": "Heryadi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I47689905",
+          "name": "Mulawarman University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-2766-9164"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5092953342",
+      "name": "G Arimbi",
+      "givenName": "G",
+      "familyName": "Arimbi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I47689905",
+          "name": "Mulawarman University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5038313679",
+      "name": "Hermanto Hermanto",
+      "givenName": "None",
+      "familyName": "Hermanto",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210143305",
+          "name": "Universitas 17 Agustus 1945 Samarinda",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-6118-8276"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1987470031",
+    "https://openalex.org/W2099782497",
+    "https://openalex.org/W2740852586",
+    "https://openalex.org/W3199605643",
+    "https://openalex.org/W4254195689"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/biogas",
+      "display_name": "Biogas",
+      "score": 0.81642926
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5581986
+    },
+    {
+      "id": "https://openalex.org/keywords/biogas-production",
+      "display_name": "Biogas Production",
+      "score": 0.55223787
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-cost",
+      "display_name": "Capital cost",
+      "score": 0.5004692
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.41735497
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C75212476",
+      "name": "Biogas",
+      "sameAs": "https://www.wikidata.org/wiki/Q171076"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C548081761",
+      "name": "Waste management",
+      "sameAs": "https://www.wikidata.org/wiki/Q180388"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2994333036",
+      "name": "Biogas production",
+      "sameAs": "https://www.wikidata.org/wiki/Q171076"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181622380",
+      "name": "Profit (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q26911"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C157062255",
+      "name": "Capital cost",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035697"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C528095902",
+      "name": "Pulp and paper industry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2283886"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C499616599",
+      "name": "Anaerobic digestion",
+      "sameAs": "https://www.wikidata.org/wiki/Q555853"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C516920438",
+      "name": "Methane",
+      "sameAs": "https://www.wikidata.org/wiki/Q37129"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C178790620",
+      "name": "Organic chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q11351"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    }
+  ],
+  "abstract": "Abstract This study aimed to investigate the economic feasibility of using an Up-Flow Anaerobic Sludge Blanket (UASB) reactor to convert liquid waste from palm oil processing plants into biogas containing methane. The study examined total capital investment (TCI), working capital investment (WCI), and production costs at different capacities (3, 30, and 300 liters per day) to determine if the process could generate a profit. The results showed that the biogas production from palm oil industrial liquid waste using the UASB reactor did not result in a profit due to the large capital costs and low biogas production. The implication of this study is that further research is needed to find ways to reduce the capital costs of the process and increase biogas production to make it economically feasible.",
+  "url": "https://doi.org/10.1088/1755-1315/1242/1/012034",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://iopscience.iop.org/article/10.1088/1755-1315/1242/1/012034/pdf",
+    "encodingFormat": "text/html"
+  }
+}

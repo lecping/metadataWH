@@ -1,0 +1,286 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W3095576378",
+  "doi": "10.1257/mic.20190062",
+  "name": "Obsolescence of Capital and Investment Spikes",
+  "headline": "Obsolescence of Capital and Investment Spikes",
+  "datePublished": "2021-10-28",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "American Economic Journal Microeconomics",
+    "issn": "1945-7669",
+    "publisher": {
+      "@type": "Organization",
+      "name": "American Economic Association"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5010709126",
+      "name": "Arthur Fishman",
+      "givenName": "Arthur",
+      "familyName": "Fishman",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I13955877",
+          "name": "Bar-Ilan University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IL"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I52170813",
+          "name": "Ariel University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IL"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-5176-6773"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5060821726",
+      "name": "Boyan Jovanovic",
+      "givenName": "Boyan",
+      "familyName": "Jovanovic",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I57206974",
+          "name": "New York University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1964026741",
+    "https://openalex.org/W1981471110",
+    "https://openalex.org/W1996360816",
+    "https://openalex.org/W2014671255",
+    "https://openalex.org/W2037946628",
+    "https://openalex.org/W2069102272",
+    "https://openalex.org/W2079911253",
+    "https://openalex.org/W2134741939",
+    "https://openalex.org/W2948529012",
+    "https://openalex.org/W3121515033",
+    "https://openalex.org/W3121554642",
+    "https://openalex.org/W3122059539",
+    "https://openalex.org/W3124294703",
+    "https://openalex.org/W3126061707",
+    "https://openalex.org/W4206132744",
+    "https://openalex.org/W4230766159",
+    "https://openalex.org/W4297902082",
+    "https://openalex.org/W4365787967"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/obsolescence",
+      "display_name": "Obsolescence",
+      "score": 0.98904127
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.7291225
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.6163526
+    },
+    {
+      "id": "https://openalex.org/keywords/fixed-investment",
+      "display_name": "Fixed investment",
+      "score": 0.5205991
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.51335853
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-accumulation",
+      "display_name": "Capital Accumulation",
+      "score": 0.45910314
+    },
+    {
+      "id": "https://openalex.org/keywords/fixed-capital",
+      "display_name": "Fixed capital",
+      "score": 0.42048874
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C30795975",
+      "name": "Obsolescence",
+      "sameAs": "https://www.wikidata.org/wiki/Q282744"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C182365436",
+      "name": "Variable (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q50701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C120564339",
+      "name": "Fixed investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q5456372"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C81751973",
+      "name": "Capital accumulation",
+      "sameAs": "https://www.wikidata.org/wiki/Q420062"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C560292",
+      "name": "Fixed capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q1113011"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C58202505",
+      "name": "Capital formation",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035700"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C44750222",
+      "name": "Financial capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q1897397"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134306372",
+      "name": "Mathematical analysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q7754"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "The prospect of capital obsolescence inhibits investment. Investors thus become more optimistic when the obsolescence of their capital slows down. We propose a model with no fixed costs of investment, and random technological progress that induces obsolescence of capital in place. Spikes occur precisely when technological progress slows down. Moreover, the more variable the progress, the larger are the spikes. Cross-industry data show that where price of capital declines are more variable, investment spikes are larger. (JEL D21, D41, D42, G31, O31, O33)",
+  "url": "https://doi.org/10.1257/mic.20190062",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "http://www.nber.org/papers/w28017.pdf",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,403 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4379800443",
+  "doi": "10.1039/d3se00119a",
+  "name": "Lactic acid and biomethane production from bread waste: a techno-economic and profitability analysis using pinch technology",
+  "headline": "Lactic acid and biomethane production from bread waste: a techno-economic and profitability analysis using pinch technology",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Sustainable Energy & Fuels",
+    "issn": "2398-4902",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Royal Society of Chemistry"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5064635731",
+      "name": "Swarnalatha Mailaram",
+      "givenName": "Swarnalatha",
+      "familyName": "Mailaram",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I65181880",
+          "name": "Indian Institute of Technology Hyderabad",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-5397-5106"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5023476713",
+      "name": "Vivek Narisetty",
+      "givenName": "Vivek",
+      "familyName": "Narisetty",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I82284825",
+          "name": "Cranfield University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-5533-0600"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5003872620",
+      "name": "Sunil K. Maity",
+      "givenName": "Sunil",
+      "familyName": "Maity",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I65181880",
+          "name": "Indian Institute of Technology Hyderabad",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-1832-5060"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5080426966",
+      "name": "Siddharth Gadkari",
+      "givenName": "Siddharth",
+      "familyName": "Gadkari",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I28290843",
+          "name": "University of Surrey",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-5228-8534"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5036129345",
+      "name": "Vijay Kumar Thakur",
+      "givenName": "Vijay",
+      "familyName": "Thakur",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I260719752",
+          "name": "Scotland's Rural College",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-0790-2264"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5075996849",
+      "name": "Stephen J. Russell",
+      "givenName": "Stephen",
+      "familyName": "Russell",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I130828816",
+          "name": "University of Leeds",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-0339-9611"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5062694469",
+      "name": "Vinod Kumar",
+      "givenName": "Vinod",
+      "familyName": "Kumar",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I82284825",
+          "name": "Cranfield University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I154851008",
+          "name": "Indian Institute of Technology Roorkee",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-8967-6119"
+    }
+  ],
+  "citationCount": 9,
+  "citation": [
+    "https://openalex.org/W1498159274",
+    "https://openalex.org/W1987643155",
+    "https://openalex.org/W2003150968",
+    "https://openalex.org/W2012305027",
+    "https://openalex.org/W2047460307",
+    "https://openalex.org/W2051983430",
+    "https://openalex.org/W2072287364",
+    "https://openalex.org/W2080246006",
+    "https://openalex.org/W2166395118",
+    "https://openalex.org/W2166671058",
+    "https://openalex.org/W2299542818",
+    "https://openalex.org/W2402249884",
+    "https://openalex.org/W2560616280",
+    "https://openalex.org/W2793167743",
+    "https://openalex.org/W2807067333",
+    "https://openalex.org/W2811046634",
+    "https://openalex.org/W2898457142",
+    "https://openalex.org/W2929883469",
+    "https://openalex.org/W2944482859",
+    "https://openalex.org/W2951789202",
+    "https://openalex.org/W2963718333",
+    "https://openalex.org/W3007048845",
+    "https://openalex.org/W3077536622",
+    "https://openalex.org/W3093359461",
+    "https://openalex.org/W3119429603",
+    "https://openalex.org/W3196186520",
+    "https://openalex.org/W3197339247",
+    "https://openalex.org/W3197442508",
+    "https://openalex.org/W3204107804",
+    "https://openalex.org/W3208615827",
+    "https://openalex.org/W4200111393",
+    "https://openalex.org/W4206495016",
+    "https://openalex.org/W4210291615",
+    "https://openalex.org/W4210888979",
+    "https://openalex.org/W4225015806",
+    "https://openalex.org/W4239152359",
+    "https://openalex.org/W4281565913",
+    "https://openalex.org/W4281644476",
+    "https://openalex.org/W4283259316",
+    "https://openalex.org/W4308368951",
+    "https://openalex.org/W4310817968"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5428008
+    },
+    {
+      "id": "https://openalex.org/keywords/biogas",
+      "display_name": "Biogas",
+      "score": 0.51705366
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.44235724
+    },
+    {
+      "id": "https://openalex.org/keywords/consumption",
+      "display_name": "Consumption",
+      "score": 0.4121036
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2775920511",
+      "name": "Lactic acid",
+      "sameAs": "https://www.wikidata.org/wiki/Q161249"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C129361004",
+      "name": "Profitability index",
+      "sameAs": "https://www.wikidata.org/wiki/Q2470236"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C100544194",
+      "name": "Fermentation",
+      "sameAs": "https://www.wikidata.org/wiki/Q41760"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C75212476",
+      "name": "Biogas",
+      "sameAs": "https://www.wikidata.org/wiki/Q171076"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C528095902",
+      "name": "Pulp and paper industry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2283886"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C548081761",
+      "name": "Waste management",
+      "sameAs": "https://www.wikidata.org/wiki/Q180388"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C30772137",
+      "name": "Consumption (sociology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q5164762"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C31903555",
+      "name": "Food science",
+      "sameAs": "https://www.wikidata.org/wiki/Q1637030"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C523546767",
+      "name": "Bacteria",
+      "sameAs": "https://www.wikidata.org/wiki/Q10876"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C36289849",
+      "name": "Social science",
+      "sameAs": "https://www.wikidata.org/wiki/Q34749"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C54355233",
+      "name": "Genetics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Lactic acid is produced from bread waste using microbial fermentation under acid-neutral and low-pH scenarios. Though the acid-neutral scenario is economically better, the primary economic barriers are huge capital investment and utility consumption.",
+  "url": "https://doi.org/10.1039/d3se00119a",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://pubs.rsc.org/en/content/articlepdf/2023/se/d3se00119a",
+    "encodingFormat": "text/html"
+  }
+}

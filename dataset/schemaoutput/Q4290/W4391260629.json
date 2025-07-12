@@ -1,0 +1,216 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4391260629",
+  "doi": "10.55885/jmap.v3i2.298",
+  "name": "Application of Good Governance Principles in Digital-Based Services in the Department of Capital Investment and One-Door Integrated Services of Gorontalo City",
+  "headline": "Application of Good Governance Principles in Digital-Based Services in the Department of Capital Investment and One-Door Integrated Services of Gorontalo City",
+  "datePublished": "2023-11-29",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-sa",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Management and Administration Provision",
+    "issn": "2776-1282",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5009187384",
+      "name": "Nuzlan Botutihe",
+      "givenName": "Nuzlan",
+      "familyName": "Botutihe",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210134586",
+          "name": "Universitas Muhammadiyah Gorontalo",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5032457868",
+      "name": "Srihandayani Suprapto",
+      "givenName": "Srihandayani",
+      "familyName": "Suprapto",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210134586",
+          "name": "Universitas Muhammadiyah Gorontalo",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5093797078",
+      "name": "Dina Saputri Pahrun",
+      "givenName": "Dina",
+      "familyName": "Pahrun",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210134586",
+          "name": "Universitas Muhammadiyah Gorontalo",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2412441060",
+    "https://openalex.org/W2954831408",
+    "https://openalex.org/W3131041459",
+    "https://openalex.org/W3144492065",
+    "https://openalex.org/W3168551992",
+    "https://openalex.org/W3207980203",
+    "https://openalex.org/W3208526276",
+    "https://openalex.org/W4380635846"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.681817
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.65027773
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.6225671
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-city",
+      "display_name": "Capital city",
+      "score": 0.4259165
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39389867",
+      "name": "Corporate governance",
+      "sameAs": "https://www.wikidata.org/wiki/Q380767"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2994052530",
+      "name": "Capital city",
+      "sameAs": "https://www.wikidata.org/wiki/Q5119"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C76155785",
+      "name": "Telecommunications",
+      "sameAs": "https://www.wikidata.org/wiki/Q418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26271046",
+      "name": "Economic geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q187097"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    }
+  ],
+  "abstract": "This research aims to discover the principles of good governance in digital-based services at the Gorontalo City Investment and One-Stop Integrated Service Office. The method uses descriptive research with a qualitative approach and data collection techniques through observation, interviews, and documentation derived from primary and secondary data. This research uses data analysis techniques through data collection techniques, data reduction, data presentation and conclusion drawing. The results showed that the principles of Good Goverance in the One-Stop Integrated Service Investment Office of Gorontalo City, seen from the indicators of transparency, equality/justice, and community participation, have yet to be achieved. This is due to unclear requirements and periods for permit completion, nepotism in the service, and lack of public participation in socialization held by the agency. It is suggested that the government provide appropriate and proper intensive services to all people who come to the Gorontalo City Investment and One-Stop Integrated Service Office and improve the SICANTIK service system so that the purpose of holding SICANTIK can be achieved following what is expected by bathubs, govemment and the community",
+  "url": "https://doi.org/10.55885/jmap.v3i2.298",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "http://psppjournals.org/index.php/jmap/article/download/298/281",
+    "encodingFormat": "text/html"
+  }
+}

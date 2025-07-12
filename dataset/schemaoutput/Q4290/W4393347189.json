@@ -1,0 +1,199 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4393347189",
+  "doi": "10.47505/ijrss.2024.2.9",
+  "name": "Business Licensing Services Through The Sicantik Cloud Application System in The Environment of The Department of Capital Investment and One-Door Integrated Services (DPMPTSP) Banda Aceh City",
+  "headline": "Business Licensing Services Through The Sicantik Cloud Application System in The Environment of The Department of Capital Investment and One-Door Integrated Services (DPMPTSP) Banda Aceh City",
+  "datePublished": "2024-01-01",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "INTERNATIONAL JOURNAL OF RESEARCH IN SOCIAL SCIENCE AND HUMANITIES",
+    "issn": "2582-6220",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5006724074",
+      "name": "Cut Putri Ellyana",
+      "givenName": "Cut",
+      "familyName": "Ellyana",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210108175",
+          "name": "Universitas Merdeka Malang",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5110973606",
+      "name": "Syafei Ibrahim",
+      "givenName": "Syafei",
+      "familyName": "Ibrahim",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210108175",
+          "name": "Universitas Merdeka Malang",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5037058317",
+      "name": "Dwi Suharnoko",
+      "givenName": "Dwi",
+      "familyName": "Suharnoko",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210108175",
+          "name": "Universitas Merdeka Malang",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2405068030",
+    "https://openalex.org/W2419282034",
+    "https://openalex.org/W2978163724",
+    "https://openalex.org/W3023051525",
+    "https://openalex.org/W3203623592",
+    "https://openalex.org/W4238448648",
+    "https://openalex.org/W4241518493",
+    "https://openalex.org/W4249942599",
+    "https://openalex.org/W636341350"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.61532605
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.53250015
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.50512725
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C79974875",
+      "name": "Cloud computing",
+      "sameAs": "https://www.wikidata.org/wiki/Q483639"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C54750564",
+      "name": "Commerce",
+      "sameAs": "https://www.wikidata.org/wiki/Q26643"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111919701",
+      "name": "Operating system",
+      "sameAs": "https://www.wikidata.org/wiki/Q9135"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This paper is focused on Business licensing services through the cloud application system. The investment service and one-stop integrated service for the City of Banda Aceh, this research is on the implementation of electronically integrated business licensing services for accelerating business licensing in the City of Banda Aceh. This development is in accordance with the demands of the times as the SiCantik Cloud Online Licensing Application (Integrated Licensing Service Intelligent Application for the Public). The formulation of the problem 1) How to Implement Licensing and Non-licensing Services Through the Si Cantik Cloud Application System at the Investment and One-Stop Services Office (DPM-PTSP) of Banda Aceh City. 2) What are the Supporting and Obstacle Factors in the Implementation of Services in Licensing and Non-licensing throughthe Sicantik Cloud Application System at the Banda Aceh Investment and One-Stop Services Office (DPM-PTSP). Theoretical benefits, as a researcher's effort in translating the results of this research on the one hand to become a build design in the embodiment of the SiCantik Cloud DPM-PTSP application in Banda Aceh City. The practical use of this research is expected to be input and consideration in the Implementation of Non-Business Licensing Services throughthe SiCantik Cloud Application System at DPM-PTSP Banda Aceh City. As for this research approach, it was carried out by using a qualitative descriptive approach, through searching with the benefits of information using interview techniques, documentation, observations and conclusions were made to obtain business licensing services, the beautiful cloud investment service application and one-stop integrated services. The results of the study show that Non-Business Licensing Services are Through the SiCantik Cloud Application System at the Investment Service and One-Stop Services in Banda Aceh City, assuming the applicant's limited ability to fulfill business licensing and non-licensing documents.",
+  "url": "https://doi.org/10.47505/ijrss.2024.2.9",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://ijrss.org/index.php/ijrss/article/download/331/210/492",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4388813185",
+  "doi": "10.54097/ajmss.v5i1.13915",
+  "name": "Research on the Management and Countermeasures of CR Vanguard",
+  "headline": "Research on the Management and Countermeasures of CR Vanguard",
+  "datePublished": "2023-11-14",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Deleted Journal",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5022440297",
+      "name": "Shufan Li",
+      "givenName": "Shufan",
+      "familyName": "Li",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I27599042",
+          "name": "Xi'an Polytechnic University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-6366-7334"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/vanguard",
+      "display_name": "Vanguard",
+      "score": 0.99127984
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.59117734
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.50890803
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4538972
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779197502",
+      "name": "Vanguard",
+      "sameAs": "https://www.wikidata.org/wiki/Q255546"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C191935318",
+      "name": "China",
+      "sameAs": "https://www.wikidata.org/wiki/Q148"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779439359",
+      "name": "Commodity",
+      "sameAs": "https://www.wikidata.org/wiki/Q317088"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C68062652",
+      "name": "Social capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q214693"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39549134",
+      "name": "Public relations",
+      "sameAs": "https://www.wikidata.org/wiki/Q133080"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "Supermarkets, as a kind of commodity retail model, have been developing rapidly in our country in recent years. Therefore, whether they develop healthily or not has been closely related to residents' lives. Through the analysis of the problems existing in the warehouse of China Resources Vanguard, this paper finds that the enterprise has serious problems of brain drain, food safety and personnel safety. In view of these problems, suggestions are put forward to strengthen social supervision, strengthen capital and equipment investment, personnel education and social supervision.",
+  "url": "https://doi.org/10.54097/ajmss.v5i1.13915",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://drpress.org/ojs/index.php/ajmss/article/download/13915/13495",
+    "encodingFormat": "text/html"
+  }
+}

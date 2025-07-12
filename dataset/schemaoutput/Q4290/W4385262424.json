@@ -1,0 +1,214 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4385262424",
+  "doi": "10.5281/zenodo.8186341",
+  "name": "Investment Decisions in the Capital Market: Perceptions of Christian Students",
+  "headline": "Investment Decisions in the Capital Market: Perceptions of Christian Students",
+  "datePublished": "2023-07-26",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Zenodo (CERN European Organization for Nuclear Research)",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": "European Organization for Nuclear Research"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5035550600",
+      "name": "Eliada Herwiyanti",
+      "givenName": "Eliada",
+      "familyName": "Herwiyanti",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I261079859",
+          "name": "Jenderal Soedirman University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-9042-1321"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5062402967",
+      "name": "Gregorius Suwito",
+      "givenName": "Gregorius",
+      "familyName": "Suwito",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210159899",
+          "name": "Universitas Muhammadiyah Semarang",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5080024677",
+      "name": "Tri Astuti",
+      "givenName": "Tri",
+      "familyName": "Astuti",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210159899",
+          "name": "Universitas Muhammadiyah Semarang",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-3259-8575"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.58972394
+    },
+    {
+      "id": "https://openalex.org/keywords/investment-decisions",
+      "display_name": "Investment Decisions",
+      "score": 0.5747999
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5387114
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5180652
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26760741",
+      "name": "Perception",
+      "sameAs": "https://www.wikidata.org/wiki/Q160402"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778865806",
+      "name": "Investment decisions",
+      "sameAs": "https://www.wikidata.org/wiki/Q6060850"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C143910263",
+      "name": "Capital market",
+      "sameAs": "https://www.wikidata.org/wiki/Q750458"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C109574028",
+      "name": "Behavioral economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q647525"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C169760540",
+      "name": "Neuroscience",
+      "sameAs": "https://www.wikidata.org/wiki/Q207011"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    }
+  ],
+  "url": "https://zenodo.org/record/8186341",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://zenodo.org/records/8186341/files/49.pdf",
+    "encodingFormat": "text/html"
+  }
+}

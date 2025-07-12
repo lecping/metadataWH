@@ -1,0 +1,224 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4394061487",
+  "doi": "10.22610/jebs.v16i1(j).3712",
+  "name": "Does Investment in Human Capital Offset Oil Dependence? Unveiling the Drivers of Unemployment in Uganda",
+  "headline": "Does Investment in Human Capital Offset Oil Dependence? Unveiling the Drivers of Unemployment in Uganda",
+  "datePublished": "2024-04-07",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Economics and Behavioral Studies",
+    "issn": "2220-6140",
+    "publisher": {
+      "@type": "Organization",
+      "name": "International Foundation for Research and Development"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5052721524",
+      "name": "Asaph Kaburura Katarangi",
+      "givenName": "Asaph",
+      "familyName": "Katarangi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I141930137",
+          "name": "Mbarara University of Science and Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UG"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5085283584",
+      "name": "Frederick Nsambu Kijjambu",
+      "givenName": "Frederick",
+      "familyName": "Kijjambu",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I141930137",
+          "name": "Mbarara University of Science and Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UG"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5092252725",
+      "name": "Benjamin Musiita",
+      "givenName": "Benjamin",
+      "familyName": "Musiita",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I141930137",
+          "name": "Mbarara University of Science and Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UG"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1839407689",
+    "https://openalex.org/W2027057051",
+    "https://openalex.org/W2300299584",
+    "https://openalex.org/W2310199103",
+    "https://openalex.org/W2506873271",
+    "https://openalex.org/W2623252536",
+    "https://openalex.org/W2772962120",
+    "https://openalex.org/W2921223190",
+    "https://openalex.org/W2921567540",
+    "https://openalex.org/W2941213518",
+    "https://openalex.org/W2980569538",
+    "https://openalex.org/W2991776916",
+    "https://openalex.org/W2991824404",
+    "https://openalex.org/W3045308675",
+    "https://openalex.org/W3097646487",
+    "https://openalex.org/W3104439878",
+    "https://openalex.org/W3105277726",
+    "https://openalex.org/W3137166113",
+    "https://openalex.org/W3143357244",
+    "https://openalex.org/W3152833315",
+    "https://openalex.org/W3158812006",
+    "https://openalex.org/W3179991212",
+    "https://openalex.org/W3185099098",
+    "https://openalex.org/W3204296020",
+    "https://openalex.org/W3205054800",
+    "https://openalex.org/W3206998165",
+    "https://openalex.org/W4280639699",
+    "https://openalex.org/W4295767081",
+    "https://openalex.org/W4311041998",
+    "https://openalex.org/W4378187114",
+    "https://openalex.org/W4380840103",
+    "https://openalex.org/W4385374975",
+    "https://openalex.org/W4386227798"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5806268
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.50669485
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175291020",
+      "name": "Offset (computer science)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1156822"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778126366",
+      "name": "Unemployment",
+      "sameAs": "https://www.wikidata.org/wiki/Q41171"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199360897",
+      "name": "Programming language",
+      "sameAs": "https://www.wikidata.org/wiki/Q9143"
+    }
+  ],
+  "abstract": "This study explored the impact of human capital development on unemployment in Uganda. Employing a Vector Auto Regression (VAR) model informed by the Neoclassical growth theory, the research analyzed the relationship between education expenditure (a human capital component) and unemployment, while controlling for physical capital (represented by GDP) and inflation. Utilizing annual data from 1986 to 2022, the findings revealed a complex dynamic. In the short run, higher real effective exchange rates (stronger local currency) and GDP growth might lead to a temporary rise in unemployment. However, the long-term picture suggests a positive influence of real exchange rates and GDP on unemployment, implying they contribute to lower unemployment over time. Interestingly, the study found no direct impact of international oil prices on Uganda's unemployment. The research concludes by highlighting the need for effective population management strategies, such as family planning and education, to ensure sustainable population growth that aligns with economic expansion.",
+  "url": "https://doi.org/10.22610/jebs.v16i1(j).3712",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://ojs.amhinternational.com/index.php/jebs/article/download/3712/2418",
+    "encodingFormat": "text/html"
+  }
+}

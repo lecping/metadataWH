@@ -1,0 +1,231 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4367320095",
+  "doi": "10.1111/jwas.12950",
+  "name": "Economic assessment of investment in automatic feeding systems for sea bass grow‐out farms of different sizes",
+  "headline": "Economic assessment of investment in automatic feeding systems for sea bass grow‐out farms of different sizes",
+  "datePublished": "2023-04-27",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-nd",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of the World Aquaculture Society",
+    "issn": "0893-8849",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Wiley"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5037275597",
+      "name": "Fernández Sánchez",
+      "givenName": "José",
+      "familyName": "Sánchez",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I13134134",
+          "name": "Universidad de Cantabria",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ES"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-1042-7572"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5043597907",
+      "name": "Bernardo Basurco",
+      "givenName": "Bernardo",
+      "familyName": "Basurco",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210116002",
+          "name": "International Centre for Advanced Mediterranean Agronomic Studies",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ES"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-7280-943X"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5005704603",
+      "name": "Cristóbal Aguilera",
+      "givenName": "Cristóbal",
+      "familyName": "Aguilera",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210100913",
+          "name": "Institute of Agrifood Research and Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ES"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-3005-788X"
+    }
+  ],
+  "citationCount": 2,
+  "citation": [
+    "https://openalex.org/W1989846996",
+    "https://openalex.org/W2064764406",
+    "https://openalex.org/W2298840079",
+    "https://openalex.org/W2768656338",
+    "https://openalex.org/W2937840872",
+    "https://openalex.org/W3020986123",
+    "https://openalex.org/W3097528605",
+    "https://openalex.org/W3202920625",
+    "https://openalex.org/W3214018469",
+    "https://openalex.org/W4236257814"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 1900,
+      "currency": "EUR"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6172497
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5535385
+    },
+    {
+      "id": "https://openalex.org/keywords/sea-bass",
+      "display_name": "Sea bass",
+      "score": 0.4911327
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C188897",
+      "name": "Economic impact analysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q5333508"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C505870484",
+      "name": "Fishery",
+      "sameAs": "https://www.wikidata.org/wiki/Q180538"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780008901",
+      "name": "Sea bass",
+      "sameAs": "https://www.wikidata.org/wiki/Q1248017"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181230689",
+      "name": "Net present value",
+      "sameAs": "https://www.wikidata.org/wiki/Q192472"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37621935",
+      "name": "Agricultural science",
+      "sameAs": "https://www.wikidata.org/wiki/Q3606845"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2909208804",
+      "name": "Fish <Actinopterygii>",
+      "sameAs": "https://www.wikidata.org/wiki/Q127282"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Abstract The aim of this work was to run an economic assessment of investment in automatic feeding systems for grow‐out farms of different sizes producing European sea bass in the Mediterranean Sea. For this, we have used an economic model to simulate the annual income statement of a typical farm with different production volumes: a small‐sized farm with a production of 413 tons/year, a medium‐sized farm of 1122 tons/year, and a large‐sized farm of 2539 tons/year. With the values obtained in the simulation, we have carried out partial budget and investment analyses to estimate the economic value of this investment decision. To complement our economic assessment, a sensitivity analysis has also been run to include risk in the investment decision. Our findings show that the implementation of automatic feeding systems in sea bass grow‐out farms would be a good economic decision, regardless of the farm size, since there are technological options suitable for different farm sizes and capital investment capacities. Consequently, innovation and investment in feeding management should not be impeded or limited by the farm size.",
+  "url": "https://doi.org/10.1111/jwas.12950",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jwas.12950",
+    "encodingFormat": "text/html"
+  }
+}

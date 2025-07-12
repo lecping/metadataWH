@@ -1,0 +1,283 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4399181471",
+  "doi": "10.33543/j.140141.129134",
+  "name": "DECOMPOSITION OF INFORMATION PROVISION OF THE SYSTEM OF PUBLIC MANAGEMENT OF INVESTMENT RISKS IN THE DEVELOPMENT OF HUMAN CAPITAL",
+  "headline": "DECOMPOSITION OF INFORMATION PROVISION OF THE SYSTEM OF PUBLIC MANAGEMENT OF INVESTMENT RISKS IN THE DEVELOPMENT OF HUMAN CAPITAL",
+  "datePublished": "2024-04-30",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "AD ALTA Journal of Interdisciplinary Research",
+    "issn": "1804-7890",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5027723895",
+      "name": "Mykola Izha",
+      "givenName": "MYKOLA",
+      "familyName": "IZHA",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I98435010",
+          "name": "Lviv Polytechnic National University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-7263-6193"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5064505775",
+      "name": "Tetyana Pakhomova",
+      "givenName": "TETYANA",
+      "familyName": "PAKHOMOVA",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I98435010",
+          "name": "Lviv Polytechnic National University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-9940-1418"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5098948097",
+      "name": "LESIA BRYCH",
+      "givenName": "LESIA",
+      "familyName": "BRYCH",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I98435010",
+          "name": "Lviv Polytechnic National University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5091582738",
+      "name": "Iryna Matvieienko",
+      "givenName": "IRYNA",
+      "familyName": "MATVIEIENKO",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I40179345",
+          "name": "Odessa National Polytechnic University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5022638732",
+      "name": "Yuliia Yevstiunina",
+      "givenName": "YULIIA",
+      "familyName": "YEVSTIUNINA",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I98435010",
+          "name": "Lviv Polytechnic National University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1515018035",
+    "https://openalex.org/W2466118659",
+    "https://openalex.org/W2497168766",
+    "https://openalex.org/W2995183002",
+    "https://openalex.org/W3038552607",
+    "https://openalex.org/W3040503388",
+    "https://openalex.org/W3048346374",
+    "https://openalex.org/W3083608005",
+    "https://openalex.org/W3115392366",
+    "https://openalex.org/W3116904863",
+    "https://openalex.org/W3123668768",
+    "https://openalex.org/W3132152681",
+    "https://openalex.org/W3132391802",
+    "https://openalex.org/W3171367286",
+    "https://openalex.org/W3202717412",
+    "https://openalex.org/W3205482383",
+    "https://openalex.org/W3210417755",
+    "https://openalex.org/W4200609139",
+    "https://openalex.org/W4205769972",
+    "https://openalex.org/W4206265841",
+    "https://openalex.org/W4226040107",
+    "https://openalex.org/W4229636298",
+    "https://openalex.org/W4320016015",
+    "https://openalex.org/W4382776809",
+    "https://openalex.org/W617074109"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.64193964
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.6208448
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.46289816
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C124681953",
+      "name": "Decomposition",
+      "sameAs": "https://www.wikidata.org/wiki/Q339062"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2994464924",
+      "name": "Public investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q1929688"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105639569",
+      "name": "Economic policy",
+      "sameAs": "https://www.wikidata.org/wiki/Q582577"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C178790620",
+      "name": "Organic chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q11351"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2910001868",
+      "name": "European union",
+      "sameAs": "https://www.wikidata.org/wiki/Q458"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The article emphasizes that investing into human capital is crucial for any nation hoping to achieve long-term economic growth, it contributes to the development of a trained labor force that can promote innovation and technological advancement, increase productivity, and adjust to shifting economic situations. It is shown that the study of issues related to the accumulation of high-quality human capital is of particular relevance. There is an urgent need to study various aspects of investing in human capital at all stages of its reproduction in order to develop scientifically based recommendations for preserving already accumulated human capital and determining the possibilities for the effective distribution of investments in the development of human capital. Based on two crucial components of human resource development – education and healthcare – provisions of state management of investment risks in this capital development are outlined and decomposition model is suggested.",
+  "url": "https://doi.org/10.33543/j.140141.129134",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.33543/j.140141.129134",
+    "encodingFormat": "text/html"
+  }
+}

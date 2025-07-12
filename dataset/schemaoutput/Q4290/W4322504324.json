@@ -1,0 +1,262 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4322504324",
+  "doi": "10.3390/land12030557",
+  "name": "How Does the Farmland Management Scale Affect Grain Losses at Harvest? Analysis of Mediating Effect of Agricultural Input Based on Harvesting",
+  "headline": "How Does the Farmland Management Scale Affect Grain Losses at Harvest? Analysis of Mediating Effect of Agricultural Input Based on Harvesting",
+  "datePublished": "2023-02-25",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Land",
+    "issn": "2073-445X",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Multidisciplinary Digital Publishing Institute"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5076030545",
+      "name": "Bohan Hou",
+      "givenName": "Bohan",
+      "familyName": "Hou",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I89652312",
+          "name": "Northwest A&F University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5079378032",
+      "name": "Wenwen Yu",
+      "givenName": "Wenwen",
+      "familyName": "Yu",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I89652312",
+          "name": "Northwest A&F University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-0304-2575"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5014581296",
+      "name": "Zhengtong Chen",
+      "givenName": "Zhengtong",
+      "familyName": "Chen",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I89652312",
+          "name": "Northwest A&F University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5055111216",
+      "name": "Jin Yu",
+      "givenName": "Jin",
+      "familyName": "Yu",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I89652312",
+          "name": "Northwest A&F University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-0913-0798"
+    }
+  ],
+  "citationCount": 2,
+  "citation": [
+    "https://openalex.org/W1983259037",
+    "https://openalex.org/W2138803696",
+    "https://openalex.org/W2168549921",
+    "https://openalex.org/W2492720625",
+    "https://openalex.org/W2744700793",
+    "https://openalex.org/W2804991970",
+    "https://openalex.org/W3042043927"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 2000,
+      "currency": "CHF"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5710379
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.46681997
+    },
+    {
+      "id": "https://openalex.org/keywords/agricultural-land",
+      "display_name": "Agricultural land",
+      "score": 0.44683176
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.42574513
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C118518473",
+      "name": "Agriculture",
+      "sameAs": "https://www.wikidata.org/wiki/Q11451"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204983608",
+      "name": "Productivity",
+      "sameAs": "https://www.wikidata.org/wiki/Q2111958"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778755073",
+      "name": "Scale (ratio)",
+      "sameAs": "https://www.wikidata.org/wiki/Q10858537"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C502990516",
+      "name": "Agricultural land",
+      "sameAs": "https://www.wikidata.org/wiki/Q3395383"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C58640448",
+      "name": "Cartography",
+      "sameAs": "https://www.wikidata.org/wiki/Q42515"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    }
+  ],
+  "abstract": "Previous studies have demonstrated that grain loss in the harvest process accounts for a large loss in all aspects of the grain supply chain. This research extensively discusses the impact of farmland management scale on grain loss in the harvest process based on survey data on farmers’ productivity in the Shandong and Hebei provinces of China. The findings revealed that the scale of farmland operation directly influenced the grain loss during harvest and that this effect is greatly reduced as the farmland operation scale increases. This study also constructed an intermediary model, investigated the influence mechanisms, and added agricultural capital as a variable in the harvest link. It was discovered that the scale of agricultural land management has an indirect effect on grain loss in the harvest link via the input of agricultural capital in the harvest link. The increase in agricultural capital investment in the harvest link considerably reduced this effect. In order to decrease grain losses during the harvest process, this paper suggests expanding the size of agricultural enterprises, developing new agricultural corporate organizations, and further playing the role of the rural land market.",
+  "url": "https://doi.org/10.3390/land12030557",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.mdpi.com/2073-445X/12/3/557/pdf?version=1677648830",
+    "encodingFormat": "text/html"
+  }
+}

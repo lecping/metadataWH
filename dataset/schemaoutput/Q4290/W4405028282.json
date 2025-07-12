@@ -1,0 +1,157 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4405028282",
+  "doi": "10.1787/975fedfa-en",
+  "name": "The Spanish corporate sector",
+  "headline": "The Spanish corporate sector",
+  "datePublished": "2024-12-05",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Organisation for Economic Co-operation and Development eBooks",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": "Organization for Economic Cooperation and Development"
+    }
+  },
+  "author": [],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/demographics",
+      "display_name": "Demographics",
+      "score": 0.852055
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.55782247
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.48124242
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.44595224
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780084366",
+      "name": "Demographics",
+      "sameAs": "https://www.wikidata.org/wiki/Q37732"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2986840890",
+      "name": "Financial sector",
+      "sameAs": "https://www.wikidata.org/wiki/Q837171"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121955636",
+      "name": "Accounting",
+      "sameAs": "https://www.wikidata.org/wiki/Q4116214"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C73283319",
+      "name": "Financial system",
+      "sameAs": "https://www.wikidata.org/wiki/Q1416617"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149923435",
+      "name": "Demography",
+      "sameAs": "https://www.wikidata.org/wiki/Q37732"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This chapter provides an overview of the Spanish economy and an in-depth review of non‑financial companies' demographics, capital structure, investment levels and performance. It also provides comparisons with selected peer countries.",
+  "url": "https://doi.org/10.1787/975fedfa-en",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.oecd-ilibrary.org/deliver/478ec2f5-en.pdf?itemId=%2Fcontent%2Fpublication%2F478ec2f5-en&mimeType=pdf",
+    "encodingFormat": "text/html"
+  }
+}

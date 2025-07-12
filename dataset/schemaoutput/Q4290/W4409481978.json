@@ -1,0 +1,162 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4409481978",
+  "doi": "10.33541/fjm.v9i2p.6312",
+  "name": "The Influence of Marketing Mix Strategies on the Investment Interest of InvestasiKu Application Users at Mega Capital Sekuritas",
+  "headline": "The Influence of Marketing Mix Strategies on the Investment Interest of InvestasiKu Application Users at Mega Capital Sekuritas",
+  "datePublished": "2024-10-23",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Fundamental Management Journal",
+    "issn": "2540-9220",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5117167076",
+      "name": "Indah Valentin Silalahi",
+      "givenName": "None",
+      "familyName": "Silalahi",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5018141666",
+      "name": "Carolina F. Sembiring",
+      "givenName": "None",
+      "familyName": "Sembiring",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/mega-",
+      "display_name": "Mega-",
+      "score": 0.7723444
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.6067376
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.58987993
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.52242136
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2781078984",
+      "name": "Mega-",
+      "sameAs": "https://www.wikidata.org/wiki/Q107205"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121332964",
+      "name": "Physics",
+      "sameAs": "https://www.wikidata.org/wiki/Q413"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C1276947",
+      "name": "Astronomy",
+      "sameAs": "https://www.wikidata.org/wiki/Q333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "InvestasiKu, a component of the CT Corp conglomerate operating under Mega Capital Sekuritas, has actively implemented a marketing mix strategy. Despite concerted efforts, InvestasiKu has not succeeded in establishing itself among the top 20 brokerage firms in Indonesia. Consequently, this research concentrates on users of the InvestasiKu application in the Central Jakarta region. The study was conducted quantitatively from November to December 2023. The target population comprises users of the InvestasiKu application in Central Jakarta, though the exact population size remains unknown. Employing purposive sampling, 96 respondents were chosen for the research sample, and data collection was carried out through Google Forms. Multiple regression served as the analytical tool. Subtest results indicate that the product variable (X1) significantly influences investment outcomes (Y), as evidenced by a significance value of 0.000, which is less than the specified margin of error of 0.05. Conversely, the location variable (X3) does not exert a significant influence on investment interest (Y), with a significance value of 0.174, surpassing the specified margin of error of 0.05. Simultaneous tests reveal a noteworthy collective impact of the product, price, location, and promotion variables on investment interest, with a significance value &lt; 0.000, signifying statistical significance. In essence, these variables collectively wield a substantial influence on investment interest. Keywords: Marketing Mix, Product, Price, Place, Promotion, Investment Interest, InvestasiKu",
+  "url": "https://doi.org/10.33541/fjm.v9i2p.6312",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.33541/fjm.v9i2p.6312",
+    "encodingFormat": "text/html"
+  }
+}

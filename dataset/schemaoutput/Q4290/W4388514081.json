@@ -1,0 +1,136 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4388514081",
+  "doi": "10.32782/tnu-2707-0581/2023.4/05",
+  "name": "LEGAL REGIME OF A SHARE IN THE CHARTER (POOLED) CAPITAL OF A COMPANY IN THE SPHERE OF INVESTMENT ACTIVITY",
+  "headline": "LEGAL REGIME OF A SHARE IN THE CHARTER (POOLED) CAPITAL OF A COMPANY IN THE SPHERE OF INVESTMENT ACTIVITY",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Scientific notes of Taurida National V I Vernadsky University Series Juridical Sciences",
+    "issn": "2707-0581",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5087927067",
+      "name": "O.Ye. Kukhariev",
+      "givenName": "O.Ye.",
+      "familyName": "Kukhariev",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 2,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6057307
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.49530974
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4738284
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2777596936",
+      "name": "Charter",
+      "sameAs": "https://www.wikidata.org/wiki/Q727002"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C190253527",
+      "name": "Law and economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q295354"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C195244886",
+      "name": "Ancient history",
+      "sameAs": "https://www.wikidata.org/wiki/Q41493"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    }
+  ],
+  "url": "https://doi.org/10.32782/tnu-2707-0581/2023.4/05",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.32782/tnu-2707-0581/2023.4/05",
+    "encodingFormat": "text/html"
+  }
+}

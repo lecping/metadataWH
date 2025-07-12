@@ -1,0 +1,202 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4322098578",
+  "doi": "10.55439/eit/vol10_iss5/a12",
+  "name": "Some important issues of improving the investment environment in Uzbekistan",
+  "headline": "Some important issues of improving the investment environment in Uzbekistan",
+  "datePublished": "2022-01-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Economics and Innovative Technologies",
+    "issn": "2181-1407",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5000550892",
+      "name": "Дилмурод Зарипов",
+      "givenName": "Дилмурод",
+      "familyName": "Зарипов",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.7312784
+    },
+    {
+      "id": "https://openalex.org/keywords/business-environment",
+      "display_name": "Business environment",
+      "score": 0.52555954
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.51431644
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.43717128
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C31173074",
+      "name": "Attractiveness",
+      "sameAs": "https://www.wikidata.org/wiki/Q2632514"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780233690",
+      "name": "Transparency (behavior)",
+      "sameAs": "https://www.wikidata.org/wiki/Q535347"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985243512",
+      "name": "Business environment",
+      "sameAs": "https://www.wikidata.org/wiki/Q3491300"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C107826830",
+      "name": "Environmental resource management",
+      "sameAs": "https://www.wikidata.org/wiki/Q929380"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134560507",
+      "name": "Environmental economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q753291"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C38652104",
+      "name": "Computer security",
+      "sameAs": "https://www.wikidata.org/wiki/Q3510521"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C178550888",
+      "name": "Business administration",
+      "sameAs": "https://www.wikidata.org/wiki/Q2043282"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C11171543",
+      "name": "Psychoanalysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q41630"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The article highlights the important issues of creating an attractive environment by improving the investment environment in Uzbekistan and the implementation of existing investment opportunities in the country. The creation of economic and legal conditions for the effective management of capital flows in increasing the attractiveness of the investment environment is researched. As a result of this, priority directions for determining the \"transparency\" of the investment environment have been determined.",
+  "url": "https://doi.org/10.55439/eit/vol10_iss5/a12",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://iqtisodiyot.tsue.uz/journal/index.php/iit/article/download/99/105",
+    "encodingFormat": "text/html"
+  }
+}

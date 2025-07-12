@@ -1,0 +1,325 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4205878567",
+  "doi": "10.32718/nvlvet-e9805",
+  "name": "Economic efficiency of livestock organic waste processing into biонumus",
+  "headline": "Economic efficiency of livestock organic waste processing into biонumus",
+  "datePublished": "2021-12-23",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Scientific Messenger of LNU of Veterinary Medicine and Biotechnologies",
+    "issn": "2519-2701",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5006968606",
+      "name": "V. Maksym",
+      "givenName": "V.",
+      "familyName": "Maksym",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2801312763",
+          "name": "Stepan Gzhytskyi National University of Veterinary Medicine and Biotechnologies Lviv",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-8071-8834"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5090304929",
+      "name": "Dmytro Solomonko",
+      "givenName": "D.",
+      "familyName": "Solomonko",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2801312763",
+          "name": "Stepan Gzhytskyi National University of Veterinary Medicine and Biotechnologies Lviv",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-4392-592X"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5053532238",
+      "name": "R. Lytvyn",
+      "givenName": "R.",
+      "familyName": "Lytvyn",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2801312763",
+          "name": "Stepan Gzhytskyi National University of Veterinary Medicine and Biotechnologies Lviv",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5112728991",
+      "name": "O. Stepaniuk",
+      "givenName": "O.",
+      "familyName": "Stepaniuk",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2801312763",
+          "name": "Stepan Gzhytskyi National University of Veterinary Medicine and Biotechnologies Lviv",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W2768200134",
+    "https://openalex.org/W2789743404",
+    "https://openalex.org/W3045946745",
+    "https://openalex.org/W3046752536"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.61548245
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5843013
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4644691
+    },
+    {
+      "id": "https://openalex.org/keywords/agribusiness",
+      "display_name": "Agribusiness",
+      "score": 0.42053708
+    },
+    {
+      "id": "https://openalex.org/keywords/cleaner-production",
+      "display_name": "Cleaner production",
+      "score": 0.41172147
+    },
+    {
+      "id": "https://openalex.org/keywords/biodegradable-waste",
+      "display_name": "Biodegradable waste",
+      "score": 0.41171616
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C112964050",
+      "name": "Livestock",
+      "sameAs": "https://www.wikidata.org/wiki/Q103459"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C1670747",
+      "name": "Agribusiness",
+      "sameAs": "https://www.wikidata.org/wiki/Q396622"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780739461",
+      "name": "Compost",
+      "sameAs": "https://www.wikidata.org/wiki/Q212254"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C206345919",
+      "name": "Resource (disambiguation)",
+      "sameAs": "https://www.wikidata.org/wiki/Q20380951"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C200630231",
+      "name": "Cleaner production",
+      "sameAs": "https://www.wikidata.org/wiki/Q1099428"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C13080248",
+      "name": "Biodegradable waste",
+      "sameAs": "https://www.wikidata.org/wiki/Q864214"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37621935",
+      "name": "Agricultural science",
+      "sameAs": "https://www.wikidata.org/wiki/Q3606845"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C548081761",
+      "name": "Waste management",
+      "sameAs": "https://www.wikidata.org/wiki/Q180388"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C118518473",
+      "name": "Agriculture",
+      "sameAs": "https://www.wikidata.org/wiki/Q11451"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C75779659",
+      "name": "Municipal solid waste",
+      "sameAs": "https://www.wikidata.org/wiki/Q18538"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C31258907",
+      "name": "Computer network",
+      "sameAs": "https://www.wikidata.org/wiki/Q1301371"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C97137747",
+      "name": "Forestry",
+      "sameAs": "https://www.wikidata.org/wiki/Q38112"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    }
+  ],
+  "abstract": "The processing of organic livestock waste into biohumus is one of the direction areas in agribusiness, which contributes to the efficient resource allocation involved while achieving a high level of greening of production. The article presents the results of the study of economic efficiency of extensive form of vermiculture, which is characterized by minimal start-up investment, ease of organization and accessibility for the vast majority of livestock producers, including small farms, as it does not involve additional premises. Compared to intensive technology, which requires indoor heated premises to organize the production of biohumus throughout the year. The need for fixed and working capital for the organization of organic livestock waste processing into compost has been determined. Planning and analysis of costs for the organization of production and sale of vermiculture products. The main technical parameters of the organization of the production process are determined, which will ensure high efficiency of this type of business. Based on the definition of the main indicators of economic efficiency, the expediency of introducing an extensive form of organic livestock waste processing into biohumus is substantiated. According to the research results, it is established that the organization of extensive technology of processing organic livestock waste on compost is more appropriate for small farms in the livestock industry with a limited investment budget. As about 6 million UAH is needed to organize the processing of 2.400 tons of livestock waste. (in 2021 prices) of advanced capital, which is 30–40 % less compared to intensive technology of similar scale. The projected payback period of extensive vermiculture technology will be three years when it reaches 25 % of the level of profitability of sales. Also, the organization of extensive technology for processing animal waste into biohumus requires less time compared to intensive.",
+  "url": "https://doi.org/10.32718/nvlvet-e9805",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://nvlvet.com.ua/index.php/economy/article/download/4271/4370",
+    "encodingFormat": "text/html"
+  }
+}

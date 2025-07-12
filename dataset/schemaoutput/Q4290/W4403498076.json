@@ -1,0 +1,204 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4403498076",
+  "doi": "10.21203/rs.3.rs-5277525/v1",
+  "name": "Unveiling the Dynamics of Alternative Investment Funds (AIFs): A Comprehensive Analysis of Their Role in Capital Formation in the Indian Financial Landscape",
+  "headline": "Unveiling the Dynamics of Alternative Investment Funds (AIFs): A Comprehensive Analysis of Their Role in Capital Formation in the Indian Financial Landscape",
+  "datePublished": "2024-10-17",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Research Square (Research Square)",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": "Research Square (United States)"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5112601248",
+      "name": "V Maria Tresita Paul",
+      "givenName": "Vethamuthu",
+      "familyName": "Paul",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I111575329",
+          "name": "Bharathiar University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-4175-5488"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1497621923",
+    "https://openalex.org/W1529807552",
+    "https://openalex.org/W1594818839",
+    "https://openalex.org/W1815596065",
+    "https://openalex.org/W1935769857",
+    "https://openalex.org/W1963579099",
+    "https://openalex.org/W1970659806",
+    "https://openalex.org/W197472593",
+    "https://openalex.org/W1975832275",
+    "https://openalex.org/W1993607517",
+    "https://openalex.org/W1993761866",
+    "https://openalex.org/W2006152590",
+    "https://openalex.org/W2008183290",
+    "https://openalex.org/W2012552840",
+    "https://openalex.org/W2016253711",
+    "https://openalex.org/W2016328451",
+    "https://openalex.org/W2027841277",
+    "https://openalex.org/W2039352825",
+    "https://openalex.org/W2041525996",
+    "https://openalex.org/W2056700911",
+    "https://openalex.org/W2061396216",
+    "https://openalex.org/W2087669817",
+    "https://openalex.org/W2095434538",
+    "https://openalex.org/W2097088322",
+    "https://openalex.org/W2097177076",
+    "https://openalex.org/W2100234481",
+    "https://openalex.org/W2108879766",
+    "https://openalex.org/W2110281467",
+    "https://openalex.org/W2171453206",
+    "https://openalex.org/W2322850572",
+    "https://openalex.org/W2412328986",
+    "https://openalex.org/W2554951961",
+    "https://openalex.org/W2606681959",
+    "https://openalex.org/W2765749769",
+    "https://openalex.org/W2885608560",
+    "https://openalex.org/W2889953692",
+    "https://openalex.org/W2925212226",
+    "https://openalex.org/W3108285158",
+    "https://openalex.org/W3121144734",
+    "https://openalex.org/W3121484472",
+    "https://openalex.org/W3124648789",
+    "https://openalex.org/W3125562060",
+    "https://openalex.org/W4256499879"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6413572
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.541003
+    },
+    {
+      "id": "https://openalex.org/keywords/dynamics",
+      "display_name": "Dynamics",
+      "score": 0.5033745
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.45881563
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145912823",
+      "name": "Dynamics (music)",
+      "sameAs": "https://www.wikidata.org/wiki/Q113558"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C19417346",
+      "name": "Pedagogy",
+      "sameAs": "https://www.wikidata.org/wiki/Q7922"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "<title>Abstract</title> <italic>This study delves into the intricate dynamics of Alternative Investment Funds (AIFs) in the context of the Indian financial landscape. The primary focus is on understanding how these factors influence gross capital formation, making AIFs increasingly integral to capital-raising activities in the Indian economy. By employing pooled data, this research sheds light on the multifaceted investments made by AIFs and their role in shaping the future of capital formation. The study reveals that AIFs, with their encompassing categories I, II and III of investment avenues, can play a pivotal role in transforming traditional investment practices. The findings underscore the significance of AIFs in offering alternative avenues for investment, providing a way forward for traditional investors. The implications of these results extend to policy considerations, particularly for developing countries exploring innovative approaches to capital formation.</italic>",
+  "url": "https://doi.org/10.21203/rs.3.rs-5277525/v1",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.researchsquare.com/article/rs-5277525/latest.pdf",
+    "encodingFormat": "text/html"
+  }
+}

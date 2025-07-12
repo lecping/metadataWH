@@ -1,0 +1,219 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4405757446",
+  "doi": "10.17073/2072-1633-2024-4-1358",
+  "name": "The strategy of improving labour productivity on the basis of investment into health capital",
+  "headline": "The strategy of improving labour productivity on the basis of investment into health capital",
+  "datePublished": "2024-10-18",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Russian Journal of Industrial Economics",
+    "issn": "2072-1633",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5010928920",
+      "name": "А.Ю. Тян",
+      "givenName": "A.",
+      "familyName": "Tian",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I130823665",
+          "name": "Ural Federal University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-3106-6497"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5076794976",
+      "name": "Н.Р. Кельчевская",
+      "givenName": "N.",
+      "familyName": "Kelchevskaya",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I130823665",
+          "name": "Ural Federal University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-7765-1846"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1964456096",
+    "https://openalex.org/W2026512324",
+    "https://openalex.org/W2048138799",
+    "https://openalex.org/W2141273249",
+    "https://openalex.org/W2152869418",
+    "https://openalex.org/W2157297930",
+    "https://openalex.org/W2332939899",
+    "https://openalex.org/W3125626790",
+    "https://openalex.org/W4252307431"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.75579894
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.51379806
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.48323283
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204983608",
+      "name": "Productivity",
+      "sameAs": "https://www.wikidata.org/wiki/Q2111958"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C91306197",
+      "name": "Competition (biology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q45767"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C160735492",
+      "name": "Health care",
+      "sameAs": "https://www.wikidata.org/wiki/Q31207"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145236788",
+      "name": "Labour economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q28161"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    }
+  ],
+  "abstract": "In terms of growing competition companies have to constantly improve their production processes and seek for reserves for further development. One of the perspective solutions to this problem is investment in human capital of the staff, and in particular, into programs aimed at healthcare. The purpose of the article is to study company healthcare programs as one of the means of investment in health capital and a factor of increasing labour productivity and the further development of recommendations on improving the effect of these programs. Two big metallurgical companies were chosen as the objects of the study, and the data from their annual reports was used to carry out the comparative analysis of the content of the companies’ healthcare programs, to evaluate the effectiveness of the investment on the basis of injury rates, and to check the hypothesis of the impact of investments in health capital on labor productivity. The results of the study have shown that the companies under consideration differ in the approaches to formulate the content of the companies’ healthcare programs: one of the companies applies the complex approach involving a wide range of measures while another one focuses on solutions that are more individual for the employees. The analysis of the injury rates has revealed that both companies demonstrate higher standards in labour safety in comparison with the average industry level. The correlation analysis has proved that there is a dependence of investment in the health capital on the labour productivity. In conclusion he author makes some recommendations for the employers on optimization of investment in the personnel health capital. The results obtained emphasize the signifi cance of the company healthcare programs for increasing the effectiveness of the company performance and point out the importance of further research to optimize these programs and develop more effi cient methods of strengthening the employees’ health within the employers’ initiatives.",
+  "url": "https://doi.org/10.17073/2072-1633-2024-4-1358",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.17073/2072-1633-2024-4-1358",
+    "encodingFormat": "text/html"
+  }
+}

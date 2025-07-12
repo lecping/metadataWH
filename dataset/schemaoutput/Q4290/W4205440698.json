@@ -1,0 +1,322 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4205440698",
+  "doi": "10.1016/j.jebo.2021.12.027",
+  "name": "Human capital investment and perceived automation risks: Evidence from 16 countries",
+  "headline": "Human capital investment and perceived automation risks: Evidence from 16 countries",
+  "datePublished": "2022-01-15",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-nd",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Economic Behavior & Organization",
+    "issn": "0167-2681",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Elsevier BV"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5032950929",
+      "name": "Stefania Innocenti",
+      "givenName": "Stefania",
+      "familyName": "Innocenti",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I40120149",
+          "name": "University of Oxford",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-7926-0961"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5023125224",
+      "name": "Marta Golin",
+      "givenName": "Marta",
+      "familyName": "Golin",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210097117",
+          "name": "Addiction Switzerland",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CH"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I202697423",
+          "name": "University of Zurich",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CH"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-1635-0956"
+    }
+  ],
+  "citationCount": 49,
+  "citation": [
+    "https://openalex.org/W1100159290",
+    "https://openalex.org/W1488425698",
+    "https://openalex.org/W1821977771",
+    "https://openalex.org/W1841168204",
+    "https://openalex.org/W1924130962",
+    "https://openalex.org/W2010028424",
+    "https://openalex.org/W2024722729",
+    "https://openalex.org/W2029299621",
+    "https://openalex.org/W2039947727",
+    "https://openalex.org/W2065136543",
+    "https://openalex.org/W2067004304",
+    "https://openalex.org/W2092390802",
+    "https://openalex.org/W2099697766",
+    "https://openalex.org/W2100826189",
+    "https://openalex.org/W2111838747",
+    "https://openalex.org/W2135252376",
+    "https://openalex.org/W2141608323",
+    "https://openalex.org/W2161080627",
+    "https://openalex.org/W2161195826",
+    "https://openalex.org/W2164849828",
+    "https://openalex.org/W2169160251",
+    "https://openalex.org/W2526781987",
+    "https://openalex.org/W2735317928",
+    "https://openalex.org/W2776393547",
+    "https://openalex.org/W2804936679",
+    "https://openalex.org/W2892380133",
+    "https://openalex.org/W2894899500",
+    "https://openalex.org/W2922811975",
+    "https://openalex.org/W2922903482",
+    "https://openalex.org/W2943289537",
+    "https://openalex.org/W3021519206",
+    "https://openalex.org/W3034683722",
+    "https://openalex.org/W3039845676",
+    "https://openalex.org/W3121225617",
+    "https://openalex.org/W3122263906",
+    "https://openalex.org/W3123066308",
+    "https://openalex.org/W3123180584",
+    "https://openalex.org/W3123793665",
+    "https://openalex.org/W3124050051",
+    "https://openalex.org/W3124124240",
+    "https://openalex.org/W3124311237",
+    "https://openalex.org/W3124353520",
+    "https://openalex.org/W3124407708",
+    "https://openalex.org/W3124704578",
+    "https://openalex.org/W3124711394",
+    "https://openalex.org/W3124833732",
+    "https://openalex.org/W3125279816",
+    "https://openalex.org/W3125424168",
+    "https://openalex.org/W3125498346",
+    "https://openalex.org/W3126021920",
+    "https://openalex.org/W3135040643",
+    "https://openalex.org/W4206912211",
+    "https://openalex.org/W4252666162"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 2660,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/retraining",
+      "display_name": "Retraining",
+      "score": 0.7778033
+    },
+    {
+      "id": "https://openalex.org/keywords/locus-of-control",
+      "display_name": "Locus of control",
+      "score": 0.63050914
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5479557
+    },
+    {
+      "id": "https://openalex.org/keywords/affect",
+      "display_name": "Affect",
+      "score": 0.49884152
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.42599905
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778712577",
+      "name": "Retraining",
+      "sameAs": "https://www.wikidata.org/wiki/Q3505966"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C170798268",
+      "name": "Locus of control",
+      "sameAs": "https://www.wikidata.org/wiki/Q534589"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C115901376",
+      "name": "Automation",
+      "sameAs": "https://www.wikidata.org/wiki/Q184199"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776035688",
+      "name": "Affect (linguistics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1606558"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18762648",
+      "name": "Work (physics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q42213"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2775924081",
+      "name": "Control (management)",
+      "sameAs": "https://www.wikidata.org/wiki/Q55608371"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145236788",
+      "name": "Labour economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q28161"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C77805123",
+      "name": "Social psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q161272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C187736073",
+      "name": "Management",
+      "sameAs": "https://www.wikidata.org/wiki/Q2920921"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78519656",
+      "name": "Mechanical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q101333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C46312422",
+      "name": "Communication",
+      "sameAs": "https://www.wikidata.org/wiki/Q11024"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C155202549",
+      "name": "International trade",
+      "sameAs": "https://www.wikidata.org/wiki/Q178803"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Robotics and artificial intelligence are transforming jobs and career paths, and equipping workers with the ability to gain new skills has become a strategic policy imperative. Previous studies showed that investment in human capital depends on locus of control, risk preferences and impatience. Yet in a changing world of work, the perceived risk of being replaced by a machine or an algorithm might also affect workers' decisions to gain new professional skills. Using novel survey data from representative samples of working individuals in 16 countries, this paper shows that fear of automation is positively associated with workers' intentions to invest in training activities outside their workplace. This effect is robust to controlling for other known behavioural traits. We also show that fear of automation reinforces the effect that internal locus of control exerts on retraining intentions.",
+  "url": "https://doi.org/10.1016/j.jebo.2021.12.027",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1016/j.jebo.2021.12.027",
+    "encodingFormat": "text/html"
+  }
+}

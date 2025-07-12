@@ -1,0 +1,254 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4386858427",
+  "doi": "10.14738/abr.119.15352",
+  "name": "Dynamic Management of Capital Levels in a Company as a Multi-Stage Decision-Making Process",
+  "headline": "Dynamic Management of Capital Levels in a Company as a Multi-Stage Decision-Making Process",
+  "datePublished": "2023-09-19",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Archives of Business Research",
+    "issn": "2054-7404",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Services for Science and Education"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5066633632",
+      "name": "Danuta Seretna-Sałamaj",
+      "givenName": "Danuta",
+      "familyName": "Seretna-Sałamaj",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210115088",
+          "name": "Państwowa Wyższa Szkoła Zawodowa w Nysie",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PL"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5081791563",
+      "name": "Agnieszka Szpara",
+      "givenName": "Agnieszka",
+      "familyName": "Szpara",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210115088",
+          "name": "Państwowa Wyższa Szkoła Zawodowa w Nysie",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PL"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6681088
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5602987
+    },
+    {
+      "id": "https://openalex.org/keywords/investment-decisions",
+      "display_name": "Investment Decisions",
+      "score": 0.5370976
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-budgeting",
+      "display_name": "Capital Budgeting",
+      "score": 0.45885378
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41809887
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C98045186",
+      "name": "Process (computing)",
+      "sameAs": "https://www.wikidata.org/wiki/Q205663"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C148220186",
+      "name": "Outcome (game theory)",
+      "sameAs": "https://www.wikidata.org/wiki/Q7111912"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778865806",
+      "name": "Investment decisions",
+      "sameAs": "https://www.wikidata.org/wiki/Q6060850"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C182306322",
+      "name": "Order (exchange)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1779371"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C76178495",
+      "name": "Asset (computer security)",
+      "sameAs": "https://www.wikidata.org/wiki/Q4808784"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C57918260",
+      "name": "Capital budgeting",
+      "sameAs": "https://www.wikidata.org/wiki/Q1354666"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778572836",
+      "name": "Space (punctuation)",
+      "sameAs": "https://www.wikidata.org/wiki/Q380933"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C42475967",
+      "name": "Operations research",
+      "sameAs": "https://www.wikidata.org/wiki/Q194292"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C38652104",
+      "name": "Computer security",
+      "sameAs": "https://www.wikidata.org/wiki/Q3510521"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21425071",
+      "name": "Project appraisal",
+      "sameAs": "https://www.wikidata.org/wiki/Q7249389"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111919701",
+      "name": "Operating system",
+      "sameAs": "https://www.wikidata.org/wiki/Q9135"
+    }
+  ],
+  "abstract": "An investor makes investment decisions under conditions of uncertainty, i.e. when the effect of the investment cannot be predicted in advance. In order to achieve the desired outcome of the action, the decision-maker has to make a series of consecutive decisions. The decision-maker is guided by his or her own investment objective, and at each stage decides on an investment strategy. Depending on the strategy adopted, the investment returns can vary. Decisions related to giving the capital structure a target shape require a prior careful analysis of many factors, which are characterised by variability both in time and space. For this reason, it can be assumed that the capital structure is not fixed, as it changes according to the strength and direction of these factors. This article proposes a method for managing a company's capital level in a multi-stage decision-making process. For this purpose, the so-called recursive preferences of the decision-maker were used. A multi-stage model of capital management or the management of a given asset by an investor was considered. It was assumed that the dynamics of the capital level process from period to period is described by a certain recursive equation, which can be deterministic or stochastic.",
+  "url": "https://doi.org/10.14738/abr.119.15352",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.14738/abr.119.15352",
+    "encodingFormat": "text/html"
+  }
+}

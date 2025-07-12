@@ -1,0 +1,280 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4394935905",
+  "doi": "10.1016/j.irfa.2024.103306",
+  "name": "Social capital, syndication, and investment performance: Evidence from PE investing in LBOs",
+  "headline": "Social capital, syndication, and investment performance: Evidence from PE investing in LBOs",
+  "datePublished": "2024-04-18",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Review of Financial Analysis",
+    "issn": "1057-5219",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Elsevier BV"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5072306549",
+      "name": "Jay Dahya",
+      "givenName": "Jay",
+      "familyName": "Dahya",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I141810926",
+          "name": "Baruch College",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5013393626",
+      "name": "Betty H.T. Wu",
+      "givenName": "Betty",
+      "familyName": "Wu",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I65644108",
+          "name": "Adam Smith Institute",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I7882870",
+          "name": "University of Glasgow",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-5153-4964"
+    }
+  ],
+  "citationCount": 2,
+  "citation": [
+    "https://openalex.org/W1985895183",
+    "https://openalex.org/W2008049964",
+    "https://openalex.org/W2016253711",
+    "https://openalex.org/W2033658862",
+    "https://openalex.org/W2045980827",
+    "https://openalex.org/W2057991025",
+    "https://openalex.org/W2069415504",
+    "https://openalex.org/W2090811468",
+    "https://openalex.org/W2117477253",
+    "https://openalex.org/W2157590180",
+    "https://openalex.org/W2201120664",
+    "https://openalex.org/W2339893533",
+    "https://openalex.org/W2735600047",
+    "https://openalex.org/W2810262932",
+    "https://openalex.org/W2895899305",
+    "https://openalex.org/W3021172388",
+    "https://openalex.org/W3023262695",
+    "https://openalex.org/W3121165378",
+    "https://openalex.org/W3121213291",
+    "https://openalex.org/W3121244363",
+    "https://openalex.org/W3121248298",
+    "https://openalex.org/W3121513812",
+    "https://openalex.org/W3121706308",
+    "https://openalex.org/W3121970360",
+    "https://openalex.org/W3121990306",
+    "https://openalex.org/W3122114492",
+    "https://openalex.org/W3122207317",
+    "https://openalex.org/W3122264572",
+    "https://openalex.org/W3122304975",
+    "https://openalex.org/W3122537138",
+    "https://openalex.org/W3122577803",
+    "https://openalex.org/W3122659705",
+    "https://openalex.org/W3122775758",
+    "https://openalex.org/W3122927132",
+    "https://openalex.org/W3123046488",
+    "https://openalex.org/W3123344732",
+    "https://openalex.org/W3123345100",
+    "https://openalex.org/W3123353822",
+    "https://openalex.org/W3123463192",
+    "https://openalex.org/W3123808995",
+    "https://openalex.org/W3124080776",
+    "https://openalex.org/W3124091692",
+    "https://openalex.org/W3124131307",
+    "https://openalex.org/W3124590803",
+    "https://openalex.org/W3124810037",
+    "https://openalex.org/W3125014043",
+    "https://openalex.org/W3125065427",
+    "https://openalex.org/W3125376556",
+    "https://openalex.org/W3125428292",
+    "https://openalex.org/W3125698063",
+    "https://openalex.org/W3125936076",
+    "https://openalex.org/W3125974488",
+    "https://openalex.org/W4318015331",
+    "https://openalex.org/W78518972"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 3360,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/web-syndication",
+      "display_name": "Web syndication",
+      "score": 0.93454874
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5819429
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.46353436
+    },
+    {
+      "id": "https://openalex.org/keywords/impact-investing",
+      "display_name": "Impact Investing",
+      "score": 0.45216054
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.44855672
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C88962883",
+      "name": "Web syndication",
+      "sameAs": "https://www.wikidata.org/wiki/Q260531"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C159480233",
+      "name": "Impact investing",
+      "sameAs": "https://www.wikidata.org/wiki/Q17082023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21279758",
+      "name": "Venture capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q219409"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C68062652",
+      "name": "Social capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q214693"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121087249",
+      "name": "Emerging markets",
+      "sameAs": "https://www.wikidata.org/wiki/Q546395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C36289849",
+      "name": "Social science",
+      "sameAs": "https://www.wikidata.org/wiki/Q34749"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This study examines the influence of social capital on leveraged buyout (LBO) investments. Exploiting proprietary global private equity data at the investment-level for leveraged buyouts, we find that alumni of Harvard's MBA program are more inclined to co-invest and form syndicates in LBO with each another. The phenomenon of Crimson pairing manifests in deals that involve uneven investments in co-investor capital, necessitating trust to alleviate agency costs and enabling investors to diversify their portfolios. The outcome of Crimson pairing is an increase in value and investment returns relative to all other typical LBO syndication partnerships.",
+  "url": "https://doi.org/10.1016/j.irfa.2024.103306",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1016/j.irfa.2024.103306",
+    "encodingFormat": "text/html"
+  }
+}

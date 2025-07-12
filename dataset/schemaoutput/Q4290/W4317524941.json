@@ -1,0 +1,240 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4317524941",
+  "doi": "10.56958/jesi.2022.7.3.293",
+  "name": "Estimation of the initial investment cost in systems equipped with heat pumps using regression analysis",
+  "headline": "Estimation of the initial investment cost in systems equipped with heat pumps using regression analysis",
+  "datePublished": "2022-09-14",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Engineering Sciences and Innovation",
+    "issn": "2537-320X",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5073982827",
+      "name": "Alexandra Ban",
+      "givenName": "ALEXANDRA",
+      "familyName": "BAN",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0003-1250-5084"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5082770679",
+      "name": "Constantin Bungău",
+      "givenName": "CONSTANTIN",
+      "familyName": "BUNGĂU",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I33800924",
+          "name": "Academy of Romanian Scientists",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RO"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I162871001",
+          "name": "University of Oradea",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RO"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-3793-6905"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1969152826",
+    "https://openalex.org/W1995178643",
+    "https://openalex.org/W2989725327",
+    "https://openalex.org/W2996532609",
+    "https://openalex.org/W3105739323",
+    "https://openalex.org/W3119177242",
+    "https://openalex.org/W3176011842",
+    "https://openalex.org/W3194645827",
+    "https://openalex.org/W4210287633",
+    "https://openalex.org/W4220674142",
+    "https://openalex.org/W4224210175",
+    "https://openalex.org/W4319319154",
+    "https://openalex.org/W4379958404"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5869994
+    },
+    {
+      "id": "https://openalex.org/keywords/renewable-heat",
+      "display_name": "Renewable heat",
+      "score": 0.5507676
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-cost",
+      "display_name": "Capital cost",
+      "score": 0.5242634
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.43013498
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776461528",
+      "name": "Heat pump",
+      "sameAs": "https://www.wikidata.org/wiki/Q131313"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144179057",
+      "name": "Renewable heat",
+      "sameAs": "https://www.wikidata.org/wiki/Q7313122"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C157062255",
+      "name": "Capital cost",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035697"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779343474",
+      "name": "Context (archaeology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3109175"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C187949908",
+      "name": "Air source heat pumps",
+      "sameAs": "https://www.wikidata.org/wiki/Q2044954"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134560507",
+      "name": "Environmental economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q753291"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C44044945",
+      "name": "Hybrid heat",
+      "sameAs": "https://www.wikidata.org/wiki/Q17028110"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78519656",
+      "name": "Mechanical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q101333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C107706546",
+      "name": "Heat exchanger",
+      "sameAs": "https://www.wikidata.org/wiki/Q189124"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127313418",
+      "name": "Geology",
+      "sameAs": "https://www.wikidata.org/wiki/Q1069"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C151730666",
+      "name": "Paleontology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7205"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "\"The present research aims to obtain a mathematical model for estimating the costs involved in the initial investment for heat pump systems using the regression analysis. In the current economic context towards a climate-neutral Europe by 2050, heat pumps are becoming increasingly used in the buildings sector. As innovative and sustainable heat energy systems, they require a higher capital investment than conventional heating and cooling systems. Therefore, this study addresses the current needs by carrying out a comprehensive analysis of the costs involved in the initial investing in a heat pump system. Three regression analyses will be carried out to estimate the costs for air source heat pumps, ground source heat pumps and water source heat pumps respectively.\"",
+  "url": "https://doi.org/10.56958/jesi.2022.7.3.293",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.56958/jesi.2022.7.3.293",
+    "encodingFormat": "text/html"
+  }
+}

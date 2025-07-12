@@ -1,0 +1,181 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4377982331",
+  "doi": "10.15185/izawol.201v2",
+  "name": "Unions and investment in intangible capital",
+  "headline": "Unions and investment in intangible capital",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "IZA World of Labor",
+    "issn": "2054-9571",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5077443057",
+      "name": "Giovanni Sulis",
+      "givenName": "Giovanni",
+      "familyName": "Sulis",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I172446870",
+          "name": "University of Cagliari",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IT"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I83816512",
+          "name": "University of Genoa",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IT"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-2970-4725"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5015826062",
+      "name": "Gabriele Cardullo",
+      "givenName": "Gabriele",
+      "familyName": "Cardullo",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I83816512",
+          "name": "University of Genoa",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IT"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I172446870",
+          "name": "University of Cagliari",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IT"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-7595-1036"
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W1555811160",
+    "https://openalex.org/W1576871102",
+    "https://openalex.org/W2043498212",
+    "https://openalex.org/W2048829725",
+    "https://openalex.org/W2079463330",
+    "https://openalex.org/W2235631152",
+    "https://openalex.org/W3094158805",
+    "https://openalex.org/W3122341345",
+    "https://openalex.org/W3124522440",
+    "https://openalex.org/W3125456355",
+    "https://openalex.org/W3125629666",
+    "https://openalex.org/W3212477429",
+    "https://openalex.org/W4206651310"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5723477
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.56566805
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5094102
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C195244886",
+      "name": "Ancient history",
+      "sameAs": "https://www.wikidata.org/wiki/Q41493"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Powerful unions may slow investments in physical capital and in research and development, but the effect is influenced by the institutional context.Union effects on research and development are negative in the US but insignificant in EU countries.Cross-country evidence also shows negative effects, particularly for research-intensive industries with irreversible capital investments.However, industrial relations and firm governance structure play a crucial mediating role.By routinely involving unions in government and firm decisions on economic issues, policymakers may be able to shape incentives to sustain cooperation with employers and boost investment.",
+  "url": "https://doi.org/10.15185/izawol.201v2",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://wol.iza.org/uploads/articles/654/pdfs/unions-and-investment-in-intangible-capital.pdf",
+    "encodingFormat": "text/html"
+  }
+}

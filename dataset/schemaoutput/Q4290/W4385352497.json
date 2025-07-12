@@ -1,0 +1,392 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4385352497",
+  "doi": "10.54443/jaruda.v1i4.89",
+  "name": "THE IMPORTANCE OF CAPITAL BUDGETING IN LONG TERM INVESTMENT DECISION MAKING",
+  "headline": "THE IMPORTANCE OF CAPITAL BUDGETING IN LONG TERM INVESTMENT DECISION MAKING",
+  "datePublished": "2023-04-30",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Accounting Research Utility Finance and Digital Assets",
+    "issn": "2962-973X",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5092561881",
+      "name": "Syarifah Alda Azlika",
+      "givenName": "None",
+      "familyName": "Azlika",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210092132",
+          "name": "Universitas Batam",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5092561882",
+      "name": "Kurnia Diana",
+      "givenName": "None",
+      "familyName": "Diana",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210092132",
+          "name": "Universitas Batam",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5092561883",
+      "name": "Mardian Adma Gumilang",
+      "givenName": "None",
+      "familyName": "Gumilang",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210092132",
+          "name": "Universitas Batam",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5092561884",
+      "name": "Erik Mario Sihotang",
+      "givenName": "None",
+      "familyName": "Sihotang",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210092132",
+          "name": "Universitas Batam",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5101477272",
+      "name": "Indrayani Indrayani",
+      "givenName": "None",
+      "familyName": "Indrayani",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210092132",
+          "name": "Universitas Batam",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5108637683",
+      "name": "Muammar Khaddafi",
+      "givenName": "None",
+      "familyName": "Khaddafi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3130850664",
+          "name": "Malikussaleh University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5030579419",
+      "name": "Damsar Damsar",
+      "givenName": "None",
+      "familyName": "Damsar",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I55892964",
+          "name": "Andalas University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-0469-894X"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1543410723",
+    "https://openalex.org/W3175480025"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/payback-period",
+      "display_name": "Payback period",
+      "score": 0.8971661
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-budgeting",
+      "display_name": "Capital Budgeting",
+      "score": 0.880304
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.69013846
+    },
+    {
+      "id": "https://openalex.org/keywords/rate-of-return",
+      "display_name": "Rate of return",
+      "score": 0.60166144
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.50889564
+    },
+    {
+      "id": "https://openalex.org/keywords/present-value",
+      "display_name": "Present value",
+      "score": 0.50294465
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.45409933
+    },
+    {
+      "id": "https://openalex.org/keywords/value",
+      "display_name": "Value (mathematics)",
+      "score": 0.43145365
+    },
+    {
+      "id": "https://openalex.org/keywords/investment-decisions",
+      "display_name": "Investment Decisions",
+      "score": 0.41181847
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144553756",
+      "name": "Payback period",
+      "sameAs": "https://www.wikidata.org/wiki/Q15081665"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C57918260",
+      "name": "Capital budgeting",
+      "sameAs": "https://www.wikidata.org/wiki/Q1354666"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181230689",
+      "name": "Net present value",
+      "sameAs": "https://www.wikidata.org/wiki/Q192472"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37917861",
+      "name": "Internal rate of return",
+      "sameAs": "https://www.wikidata.org/wiki/Q507477"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86637286",
+      "name": "Rate of return",
+      "sameAs": "https://www.wikidata.org/wiki/Q7317264"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C169549615",
+      "name": "Return on investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q939134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C6927289",
+      "name": "Present value",
+      "sameAs": "https://www.wikidata.org/wiki/Q1100466"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149520272",
+      "name": "Modified internal rate of return",
+      "sameAs": "https://www.wikidata.org/wiki/Q4348850"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776505523",
+      "name": "Plan (archaeology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q4785468"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776291640",
+      "name": "Value (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2912517"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162118730",
+      "name": "Actuarial science",
+      "sameAs": "https://www.wikidata.org/wiki/Q1128453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778865806",
+      "name": "Investment decisions",
+      "sameAs": "https://www.wikidata.org/wiki/Q6060850"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26584437",
+      "name": "Investment performance",
+      "sameAs": "https://www.wikidata.org/wiki/Q6060874"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21425071",
+      "name": "Project appraisal",
+      "sameAs": "https://www.wikidata.org/wiki/Q7249389"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119857082",
+      "name": "Machine learning",
+      "sameAs": "https://www.wikidata.org/wiki/Q2539"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C109574028",
+      "name": "Behavioral economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q647525"
+    }
+  ],
+  "abstract": "Lack of significant planning in investing by a company. This because in planning an investment project of course requires substantial funds, so if not budgeted and calculated properly, it can result in investment failure projects that can cause a company to experience large losses. This study discusses capital budgeting of a project in CV. ABC will buy a new machine. In the This study discussed how to calculate the initial investment, estimate the income that the company will get during the project, how long is the capital issued by the company for investment projects will be returned, and at most what is important is whether it is feasible or not is the investment project planning. Method used in capital budgeting calculations is the payback period, discounted payback period, Net Present Value (NPV), and Internal rate of Return (IRR). In the The results showed that CV ABC accepted the plan to purchase a corn drying machine by calculating the payback period for 5 years, the NPV and IRR are considered feasible.",
+  "url": "https://doi.org/10.54443/jaruda.v1i4.89",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://jaruda.org/index.php/go/article/download/89/77",
+    "encodingFormat": "text/html"
+  }
+}

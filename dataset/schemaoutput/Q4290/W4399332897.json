@@ -1,0 +1,255 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4399332897",
+  "doi": "10.20473/jeba.v34i12024.1-19",
+  "name": "DETERMINANTS OF MILLENNIAL INVESTMENT DECISION-MAKING IN THE SHARIA CAPITAL MARKET: A COMPREHENSIVE REVIEW",
+  "headline": "DETERMINANTS OF MILLENNIAL INVESTMENT DECISION-MAKING IN THE SHARIA CAPITAL MARKET: A COMPREHENSIVE REVIEW",
+  "datePublished": "2024-05-30",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-sa",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Jurnal Ekonomi dan Bisnis Airlangga",
+    "issn": "2338-2686",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Airlangga University"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5044791033",
+      "name": "Nurul Aeni",
+      "givenName": "Nurul",
+      "familyName": "Aeni",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210131867",
+          "name": "Muhammadiyah University Purwokerto",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5017089097",
+      "name": "Naelati Tubastuvi",
+      "givenName": "Naelati",
+      "familyName": "Tubastuvi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210131867",
+          "name": "Muhammadiyah University Purwokerto",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-7625-2384"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5079760658",
+      "name": "Wida Purwidianti",
+      "givenName": "Wida",
+      "familyName": "Purwidianti",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210131867",
+          "name": "Muhammadiyah University Purwokerto",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-7469-7520"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5035077654",
+      "name": "Restu Frida Utami",
+      "givenName": "Restu",
+      "familyName": "Utami",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210131867",
+          "name": "Muhammadiyah University Purwokerto",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-9664-9837"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2095106420",
+    "https://openalex.org/W2182601218",
+    "https://openalex.org/W2224099432",
+    "https://openalex.org/W2605345173",
+    "https://openalex.org/W2785015285",
+    "https://openalex.org/W2809917136",
+    "https://openalex.org/W2912456871",
+    "https://openalex.org/W2918149573",
+    "https://openalex.org/W2975320458",
+    "https://openalex.org/W2995700358",
+    "https://openalex.org/W3001039054",
+    "https://openalex.org/W3002108498",
+    "https://openalex.org/W3002414851",
+    "https://openalex.org/W3005065061",
+    "https://openalex.org/W3005093757",
+    "https://openalex.org/W3013259573",
+    "https://openalex.org/W3016218932",
+    "https://openalex.org/W3016350615",
+    "https://openalex.org/W3047761911",
+    "https://openalex.org/W3087445134",
+    "https://openalex.org/W3088236982",
+    "https://openalex.org/W3089665172",
+    "https://openalex.org/W3089924061",
+    "https://openalex.org/W3096597106",
+    "https://openalex.org/W3110652347",
+    "https://openalex.org/W3128565658",
+    "https://openalex.org/W3130591497",
+    "https://openalex.org/W3137184949",
+    "https://openalex.org/W3163539465",
+    "https://openalex.org/W3181587183",
+    "https://openalex.org/W3183386592",
+    "https://openalex.org/W3196109864",
+    "https://openalex.org/W3196123206",
+    "https://openalex.org/W3197012871",
+    "https://openalex.org/W4200015039",
+    "https://openalex.org/W4243176992",
+    "https://openalex.org/W4253560924",
+    "https://openalex.org/W4283512028",
+    "https://openalex.org/W4285159886",
+    "https://openalex.org/W4285811827",
+    "https://openalex.org/W4287757546",
+    "https://openalex.org/W4295887059",
+    "https://openalex.org/W4311142670",
+    "https://openalex.org/W4312386750",
+    "https://openalex.org/W4320063413",
+    "https://openalex.org/W4324130782",
+    "https://openalex.org/W4365459733",
+    "https://openalex.org/W4366850621",
+    "https://openalex.org/W4372194224",
+    "https://openalex.org/W4385420081",
+    "https://openalex.org/W4386096764",
+    "https://openalex.org/W4387373012",
+    "https://openalex.org/W4391397424",
+    "https://openalex.org/W4402093122"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.60445887
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.50414956
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C168702047",
+      "name": "Sharia",
+      "sameAs": "https://www.wikidata.org/wiki/Q482752"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C143910263",
+      "name": "Capital market",
+      "sameAs": "https://www.wikidata.org/wiki/Q750458"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C4445939",
+      "name": "Islam",
+      "sameAs": "https://www.wikidata.org/wiki/Q432"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    }
+  ],
+  "abstract": "Introduction: The study aims to examine the impact of financial literacy, overconfidence, regret aversion bias, herding, and risk tolerance on the investment decisions of the Indonesian millennial generation. Methods: The study used a quantitative approach with a sample of 120 respondents from the millennial generation who invested in the Islamic capital market. A statistical test was done using SPSS IBM 26. Results: Financial literacy and overconfidence significantly influenced investment decisions. On the other hand, regret aversion bias, herding, and risk tolerance had no significant impact on investment decisions. Conclusion and suggestion: The study concluded that financial literacy and overconfidence are the major factors that affect the investment decisions of the Indonesian millennial generation. The government (regulator) and related institutions should take a more proactive approach in providing outreach and education about the importance of financial literacy and overconfidence. The millennial generation is interested in investing in the Sharia capital market.",
+  "url": "https://doi.org/10.20473/jeba.v34i12024.1-19",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://e-journal.unair.ac.id/JEBA/article/download/51337/28683",
+    "encodingFormat": "text/html"
+  }
+}

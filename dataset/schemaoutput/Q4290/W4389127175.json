@@ -1,0 +1,348 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4389127175",
+  "doi": "10.1038/s43247-023-01109-5",
+  "name": "An assessment of different transition pathways to a green global economy",
+  "headline": "An assessment of different transition pathways to a green global economy",
+  "datePublished": "2023-11-29",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Communications Earth & Environment",
+    "issn": "2662-4435",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Nature Portfolio"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5015269440",
+      "name": "Soheil Shayegh",
+      "givenName": "Soheil",
+      "familyName": "Shayegh",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210095222",
+          "name": "RFF-CMCC European Institute on Economics and the Environment",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IT"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210111827",
+          "name": "CMCC Foundation - Euro-Mediterranean Center on Climate Change",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IT"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-8960-8244"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5026781993",
+      "name": "Severin Reissl",
+      "givenName": "Severin",
+      "familyName": "Reissl",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210095222",
+          "name": "RFF-CMCC European Institute on Economics and the Environment",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IT"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210111827",
+          "name": "CMCC Foundation - Euro-Mediterranean Center on Climate Change",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IT"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-5614-5669"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5045616373",
+      "name": "Elnaz Roshan",
+      "givenName": "Elnaz",
+      "familyName": "Roshan",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I159176309",
+          "name": "Universität Hamburg",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "DE"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-1023-6490"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5092554875",
+      "name": "Matteo Calcaterra",
+      "givenName": "Matteo",
+      "familyName": "Calcaterra",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210095222",
+          "name": "RFF-CMCC European Institute on Economics and the Environment",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IT"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210111827",
+          "name": "CMCC Foundation - Euro-Mediterranean Center on Climate Change",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IT"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-9465-2082"
+    }
+  ],
+  "citationCount": 9,
+  "citation": [
+    "https://openalex.org/W1981481251",
+    "https://openalex.org/W1985971230",
+    "https://openalex.org/W1986426177",
+    "https://openalex.org/W2009522606",
+    "https://openalex.org/W2013266710",
+    "https://openalex.org/W2052062862",
+    "https://openalex.org/W2075970438",
+    "https://openalex.org/W2112424409",
+    "https://openalex.org/W2116228500",
+    "https://openalex.org/W2128846935",
+    "https://openalex.org/W2155858821",
+    "https://openalex.org/W2163235518",
+    "https://openalex.org/W2294946924",
+    "https://openalex.org/W2490329769",
+    "https://openalex.org/W2603774376",
+    "https://openalex.org/W2605848227",
+    "https://openalex.org/W2606009337",
+    "https://openalex.org/W2723344177",
+    "https://openalex.org/W2754240787",
+    "https://openalex.org/W2784350055",
+    "https://openalex.org/W2791880383",
+    "https://openalex.org/W2803303693",
+    "https://openalex.org/W2806117462",
+    "https://openalex.org/W2808387346",
+    "https://openalex.org/W2925259354",
+    "https://openalex.org/W2937421004",
+    "https://openalex.org/W2982365341",
+    "https://openalex.org/W3010500158",
+    "https://openalex.org/W3033951958",
+    "https://openalex.org/W3034943320",
+    "https://openalex.org/W3038918436",
+    "https://openalex.org/W3090743791",
+    "https://openalex.org/W3111667204",
+    "https://openalex.org/W3113657328",
+    "https://openalex.org/W3116766195",
+    "https://openalex.org/W3119175549",
+    "https://openalex.org/W3123018877",
+    "https://openalex.org/W3123789453",
+    "https://openalex.org/W3125788478",
+    "https://openalex.org/W3128972360",
+    "https://openalex.org/W3131099950",
+    "https://openalex.org/W3132305182",
+    "https://openalex.org/W3162436079",
+    "https://openalex.org/W3172922368",
+    "https://openalex.org/W3207640265",
+    "https://openalex.org/W4229372434"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 1990,
+      "currency": "GBP"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6251662
+    },
+    {
+      "id": "https://openalex.org/keywords/green-economy",
+      "display_name": "Green Economy",
+      "score": 0.56780815
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5100787
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.42870352
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204983608",
+      "name": "Productivity",
+      "sameAs": "https://www.wikidata.org/wiki/Q2111958"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21839126",
+      "name": "Green economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q598188"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C132651083",
+      "name": "Climate change",
+      "sameAs": "https://www.wikidata.org/wiki/Q7942"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C194232998",
+      "name": "Transition (genetics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1606712"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C552854447",
+      "name": "Sustainable development",
+      "sameAs": "https://www.wikidata.org/wiki/Q131201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C55493867",
+      "name": "Biochemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q7094"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C104317684",
+      "name": "Gene",
+      "sameAs": "https://www.wikidata.org/wiki/Q7187"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Abstract Transitioning to a green economy is urgently needed to achieve the climate targets by the end of this century. Here we investigate alternative pathways for the transition of the global economy from one dominated by the fossil-fueled (brown) sector to one dominated by the low-emission (green) sector. We modify a well-known integrated assessment model of climate change and economy to consider three transition pathways: Linear, Delayed, and Fast. Our results indicate that the main burden of the green transition lies on capital formation, accumulation, and transfers facilitated by full R&amp;D investment in the green sector’s productivity. We also find that transition pathways rely on different mechanisms to achieve their targets. The Delayed pathway relies on the combination of higher green capital investment and an increase in green capital productivity through R&amp;D investment, while the Fast pathway requires substantial transfers of capital from the brown sector coupled with high abatement efforts.",
+  "url": "https://doi.org/10.1038/s43247-023-01109-5",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.nature.com/articles/s43247-023-01109-5.pdf",
+    "encodingFormat": "text/html"
+  }
+}

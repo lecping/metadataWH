@@ -1,0 +1,195 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4410915794",
+  "doi": "10.32628/ijsrset241482",
+  "name": "A Conceptual Framework for AI-Enhanced Investment Decision-Making in Venture Capital: Unlocking Opportunities in Emerging Markets",
+  "headline": "A Conceptual Framework for AI-Enhanced Investment Decision-Making in Venture Capital: Unlocking Opportunities in Emerging Markets",
+  "datePublished": "2024-06-26",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Scientific Research in Science Engineering and Technology",
+    "issn": "2394-4099",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Technoscience Academy"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5117781937",
+      "name": "Ademola Adewuyi",
+      "givenName": "None",
+      "familyName": "Adewuyi",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5117781938",
+      "name": "Ayodeji Ajuwon",
+      "givenName": "None",
+      "familyName": "Ajuwon",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5117781939",
+      "name": "Tolulope Joyce Oladuji",
+      "givenName": "None",
+      "familyName": "Oladuji",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5114992298",
+      "name": "Abiola Oyeronke Akintobi",
+      "givenName": "None",
+      "familyName": "Akintobi",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/social-venture-capital",
+      "display_name": "Social venture capital",
+      "score": 0.6313231
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5674575
+    },
+    {
+      "id": "https://openalex.org/keywords/conceptual-framework",
+      "display_name": "Conceptual framework",
+      "score": 0.526265
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.46614376
+    },
+    {
+      "id": "https://openalex.org/keywords/conceptual-model",
+      "display_name": "Conceptual model",
+      "score": 0.44879356
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21279758",
+      "name": "Venture capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q219409"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134827381",
+      "name": "Social venture capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q261851"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C14224292",
+      "name": "Conceptual framework",
+      "sameAs": "https://www.wikidata.org/wiki/Q13600188"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121087249",
+      "name": "Emerging markets",
+      "sameAs": "https://www.wikidata.org/wiki/Q546395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C13606891",
+      "name": "Conceptual model",
+      "sameAs": "https://www.wikidata.org/wiki/Q2623243"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111472728",
+      "name": "Epistemology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9471"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C77088390",
+      "name": "Database",
+      "sameAs": "https://www.wikidata.org/wiki/Q8513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This paper proposes a conceptual framework for integrating Artificial Intelligence (AI) into investment decision-making processes in venture capital (VC), with a specific focus on unlocking opportunities in emerging markets. Traditional VC investment methods often rely on subjective judgment, limited historical data, and informal networks, which can lead to biased decisions and missed opportunities particularly in underexplored regions like Sub-Saharan Africa, Southeast Asia, and Latin America. The proposed AI-enhanced framework seeks to address these limitations by leveraging machine learning, natural language processing (NLP), and predictive analytics to support data-driven and scalable investment decisions. The framework is structured around three core pillars: (1) AI-powered deal sourcing and screening using big data from diverse, non-traditional sources such as social media, pitch decks, startup platforms, and economic indicators; (2) predictive modeling to assess startup success probabilities, founder competence, market dynamics, and scalability potential based on historical patterns and contextual signals; and (3) real-time portfolio monitoring and risk assessment using adaptive algorithms that adjust investment strategies based on live data streams. By applying AI techniques such as sentiment analysis, clustering, and anomaly detection, venture capitalists can identify high-potential startups earlier, uncover hidden trends in nascent industries, and make more informed decisions while reducing cognitive bias and human error. This is particularly critical in emerging markets where information asymmetry, regulatory instability, and market fragmentation hinder traditional investment approaches. The framework not only enhances capital efficiency but also democratizes access to funding for underserved regions and demographics. It promotes inclusivity, transparency, and sustainable investment practices by aligning AI-driven insights with local market intelligence and impact-focused metrics. The paper concludes by outlining practical implementation strategies, regulatory considerations, and areas for future research, including explainable AI and ethical investment modeling.",
+  "url": "https://doi.org/10.32628/ijsrset241482",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.32628/ijsrset241482",
+    "encodingFormat": "text/html"
+  }
+}

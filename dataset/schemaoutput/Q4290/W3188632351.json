@@ -1,0 +1,277 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W3188632351",
+  "doi": "10.3390/su13168760",
+  "name": "Investment and Decapitalization in the Fishing Industry: The Case of the Spanish Crustacean Freezer Trawler Fleet",
+  "headline": "Investment and Decapitalization in the Fishing Industry: The Case of the Spanish Crustacean Freezer Trawler Fleet",
+  "datePublished": "2021-08-05",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Sustainability",
+    "issn": "2071-1050",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Multidisciplinary Digital Publishing Institute"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5034649351",
+      "name": "Ana González Galán",
+      "givenName": "Ana",
+      "familyName": "Galán",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I78880903",
+          "name": "Universidad de Huelva",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ES"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5024535526",
+      "name": "Juan José García del Hoyo",
+      "givenName": "Juan",
+      "familyName": "Hoyo",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I78880903",
+          "name": "Universidad de Huelva",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ES"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-6132-8566"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5034134551",
+      "name": "Félix García Ordaz",
+      "givenName": "Félix",
+      "familyName": "Ordaz",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I78880903",
+          "name": "Universidad de Huelva",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ES"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-8275-9293"
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W1490946364",
+    "https://openalex.org/W1514405617",
+    "https://openalex.org/W153401562",
+    "https://openalex.org/W1540596182",
+    "https://openalex.org/W1565686142",
+    "https://openalex.org/W1570171752",
+    "https://openalex.org/W1573778746",
+    "https://openalex.org/W1579564704",
+    "https://openalex.org/W1582122087",
+    "https://openalex.org/W1586258897",
+    "https://openalex.org/W1598256052",
+    "https://openalex.org/W1606529381",
+    "https://openalex.org/W160989080",
+    "https://openalex.org/W1968570075",
+    "https://openalex.org/W1981174648",
+    "https://openalex.org/W1993760488",
+    "https://openalex.org/W2010718550",
+    "https://openalex.org/W2018939747",
+    "https://openalex.org/W2024920116",
+    "https://openalex.org/W2034358409",
+    "https://openalex.org/W2051688880",
+    "https://openalex.org/W2060233661",
+    "https://openalex.org/W2061721471",
+    "https://openalex.org/W206495568",
+    "https://openalex.org/W2070796882",
+    "https://openalex.org/W2073153981",
+    "https://openalex.org/W2091037256",
+    "https://openalex.org/W2091471876",
+    "https://openalex.org/W2103907214",
+    "https://openalex.org/W2108818539",
+    "https://openalex.org/W2126282479",
+    "https://openalex.org/W2146327324",
+    "https://openalex.org/W2156109180",
+    "https://openalex.org/W2161602623",
+    "https://openalex.org/W2169830338",
+    "https://openalex.org/W2502011837",
+    "https://openalex.org/W2765379520",
+    "https://openalex.org/W2767346159",
+    "https://openalex.org/W2965015957",
+    "https://openalex.org/W3088713371",
+    "https://openalex.org/W3121291233",
+    "https://openalex.org/W3122300549",
+    "https://openalex.org/W3124562601",
+    "https://openalex.org/W3125791180",
+    "https://openalex.org/W4206495155",
+    "https://openalex.org/W4212811537",
+    "https://openalex.org/W4292331211",
+    "https://openalex.org/W7881962"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 2200,
+      "currency": "CHF"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/obsolescence",
+      "display_name": "Obsolescence",
+      "score": 0.7285816
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5258703
+    },
+    {
+      "id": "https://openalex.org/keywords/stock",
+      "display_name": "Stock (firearms)",
+      "score": 0.49141228
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.45467338
+    },
+    {
+      "id": "https://openalex.org/keywords/fishing-industry",
+      "display_name": "Fishing industry",
+      "score": 0.41866186
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C514101110",
+      "name": "Fishing",
+      "sameAs": "https://www.wikidata.org/wiki/Q14373"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C30795975",
+      "name": "Obsolescence",
+      "sameAs": "https://www.wikidata.org/wiki/Q282744"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204036174",
+      "name": "Stock (firearms)",
+      "sameAs": "https://www.wikidata.org/wiki/Q909380"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C505870484",
+      "name": "Fishery",
+      "sameAs": "https://www.wikidata.org/wiki/Q180538"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C508466165",
+      "name": "Fishing industry",
+      "sameAs": "https://www.wikidata.org/wiki/Q635139"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78519656",
+      "name": "Mechanical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q101333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    }
+  ],
+  "abstract": "The objective of this work is to estimate the capital stock invested in the Spanish freezer trawler fleet dedicated to the capture of crustaceans on the African coast, for the period from 1964 to 2019. The importance of having methods for the correct measurement of the capital invested in a fishing fleet is to be able to express in monetary terms the excess catch capacity, which is a signal of overexploitation of a fishery, that is, the fleet operates at a level of effort or capacity higher than the minimum amount required to capture the desired quantity at the lowest possible cost. Following a methodology based on the permanent inventory method, we obtained a model that explains the construction value of a fishing vessel as a function of its technical characteristics. The market value in successive sales was estimated as a function of the construction value, the age of vessel and other variables. In this way, we estimated the value that the market assigns to the possible increases in individual fishing capacity and the decrease in value derived from the technical obsolescence of the vessels. Finally, we calculated the gross and net investment series and net capital stock.",
+  "url": "https://doi.org/10.3390/su13168760",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.mdpi.com/2071-1050/13/16/8760/pdf?version=1628244227",
+    "encodingFormat": "text/html"
+  }
+}

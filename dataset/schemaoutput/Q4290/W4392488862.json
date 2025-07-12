@@ -1,0 +1,324 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4392488862",
+  "doi": "10.1002/cssc.202301546",
+  "name": "An Integrated Process Analysis for Producing Glycerol Carbonate from CO<sub>2</sub> and Glycerol",
+  "headline": "An Integrated Process Analysis for Producing Glycerol Carbonate from CO<sub>2</sub> and Glycerol",
+  "datePublished": "2024-03-05",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "ChemSusChem",
+    "issn": "1864-5631",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Wiley"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5076091338",
+      "name": "O. Del-Mazo-Alvarado",
+      "givenName": "Octavio",
+      "familyName": "Del‐Mazo‐Alvarado",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4400573279",
+          "name": "Instituto Tecnológico de Aguascalientes",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": null
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210145680",
+          "name": "Universidad Tecnológica de Aguascalientes",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "MX"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-8564-3843"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5101684742",
+      "name": "Carlos Prieto",
+      "givenName": "Carlos",
+      "familyName": "Prieto",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I184999862",
+          "name": "Universidad de Salamanca",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ES"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0009-0002-9863-6682"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5053151282",
+      "name": "Antonio Sánchez",
+      "givenName": "Antonio",
+      "familyName": "Sánchez",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I184999862",
+          "name": "Universidad de Salamanca",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ES"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-4714-8972"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5048008716",
+      "name": "César Ramírez‐Márquez",
+      "givenName": "César",
+      "familyName": "Ramírez‐Márquez",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I173755004",
+          "name": "Universidad Michoacana de San Nicolás de Hidalgo",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "MX"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-2321-0436"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5046067922",
+      "name": "Adrián Bonilla‐Petriciolet",
+      "givenName": "Adrián",
+      "familyName": "Bonilla‐Petriciolet",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4400573279",
+          "name": "Instituto Tecnológico de Aguascalientes",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": null
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210145680",
+          "name": "Universidad Tecnológica de Aguascalientes",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "MX"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-0197-3539"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5009198880",
+      "name": "Mariano Martı́n",
+      "givenName": "Mariano",
+      "familyName": "Martín",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I184999862",
+          "name": "Universidad de Salamanca",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ES"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-8554-4813"
+    }
+  ],
+  "citationCount": 2,
+  "citation": [
+    "https://openalex.org/W1508547744",
+    "https://openalex.org/W1550212574",
+    "https://openalex.org/W1571691451",
+    "https://openalex.org/W2034467455",
+    "https://openalex.org/W2052972838",
+    "https://openalex.org/W2055306465",
+    "https://openalex.org/W2061439749",
+    "https://openalex.org/W2063985915",
+    "https://openalex.org/W2067338742",
+    "https://openalex.org/W2084948551",
+    "https://openalex.org/W2088175891",
+    "https://openalex.org/W2094817653",
+    "https://openalex.org/W2139287008",
+    "https://openalex.org/W2148130155",
+    "https://openalex.org/W2234354692",
+    "https://openalex.org/W2305338870",
+    "https://openalex.org/W2316340098",
+    "https://openalex.org/W2329640882",
+    "https://openalex.org/W2550304670",
+    "https://openalex.org/W2752281927",
+    "https://openalex.org/W2806619676",
+    "https://openalex.org/W2890996133",
+    "https://openalex.org/W2907970854",
+    "https://openalex.org/W2944667424",
+    "https://openalex.org/W2946107226",
+    "https://openalex.org/W2946269349",
+    "https://openalex.org/W2969938163",
+    "https://openalex.org/W2976597504",
+    "https://openalex.org/W3009569863",
+    "https://openalex.org/W3033592644",
+    "https://openalex.org/W3083960424",
+    "https://openalex.org/W3108083693",
+    "https://openalex.org/W3117537710",
+    "https://openalex.org/W3119478249",
+    "https://openalex.org/W3194055830",
+    "https://openalex.org/W3215022280",
+    "https://openalex.org/W4200139483",
+    "https://openalex.org/W4210616822",
+    "https://openalex.org/W4212832979",
+    "https://openalex.org/W4220658494",
+    "https://openalex.org/W4281401412",
+    "https://openalex.org/W4292199312",
+    "https://openalex.org/W4293257158",
+    "https://openalex.org/W4299559807",
+    "https://openalex.org/W4318683020",
+    "https://openalex.org/W4321378618",
+    "https://openalex.org/W4376273881",
+    "https://openalex.org/W4377080158",
+    "https://openalex.org/W4380203947",
+    "https://openalex.org/W4382654110",
+    "https://openalex.org/W4386384013"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 4120,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/dimethyl-carbonate",
+      "display_name": "Dimethyl carbonate",
+      "score": 0.7848134
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.48285633
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780881558",
+      "name": "Glycerol",
+      "sameAs": "https://www.wikidata.org/wiki/Q132501"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778197717",
+      "name": "Dimethyl carbonate",
+      "sameAs": "https://www.wikidata.org/wiki/Q416254"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780659211",
+      "name": "Carbonate",
+      "sameAs": "https://www.wikidata.org/wiki/Q181699"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C206139338",
+      "name": "Raw material",
+      "sameAs": "https://www.wikidata.org/wiki/Q192355"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C530467964",
+      "name": "Carbon dioxide",
+      "sameAs": "https://www.wikidata.org/wiki/Q1997"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C528095902",
+      "name": "Pulp and paper industry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2283886"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780365088",
+      "name": "Urea",
+      "sameAs": "https://www.wikidata.org/wiki/Q48318"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C178790620",
+      "name": "Organic chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q11351"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C161790260",
+      "name": "Catalysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q82264"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    }
+  ],
+  "abstract": "Abstract Glycerol carbonate (GC) is one of the most attractive green chemicals involved in several applications such as polymer synthesis, e. g., the production of polyurethanes and polycarbonates. This relevant chemical can be produced, in a green way, using CO 2 (from carbon capture) and glycerol (a byproduct from biodiesel manufacturing). Therefore, in this work, a comprehensive analysis of the GC production process is conducted based on the following synthesis route: urea‐dimethyl carbonate‐GC using carbon dioxide and glycerol as the main raw materials where the synthesis pathway was efficiently integrated using Aspen Plus. A techno‐economic analysis was performed in order to estimate the required capital investment and operating cost for the whole GC process, providing insights on individual capital cost requirements for the urea, dimethyl carbonate, and GC production sections. A total capital cost of $192.1 MM, and a total operating cost of $225.7 MM/y were estimated for the process. The total annualized cost was estimated as $1,558 USD/t of GC produced, competitive with current market price.",
+  "url": "https://doi.org/10.1002/cssc.202301546",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cssc.202301546",
+    "encodingFormat": "text/html"
+  }
+}

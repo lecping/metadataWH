@@ -1,0 +1,260 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4391932293",
+  "doi": "10.1080/09500782.2024.2314136",
+  "name": "Investment, linguistic capital and identity in Chinese university students’ EMI experience",
+  "headline": "Investment, linguistic capital and identity in Chinese university students’ EMI experience",
+  "datePublished": "2024-02-19",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-nd",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Language and Education",
+    "issn": "0950-0782",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Taylor & Francis"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5071184650",
+      "name": "Wang Ying",
+      "givenName": "Ying",
+      "familyName": "Wang",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I43439940",
+          "name": "University of Southampton",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I78988378",
+          "name": "Renmin University of China",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-8332-8500"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5008913481",
+      "name": "Jiang Dong",
+      "givenName": "Dong",
+      "familyName": "Jiang",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I78988378",
+          "name": "Renmin University of China",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-6686-9153"
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W1514619791",
+    "https://openalex.org/W1528074835",
+    "https://openalex.org/W1931305214",
+    "https://openalex.org/W1978342661",
+    "https://openalex.org/W1995814878",
+    "https://openalex.org/W2010385520",
+    "https://openalex.org/W2031923364",
+    "https://openalex.org/W2039013164",
+    "https://openalex.org/W2053219914",
+    "https://openalex.org/W2061975165",
+    "https://openalex.org/W2075617627",
+    "https://openalex.org/W2090519086",
+    "https://openalex.org/W2092373156",
+    "https://openalex.org/W2107278878",
+    "https://openalex.org/W2237775352",
+    "https://openalex.org/W2555179357",
+    "https://openalex.org/W2560263270",
+    "https://openalex.org/W2606131608",
+    "https://openalex.org/W2619223160",
+    "https://openalex.org/W2765659056",
+    "https://openalex.org/W2770880963",
+    "https://openalex.org/W2774166617",
+    "https://openalex.org/W2799274704",
+    "https://openalex.org/W2809190686",
+    "https://openalex.org/W2893081408",
+    "https://openalex.org/W2905943338",
+    "https://openalex.org/W2911625278",
+    "https://openalex.org/W2958149404",
+    "https://openalex.org/W2988533478",
+    "https://openalex.org/W3015679649",
+    "https://openalex.org/W3019026836",
+    "https://openalex.org/W3035097306",
+    "https://openalex.org/W3040778466",
+    "https://openalex.org/W3043548626",
+    "https://openalex.org/W3088270488",
+    "https://openalex.org/W3093056505",
+    "https://openalex.org/W3208578879",
+    "https://openalex.org/W4205527510",
+    "https://openalex.org/W4225574985",
+    "https://openalex.org/W4226325091",
+    "https://openalex.org/W4229864114",
+    "https://openalex.org/W4237227318",
+    "https://openalex.org/W4241048111",
+    "https://openalex.org/W4256679411",
+    "https://openalex.org/W4301407881",
+    "https://openalex.org/W4301495495",
+    "https://openalex.org/W4384207226",
+    "https://openalex.org/W4385471695",
+    "https://openalex.org/W4385740416",
+    "https://openalex.org/W4386163945",
+    "https://openalex.org/W4386306771",
+    "https://openalex.org/W4386916522"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.47921544
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.47643787
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4185066
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778355321",
+      "name": "Identity (music)",
+      "sameAs": "https://www.wikidata.org/wiki/Q17079427"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C19417346",
+      "name": "Pedagogy",
+      "sameAs": "https://www.wikidata.org/wiki/Q7922"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C142362112",
+      "name": "Art",
+      "sameAs": "https://www.wikidata.org/wiki/Q735"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C107038049",
+      "name": "Aesthetics",
+      "sameAs": "https://www.wikidata.org/wiki/Q35986"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "In line with China’s vision for international education, English medium instruction (EMI) is booming in Chinese higher education, which positions Chinese students in circumstances where they need to negotiate among different commitments, roles, identities, and desires involving individual, national and international agendas. This paper draws on the investment theory and model developed by Norton and Darvin to explore Chinese students’ EMI experience in respect of their investment goals, capital, and future identities underpinning their engagement. Informed by the concepts of English as a lingua franca and translanguaging, the paper deconstructs the notion of language in EMI and draws on the data retrieved in one of the top universities based in Beijing that offers EMI courses to Chinese students to examine their investments revolving around the issue of language. The findings show that Chinese students focus on disciplinary identities and national identities that EMI courses facilitate but refrain from imagining their engagement in the international work environment due to low esteems about translingualism as linguistic resources and admirations for English monolingualism as capital that would enable them to embrace international identities. The paper concludes by calling for developing critical language awareness in EMI implementation.",
+  "url": "https://doi.org/10.1080/09500782.2024.2314136",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.tandfonline.com/doi/pdf/10.1080/09500782.2024.2314136?needAccess=true",
+    "encodingFormat": "text/html"
+  }
+}

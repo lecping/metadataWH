@@ -1,0 +1,289 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4385633158",
+  "doi": "10.9734/ajaees/2023/v41i92101",
+  "name": "Understanding Capital Structure in Flower Farms, Varanasi, Uttar Pradesh, India",
+  "headline": "Understanding Capital Structure in Flower Farms, Varanasi, Uttar Pradesh, India",
+  "datePublished": "2023-08-07",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Asian Journal of Agricultural Extension Economics & Sociology",
+    "issn": "2320-7027",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Sciencedomain International"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5019182340",
+      "name": "Pavan Kumar Singh",
+      "givenName": "Pavan",
+      "familyName": "Singh",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I244923355",
+          "name": "Mangalayatan University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-2492-8674"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5009599785",
+      "name": "Kuldeep Singh",
+      "givenName": "K.",
+      "familyName": "Singh",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0001-5239-6586"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5062582777",
+      "name": "Supriya Supriya",
+      "givenName": "None",
+      "familyName": "Supriya",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5077703878",
+      "name": "Bhartendu Yadav",
+      "givenName": "Bhartendu",
+      "familyName": "Yadav",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210143625",
+          "name": "Chandra Shekhar Azad University of Agriculture and Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-6761-1760"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5102013991",
+      "name": "Ajeet Kumar",
+      "givenName": "Ajeet",
+      "familyName": "Kumar",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-8783-9559"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5051357520",
+      "name": "Sachin Kumar Verma",
+      "givenName": "Sachin",
+      "familyName": "Verma",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-7447-0537"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1613957942",
+    "https://openalex.org/W2789760709",
+    "https://openalex.org/W2800229088",
+    "https://openalex.org/W2982497030",
+    "https://openalex.org/W3082981963",
+    "https://openalex.org/W3093431129",
+    "https://openalex.org/W3119378481",
+    "https://openalex.org/W4205716817",
+    "https://openalex.org/W4283828000",
+    "https://openalex.org/W4287456396"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/uttar-pradesh",
+      "display_name": "Uttar pradesh",
+      "score": 0.82097626
+    },
+    {
+      "id": "https://openalex.org/keywords/non-invasive-ventilation",
+      "display_name": "Non-invasive ventilation",
+      "score": 0.5216813
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.45492285
+    },
+    {
+      "id": "https://openalex.org/keywords/stratified-sampling",
+      "display_name": "Stratified Sampling",
+      "score": 0.44192374
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.42062655
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C3018581295",
+      "name": "Uttar pradesh",
+      "sameAs": "https://www.wikidata.org/wiki/Q1498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C13558536",
+      "name": "Cropping",
+      "sameAs": "https://www.wikidata.org/wiki/Q785116"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779014827",
+      "name": "Non-invasive ventilation",
+      "sameAs": "https://www.wikidata.org/wiki/Q1024207"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C49898467",
+      "name": "Stratified sampling",
+      "sameAs": "https://www.wikidata.org/wiki/Q1517706"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C140505726",
+      "name": "Forensic science",
+      "sameAs": "https://www.wikidata.org/wiki/Q495304"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37621935",
+      "name": "Agricultural science",
+      "sameAs": "https://www.wikidata.org/wiki/Q3606845"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33070731",
+      "name": "Toxicology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7218"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C42972112",
+      "name": "Veterinary medicine",
+      "sameAs": "https://www.wikidata.org/wiki/Q170201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C118518473",
+      "name": "Agriculture",
+      "sameAs": "https://www.wikidata.org/wiki/Q11451"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C45355965",
+      "name": "Socioeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q1643441"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105795698",
+      "name": "Statistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q12483"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C71924100",
+      "name": "Medicine",
+      "sameAs": "https://www.wikidata.org/wiki/Q11190"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "A study on 120 flower farmers was made in the district Varanasi to analyze the farm structure and investment patterns of the selected farms. A multistage stratified purposive cum random sampling procedure was adopted for the study. Findings reveal that the overall average cropping intensity on sample farms was found 213.04%. Among the overall cropping pattern of the crops in the study area, the percentage of rose was 8.57 and marigold was found 11.12 percent. Per farm investment on farm, structure was highest on small size group of farms i.e., Rs. 750644.34 followed by marginal size group of farms which found the money value of Rs. 463367.02 respectively showing the direct relation to farm size.",
+  "url": "https://doi.org/10.9734/ajaees/2023/v41i92101",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://journalajaees.com/index.php/AJAEES/article/view/2101/4175",
+    "encodingFormat": "text/html"
+  }
+}

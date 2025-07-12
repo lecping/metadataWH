@@ -1,0 +1,218 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4399275347",
+  "doi": "10.36526/santhet.v8i1.3760",
+  "name": "The Effect of Socialization of the I-BOSS System on the Effectiveness of Using I-BOSS at the Directorate of Goods Traffic Services and Capital Investment of BP Batam",
+  "headline": "The Effect of Socialization of the I-BOSS System on the Effectiveness of Using I-BOSS at the Directorate of Goods Traffic Services and Capital Investment of BP Batam",
+  "datePublished": "2024-05-28",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Santhet (Jurnal Sejarah Pendidikan Dan Humaniora)",
+    "issn": "2541-2523",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5098981710",
+      "name": "Nor Ashikin",
+      "givenName": "None",
+      "familyName": "Ashikin",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I245308123",
+          "name": "State University of Padang",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5015067200",
+      "name": "M. Fachri Adnan",
+      "givenName": "None",
+      "familyName": "Adnan",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I245308123",
+          "name": "State University of Padang",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-7393-2170"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1601325137",
+    "https://openalex.org/W2969902220",
+    "https://openalex.org/W3127490614",
+    "https://openalex.org/W3135109919",
+    "https://openalex.org/W3139881087",
+    "https://openalex.org/W3187165618",
+    "https://openalex.org/W4213375512",
+    "https://openalex.org/W4240301469",
+    "https://openalex.org/W4315705157",
+    "https://openalex.org/W4362691621",
+    "https://openalex.org/W4405393868"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/boss",
+      "display_name": "Boss",
+      "score": 0.996515
+    },
+    {
+      "id": "https://openalex.org/keywords/socialization",
+      "display_name": "Socialization",
+      "score": 0.6932858
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.54321355
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.520548
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.42078716
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2777020290",
+      "name": "Boss",
+      "sameAs": "https://www.wikidata.org/wiki/Q4947493"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C25032326",
+      "name": "Socialization",
+      "sameAs": "https://www.wikidata.org/wiki/Q185467"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C187736073",
+      "name": "Management",
+      "sameAs": "https://www.wikidata.org/wiki/Q2920921"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C77805123",
+      "name": "Social psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q161272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78519656",
+      "name": "Mechanical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q101333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "The socialization of the I-BOSS system carried out by the Traffic Directorate is a step taken to introduce the I-BOSS system to business actors in order for it to be understood and researched by the public. However, the implementation is still not optimal and evenly distributed to business actors, so a large number of people have yet to receive socialization and do not understand the use of the I-BOSS system. In this research, the socialization of the I-BOSS system still needs to be improved to make it easier for business actors to process business permits. The aim of this research is to explain the influence of socialization of the I-BOSS system on the effectiveness of using I-BOSS. The quantitative approach uses descriptive causality with a simple regression method. The research sample was 100 people with probability sampling. The study's findings indicate that socialization of the I-BOSS system has a significant effect on the effectiveness of using the I-BOSS system by 55.7%.",
+  "url": "https://doi.org/10.36526/santhet.v8i1.3760",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://ejournal.unibabwi.ac.id/index.php/santhet/article/download/3760/2293",
+    "encodingFormat": "text/html"
+  }
+}

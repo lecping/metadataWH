@@ -1,0 +1,234 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4390422514",
+  "doi": "10.31063/altereconomics/2023.20-4.7",
+  "name": "Budget Investments in Municipal Development Strategies in Russia",
+  "headline": "Budget Investments in Municipal Development Strategies in Russia",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "AlterEconomics",
+    "issn": "2782-6198",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5042855130",
+      "name": "А. F. Pasynkov",
+      "givenName": "A.",
+      "familyName": "Pasynkov",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210119369",
+          "name": "Ural Branch of the Russian Academy of Sciences",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-5186-4130"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1579006532",
+    "https://openalex.org/W1966716368",
+    "https://openalex.org/W2021471174",
+    "https://openalex.org/W2037824170",
+    "https://openalex.org/W2040620604",
+    "https://openalex.org/W2056268262",
+    "https://openalex.org/W2520592215",
+    "https://openalex.org/W2885585023",
+    "https://openalex.org/W2921072549",
+    "https://openalex.org/W2925333183",
+    "https://openalex.org/W2953519802",
+    "https://openalex.org/W2967139939",
+    "https://openalex.org/W2997184748",
+    "https://openalex.org/W3039471607",
+    "https://openalex.org/W3041375031",
+    "https://openalex.org/W3089579230",
+    "https://openalex.org/W3113609758",
+    "https://openalex.org/W3120038274",
+    "https://openalex.org/W3122228751",
+    "https://openalex.org/W3125913243",
+    "https://openalex.org/W3203724989",
+    "https://openalex.org/W4386545240"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.7133306
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.49512258
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-expenditure",
+      "display_name": "Capital expenditure",
+      "score": 0.48555133
+    },
+    {
+      "id": "https://openalex.org/keywords/federal-budget",
+      "display_name": "Federal budget",
+      "score": 0.48036036
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.45230794
+    },
+    {
+      "id": "https://openalex.org/keywords/development-plan",
+      "display_name": "Development plan",
+      "score": 0.43894935
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C3019953208",
+      "name": "Russian federation",
+      "sameAs": "https://www.wikidata.org/wiki/Q159"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C172497479",
+      "name": "Capital expenditure",
+      "sameAs": "https://www.wikidata.org/wiki/Q302208"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780822617",
+      "name": "Federal budget",
+      "sameAs": "https://www.wikidata.org/wiki/Q5440514"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776505523",
+      "name": "Plan (archaeology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q4785468"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776774022",
+      "name": "Development plan",
+      "sameAs": "https://www.wikidata.org/wiki/Q5266783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105639569",
+      "name": "Economic policy",
+      "sameAs": "https://www.wikidata.org/wiki/Q582577"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779999868",
+      "name": "Fiscal year",
+      "sameAs": "https://www.wikidata.org/wiki/Q191891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "In recent years, in Russia, strategies for the socio-economic development of municipalities have become widespread, following the enactment of Federal Law No. 172-FZ \"On Strategic Planning in the Russian Federation\" in 2014. However, a prevalent issue in these strategies is the lack of an investment plan utilizing budget resources, which is essential for achieving key social indicators. Sources of investment financing are often either not included in the text of strategies or remain unspecified. Hence, the primary aim of this study is to reveal the factors contributing to the mismatch between the investment plans outlined in the strategy for the socio-economic development of municipalities and the actual capabilities of territories to secure the necessary financial resources. The study systematizes and compares empirical data to explore the socio-economic deve­lopment strategies of 15 municipalities in Sverdlovsk region. The goal is to shed light on the details of analy­zing and forecasting the financial resources of these territories. The results suggest that these characteristics are generally underdeveloped in most areas. To assess the real capabilities of municipalities in budgetary investments, data on capital investments in 2022 were analyzed, considering funding sources from federal, regional, and municipal budgets, both in gross and relative terms (per resident of the study area). On average, municipal budgets’ own funds allocated for investment constitute only 15 % of all budget resources earmarked for these purposes. Notably, the primary contributors to capital investments in Sverdlovsk region are funds from the regional (over a half) and federal budgets (just under a third). However, the distribution of these funds among municipalities is highly uneven, with the majority being directed toward the capital of Sverdlovsk region. The insights from this study can be valuable for government and municipal authorities in effectively implementing strategic planning and forecasting.",
+  "url": "https://doi.org/10.31063/altereconomics/2023.20-4.7",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.31063/altereconomics/2023.20-4.7",
+    "encodingFormat": "text/html"
+  }
+}

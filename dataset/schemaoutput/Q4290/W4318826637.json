@@ -1,0 +1,216 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4318826637",
+  "doi": "10.30587/jre.v6i1.5236",
+  "name": "PENGARUH LOKASI USAHA, JUMLAH TENAGA KERJA DAN NILAI INVESTASI TERHADAP TOTAL PRODUKSI INDUSTRI TAHU-TEMPE DI KABUPATEN MUSI BANYUASIN",
+  "headline": "PENGARUH LOKASI USAHA, JUMLAH TENAGA KERJA DAN NILAI INVESTASI TERHADAP TOTAL PRODUKSI INDUSTRI TAHU-TEMPE DI KABUPATEN MUSI BANYUASIN",
+  "datePublished": "2023-01-27",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Jurnal Riset Entrepreneurship",
+    "issn": "2621-153X",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5014469447",
+      "name": "Idham Cholid",
+      "givenName": "Idham",
+      "familyName": "Cholid",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4392021167",
+          "name": "Universitas Multi Data Palembang",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": null
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5077102901",
+      "name": "Antonius Wahyu Sudrajat",
+      "givenName": "Antonius",
+      "familyName": "Sudrajat",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4392021167",
+          "name": "Universitas Multi Data Palembang",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": null
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W2922517133",
+    "https://openalex.org/W3090660525",
+    "https://openalex.org/W3134070469"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.69849896
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5833385
+    },
+    {
+      "id": "https://openalex.org/keywords/value",
+      "display_name": "Value (mathematics)",
+      "score": 0.5603478
+    },
+    {
+      "id": "https://openalex.org/keywords/tempe",
+      "display_name": "Tempe",
+      "score": 0.414925
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776291640",
+      "name": "Value (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2912517"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37621935",
+      "name": "Agricultural science",
+      "sameAs": "https://www.wikidata.org/wiki/Q3606845"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C122637931",
+      "name": "Unit (ring theory)",
+      "sameAs": "https://www.wikidata.org/wiki/Q118084"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780073744",
+      "name": "Tempe",
+      "sameAs": "https://www.wikidata.org/wiki/Q4019783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C31903555",
+      "name": "Food science",
+      "sameAs": "https://www.wikidata.org/wiki/Q1637030"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105795698",
+      "name": "Statistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q12483"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145420912",
+      "name": "Mathematics education",
+      "sameAs": "https://www.wikidata.org/wiki/Q853077"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The existence of the tofu and tempeh industry in Indonesia is very easy to find, this is because processed tofu and tempeh products have quite a lot of variants. The types of businesses included in this MSME group are mostly still managed traditionally, so that further development is needed. However, in the development of this business unit, of course, it is necessary to pay attention to what factors influence its development. This research was conducted in Musi Banyuasin Regency by involving 175 tofu and tempeh industries in data collection. The potential for the development of this industry is very large, because the location is not far from Palembang which is the provincial capital, making the existence of the tofu and tempeh industry very high in potential. Utilizing data from survey results related to location, number of workers used and investment value, this study tries to analyze these variabels on the output value of the tofu and tempeh industry. The calculation results show that the amount of output value produced by this industry is influenced by the location of the industry, the number of workers involved and the investment value made. The results of calculations using simple regression show that all independent variabels have a positive and significant effect. So that local governments can consider the results of this study as a reference in issuing policies for the development of this industry.",
+  "url": "https://doi.org/10.30587/jre.v6i1.5236",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "http://journal.umg.ac.id/index.php/jre/article/download/5236/2973",
+    "encodingFormat": "text/html"
+  }
+}

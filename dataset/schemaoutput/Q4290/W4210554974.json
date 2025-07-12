@@ -1,0 +1,141 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4210554974",
+  "doi": "10.51505/ijebmr.2022.6107",
+  "name": "Human Capital Investment and Industrial Productivity, as a Correlate of Sustainable Development in Nigeria",
+  "headline": "Human Capital Investment and Industrial Productivity, as a Correlate of Sustainable Development in Nigeria",
+  "datePublished": "2022-01-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Economics Business and Management Research",
+    "issn": "2456-7760",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5046992373",
+      "name": "Olawumi Ojo Rufus",
+      "givenName": "Olawumi",
+      "familyName": "Rufus",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W12091179",
+    "https://openalex.org/W132649341",
+    "https://openalex.org/W1513875428",
+    "https://openalex.org/W2110603299",
+    "https://openalex.org/W2168605160",
+    "https://openalex.org/W2182343396",
+    "https://openalex.org/W2188576741",
+    "https://openalex.org/W2612907779"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5624194
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5007794
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204983608",
+      "name": "Productivity",
+      "sameAs": "https://www.wikidata.org/wiki/Q2111958"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C552854447",
+      "name": "Sustainable development",
+      "sameAs": "https://www.wikidata.org/wiki/Q131201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The effects of low investment in human capital on industrial productivity have being the bane of sustainable development in the Nigeria industrial sector.The study examined the nexus between human capital investment and industrial productivity as a correlate of sustainable development in Nigeria.Secondary data which spanned from 1981 through 2019 were used for the study.Multiple regression analysis was used to achieve the objectives of the study.Stationarity tests were conducted on all the series before the estimations to affirm absence of stochastic processes.The study, due to the strong evidence of long run relationship among the variables, conducted ARDL model to determine the nature of the relationship between the variables.The findings showed that human capital investment is beneficial and remains an essential tool of industrial productivity in Nigeria.The primary, secondary and tertiary school enrolments, total government expenditure on health and on education were significantly related to industrial productivity in Nigeria.The study concluded that government expenditure on education both capital and recurrent positively influence economic growth in Nigeria.Also, the study revealed that government expenditure policy and implementation capacity are important, especially for determining education and health care contribution to the GDP.Based on the findings and conclusion, the study recommended among others that; there should be establishments of special agencies with the responsibility of improving the skills and capabilities of human capital, improved infrastructural facilities should also be provided for existing schools and hospitals while new training institutions should be established to provide quality education and training so as to improve the skills of the Nigerian labour force.",
+  "url": "https://doi.org/10.51505/ijebmr.2022.6107",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.51505/ijebmr.2022.6107",
+    "encodingFormat": "text/html"
+  }
+}

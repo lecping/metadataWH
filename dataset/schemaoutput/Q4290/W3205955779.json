@@ -1,0 +1,143 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W3205955779",
+  "doi": "10.54151/27382559-2021.1a-123",
+  "name": "ՆԵՐԴՐՈՒՄԱՅԻՆ ՇՈՒԿԱՅԻ ԱՌԱՆՁՆԱՀԱՏԿՈՒԹՅՈՒՆՆԵՐԻ ՎԵՐԼՈՒԾՈՒԹՅՈՒՆԸ ՀՀ-ՈՒՄ / THE ANALYSIS OF INVESTMENT MARKET FEATURES IN THE REPUBLIC OF ARMENIA",
+  "headline": "ՆԵՐԴՐՈՒՄԱՅԻՆ ՇՈՒԿԱՅԻ ԱՌԱՆՁՆԱՀԱՏԿՈՒԹՅՈՒՆՆԵՐԻ ՎԵՐԼՈՒԾՈՒԹՅՈՒՆԸ ՀՀ-ՈՒՄ / THE ANALYSIS OF INVESTMENT MARKET FEATURES IN THE REPUBLIC OF ARMENIA",
+  "datePublished": "2021-09-15",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "SUSh Scientific Proceedings",
+    "issn": "2738-2559",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5036713511",
+      "name": "Լեւոն Աշոտի Հովնանյան",
+      "givenName": "L.",
+      "familyName": "Hovnanyan",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/armenian",
+      "display_name": "Armenian",
+      "score": 0.851557
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6844443
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5036647
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776639550",
+      "name": "Armenian",
+      "sameAs": "https://www.wikidata.org/wiki/Q8785"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C143910263",
+      "name": "Capital market",
+      "sameAs": "https://www.wikidata.org/wiki/Q750458"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136264566",
+      "name": "Economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q159810"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C74363100",
+      "name": "Economic system",
+      "sameAs": "https://www.wikidata.org/wiki/Q273005"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C195244886",
+      "name": "Ancient history",
+      "sameAs": "https://www.wikidata.org/wiki/Q41493"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "Հոդվածում ներկայացվում է ներդրումների հոսքերի շարժընթացի ուսումնասիրությունը և վերլուծությունը Հայաստանի տնտեսության մեջ: Հոդվածում վերլուծվել է նաև կապիտալի շուկայի կառուցվածքը իր մասնակիցներով և գործունեության ցուցանիշներով: / The article presents the study of investment flow trends and analysis in the Armenian economy. The paper also presents the structure of the capital market with its participants and performance indicators.ֈ",
+  "url": "https://doi.org/10.54151/27382559-2021.1a-123",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.54151/27382559-2021.1a-123",
+    "encodingFormat": "text/html"
+  }
+}

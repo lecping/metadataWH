@@ -1,0 +1,195 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4389345220",
+  "doi": "10.17150/2411-6262.2022.13(2).14",
+  "name": "Strategic Planning of Industrial Development in Irkutsk Region in a Non-Stationary Environment",
+  "headline": "Strategic Planning of Industrial Development in Irkutsk Region in a Non-Stationary Environment",
+  "datePublished": "2022-06-10",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Baikal Research Journal",
+    "issn": "2411-6262",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Ball State University"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5102733088",
+      "name": "Sergey Chuprov",
+      "givenName": "Sergey",
+      "familyName": "Chuprov",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2801633520",
+          "name": "Baikal State University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-8581-9733"
+    }
+  ],
+  "citationCount": 4,
+  "citation": [
+    "https://openalex.org/W2622272001",
+    "https://openalex.org/W3164353979",
+    "https://openalex.org/W4205401115",
+    "https://openalex.org/W4252439913",
+    "https://openalex.org/W68162335"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5904347
+    },
+    {
+      "id": "https://openalex.org/keywords/gross-regional-product",
+      "display_name": "Gross Regional Product",
+      "score": 0.5610318
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4335095
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.41238296
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776341274",
+      "name": "Gross Regional Product",
+      "sameAs": "https://www.wikidata.org/wiki/Q2474103"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778738651",
+      "name": "Novelty",
+      "sameAs": "https://www.wikidata.org/wiki/Q16546687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26271046",
+      "name": "Economic geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q187097"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C74363100",
+      "name": "Economic system",
+      "sameAs": "https://www.wikidata.org/wiki/Q273005"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C148383697",
+      "name": "Regional science",
+      "sameAs": "https://www.wikidata.org/wiki/Q1781695"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136264566",
+      "name": "Economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q159810"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27206212",
+      "name": "Theology",
+      "sameAs": "https://www.wikidata.org/wiki/Q34178"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The urgent overcoming of the burdens of the accelerated development of Baikal region in a viscous environment of destructive disturbances called for long-term planning of the functioning of the sectors of the economy of Irkutsk region. In this regard, the analytical and project development of priority areas for managing the industrial complexes of the region as part of the formation of a strategy for the socio-economic development of Irkutsk region for the period up to 2036 becomes relevant. The purpose of the study is to review the dynamics of the indices of the physical volume of the gross regional product, fixed capital investment and industrial production of the region in 2010-2021, to state the conclusion about the unstable functioning of the industry of Baikal region and to interpret its nonlinear evolution. The research methodology is based on the principles of system analysis, innovation management, non-linear dynamics, theories of stability and catastrophes, synergetics, thanks to which it becomes possible to reveal and justify the features of the unstable functioning of the regional industrial complex in a non-stationary environment. The information and empirical base of the study was the data of official statistics and the material of the adopted strategy for the socio-economic development of Irkutsk region for the period up to 2036. In accordance with the subject of the study, the industrial complex of Irkutsk region was determined as the object of observation. Scientific novelty lies in the increase in knowledge about the remarkable features of the dynamics of the functioning of the industry of Baikal region, the interpretation of possible metamorphoses of the evolution of its industrial complex, necessary for monitoring and effective implementation of the mentioned regional strategy. The conducted research builds up the theoretical and methodological tools for strategic planning of the industrial development of the region in the non-stationary space of stunning disturbances that chaotic and harden the modern business environment.",
+  "url": "https://doi.org/10.17150/2411-6262.2022.13(2).14",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "http://brj-bguep.ru/classes/pdfDL.ashx?id=25119",
+    "encodingFormat": "text/html"
+  }
+}

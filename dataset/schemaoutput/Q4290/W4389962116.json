@@ -1,0 +1,135 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4389962116",
+  "doi": "10.23887/vjra.v10i01.56143",
+  "name": "Pengaruh Perkembangan Aplikasi Investasi, Risiko Investasi dan Pengetahuan Investasi terhadap Minat Investasi Pasar Modal pada Generasi Milenial dan Generasi Z Provinsi Bali di Era Pandemi",
+  "headline": "Pengaruh Perkembangan Aplikasi Investasi, Risiko Investasi dan Pengetahuan Investasi terhadap Minat Investasi Pasar Modal pada Generasi Milenial dan Generasi Z Provinsi Bali di Era Pandemi",
+  "datePublished": "2022-12-28",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Vokasi Jurnal Riset Akuntansi",
+    "issn": "2337-537X",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5029826978",
+      "name": "Andri Kerti Ardani",
+      "givenName": "Andri",
+      "familyName": "Ardani",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210090826",
+          "name": "Universitas Pendidikan Ganesha",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5082248829",
+      "name": "Ni Luh Gede Erni Sulindawati",
+      "givenName": "Ni",
+      "familyName": "Sulindawati",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210090826",
+          "name": "Universitas Pendidikan Ganesha",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-6217-6744"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2597165682",
+    "https://openalex.org/W2938266526",
+    "https://openalex.org/W3002341766",
+    "https://openalex.org/W3110869385",
+    "https://openalex.org/W3113856728",
+    "https://openalex.org/W3178275866",
+    "https://openalex.org/W3215875553",
+    "https://openalex.org/W4401652127",
+    "https://openalex.org/W4401966518"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.7247902
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.48722234
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Abstract&#x0D; The recent development of investment applications has encouraged millennials and generation z to start investing. The amount of free time and the declining prices of instruments on the capital market during the pandemic are several other factors that raise their interest in investing. This research was conducted in the province of Bali by grouping respondents from the millennial generation and generation z. In this study using quantitative methods with the data used is primary data sourced from the results of questionnaires that have been distributed to 100 respondents with google form. The purpose of this study was to determine the effect of the development of investment applications, investment risk and investment knowledge on the millennial generation and gen Z of Bali province in the pandemic era. The results of the study indicate that application development, investment risk and investment knowledge have a positive and significant impact on capital market investment interest in millennial and generation z generations in Bali.&#x0D; &#x0D; Keywords : investment application development, investmentrisk, investment knowledge, investment interest.",
+  "url": "https://doi.org/10.23887/vjra.v10i01.56143",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://ejournal.undiksha.ac.id/index.php/JJAKUN/article/download/56143/24134",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4404607594",
+  "doi": "10.1101/2024.11.18.624184",
+  "name": "A proposed framework for evaluating meat alternatives",
+  "headline": "A proposed framework for evaluating meat alternatives",
+  "datePublished": "2024-11-20",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nd",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "bioRxiv (Cold Spring Harbor Laboratory)",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": "Cold Spring Harbor Laboratory"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5028450199",
+      "name": "Cameron Semper",
+      "givenName": "Cameron",
+      "familyName": "Semper",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I168635309",
+          "name": "University of Calgary",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-2025-799X"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5114745654",
+      "name": "Caroline Kolta",
+      "givenName": "Caroline",
+      "familyName": "Kolta",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2801937912",
+          "name": "XPRIZE Foundation",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5034869258",
+      "name": "Michael J. Kinney",
+      "givenName": "MJ",
+      "familyName": "Kinney",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2801937912",
+          "name": "XPRIZE Foundation",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-7846-8349"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5114745655",
+      "name": "Jordan Giali",
+      "givenName": "Jordan",
+      "familyName": "Giali",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2801937912",
+          "name": "XPRIZE Foundation",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5075916893",
+      "name": "Matthew W. Rogers",
+      "givenName": "Michaella",
+      "familyName": "Rogers",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2801937912",
+          "name": "XPRIZE Foundation",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5065525255",
+      "name": "Dan Blaustein‐Rejto",
+      "givenName": "Dan",
+      "familyName": "Blaustein-Rejto",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2801568573",
+          "name": "Breakthrough Institute",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-7086-2878"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5026554654",
+      "name": "Amy C. Rowat",
+      "givenName": "Amy",
+      "familyName": "Rowat",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I161318765",
+          "name": "University of California, Los Angeles",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-5800-5320"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5041059483",
+      "name": "Olivia J. Ogilvie",
+      "givenName": "Olivia",
+      "familyName": "Ogilvie",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I185492890",
+          "name": "University of Canterbury",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NZ"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-6670-9077"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5112415632",
+      "name": "Robert B. Hutmacher",
+      "givenName": "Ryan",
+      "familyName": "Hutmacher",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210115830",
+          "name": "Anthem (United States)",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5056255034",
+      "name": "Josephine Wee",
+      "givenName": "Josephine",
+      "familyName": "Wee",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I130769515",
+          "name": "Pennsylvania State University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-9819-2175"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5039514271",
+      "name": "Isaac Emery",
+      "givenName": "Isaac",
+      "familyName": "Emery",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-8757-2698"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5036531349",
+      "name": "Laura J. Domigan",
+      "givenName": "Laura",
+      "familyName": "Domigan",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I154130895",
+          "name": "University of Auckland",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NZ"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-4262-8851"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5057875821",
+      "name": "Kantha Shelke",
+      "givenName": "Kantha",
+      "familyName": "Shelke",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I1285792802",
+          "name": "Center for Food Safety and Applied Nutrition",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I145311948",
+          "name": "Johns Hopkins University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/meat-packing-industry",
+      "display_name": "Meat packing industry",
+      "score": 0.49066794
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4556894
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.45356604
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136197465",
+      "name": "Variety (cybernetics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1729295"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779530757",
+      "name": "Quality (philosophy)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1207505"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C151956246",
+      "name": "Meat packing industry",
+      "sameAs": "https://www.wikidata.org/wiki/Q955043"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C206345919",
+      "name": "Resource (disambiguation)",
+      "sameAs": "https://www.wikidata.org/wiki/Q20380951"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C118518473",
+      "name": "Agriculture",
+      "sameAs": "https://www.wikidata.org/wiki/Q11451"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C91306197",
+      "name": "Competition (biology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q45767"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778137410",
+      "name": "Government (linguistics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2732820"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C31903555",
+      "name": "Food science",
+      "sameAs": "https://www.wikidata.org/wiki/Q1637030"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C31258907",
+      "name": "Computer network",
+      "sameAs": "https://www.wikidata.org/wiki/Q1301371"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111472728",
+      "name": "Epistemology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9471"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C154945302",
+      "name": "Artificial intelligence",
+      "sameAs": "https://www.wikidata.org/wiki/Q11660"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    }
+  ],
+  "abstract": "Concerns surrounding the environmental, economic, and ethical consequences of meat production and industrial agriculture have prompted substantial research and capital investment into the production of meat alternatives. Alternative meat production encompasses a variety of technological approaches including plant-based meats, cell-based or cultivated meats, meat alternatives relying on fungal protein sources, and hybrids thereof; each of which offers unique advantages and disadvantages and has been associated with a myriad of claims supporting it as the preferred alternative to animal-derived meats. As part of XPRIZE Foundation's Feed the Next Billion competition, we developed a framework for evaluating meat alternatives by measuring their structural, nutritional, and organoleptic properties while also assessing safety and their purported environmental and economic benefits compared to animal-derived meats. The framework is technologically agnostic and can be used to evaluate meat alternatives of all types. The output of the framework enables a data-driven comparison to animal-derived meat and/or other alternative meats, allowing a range of stakeholders (e.g., food startups, investors, government) to assess technological readiness, competitive advantage, and impact potential. This framework can assist this nascent industry as it moves towards standardizing approaches to evaluating the quality, safety and proposed benefits of meat alternatives.",
+  "url": "https://doi.org/10.1101/2024.11.18.624184",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1101/2024.11.18.624184",
+    "encodingFormat": "text/html"
+  }
+}

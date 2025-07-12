@@ -1,0 +1,284 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4376652539",
+  "doi": "10.1016/j.atech.2023.100244",
+  "name": "A production capacity investment decision-making tool for the indoor vertical farming industry",
+  "headline": "A production capacity investment decision-making tool for the indoor vertical farming industry",
+  "datePublished": "2023-05-05",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-nd",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Smart Agricultural Technology",
+    "issn": "2772-3755",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Elsevier BV"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5112917033",
+      "name": "Ben Schulman",
+      "givenName": "Ben",
+      "familyName": "Schulman",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I129902397",
+          "name": "Dalhousie University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CA"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5032559729",
+      "name": "John T. Blake",
+      "givenName": "John",
+      "familyName": "Blake",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I129902397",
+          "name": "Dalhousie University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-0617-8996"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5069527550",
+      "name": "Richard Donald",
+      "givenName": "Richard",
+      "familyName": "Donald",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I129902397",
+          "name": "Dalhousie University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CA"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 6,
+  "citation": [
+    "https://openalex.org/W1909480882",
+    "https://openalex.org/W1993827202",
+    "https://openalex.org/W1994065151",
+    "https://openalex.org/W200397671",
+    "https://openalex.org/W2120762929",
+    "https://openalex.org/W2463810569",
+    "https://openalex.org/W2591342044",
+    "https://openalex.org/W2900404505",
+    "https://openalex.org/W2933843357",
+    "https://openalex.org/W3121272664",
+    "https://openalex.org/W3128600365",
+    "https://openalex.org/W3139346680",
+    "https://openalex.org/W4200084972",
+    "https://openalex.org/W4200281515",
+    "https://openalex.org/W4200394140",
+    "https://openalex.org/W4245824835",
+    "https://openalex.org/W4376652539"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 1800,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.4446081
+    },
+    {
+      "id": "https://openalex.org/keywords/investment-decisions",
+      "display_name": "Investment Decisions",
+      "score": 0.41791025
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41498962
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C129361004",
+      "name": "Profitability index",
+      "sameAs": "https://www.wikidata.org/wiki/Q2470236"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181622380",
+      "name": "Profit (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q26911"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776748549",
+      "name": "Status quo",
+      "sameAs": "https://www.wikidata.org/wiki/Q201610"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134560507",
+      "name": "Environmental economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q753291"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C118518473",
+      "name": "Agriculture",
+      "sameAs": "https://www.wikidata.org/wiki/Q11451"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C108713360",
+      "name": "Supply chain",
+      "sameAs": "https://www.wikidata.org/wiki/Q1824206"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778865806",
+      "name": "Investment decisions",
+      "sameAs": "https://www.wikidata.org/wiki/Q6060850"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C90673727",
+      "name": "Product (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q901718"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2524010",
+      "name": "Geometry",
+      "sameAs": "https://www.wikidata.org/wiki/Q8087"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    }
+  ],
+  "abstract": "Indoor vertical farming (VF) systems are a form of controlled environment agriculture, making use of technology to improve food availability and security while reducing environmental impacts. Commercially, it is a young industry with potential to disrupt the food supply chain status quo but is faced with uncertainty and risk with respect to product demand and production technology efficacy. As a result, VF firms must make decisions to develop production capacity that meets market demand while ensuring long-term profitability. This research presents a method for VF firms to facilitate the allocation of capital resources to new production capacity considering demand and production uncertainty. The method makes use of two mixed integer linear programming models, executed sequentially, to identify a production technology plan and then to identify production capacity plans under a range of different demand scenarios. Profit is used to evaluate performance and the method includes a multi-criteria comparison of how production plans perform using a range of preselected criteria.",
+  "url": "https://doi.org/10.1016/j.atech.2023.100244",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1016/j.atech.2023.100244",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4396678409",
+  "doi": "10.15587/1729-4061.2024.301844",
+  "name": "Identification of transport and technological problems in the grain product subcomplex",
+  "headline": "Identification of transport and technological problems in the grain product subcomplex",
+  "datePublished": "2024-04-30",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Eastern-European Journal of Enterprise Technologies",
+    "issn": "1729-3774",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Kharkiv State Academy of Physical Culture"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5034325736",
+      "name": "I. Mizanbekov",
+      "givenName": "Ilyas",
+      "familyName": "Mizanbekov",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210128817",
+          "name": "Kazakh National Agrarian Research University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "KZ"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-0370-7776"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5113199304",
+      "name": "Kabdyrahim Kalym",
+      "givenName": "Kabdyrahim",
+      "familyName": "Kalym",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210128817",
+          "name": "Kazakh National Agrarian Research University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "KZ"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2345520821",
+    "https://openalex.org/W2460201327",
+    "https://openalex.org/W2520206681",
+    "https://openalex.org/W2563434748",
+    "https://openalex.org/W2751296650",
+    "https://openalex.org/W2899446989",
+    "https://openalex.org/W2981502659",
+    "https://openalex.org/W3013330096",
+    "https://openalex.org/W3121671475",
+    "https://openalex.org/W3128088151",
+    "https://openalex.org/W3165308475",
+    "https://openalex.org/W3201944571",
+    "https://openalex.org/W3217394244",
+    "https://openalex.org/W4206178873",
+    "https://openalex.org/W4220925168",
+    "https://openalex.org/W4232441577",
+    "https://openalex.org/W4285047009",
+    "https://openalex.org/W4306758775",
+    "https://openalex.org/W4308171859",
+    "https://openalex.org/W4308351178",
+    "https://openalex.org/W4313894743",
+    "https://openalex.org/W4315606556",
+    "https://openalex.org/W4380047771",
+    "https://openalex.org/W4381276541",
+    "https://openalex.org/W4385671310",
+    "https://openalex.org/W4388487243"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 225,
+      "currency": "EUR"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.65693796
+    },
+    {
+      "id": "https://openalex.org/keywords/agribusiness",
+      "display_name": "Agribusiness",
+      "score": 0.5344495
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.45492688
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C118518473",
+      "name": "Agriculture",
+      "sameAs": "https://www.wikidata.org/wiki/Q11451"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C90673727",
+      "name": "Product (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q901718"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779343474",
+      "name": "Context (archaeology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3109175"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C1670747",
+      "name": "Agribusiness",
+      "sameAs": "https://www.wikidata.org/wiki/Q396622"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C128383755",
+      "name": "Agricultural productivity",
+      "sameAs": "https://www.wikidata.org/wiki/Q3816336"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134560507",
+      "name": "Environmental economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q753291"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2524010",
+      "name": "Geometry",
+      "sameAs": "https://www.wikidata.org/wiki/Q8087"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C151730666",
+      "name": "Paleontology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7205"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The study focuses on the grain-product subcomplex within the Republic of Kazakhstan, aiming to dissect and address the prevalent issues plaguing this sector. It identifies several challenges, including technological deficiencies, inefficiencies, and increased production risks. There was a notable decrease in fixed capital investment in the agricultural sector in 2023, suggesting a shift in investment strategies or priorities, particularly with a significant reduction in food production investments. Agricultural exports in 2023, while showing a decrease compared to 2022, still represent a substantial economic activity. The capacity and utilization of grain storage facilities indicate a robust infrastructure capable of supporting the nation's grain production, with a considerable portion of storage capacity currently utilized and a significant amount of grain released in 2023. Furthermore, the research delves into cross-border rail transport of crops, with Uzbekistan emerging as a regional leader in exports. This analysis, along with the examination of export activities and grain storage capacities, emphasizes the role of innovation and technological advancements in enhancing the agroindustrial sector's efficiency and competitiveness. Optimization methods for modeling transport processes in agribusiness, such as digital technologies and intermodal transport, are proposed to address existing shortcomings. The study's findings are distinguished by their complex approach to addressing the problems within the grain-product subcomplex. This approach, highlighting the practical application under local conditions, makes the results uniquely tailored to Kazakhstan's context, offering a pathway towards improved agricultural practices and sectoral growth",
+  "url": "https://doi.org/10.15587/1729-4061.2024.301844",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://journals.uran.ua/eejet/article/download/301844/295008",
+    "encodingFormat": "text/html"
+  }
+}

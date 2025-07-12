@@ -1,0 +1,262 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4210480059",
+  "doi": "10.18805/ag.r-2357",
+  "name": "Edible Insects a Novel Food Processing Industry: An Overview",
+  "headline": "Edible Insects a Novel Food Processing Industry: An Overview",
+  "datePublished": "2022-01-29",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Agricultural Reviews",
+    "issn": "0253-1496",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5009433455",
+      "name": "Mukesh Nitharwal",
+      "givenName": "Mukesh",
+      "familyName": "Nitharwal",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5112698440",
+      "name": "Subhita Kumawat",
+      "givenName": "Subhita",
+      "familyName": "Kumawat",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5008718885",
+      "name": "Hanuman Singh Jatav",
+      "givenName": "Hanuman",
+      "familyName": "Jatav",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-4701-670X"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5068849665",
+      "name": "Mudassar Ahmed Khan",
+      "givenName": "Mudassar",
+      "familyName": "Khan",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5081701428",
+      "name": "Kailash Chandra",
+      "givenName": "Kailash",
+      "familyName": "Chandra",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-1614-5752"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5057602526",
+      "name": "Sanjay Kumar Attar",
+      "givenName": "Sanjay",
+      "familyName": "Attar",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5109349301",
+      "name": "S. R. Dhaka",
+      "givenName": "S.R.",
+      "familyName": "Dhaka",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 3,
+  "citation": [
+    "https://openalex.org/W1525095461",
+    "https://openalex.org/W2016323075",
+    "https://openalex.org/W2084072037",
+    "https://openalex.org/W2091836750",
+    "https://openalex.org/W2266560191",
+    "https://openalex.org/W2495057161",
+    "https://openalex.org/W2578081910",
+    "https://openalex.org/W2749074695"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.572171
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.42877898
+    },
+    {
+      "id": "https://openalex.org/keywords/land-area",
+      "display_name": "Land area",
+      "score": 0.41800445
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C118518473",
+      "name": "Agriculture",
+      "sameAs": "https://www.wikidata.org/wiki/Q11451"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C112964050",
+      "name": "Livestock",
+      "sameAs": "https://www.wikidata.org/wiki/Q103459"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C115540264",
+      "name": "Biomass (ecology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2945560"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C88199923",
+      "name": "Food processing",
+      "sameAs": "https://www.wikidata.org/wiki/Q627371"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2908647359",
+      "name": "Population",
+      "sameAs": "https://www.wikidata.org/wiki/Q2625603"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C150903083",
+      "name": "Biotechnology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7108"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2993003885",
+      "name": "Land area",
+      "sameAs": "https://www.wikidata.org/wiki/Q260023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2909208804",
+      "name": "Fish <Actinopterygii>",
+      "sameAs": "https://www.wikidata.org/wiki/Q127282"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33070731",
+      "name": "Toxicology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7218"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37621935",
+      "name": "Agricultural science",
+      "sameAs": "https://www.wikidata.org/wiki/Q3606845"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C54286561",
+      "name": "Agroforestry",
+      "sameAs": "https://www.wikidata.org/wiki/Q397350"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C505870484",
+      "name": "Fishery",
+      "sameAs": "https://www.wikidata.org/wiki/Q180538"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C31903555",
+      "name": "Food science",
+      "sameAs": "https://www.wikidata.org/wiki/Q1637030"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C99454951",
+      "name": "Environmental health",
+      "sameAs": "https://www.wikidata.org/wiki/Q932068"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C71924100",
+      "name": "Medicine",
+      "sameAs": "https://www.wikidata.org/wiki/Q11190"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Humans are consuming roughly 40 per cent of the biomass that the land and the coastal seas produce is an alarming phase. The rate at which the population is increasing and demand of food reserves to provide nutritional food from the conventional protein production sources i.e. livestock, poultry and fish unable to keep up the supply. A concept behind edible insect farming has its roots from some of character i.e. high feed conversion efficiency, much less water and land requirement and less proven to diseases and higher portion to be utilizable (lack of bones) make insects a suitable source. Rearing and harvesting of the insect is a low tech, low-capital investment option even to poorest section of society, such as women and landless workers. Insects farming provide proteins at lowest cost of 40-75 g per 100 g of dry weight of insects.",
+  "url": "https://doi.org/10.18805/ag.r-2357",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://arccarticles.s3.amazonaws.com/OnlinePublish/Final-article-attachemnt-with-doi-R-2357-6089603e9087340b9bdcbbb1.pdf",
+    "encodingFormat": "text/html"
+  }
+}

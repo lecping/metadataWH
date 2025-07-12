@@ -1,0 +1,160 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4401066253",
+  "doi": "10.55041/ijsrem36849",
+  "name": "Investors Preferences and Awareness towards Various Investment Avenues in Delhi-The Capital City of India",
+  "headline": "Investors Preferences and Awareness towards Various Investment Avenues in Delhi-The Capital City of India",
+  "datePublished": "2024-07-27",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+    "issn": "2582-3930",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5094067856",
+      "name": "Ekta Tyagi",
+      "givenName": "Ekta",
+      "familyName": "Tyagi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2799707979",
+          "name": "Swami Vivekanand Subharti University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5113133833",
+      "name": "Gaurab Kumar Sharma",
+      "givenName": "Dr.",
+      "familyName": "Sharma",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6315992
+    },
+    {
+      "id": "https://openalex.org/keywords/new-delhi",
+      "display_name": "New delhi",
+      "score": 0.54881775
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5183069
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5175142
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C3020456351",
+      "name": "New delhi",
+      "sameAs": "https://www.wikidata.org/wiki/Q987"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C158739034",
+      "name": "Metropolitan area",
+      "sameAs": "https://www.wikidata.org/wiki/Q1907114"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This research explores into investors’ investment preferences and awareness levels in Delhi- the capital city of India. Exploring a dynamic marketplace brimmed with traditional and contemporary avenues, this study sheds light on the following: This study identifies the most popular investment options among Delhiites and considering factors such as risk appetite and financial literacy and income levels. It analyzes whether traditional instrument’s such as bank deposits &amp; real estate prevail or whether modern instrument’s such as mutual funds and the stock market are gaining popularity. This study investigates the level of awareness among different investors segments across a diverse spectrum of investment possibilities. It examines how factors such as age, education and occupation affect investors' knowledge of different options and highlights potential shortcomings and opportunities for financial literacy initiatives. This study examines the key factors influencing investment decisions in Delhi. It goes beyond risk return tradeoffs and analyze how the factors such as investment horizon and tax implications and emotional comfort levels shape investors choices. This research proposes targeted solutions by understanding the unique preferences and knowledge gaps in Dеlhi's investment landscape. It recommends strategies to bridge information gaps and promote responsible investment practices and promote a prosperous and inclusive financial ecosystem in the city. The aim of this research is to contribute to a more informed and empowered investment environment and ultimately boosting financial well- being and economic growth within the city by illuminating the motivations and behaviors of Dеlhi's investors. Keywords: Delhi investment preferences, Traditional vs. modern avenues, Investor awareness disparities, Decision- making drivers, Risk tolerance.",
+  "url": "https://doi.org/10.55041/ijsrem36849",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://ijsrem.com/download/investors-preferences-and-awareness-towards-various-investment-avenues-in-delhi-the-capital-city-of-india/?wpdmdl=37515&refresh=66a7f9b45d1111722284468",
+    "encodingFormat": "text/html"
+  }
+}

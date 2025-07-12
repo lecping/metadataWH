@@ -1,0 +1,168 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4390586828",
+  "doi": "10.1051/e3sconf/202447105020",
+  "name": "The new era of American manufacturing: evaluating the risks and rewards of reshoring",
+  "headline": "The new era of American manufacturing: evaluating the risks and rewards of reshoring",
+  "datePublished": "2024-01-01",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "E3S Web of Conferences",
+    "issn": "2267-1242",
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDP Sciences"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5093653366",
+      "name": "Ivan Kudrenko",
+      "givenName": "Ivan",
+      "familyName": "Kudrenko",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0009-0000-6295-457X"
+    }
+  ],
+  "citationCount": 3,
+  "citation": [
+    "https://openalex.org/W2580589104",
+    "https://openalex.org/W3022523064",
+    "https://openalex.org/W3028859754",
+    "https://openalex.org/W3091614728",
+    "https://openalex.org/W3093037791",
+    "https://openalex.org/W3095397425",
+    "https://openalex.org/W3124835453",
+    "https://openalex.org/W3129025457",
+    "https://openalex.org/W3139138270",
+    "https://openalex.org/W3169295760",
+    "https://openalex.org/W4200412778",
+    "https://openalex.org/W4205790053",
+    "https://openalex.org/W4214480896",
+    "https://openalex.org/W4225279906",
+    "https://openalex.org/W4283275376",
+    "https://openalex.org/W4285091557",
+    "https://openalex.org/W4319264248",
+    "https://openalex.org/W4321500294",
+    "https://openalex.org/W4361185605",
+    "https://openalex.org/W4376866593",
+    "https://openalex.org/W4384304923",
+    "https://openalex.org/W4386293202"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5036227
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.455008
+    },
+    {
+      "id": "https://openalex.org/keywords/economic-shortage",
+      "display_name": "Economic shortage",
+      "score": 0.45452726
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C108713360",
+      "name": "Supply chain",
+      "sameAs": "https://www.wikidata.org/wiki/Q1824206"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C194051981",
+      "name": "Economic shortage",
+      "sameAs": "https://www.wikidata.org/wiki/Q1337691"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778137410",
+      "name": "Government (linguistics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2732820"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    }
+  ],
+  "abstract": "This article delves into the complex trend of reshoring U.S. manufacturing, highlighting supply chain challenges and potential advantages. It analyzes economic drivers, including trade policy shifts and the demand for supply chain resilience heightened by the COVID-19 pandemic. The study addresses the skilled labor shortage and capital investment requirements for updating production infrastructure. It also examines logistical adaptations essential for reshoring success and the role of technology in supply chain optimization. Lessons from global reshoring provide insights for U.S. strategies. The article concludes with collaborative reshoring strategies, underscoring the importance of government support, corporate planning, and educational initiatives. It contributes to the debate on reshoring's role in strengthening the U.S. economy and its manufacturing competitiveness.",
+  "url": "https://doi.org/10.1051/e3sconf/202447105020",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2024/01/e3sconf_titds2023_05020.pdf",
+    "encodingFormat": "text/html"
+  }
+}

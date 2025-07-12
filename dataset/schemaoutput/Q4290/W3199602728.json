@@ -1,0 +1,226 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W3199602728",
+  "doi": "10.18500/1994-2540-2021-21-3-295-303",
+  "name": "Sensitivity analysis as a decision-making tool for the implementation of an investment project in mining industry",
+  "headline": "Sensitivity analysis as a decision-making tool for the implementation of an investment project in mining industry",
+  "datePublished": "2021-08-25",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Izvestiya of Saratov University Economics Management Law",
+    "issn": "1994-2540",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Saratov State University"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5031350387",
+      "name": "E. A. Pozdnyakova",
+      "givenName": "Elena",
+      "familyName": "Pozdnyakova",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-3028-349X"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5038802456",
+      "name": "Liudmila A. Ramenskaya",
+      "givenName": "Liudmila",
+      "familyName": "Ramenskaya",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5015017706",
+      "name": "Д. С. Воронов",
+      "givenName": "Dmitrii",
+      "familyName": "Voronov",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-9540-5558"
+    }
+  ],
+  "citationCount": 2,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.69629014
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-budgeting",
+      "display_name": "Capital Budgeting",
+      "score": 0.54804546
+    },
+    {
+      "id": "https://openalex.org/keywords/discounted-cash-flow",
+      "display_name": "Discounted cash flow",
+      "score": 0.52610713
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4700956
+    },
+    {
+      "id": "https://openalex.org/keywords/investment-decisions",
+      "display_name": "Investment Decisions",
+      "score": 0.44839418
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C163428354",
+      "name": "Cash flow",
+      "sameAs": "https://www.wikidata.org/wiki/Q1047513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C57918260",
+      "name": "Capital budgeting",
+      "sameAs": "https://www.wikidata.org/wiki/Q1354666"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2781014177",
+      "name": "Discounted cash flow",
+      "sameAs": "https://www.wikidata.org/wiki/Q455422"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C112930515",
+      "name": "Risk analysis (engineering)",
+      "sameAs": "https://www.wikidata.org/wiki/Q4389547"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136197465",
+      "name": "Variety (cybernetics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1729295"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21200559",
+      "name": "Sensitivity (control systems)",
+      "sameAs": "https://www.wikidata.org/wiki/Q7451068"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779439359",
+      "name": "Commodity",
+      "sameAs": "https://www.wikidata.org/wiki/Q317088"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778865806",
+      "name": "Investment decisions",
+      "sameAs": "https://www.wikidata.org/wiki/Q6060850"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21425071",
+      "name": "Project appraisal",
+      "sameAs": "https://www.wikidata.org/wiki/Q7249389"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C154945302",
+      "name": "Artificial intelligence",
+      "sameAs": "https://www.wikidata.org/wiki/Q11660"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C24326235",
+      "name": "Electronic engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q126095"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Introduction. Russian mining companies need to implement large-scale investment projects due to a variety of internal and external reasons. Projects are aimed at the development of new deposits, technical equipment and the modernization of existing ones. To make substantiated management decisions, a toolkit for analyzing the risks of investment projects is required. Theoretical analysis. The section contains the need to apply quantitative methods for assessing investment risks based on cash flow modeling. We have analyzed the possibility of the use of sensitivity analysis techniques, real options and Monte Carlo methods for the quantitative assessment of the mining industry investment projects risks. The result includes a justification of the feasibility of applying the sensitivity analysis method at the early stages of an investment project. Empirical analysis. The sensitivity analysis tested metrics such as production volumes, commodity prices, capital and operating costs on two mining projects. It was found out that the projects under consideration are the most sensitive to changes in the price of commercial products. Results. Sensitivity analysis is a useful tool for risk analysis of investment projects. The application of this method to an investment project in the mining industry should be carried out taking into account the industry specifics.",
+  "url": "https://doi.org/10.18500/1994-2540-2021-21-3-295-303",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.18500/1994-2540-2021-21-3-295-303",
+    "encodingFormat": "text/html"
+  }
+}

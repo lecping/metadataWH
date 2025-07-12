@@ -1,0 +1,266 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4295337980",
+  "doi": "10.4108/eai.10-8-2022.2320872",
+  "name": "Millenials’ Interest in Sharia Capital Market Investment with Perceived Risk as Intervening Variable",
+  "headline": "Millenials’ Interest in Sharia Capital Market Investment with Perceived Risk as Intervening Variable",
+  "datePublished": "2022-01-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Proceedings of the 3rd International Conference of Business, Accounting, and Economics, ICBAE 2022, 10-11 August 2022, Purwokerto, Central Java, Indonesia",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5017089097",
+      "name": "Naelati Tubastuvi",
+      "givenName": "Naelati",
+      "familyName": "Tubastuvi",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0001-7625-2384"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5056163170",
+      "name": "Erny Rachmawati",
+      "givenName": "Erny",
+      "familyName": "Rachmawati",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0003-3387-5340"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5107746468",
+      "name": "Muhammad Fuad",
+      "givenName": "Muhammad",
+      "familyName": "Fuad",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-5247-9098"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5036391047",
+      "name": "Arienda Ramadani",
+      "givenName": "Arienda",
+      "familyName": "Ramadani",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W1576013901",
+    "https://openalex.org/W1807256883",
+    "https://openalex.org/W2119403113",
+    "https://openalex.org/W2536779724",
+    "https://openalex.org/W2697729312",
+    "https://openalex.org/W2759276665",
+    "https://openalex.org/W2786693304",
+    "https://openalex.org/W2788134352",
+    "https://openalex.org/W2890876288",
+    "https://openalex.org/W2905483227",
+    "https://openalex.org/W2926858994",
+    "https://openalex.org/W3011481478",
+    "https://openalex.org/W3047878894",
+    "https://openalex.org/W3096296059",
+    "https://openalex.org/W3138771614",
+    "https://openalex.org/W3161965036",
+    "https://openalex.org/W3178275866",
+    "https://openalex.org/W3193610538",
+    "https://openalex.org/W4223893393",
+    "https://openalex.org/W4241720604",
+    "https://openalex.org/W4245294174",
+    "https://openalex.org/W4254831224",
+    "https://openalex.org/W4285010060",
+    "https://openalex.org/W4291001575"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6556758
+    },
+    {
+      "id": "https://openalex.org/keywords/intervening-variable",
+      "display_name": "Intervening variable",
+      "score": 0.4725064
+    },
+    {
+      "id": "https://openalex.org/keywords/risk-perception",
+      "display_name": "Risk Perception",
+      "score": 0.4580601
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4250304
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C168702047",
+      "name": "Sharia",
+      "sameAs": "https://www.wikidata.org/wiki/Q482752"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C182365436",
+      "name": "Variable (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q50701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26760741",
+      "name": "Perception",
+      "sameAs": "https://www.wikidata.org/wiki/Q160402"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779709291",
+      "name": "Intervening variable",
+      "sameAs": "https://www.wikidata.org/wiki/Q15699608"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C4445939",
+      "name": "Islam",
+      "sameAs": "https://www.wikidata.org/wiki/Q432"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C163355716",
+      "name": "Risk perception",
+      "sameAs": "https://www.wikidata.org/wiki/Q2154783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C143910263",
+      "name": "Capital market",
+      "sameAs": "https://www.wikidata.org/wiki/Q750458"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175025494",
+      "name": "Interest rate",
+      "sameAs": "https://www.wikidata.org/wiki/Q179179"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134306372",
+      "name": "Mathematical analysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q7754"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2908647359",
+      "name": "Population",
+      "sameAs": "https://www.wikidata.org/wiki/Q2625603"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149923435",
+      "name": "Demography",
+      "sameAs": "https://www.wikidata.org/wiki/Q37732"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27206212",
+      "name": "Theology",
+      "sameAs": "https://www.wikidata.org/wiki/Q34178"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C169760540",
+      "name": "Neuroscience",
+      "sameAs": "https://www.wikidata.org/wiki/Q207011"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    }
+  ],
+  "abstract": "This study aims to examine the factors that influence investment interest. We test the effect of Motivation, Knowledge, Information Technology on Investment Interest in the Islamic Capital Market with Risk Perception as an intervening variable. The research was conducted in Banyumas Regency, with Mi",
+  "url": "https://doi.org/10.4108/eai.10-8-2022.2320872",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "http://eudl.eu/pdf/10.4108/eai.10-8-2022.2320872",
+    "encodingFormat": "text/html"
+  }
+}

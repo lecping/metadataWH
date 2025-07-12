@@ -1,0 +1,282 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4387538196",
+  "doi": "10.3389/fnut.2023.1272938",
+  "name": "Maternal capital predicts investment in infant growth and development through lactation",
+  "headline": "Maternal capital predicts investment in infant growth and development through lactation",
+  "datePublished": "2023-10-11",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Frontiers in Nutrition",
+    "issn": "2296-861X",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Frontiers Media"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5008363605",
+      "name": "Sarah Dib",
+      "givenName": "Sarah",
+      "familyName": "Dib",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2800129641",
+          "name": "Great Ormond Street Hospital",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I45129253",
+          "name": "University College London",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-8603-1833"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5032932026",
+      "name": "Mary Fewtrell",
+      "givenName": "Mary",
+      "familyName": "Fewtrell",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2800129641",
+          "name": "Great Ormond Street Hospital",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I45129253",
+          "name": "University College London",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-9783-3444"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5080055819",
+      "name": "Jonathan C. K. Wells",
+      "givenName": "Jonathan",
+      "familyName": "Wells",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I45129253",
+          "name": "University College London",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2800129641",
+          "name": "Great Ormond Street Hospital",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-0411-8025"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W14725281",
+    "https://openalex.org/W1570408419",
+    "https://openalex.org/W1976844911",
+    "https://openalex.org/W1979084220",
+    "https://openalex.org/W1979908044",
+    "https://openalex.org/W1980433516",
+    "https://openalex.org/W1980730784",
+    "https://openalex.org/W1986763704",
+    "https://openalex.org/W1989456486",
+    "https://openalex.org/W1995872638",
+    "https://openalex.org/W1996299251",
+    "https://openalex.org/W2003940057",
+    "https://openalex.org/W2011249317",
+    "https://openalex.org/W2017481072",
+    "https://openalex.org/W2019797125",
+    "https://openalex.org/W2036181513",
+    "https://openalex.org/W2039621927",
+    "https://openalex.org/W2048710492",
+    "https://openalex.org/W2058494247",
+    "https://openalex.org/W2060112036",
+    "https://openalex.org/W2060999263",
+    "https://openalex.org/W2070490017",
+    "https://openalex.org/W2074350724",
+    "https://openalex.org/W2076927075",
+    "https://openalex.org/W2087486755",
+    "https://openalex.org/W2089523538",
+    "https://openalex.org/W2101772679",
+    "https://openalex.org/W2101862113",
+    "https://openalex.org/W2109995893",
+    "https://openalex.org/W2110952210",
+    "https://openalex.org/W2121172386",
+    "https://openalex.org/W2124646811",
+    "https://openalex.org/W2132615169",
+    "https://openalex.org/W2134662102",
+    "https://openalex.org/W2141796245",
+    "https://openalex.org/W2142177694",
+    "https://openalex.org/W2144676766",
+    "https://openalex.org/W2147739127",
+    "https://openalex.org/W2148902529",
+    "https://openalex.org/W2149264570",
+    "https://openalex.org/W2150498626",
+    "https://openalex.org/W2150773564",
+    "https://openalex.org/W2162365452",
+    "https://openalex.org/W2162737916",
+    "https://openalex.org/W2168045152",
+    "https://openalex.org/W2170644430",
+    "https://openalex.org/W2267159071",
+    "https://openalex.org/W2303242534",
+    "https://openalex.org/W2404317020",
+    "https://openalex.org/W2411424694",
+    "https://openalex.org/W2424527112",
+    "https://openalex.org/W2512002201",
+    "https://openalex.org/W2530453185",
+    "https://openalex.org/W2581431454",
+    "https://openalex.org/W2591207079",
+    "https://openalex.org/W2603663816",
+    "https://openalex.org/W2753787688",
+    "https://openalex.org/W2886453893",
+    "https://openalex.org/W2896195800",
+    "https://openalex.org/W2911326613",
+    "https://openalex.org/W2946536855",
+    "https://openalex.org/W2948687506",
+    "https://openalex.org/W2960011546",
+    "https://openalex.org/W2979585352",
+    "https://openalex.org/W2983973520",
+    "https://openalex.org/W2992276118",
+    "https://openalex.org/W2998813212",
+    "https://openalex.org/W3015084596",
+    "https://openalex.org/W3028197959",
+    "https://openalex.org/W3139399376",
+    "https://openalex.org/W3165298224",
+    "https://openalex.org/W3183559101",
+    "https://openalex.org/W4310178184",
+    "https://openalex.org/W4312193595",
+    "https://openalex.org/W4312778414"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 2490,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.62241626
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.52719
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776659692",
+      "name": "Lactation",
+      "sameAs": "https://www.wikidata.org/wiki/Q719426"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779234561",
+      "name": "Pregnancy",
+      "sameAs": "https://www.wikidata.org/wiki/Q11995"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C54355233",
+      "name": "Genetics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7162"
+    }
+  ],
+  "abstract": "Maternal capital (MC) is a broad term from evolutionary biology, referring to any aspects of maternal phenotype that represent resources available for investment in offspring. We investigated MC in breastfeeding mothers of late preterm and early term infants, examining its relationship with infant and breastfeeding outcomes. We also determined whether MC modified the effect of the relaxation intervention on these outcomes.The data was collected as part of a randomized controlled trial investigating breastfeeding relaxation in 72 mothers of late preterm and early term infants. Indicators of MC (socioeconomic, social, somatic, reproductive, psychological, and cognitive) were collected at baseline at 2-3 weeks post-delivery. Principal Component Analysis was conducted for the MC measures and two components were identified: 1.\"Subjective\" maternal capital which included stress and depression scores, and 2.\"Objective\" maternal capital which included height, infant birth weight, and verbal memory. Univariate linear regression was conducted to assess the relationship between objective and subjective MC (predictors) and infant growth, infant behavior, maternal behavior, and infant feeding variables (outcomes) at 6-8 weeks. The interaction of MC and intervention assignment with outcomes was assessed.Higher objective MC was significantly associated with higher infant weight (0.43; 95%CI 0.21,0.66) and length z-scores (0.47; 95%CI 0.19,0.76), shorter duration of crying (-17.5; 95%CI -33.2,-1.9), and lower food (-0.28; 95%CI -0.48,-0.08) and satiety responsiveness (-0.17; 95%CI -0.31,-0.02) at 6-8 weeks. It was also associated with greater maternal responsiveness to infant cues (-0.05, 95%CI -0.09,-0.02 for non-responsiveness). Greater subjective maternal capital was significantly associated with higher breastfeeding frequency (2.3; 95%CI 0.8,3.8) and infant appetite (0.30; 95%CI 0.07,0.54). There was a significant interaction between the intervention assignment and objective MC for infant length, with trends for infant weight and crying, which indicated that the intervention had greater effects among mothers with lower capital.Higher MC was associated with better infant growth and shorter crying duration. This was possibly mediated through more frequent breastfeeding and prompt responsiveness to infant cues, reflecting greater maternal investment. The findings also suggest that a relaxation intervention was most effective among those with low MC, suggesting some reduction in social inequalities in health.",
+  "url": "https://doi.org/10.3389/fnut.2023.1272938",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.frontiersin.org/articles/10.3389/fnut.2023.1272938/pdf?isPublishedV2=False",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4400842028",
+  "doi": "10.1007/s40797-024-00281-7",
+  "name": "Profits, Innovation, Investment. Exploring the Virtuous Circle",
+  "headline": "Profits, Innovation, Investment. Exploring the Virtuous Circle",
+  "datePublished": "2024-07-20",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Italian Economic Journal",
+    "issn": "2199-322X",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Springer Science+Business Media"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5044447200",
+      "name": "Giuseppe Simone",
+      "givenName": "Giuseppe",
+      "familyName": "Simone",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I102064193",
+          "name": "University of Siena",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IT"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-6229-9149"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5076764063",
+      "name": "Rinaldo Evangelista",
+      "givenName": "Rinaldo",
+      "familyName": "Evangelista",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I112859197",
+          "name": "Università di Camerino",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IT"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-7910-853X"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5088041044",
+      "name": "Mario Pianta",
+      "givenName": "Mario",
+      "familyName": "Pianta",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I157210198",
+          "name": "Scuola Normale Superiore",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IT"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-4111-0447"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1601128533",
+    "https://openalex.org/W1789968305",
+    "https://openalex.org/W1945929852",
+    "https://openalex.org/W1970600246",
+    "https://openalex.org/W1971872072",
+    "https://openalex.org/W1978680909",
+    "https://openalex.org/W1990360714",
+    "https://openalex.org/W2015475339",
+    "https://openalex.org/W2023269939",
+    "https://openalex.org/W2039235853",
+    "https://openalex.org/W2055368921",
+    "https://openalex.org/W2066374751",
+    "https://openalex.org/W2096750823",
+    "https://openalex.org/W2116361282",
+    "https://openalex.org/W2132888122",
+    "https://openalex.org/W2156979458",
+    "https://openalex.org/W2323948610",
+    "https://openalex.org/W2341765855",
+    "https://openalex.org/W2559015588",
+    "https://openalex.org/W2789113240",
+    "https://openalex.org/W2901290488",
+    "https://openalex.org/W2910932220",
+    "https://openalex.org/W3004343034",
+    "https://openalex.org/W3107032743",
+    "https://openalex.org/W3122940136",
+    "https://openalex.org/W3123440314",
+    "https://openalex.org/W3125601827",
+    "https://openalex.org/W3134340479",
+    "https://openalex.org/W3180881537",
+    "https://openalex.org/W3217536903",
+    "https://openalex.org/W4205438304",
+    "https://openalex.org/W4230616945",
+    "https://openalex.org/W4234765103",
+    "https://openalex.org/W4281385784",
+    "https://openalex.org/W4281720920",
+    "https://openalex.org/W4301031038",
+    "https://openalex.org/W4301066124",
+    "https://openalex.org/W4384935878",
+    "https://openalex.org/W583569915",
+    "https://openalex.org/W593181146",
+    "https://openalex.org/W649106797",
+    "https://openalex.org/W81529728"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 2290,
+      "currency": "EUR"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/product-innovation",
+      "display_name": "Product innovation",
+      "score": 0.59486204
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.55331415
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41338673
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C23979983",
+      "name": "Virtuous circle and vicious circle",
+      "sameAs": "https://www.wikidata.org/wiki/Q1165103"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181622380",
+      "name": "Profit (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q26911"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C75434695",
+      "name": "Product innovation",
+      "sameAs": "https://www.wikidata.org/wiki/Q7247768"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C137996800",
+      "name": "Technological change",
+      "sameAs": "https://www.wikidata.org/wiki/Q762702"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C90673727",
+      "name": "Product (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q901718"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2524010",
+      "name": "Geometry",
+      "sameAs": "https://www.wikidata.org/wiki/Q8087"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    }
+  ],
+  "abstract": "Abstract The article explores the dynamic relationships between profits, product innovation and capital investments. A virtuous circle model is proposed where product innovation and investment are the key drivers of profits, which in turn support technological change and capital accumulation. In our model industries are characterised by two different trajectories for innovation and investments—either ‘embodied’ in machinery and equipment, aiming at cost competitiveness, or knowledge-related and aiming at technological competitiveness. The model is empirically tested on 40 manufacturing and service industries in six major European countries. The empirical analysis confirms that product innovations and capital investments are distinct drivers of profit growth. A virtuous circle between profit, innovation and investment is mainly found in the industries characterised by strategies of technological competitiveness.",
+  "url": "https://doi.org/10.1007/s40797-024-00281-7",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://link.springer.com/content/pdf/10.1007/s40797-024-00281-7.pdf",
+    "encodingFormat": "text/html"
+  }
+}

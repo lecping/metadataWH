@@ -1,0 +1,166 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4406702904",
+  "doi": "10.48161/qaj.v5n1a1192",
+  "name": "Impacting Investment Capital Attraction on Sustainable Development: A Case Study in Vietnam",
+  "headline": "Impacting Investment Capital Attraction on Sustainable Development: A Case Study in Vietnam",
+  "datePublished": "2025-01-22",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-nd",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Qubahan Academic Journal",
+    "issn": "2709-8206",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5043590058",
+      "name": "Phan Thành Tâm",
+      "givenName": "Tam",
+      "familyName": "Thanh",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0003-2387-7756"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5043590058",
+      "name": "Phan Thành Tâm",
+      "givenName": "Phan",
+      "familyName": "Tam",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0003-2387-7756"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6138138
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.58603454
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5724707
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778364177",
+      "name": "Attraction",
+      "sameAs": "https://www.wikidata.org/wiki/Q2247133"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C552854447",
+      "name": "Sustainable development",
+      "sameAs": "https://www.wikidata.org/wiki/Q131201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Vietnam and several countries worldwide are experiencing unprecedented impacts of climate change, the gradual depletion of natural resources, and the global Covid-19 pandemic; in addition, sustainable development has become an essential requirement and an inevitable path in the progression of human society. Objective: This paper analyzes the key factors affecting investment capital attraction and sustainable development, providing recommendations for improving this process. Methodology: The study utilized two methodologies: qualitative research conducted through interviews and focused on 15 discussions with economic experts to adapt the content of observable parameters to correspond with the firm's characteristics. A quantitative study was performed on 800 representative managers from three provinces and one city in Vietnam to assess the model and research hypotheses. Result: The findings reveal five factors affecting the allure of investment capital, with a significance level of five percent, and the attraction of investment capital influencing sustainable development in Vietnam. This contribution augments academic value and is a reference for future research on sustainable development in Vietnam. There are five policy implications and contributions to promoting sustainable development in Vietnam, encouraging innovation and excitement. Conclusion: This study's innovation asserts that sustainable development will enhance Vietnam's working and living conditions by promoting sustainable economic growth, a prosperous and equitable society, stable cultural diversity, a pristine environment, and the sustainable preservation of resources. Unique contribution: The novelty of this study was to supplement and complete the system of criteria for the framework of ethical principles for sustainable development, including the notions of sustainability within the economic, social, and environmental spheres. Key recommendation: The authors proposed recommendations for policymakers and investors to improve technology based on the results. Technology (TEC) emerges as the most influential factor, exerting the most substantial impact on investment capital attraction and sustainable development.",
+  "url": "https://doi.org/10.48161/qaj.v5n1a1192",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.48161/qaj.v5n1a1192",
+    "encodingFormat": "text/html"
+  }
+}

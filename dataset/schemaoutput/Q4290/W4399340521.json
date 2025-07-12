@@ -1,0 +1,260 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4399340521",
+  "doi": "10.1051/e3sconf/202453105024",
+  "name": "Investing in nature: analysis of the relationship between environmental capital and economic growth",
+  "headline": "Investing in nature: analysis of the relationship between environmental capital and economic growth",
+  "datePublished": "2024-01-01",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "E3S Web of Conferences",
+    "issn": "2267-1242",
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDP Sciences"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5099017510",
+      "name": "Ivan Shepelev",
+      "givenName": "Ivan",
+      "familyName": "Shepelev",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210086057",
+          "name": "Moscow State University of Civil Engineering",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5056402290",
+      "name": "O. Yu. Goncharova",
+      "givenName": "Oksana",
+      "familyName": "Goncharova",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210109097",
+          "name": "Armavir State Pedagogical Academy",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-1842-9406"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5037746255",
+      "name": "Lilia Ermolina",
+      "givenName": "Lilia",
+      "familyName": "Ermolina",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210121860",
+          "name": "International Market Institute",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5099017511",
+      "name": "Nadezhda Gorokhova",
+      "givenName": "Nadezhda",
+      "familyName": "Gorokhova",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210149140",
+          "name": "Arctic State Agrotechnological University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W1986091376",
+    "https://openalex.org/W2100949627",
+    "https://openalex.org/W2160954419",
+    "https://openalex.org/W2520749749",
+    "https://openalex.org/W3015661206",
+    "https://openalex.org/W3026976202",
+    "https://openalex.org/W3032901095",
+    "https://openalex.org/W3038991686",
+    "https://openalex.org/W3039886790",
+    "https://openalex.org/W3123095200"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.59323764
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-accumulation",
+      "display_name": "Capital Accumulation",
+      "score": 0.4870763
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.4809829
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.45641047
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-deepening",
+      "display_name": "Capital deepening",
+      "score": 0.44642165
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C552854447",
+      "name": "Sustainable development",
+      "sameAs": "https://www.wikidata.org/wiki/Q131201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779343474",
+      "name": "Context (archaeology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3109175"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C81751973",
+      "name": "Capital accumulation",
+      "sameAs": "https://www.wikidata.org/wiki/Q420062"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C74363100",
+      "name": "Economic system",
+      "sameAs": "https://www.wikidata.org/wiki/Q273005"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C24649204",
+      "name": "Capital deepening",
+      "sameAs": "https://www.wikidata.org/wiki/Q3656853"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C58202505",
+      "name": "Capital formation",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035700"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C44750222",
+      "name": "Financial capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q1897397"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This paper analyzes an important and urgent problem that is the relationship between investments in nature, represented by environmental capital and economic growth. In the context of sustainable development and environmental conservation, interest in this topic is becoming increasingly significant. The paper examines the main theoretical concepts related to the impact of environmental capital on the economy, as well as presents the results of empirical studies confirming or refuting hypotheses about the positive impact of investments in nature on economic growth. This analysis allows us to identify key aspects of the interaction between environmental capital and economic development, which can serve as a basis for the development of effective strategies and policies in the field of sustainable development. The article also analyzes various approaches to measuring environmental capital and its impact on economic growth, taking into account the specifics of different regions and countries. Examples of successful investment strategies in nature are discussed, as well as obstacles and challenges facing the adoption of such measures.",
+  "url": "https://doi.org/10.1051/e3sconf/202453105024",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2024/61/e3sconf_uesf2024_05024.pdf",
+    "encodingFormat": "text/html"
+  }
+}

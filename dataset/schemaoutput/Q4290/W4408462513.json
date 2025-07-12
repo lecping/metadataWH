@@ -1,0 +1,166 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4408462513",
+  "doi": "10.29119/1641-3466.2024.213.30",
+  "name": "THE PROBLEMS AND EFFICIENCY OF INVESTMENT IN SHARES OF COMPANIES WITH A LOW PRICE-TO-BOOK VELUE RATIO IN THE CONTEXT OF INTELLECTUAL CAPITAL ISSUE",
+  "headline": "THE PROBLEMS AND EFFICIENCY OF INVESTMENT IN SHARES OF COMPANIES WITH A LOW PRICE-TO-BOOK VELUE RATIO IN THE CONTEXT OF INTELLECTUAL CAPITAL ISSUE",
+  "datePublished": "2024-01-01",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Scientific Papers of Silesian University of Technology Organization and Management Series",
+    "issn": "1641-3466",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Silesian University of Technology"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5016648540",
+      "name": "Tomasz NAWROCKI",
+      "givenName": "Tomasz",
+      "familyName": "NAWROCKI",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.58847713
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.48023278
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4578416
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779343474",
+      "name": "Context (archaeology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3109175"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780838347",
+      "name": "Intellectual capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q1329252"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C106159729",
+      "name": "Financial economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q2294553"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C142362112",
+      "name": "Art",
+      "sameAs": "https://www.wikidata.org/wiki/Q735"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C153349607",
+      "name": "Visual arts",
+      "sameAs": "https://www.wikidata.org/wiki/Q36649"
+    }
+  ],
+  "url": "https://doi.org/10.29119/1641-3466.2024.213.30",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.29119/1641-3466.2024.213.30",
+    "encodingFormat": "text/html"
+  }
+}

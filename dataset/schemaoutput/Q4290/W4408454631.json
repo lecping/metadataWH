@@ -1,0 +1,209 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4408454631",
+  "doi": "10.1111/1468-2427.13322",
+  "name": "<scp>CAPITALIZING ON EUROPEAN CAPITAL CITIES</scp>: French Business Schools’ Offshore Campus Investment Strategies in London, Berlin and Barcelona",
+  "headline": "<scp>CAPITALIZING ON EUROPEAN CAPITAL CITIES</scp>: French Business Schools’ Offshore Campus Investment Strategies in London, Berlin and Barcelona",
+  "datePublished": "2025-03-14",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Urban and Regional Research",
+    "issn": "0309-1317",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Wiley"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5013881592",
+      "name": "Alice Bobée",
+      "givenName": "Alice",
+      "familyName": "Bobée",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0001-6237-8576"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W149113413",
+    "https://openalex.org/W1502636256",
+    "https://openalex.org/W1540834533",
+    "https://openalex.org/W1573145994",
+    "https://openalex.org/W1585483256",
+    "https://openalex.org/W1589262993",
+    "https://openalex.org/W1832792976",
+    "https://openalex.org/W1846562363",
+    "https://openalex.org/W1973885182",
+    "https://openalex.org/W2006462795",
+    "https://openalex.org/W2021924599",
+    "https://openalex.org/W2039103323",
+    "https://openalex.org/W2053272364",
+    "https://openalex.org/W2055860435",
+    "https://openalex.org/W2056670420",
+    "https://openalex.org/W2069072514",
+    "https://openalex.org/W2088985476",
+    "https://openalex.org/W2090225350",
+    "https://openalex.org/W2096719183",
+    "https://openalex.org/W2110903858",
+    "https://openalex.org/W2113723352",
+    "https://openalex.org/W2123726046",
+    "https://openalex.org/W2139659375",
+    "https://openalex.org/W2527571891",
+    "https://openalex.org/W2588796049",
+    "https://openalex.org/W2743005613",
+    "https://openalex.org/W2752616901",
+    "https://openalex.org/W2765898033",
+    "https://openalex.org/W2894664681",
+    "https://openalex.org/W2897710532",
+    "https://openalex.org/W2906536408",
+    "https://openalex.org/W2978491357",
+    "https://openalex.org/W3001484120",
+    "https://openalex.org/W3083165244",
+    "https://openalex.org/W3097967367",
+    "https://openalex.org/W3125440707",
+    "https://openalex.org/W3176028744",
+    "https://openalex.org/W4210511794",
+    "https://openalex.org/W4238377428",
+    "https://openalex.org/W4248639651",
+    "https://openalex.org/W4256255686",
+    "https://openalex.org/W4280534004",
+    "https://openalex.org/W4301523931",
+    "https://openalex.org/W4313026744",
+    "https://openalex.org/W4376225833",
+    "https://openalex.org/W4400121223",
+    "https://openalex.org/W4405425181",
+    "https://openalex.org/W572871466"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 3760,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.7049054
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.6748261
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5703442
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162284963",
+      "name": "Submarine pipeline",
+      "sameAs": "https://www.wikidata.org/wiki/Q17106102"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C148383697",
+      "name": "Regional science",
+      "sameAs": "https://www.wikidata.org/wiki/Q1781695"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C187320778",
+      "name": "Geotechnical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q1349130"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Abstract The article investigates how the entrepreneurial strategies of cities and universities overlap by examining the strategy of French business schools to invest in offshore campuses in London, Berlin and Barcelona. Conceptualizing business schools as entrepreneurial actors that not only turn knowledge into a commodity but cities too, the study shows how French business schools use campus expansion to harness the reputation of these cities as global ‘hubs’ for finance, start‐up and tech. While translating into actual efforts in realigning programs or the learning environments to the reputation of London as a ‘global city’, of Berlin as a ‘creative city’ and of Barcelona as a ‘smart city’, this strategy carries a strong rhetorical element, as it is less driven by actual demands from corporations than by ambitions to raise visibility in the eyes of fee‐paying international students through uniting the institutions with appealing urban brand imaginaries. Showing how the commercial exploitation of city image constitutes a central element of business schools’ branch campus investments, the study points to the problematic articulation of a consumerist framework in the academic sphere through transnational campuses primarily conceived as spaces to consume cities (rather than to learn) and to produce consumers (rather than students).",
+  "url": "https://doi.org/10.1111/1468-2427.13322",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1111/1468-2427.13322",
+    "encodingFormat": "text/html"
+  }
+}

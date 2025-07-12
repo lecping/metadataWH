@@ -1,0 +1,293 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4297139113",
+  "doi": "10.31603/bmar.v2i2.7531",
+  "name": "Pengaruh Faktor Demografi, Familiary Effect dan Risk Perception Terhadap Keputusan Investasi",
+  "headline": "Pengaruh Faktor Demografi, Familiary Effect dan Risk Perception Terhadap Keputusan Investasi",
+  "datePublished": "2022-08-10",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Borobudur Management Review",
+    "issn": "2798-3676",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5102894152",
+      "name": "Hanifah Hanifah",
+      "givenName": "Hanifah",
+      "familyName": "Hanifah",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3130508606",
+          "name": "Universitas Muhammadiyah Magelang",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-4882-2962"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5038466706",
+      "name": "Nur Hidayah",
+      "givenName": "Nur",
+      "familyName": "Hidayah",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3130508606",
+          "name": "Universitas Muhammadiyah Magelang",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-2602-2385"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5051991280",
+      "name": "Pranita Siska Utami",
+      "givenName": "Pranita",
+      "familyName": "Utami",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3130508606",
+          "name": "Universitas Muhammadiyah Magelang",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 6,
+  "citation": [
+    "https://openalex.org/W2257024953",
+    "https://openalex.org/W2584990972",
+    "https://openalex.org/W2778794637",
+    "https://openalex.org/W2914043915",
+    "https://openalex.org/W2941866048",
+    "https://openalex.org/W2973318512",
+    "https://openalex.org/W3045703387",
+    "https://openalex.org/W3135242944",
+    "https://openalex.org/W3169842050",
+    "https://openalex.org/W3171487543",
+    "https://openalex.org/W4200015039",
+    "https://openalex.org/W4206526536",
+    "https://openalex.org/W4253560924",
+    "https://openalex.org/W4381253696"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.78994304
+    },
+    {
+      "id": "https://openalex.org/keywords/investment-decisions",
+      "display_name": "Investment Decisions",
+      "score": 0.6372572
+    },
+    {
+      "id": "https://openalex.org/keywords/sample",
+      "display_name": "Sample (material)",
+      "score": 0.6110155
+    },
+    {
+      "id": "https://openalex.org/keywords/risk-perception",
+      "display_name": "Risk Perception",
+      "score": 0.49088866
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.47704524
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.46635735
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C100363876",
+      "name": "Nonprobability sampling",
+      "sameAs": "https://www.wikidata.org/wiki/Q690661"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778865806",
+      "name": "Investment decisions",
+      "sameAs": "https://www.wikidata.org/wiki/Q6060850"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C198531522",
+      "name": "Sample (material)",
+      "sameAs": "https://www.wikidata.org/wiki/Q485146"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26760741",
+      "name": "Perception",
+      "sameAs": "https://www.wikidata.org/wiki/Q160402"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C143910263",
+      "name": "Capital market",
+      "sameAs": "https://www.wikidata.org/wiki/Q750458"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C163355716",
+      "name": "Risk perception",
+      "sameAs": "https://www.wikidata.org/wiki/Q2154783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149923435",
+      "name": "Demography",
+      "sameAs": "https://www.wikidata.org/wiki/Q37732"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2908647359",
+      "name": "Population",
+      "sameAs": "https://www.wikidata.org/wiki/Q2625603"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C43617362",
+      "name": "Chromatography",
+      "sameAs": "https://www.wikidata.org/wiki/Q170050"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C169760540",
+      "name": "Neuroscience",
+      "sameAs": "https://www.wikidata.org/wiki/Q207011"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    }
+  ],
+  "abstract": "An investment decision is a policy taken on two or more investment alternatives in the hope that they will benefit in the future. This study aims to examine whether the influence of demographic factors on gender, age, occupation, education, the effect of familiarity when the capital market rises, the effect of familiarity when the capital market is downtrend and the perception of risk on investment decisions. This study uses a sample of the people of Magelang Regency. The number of samples was 96 respondents based on purposive sampling method. Hypothesis testing in this study using multiple linear regression. The results showed that the perception of risk had a positive effect on investment decisions. Meanwhile, gender, age, occupation, education, familiary effect when the capital market is uptrend, familiary effect when the capital market is downtrend has no effect on investment decisions.&#x0D;",
+  "url": "https://doi.org/10.31603/bmar.v2i2.7531",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://journal.unimma.ac.id/index.php/bmar/article/download/7531/3649",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4320510184",
+  "doi": "10.2991/978-94-6463-052-7_64",
+  "name": "The Application of Robotics in the Field of Service from the Investment Perspective",
+  "headline": "The Application of Robotics in the Field of Service from the Investment Perspective",
+  "datePublished": "2022-01-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Advances in economics, business and management research/Advances in Economics, Business and Management Research",
+    "issn": "2352-5428",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Atlantis Press"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5039200178",
+      "name": "Tian Chen",
+      "givenName": "Tian",
+      "familyName": "Chen",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0003-1655-5249"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5031930381",
+      "name": "Yunhui Qi",
+      "givenName": "Yunhui",
+      "familyName": "Qi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3133083760",
+          "name": "Sanda University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100843798",
+      "name": "Weiliang Sun",
+      "givenName": "Weiliang",
+      "familyName": "Sun",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5042932029",
+      "name": "Lihui Zhu",
+      "givenName": "Lihui",
+      "familyName": "Zhu",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-1334-2291"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2077600134",
+    "https://openalex.org/W2148839024",
+    "https://openalex.org/W2159977172",
+    "https://openalex.org/W2735806116",
+    "https://openalex.org/W2808405904",
+    "https://openalex.org/W2918214187",
+    "https://openalex.org/W2975239676",
+    "https://openalex.org/W3004202241",
+    "https://openalex.org/W3011106118",
+    "https://openalex.org/W3101864173",
+    "https://openalex.org/W4255201699"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5875595
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5270246
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C90509273",
+      "name": "Robot",
+      "sameAs": "https://www.wikidata.org/wiki/Q11012"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780378061",
+      "name": "Service (business)",
+      "sameAs": "https://www.wikidata.org/wiki/Q25351891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C141441539",
+      "name": "Boom",
+      "sameAs": "https://www.wikidata.org/wiki/Q1970908"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34413123",
+      "name": "Robotics",
+      "sameAs": "https://www.wikidata.org/wiki/Q170978"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21279758",
+      "name": "Venture capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q219409"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204983608",
+      "name": "Productivity",
+      "sameAs": "https://www.wikidata.org/wiki/Q2111958"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C9652623",
+      "name": "Field (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q190109"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C110354214",
+      "name": "Engineering management",
+      "sameAs": "https://www.wikidata.org/wiki/Q6314146"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C154945302",
+      "name": "Artificial intelligence",
+      "sameAs": "https://www.wikidata.org/wiki/Q11660"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C202444582",
+      "name": "Pure mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q837863"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C87717796",
+      "name": "Environmental engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q146326"
+    }
+  ],
+  "abstract": "Just as the industrial revolution, which brings significant change and boom to the development of productivity, the robots in the service industry are highly possible to adjust and regenerate the current business.However, many technological workers are still experimenting with applying artificial intelligence to the services, lowering the cost of the service robots.The paper aims to determine the investment opportunity by exploring the role of service robots will play in the future.This paper uses PEST to offer the general situation of the current service robotics industry.It finds out the specific problems that existed in the immature industry and market.Finally, the paper sheds light on a few solutions and analyzes venture capital and optimal funding for technological startups.For the other researchers, it is better to investigate the overall potential value given by the service robots and people's expectations of service robots.In this way, the view toward the investment opportunity will be more comprehensive and incisive.",
+  "url": "https://doi.org/10.2991/978-94-6463-052-7_64",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.atlantis-press.com/article/125980517.pdf",
+    "encodingFormat": "text/html"
+  }
+}

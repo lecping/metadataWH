@@ -1,0 +1,295 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4317387812",
+  "doi": "10.24853/ijbesr.6.2.111-126",
+  "name": "A Preliminary Study of Housing Satisfaction, Mobility, and Adaptation of the Jakartans in 2020-2021",
+  "headline": "A Preliminary Study of Housing Satisfaction, Mobility, and Adaptation of the Jakartans in 2020-2021",
+  "datePublished": "2022-12-19",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Built Environment and Scientific Research",
+    "issn": "2580-2607",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5068515559",
+      "name": "Putra Bagus Khalis",
+      "givenName": "Putra",
+      "familyName": "Khalis",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I29617571",
+          "name": "University of Indonesia",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5040252771",
+      "name": "Joko Adianto",
+      "givenName": "Joko",
+      "familyName": "Adianto",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I29617571",
+          "name": "University of Indonesia",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-3048-5462"
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W13371809",
+    "https://openalex.org/W1528358370",
+    "https://openalex.org/W1971634691",
+    "https://openalex.org/W1981381864",
+    "https://openalex.org/W1983746241",
+    "https://openalex.org/W1987135019",
+    "https://openalex.org/W1989706466",
+    "https://openalex.org/W1993228012",
+    "https://openalex.org/W1995507316",
+    "https://openalex.org/W1995861413",
+    "https://openalex.org/W1996701429",
+    "https://openalex.org/W2012362685",
+    "https://openalex.org/W2018173300",
+    "https://openalex.org/W2024648002",
+    "https://openalex.org/W2032223437",
+    "https://openalex.org/W2034497559",
+    "https://openalex.org/W2035350949",
+    "https://openalex.org/W2040889860",
+    "https://openalex.org/W2042704022",
+    "https://openalex.org/W2044846008",
+    "https://openalex.org/W2046717823",
+    "https://openalex.org/W2047386267",
+    "https://openalex.org/W2049622642",
+    "https://openalex.org/W2049895189",
+    "https://openalex.org/W2049991214",
+    "https://openalex.org/W2056880554",
+    "https://openalex.org/W2063584966",
+    "https://openalex.org/W2069988511",
+    "https://openalex.org/W2079607807",
+    "https://openalex.org/W2084063520",
+    "https://openalex.org/W2086694134",
+    "https://openalex.org/W2089703975",
+    "https://openalex.org/W2096203283",
+    "https://openalex.org/W2097956740",
+    "https://openalex.org/W2102175229",
+    "https://openalex.org/W2110142405",
+    "https://openalex.org/W2111697875",
+    "https://openalex.org/W2120953890",
+    "https://openalex.org/W2121180808",
+    "https://openalex.org/W2127056221",
+    "https://openalex.org/W2150033267",
+    "https://openalex.org/W2193264679",
+    "https://openalex.org/W2200544226",
+    "https://openalex.org/W2265458520",
+    "https://openalex.org/W2529612320",
+    "https://openalex.org/W2534600808",
+    "https://openalex.org/W2569687624",
+    "https://openalex.org/W2594412321",
+    "https://openalex.org/W2621023040",
+    "https://openalex.org/W2793746097",
+    "https://openalex.org/W2802339687",
+    "https://openalex.org/W2900414176",
+    "https://openalex.org/W2907684269",
+    "https://openalex.org/W2912380688",
+    "https://openalex.org/W2920894131",
+    "https://openalex.org/W2943849354",
+    "https://openalex.org/W3088842009",
+    "https://openalex.org/W3114434405",
+    "https://openalex.org/W4230715687",
+    "https://openalex.org/W4234532719",
+    "https://openalex.org/W4235624859",
+    "https://openalex.org/W817263616",
+    "https://openalex.org/W849526933"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/marital-status",
+      "display_name": "Marital status",
+      "score": 0.5947972
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.55392927
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.46689188
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-city",
+      "display_name": "Capital city",
+      "score": 0.43137833
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139807058",
+      "name": "Adaptation (eye)",
+      "sameAs": "https://www.wikidata.org/wiki/Q352374"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2781354955",
+      "name": "Marital status",
+      "sameAs": "https://www.wikidata.org/wiki/Q11920938"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C533584247",
+      "name": "Public housing",
+      "sameAs": "https://www.wikidata.org/wiki/Q6532502"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C73282008",
+      "name": "Coping (psychology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1759895"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2994052530",
+      "name": "Capital city",
+      "sameAs": "https://www.wikidata.org/wiki/Q5119"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C4249254",
+      "name": "Demographic economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3044431"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C100001284",
+      "name": "Public economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q2248246"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149923435",
+      "name": "Demography",
+      "sameAs": "https://www.wikidata.org/wiki/Q37732"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2908647359",
+      "name": "Population",
+      "sameAs": "https://www.wikidata.org/wiki/Q2625603"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26271046",
+      "name": "Economic geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q187097"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C169760540",
+      "name": "Neuroscience",
+      "sameAs": "https://www.wikidata.org/wiki/Q207011"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C118552586",
+      "name": "Psychiatry",
+      "sameAs": "https://www.wikidata.org/wiki/Q7867"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This study aims to investigate the factors of housing satisfaction, mobility, and adaptation for providing suitable housing quality to the needs of the Jakarta residents. Although many housing provision programs are delivered in the capital city to accommodate the housing needs of the Jakartans, its result remains unsuccessful to attract interest from the designated homebuyers in the capital city, especially the middle and low-income groups, due to its unaffordable housing price and potentially unmeet housing preferences and satisfaction. According to the quantitative analysis of 400 respondents, it finds age and marital status are the prominent socio-demographic factors of housing satisfaction, mobility, and adaptation of the Jakartans, followed by various attributes of housing norms. This study encourages the city authority, planners, and architects must thoroughly plan the location of housing planning with sufficient proximity to the public amenities, which also implicates the investment opportunities, land, and building taxes. While adaptable housing design is suggested to enable self-help development by the residents for coping with the unforeseen needs in the future according to their life cycle stages.",
+  "url": "https://doi.org/10.24853/ijbesr.6.2.111-126",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://jurnal.umj.ac.id/index.php/IJBESR/article/download/12387/7993",
+    "encodingFormat": "text/html"
+  }
+}

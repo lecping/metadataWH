@@ -1,0 +1,224 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4322775985",
+  "doi": "10.5772/intechopen.110068",
+  "name": "Bifacial Photovoltaics Power Plants in UK",
+  "headline": "Bifacial Photovoltaics Power Plants in UK",
+  "datePublished": "2023-02-23",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "IntechOpen eBooks",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": "IntechOpen"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5032202233",
+      "name": "Mehreen Gul",
+      "givenName": "Mehreen",
+      "familyName": "Gul",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I32062511",
+          "name": "Heriot-Watt University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-9118-4946"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5050614256",
+      "name": "David Puxty",
+      "givenName": "David",
+      "familyName": "Puxty",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I32062511",
+          "name": "Heriot-Watt University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1996797340",
+    "https://openalex.org/W2006923573",
+    "https://openalex.org/W2303908931",
+    "https://openalex.org/W2757432773",
+    "https://openalex.org/W2898198320",
+    "https://openalex.org/W2904945608",
+    "https://openalex.org/W4225080122",
+    "https://openalex.org/W4283704216"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-cost",
+      "display_name": "Capital cost",
+      "score": 0.56565374
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.47571045
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.42553717
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C542589376",
+      "name": "Photovoltaics",
+      "sameAs": "https://www.wikidata.org/wiki/Q192127"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C5979214",
+      "name": "Cost of electricity by source",
+      "sameAs": "https://www.wikidata.org/wiki/Q126932"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C206658404",
+      "name": "Electricity",
+      "sameAs": "https://www.wikidata.org/wiki/Q12725"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C157062255",
+      "name": "Capital cost",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035697"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C423512",
+      "name": "Electricity generation",
+      "sameAs": "https://www.wikidata.org/wiki/Q383973"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C163258240",
+      "name": "Power (physics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q25342"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41291067",
+      "name": "Photovoltaic system",
+      "sameAs": "https://www.wikidata.org/wiki/Q1897785"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134560507",
+      "name": "Environmental economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q753291"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119599485",
+      "name": "Electrical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q43035"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121332964",
+      "name": "Physics",
+      "sameAs": "https://www.wikidata.org/wiki/Q413"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C62520636",
+      "name": "Quantum mechanics",
+      "sameAs": "https://www.wikidata.org/wiki/Q944"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Bifacial photovoltaics (PV) are able to absorb light from both the front and rear surface, optimising electricity generation, they can be installed both at an angle or vertically and can be used to spread electricity generation throughout the day. This chapter discusses the arrangements which are the most cost-effective in the South-West region of the UK, Optimally Tilted Bifacial (OTB), Optimally Tilted Monofacial (OTM) or Vertically Tilted Bifacial (VTB). The simulations showed that when using the capital (CAPEX) and operating (OPEX) expenditures costs, the OTB arrays were 5–7% more cost effective than the OTM arrays and the VTB arrays were the least cost effective with an LCOE 24% higher than the OTB array. When financial parameters such as interest rates were factored into the calculations, it showed that in certain circumstances monofacial arrays were more or just as cost-effective as the bifacial arrays. This is due to the limited number of bifacial PV arrays throughout the UK, meaning they could be considered a riskier investment. Although VTB arrays were shown to be the least cost-effective, due to their versatility there is still a place for them in future projects. Future trends were also considered where it is predicted that OTB arrays will become more cost-effective than OTM arrays even when financial parameters are considered.",
+  "url": "https://doi.org/10.5772/intechopen.110068",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.intechopen.com/citation-pdf-url/86205",
+    "encodingFormat": "text/html"
+  }
+}

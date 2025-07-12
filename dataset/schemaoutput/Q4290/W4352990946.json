@@ -1,0 +1,177 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4352990946",
+  "doi": "10.54691/bcpbm.v36i.3391",
+  "name": "Has the Establishment of FSSC Reduced Inefficient Corporate Investment? --A Test Based on a Two-way Fixed Effects Model",
+  "headline": "Has the Establishment of FSSC Reduced Inefficient Corporate Investment? --A Test Based on a Two-way Fixed Effects Model",
+  "datePublished": "2023-01-13",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "BCP Business & Management",
+    "issn": "2692-6156",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5061800156",
+      "name": "Yuxin Ye",
+      "givenName": "Yuxin",
+      "familyName": "Ye",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I158934434",
+          "name": "Zhongnan University of Economics and Law",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-3610-8286"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2012066634",
+    "https://openalex.org/W3125510660",
+    "https://openalex.org/W4220658195"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.7820506
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5657503
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.47176507
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C14036430",
+      "name": "Function (biology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3736076"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2775924081",
+      "name": "Control (management)",
+      "sameAs": "https://www.wikidata.org/wiki/Q55608371"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C187736073",
+      "name": "Management",
+      "sameAs": "https://www.wikidata.org/wiki/Q2920921"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78458016",
+      "name": "Evolutionary biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q840400"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "The digital economy has become increasingly prominent as the pillar of the national economy. Meanwhile Financial Shared Service Centre (FSSC), as an important integrated application of digital technology, has been gradually promoted by listed enterprises in recent years. Investment decisions, as an important part of corporate capital operations and financial management, have a great impact on the development of enterprises. Using panel data of 147 listed companies from 2010 to 2019, this paper empirically investigates the impact of establishing FSSC on inefficient investment through a two-way fixed effects model based on individuals and time. The study finds that: the current FSSC has not significantly reduced the inefficient investment of enterprises. On the one hand, the lack of investment control function of FSSC has not inhibited over-investment; on the other hand, the information-assistance function of FSSC has significantly reduced the under-investment behaviour of enterprises. This paper argues that the further development of the investment controlling function of the FSSC is the goal of future FSSC construction.",
+  "url": "https://doi.org/10.54691/bcpbm.v36i.3391",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://bcpublication.org/index.php/BM/article/download/3391/3330",
+    "encodingFormat": "text/html"
+  }
+}

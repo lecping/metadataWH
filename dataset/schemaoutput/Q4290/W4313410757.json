@@ -1,0 +1,226 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4313410757",
+  "doi": "10.47750/pnr.2022.13.s09.798",
+  "name": "Improving The Efficiency Of State Management Using Oda Capital In Investment Projects To Construct Irrigation Works In Vietnam",
+  "headline": "Improving The Efficiency Of State Management Using Oda Capital In Investment Projects To Construct Irrigation Works In Vietnam",
+  "datePublished": "2022-12-25",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Pharmaceutical Negative Results",
+    "issn": "0976-9234",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Medknow"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5011337310",
+      "name": "Le Thi Tam Bui Anh Tu",
+      "givenName": "None",
+      "familyName": "Tam",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6105308
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.6023899
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5582
+    },
+    {
+      "id": "https://openalex.org/keywords/raising",
+      "display_name": "Raising (metalworking)",
+      "score": 0.49859834
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780801425",
+      "name": "Construct (python library)",
+      "sameAs": "https://www.wikidata.org/wiki/Q5164392"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C118518473",
+      "name": "Agriculture",
+      "sameAs": "https://www.wikidata.org/wiki/Q11451"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48103436",
+      "name": "State (computer science)",
+      "sameAs": "https://www.wikidata.org/wiki/Q599031"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780589192",
+      "name": "Raising (metalworking)",
+      "sameAs": "https://www.wikidata.org/wiki/Q7285140"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C88862950",
+      "name": "Irrigation",
+      "sameAs": "https://www.wikidata.org/wiki/Q11453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166566181",
+      "name": "Natural disaster",
+      "sameAs": "https://www.wikidata.org/wiki/Q8065"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C112930515",
+      "name": "Risk analysis (engineering)",
+      "sameAs": "https://www.wikidata.org/wiki/Q4389547"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78519656",
+      "name": "Mechanical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q101333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C11413529",
+      "name": "Algorithm",
+      "sameAs": "https://www.wikidata.org/wiki/Q8366"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C153294291",
+      "name": "Meteorology",
+      "sameAs": "https://www.wikidata.org/wiki/Q25261"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199360897",
+      "name": "Programming language",
+      "sameAs": "https://www.wikidata.org/wiki/Q9143"
+    }
+  ],
+  "abstract": "Official Development Assistance (ODA) is vital in upgrading irrigation works systems, serving the development of agriculture and other socio-economic sectors, and raising the level of assurance safety against natural disasters. The management of projects using ODA has made progress and achieved remarkable results. However, there are still many shortcomings that need to be addressed appropriately.",
+  "url": "https://doi.org/10.47750/pnr.2022.13.s09.798",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.pnrjournal.com/index.php/home/article/download/5348/6416",
+    "encodingFormat": "text/html"
+  }
+}

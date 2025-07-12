@@ -1,0 +1,151 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4410634111",
+  "doi": "10.5539/sar.v14n2p1",
+  "name": "Technological Advancements and Adoption Promote Agricultural Capital Investment: An Empirical Analysis of Tay Ninh Province, Vietnam",
+  "headline": "Technological Advancements and Adoption Promote Agricultural Capital Investment: An Empirical Analysis of Tay Ninh Province, Vietnam",
+  "datePublished": "2025-05-24",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Sustainable Agriculture Research",
+    "issn": "1927-050X",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Canadian Center of Science and Education"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5116794570",
+      "name": "Ho Duy Xuyen",
+      "givenName": "Ho",
+      "familyName": "Xuyen",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5037370309",
+      "name": "Trinh Quang Thoai",
+      "givenName": "Trinh",
+      "familyName": "Thoai",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6528153
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5807108
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5108432
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C118518473",
+      "name": "Agriculture",
+      "sameAs": "https://www.wikidata.org/wiki/Q11451"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This study examines the impact of government policies, human resources, infrastructure, and investment promotion programs on technological adoption and investment mobilization in Tay Ninh&amp;rsquo;s agricultural sector. Using Partial Least Squares Structural Equation Modeling (PLS-SEM), survey data from agricultural investors reveal that all four factors significantly influence both technology adoption and capital mobilization, with technology playing a key role in enhancing the investment environment. While the study provides valuable insights, its regional focus may limit broader applicability. The findings highlight the interplay between policy support, skilled labor, infrastructure, and technology in fostering agricultural investment, offering practical recommendations for policymakers and stakeholders to drive sustainable agricultural development in Tay Ninh.",
+  "url": "https://doi.org/10.5539/sar.v14n2p1",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.5539/sar.v14n2p1",
+    "encodingFormat": "text/html"
+  }
+}

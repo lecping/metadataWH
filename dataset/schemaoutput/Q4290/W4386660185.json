@@ -1,0 +1,277 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4386660185",
+  "doi": "10.1088/1742-6596/2021/1/012011",
+  "name": "Research on Conductive Polymer Materials",
+  "headline": "Research on Conductive Polymer Materials",
+  "datePublished": "2021-10-01",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Physics Conference Series",
+    "issn": "1742-6588",
+    "publisher": {
+      "@type": "Organization",
+      "name": "IOP Publishing"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5049986225",
+      "name": "Jingxun Zhang",
+      "givenName": "Jingxun",
+      "familyName": "Zhang",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210131125",
+          "name": "Huanghuai University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5000408731",
+      "name": "Wei Yu",
+      "givenName": "Yu",
+      "familyName": "Wei",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210131125",
+          "name": "Huanghuai University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-8913-5985"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5101964007",
+      "name": "Jiatong Wang",
+      "givenName": "Jiatong",
+      "familyName": "Wang",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210131125",
+          "name": "Huanghuai University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0009-0005-4215-7262"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100705473",
+      "name": "Mengyuan Liu",
+      "givenName": "Mengyuan",
+      "familyName": "Liu",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210131125",
+          "name": "Huanghuai University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-6415-9788"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5102913812",
+      "name": "Sun Lu",
+      "givenName": "Lu",
+      "familyName": "Sun",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210131125",
+          "name": "Huanghuai University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0009-0007-3276-6405"
+    }
+  ],
+  "citationCount": 2,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5101505
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.42762733
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.42135558
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778755073",
+      "name": "Scale (ratio)",
+      "sameAs": "https://www.wikidata.org/wiki/Q10858537"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C98045186",
+      "name": "Process (computing)",
+      "sameAs": "https://www.wikidata.org/wiki/Q205663"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C171250308",
+      "name": "Nanotechnology",
+      "sameAs": "https://www.wikidata.org/wiki/Q11468"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C110875604",
+      "name": "The Internet",
+      "sameAs": "https://www.wikidata.org/wiki/Q75"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C55587333",
+      "name": "Engineering ethics",
+      "sameAs": "https://www.wikidata.org/wiki/Q1133029"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C192562407",
+      "name": "Materials science",
+      "sameAs": "https://www.wikidata.org/wiki/Q228736"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136764020",
+      "name": "World Wide Web",
+      "sameAs": "https://www.wikidata.org/wiki/Q466"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121332964",
+      "name": "Physics",
+      "sameAs": "https://www.wikidata.org/wiki/Q413"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111919701",
+      "name": "Operating system",
+      "sameAs": "https://www.wikidata.org/wiki/Q9135"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C62520636",
+      "name": "Quantum mechanics",
+      "sameAs": "https://www.wikidata.org/wiki/Q944"
+    }
+  ],
+  "abstract": "With the continuous improvement of the national science and technology level, some advanced high-tech has been the focus of the country. It has played an important role in enhancing the lives of the people and improving their living habits. In particular, the technical means represented by Internet technology have completely subverted the past lifestyle. But for the development of the entire country, it is necessary to strengthen the research and development of industry and new material science, especially the research of conductive polymer materials. It is necessary to further strengthen capital investment and scientific and technological research and ensure that the entire development process is able to obtain large-scale applications of new materials. This article takes the research of conductive polymer materials as the topic through a comprehensive introduction to its concept, significance and effective application of polymer conductive materials. It aims to bring some references.",
+  "url": "https://doi.org/10.1088/1742-6596/2021/1/012011",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://iopscience.iop.org/article/10.1088/1742-6596/2021/1/012011/pdf",
+    "encodingFormat": "text/html"
+  }
+}

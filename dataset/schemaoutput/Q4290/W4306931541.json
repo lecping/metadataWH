@@ -1,0 +1,304 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4306931541",
+  "doi": "10.26418/j-psh.v13i2.57491",
+  "name": "MODAL SOSIAL PELAKU USAHA IKAN BAKAR KAPIEK NDAK BATULANG DI DESA PULAU JAMBU KECAMATAN KUOK KABUPATEN KAMPAR",
+  "headline": "MODAL SOSIAL PELAKU USAHA IKAN BAKAR KAPIEK NDAK BATULANG DI DESA PULAU JAMBU KECAMATAN KUOK KABUPATEN KAMPAR",
+  "datePublished": "2022-10-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Jurnal Pendidikan Sosiologi dan Humaniora",
+    "issn": "2087-8451",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Tanjungpura University"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5063332416",
+      "name": "Suci Tri Handayani",
+      "givenName": "Suci",
+      "familyName": "Handayani",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I92961808",
+          "name": "Riau University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5053366629",
+      "name": "T. Romi Marnelly",
+      "givenName": "T.",
+      "familyName": "Marnelly",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I92961808",
+          "name": "Riau University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5053424404",
+      "name": "Resdati Resdati",
+      "givenName": "Resdati",
+      "familyName": "Resdati",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I92961808",
+          "name": "Riau University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-7410-3307"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2747740990",
+    "https://openalex.org/W2766225215",
+    "https://openalex.org/W2887418972",
+    "https://openalex.org/W4212951109",
+    "https://openalex.org/W4221112127"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.46820575
+    },
+    {
+      "id": "https://openalex.org/keywords/research-method",
+      "display_name": "Research method",
+      "score": 0.43977204
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.43412954
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4105186
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C68062652",
+      "name": "Social capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q214693"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C100363876",
+      "name": "Nonprobability sampling",
+      "sameAs": "https://www.wikidata.org/wiki/Q690661"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C56666940",
+      "name": "Documentation",
+      "sameAs": "https://www.wikidata.org/wiki/Q788790"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2909208804",
+      "name": "Fish <Actinopterygii>",
+      "sameAs": "https://www.wikidata.org/wiki/Q127282"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C133462117",
+      "name": "Data collection",
+      "sameAs": "https://www.wikidata.org/wiki/Q4929239"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2983515908",
+      "name": "Research method",
+      "sameAs": "https://www.wikidata.org/wiki/Q42240"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C190248442",
+      "name": "Qualitative research",
+      "sameAs": "https://www.wikidata.org/wiki/Q839486"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26517878",
+      "name": "Key (lock)",
+      "sameAs": "https://www.wikidata.org/wiki/Q228039"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37621935",
+      "name": "Agricultural science",
+      "sameAs": "https://www.wikidata.org/wiki/Q3606845"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C178550888",
+      "name": "Business administration",
+      "sameAs": "https://www.wikidata.org/wiki/Q2043282"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C505870484",
+      "name": "Fishery",
+      "sameAs": "https://www.wikidata.org/wiki/Q180538"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C36289849",
+      "name": "Social science",
+      "sameAs": "https://www.wikidata.org/wiki/Q34749"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2908647359",
+      "name": "Population",
+      "sameAs": "https://www.wikidata.org/wiki/Q2625603"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149923435",
+      "name": "Demography",
+      "sameAs": "https://www.wikidata.org/wiki/Q37732"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199360897",
+      "name": "Programming language",
+      "sameAs": "https://www.wikidata.org/wiki/Q9143"
+    }
+  ],
+  "abstract": "This research was conducted in Pulau Jambu Village, Kuok Subdistrict, Kampar Regency with the aim of knowing: 1) Elements of social capital and 2) Strategy in the Kapiek Ndak Batulang grilled fish business in Pulau Jambu Village. This research uses descriptive qualitative research method by taking 5 people as main informants and 1 people as key informants (Key Informants). This study uses purposive sampling technique through data collection techniques using observation, interviews, and documentation. The theory used is the theory of social capital. The results of research in the field can be concluded that there are 3 elements of social capital in the Kapiek Ndak Batulang grilled fish business in Pulau Jambu Village, namely network, trust, and social norms. Among these 3 elements each has a level of social capital, namely the strong, medium, and weak categories. Among the 3 most powerful elements of social capital is the element of trust social capital. This social capital is very very influential on fellow sellers, suppliers of Kapiek fish, customers/buyers, and employees. If social capital is strong, the benefits will be large. The results of the research regarding the strategy in the Kapiek Ndak Batulang grilled fish business there are 4 strategies, namely biological investment strategies, successive strategies, educational strategies, and economic investment strategies. Among the 4 strategies, the most dominant one used by business actors is the educational strategy. By always wanting to learn so that business actors can run their business well and survive until now.",
+  "url": "https://doi.org/10.26418/j-psh.v13i2.57491",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://jurnal.untan.ac.id/index.php/JPSH/article/download/57491/75676594634",
+    "encodingFormat": "text/html"
+  }
+}

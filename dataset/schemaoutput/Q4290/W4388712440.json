@@ -1,0 +1,288 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4388712440",
+  "doi": "10.51773/ajcd.v3i2.225",
+  "name": "Trade business of etawa crossbred goats in Bangkleyan Village, Jati District, Blora Regency, Indonesia",
+  "headline": "Trade business of etawa crossbred goats in Bangkleyan Village, Jati District, Blora Regency, Indonesia",
+  "datePublished": "2023-07-11",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "AMCA Journal of Community Development",
+    "issn": "2774-6178",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5061805365",
+      "name": "Ali Mursyid Wahyu Mulyono",
+      "givenName": "Ali",
+      "familyName": "Mulyono",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210139437",
+          "name": "Universitas Bangun Nusantara",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-2788-5887"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5070164037",
+      "name": "Engkus Ainul Yakin",
+      "givenName": "Engkus",
+      "familyName": "Yakin",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210139437",
+          "name": "Universitas Bangun Nusantara",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-3182-8885"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5005481093",
+      "name": "Ludfia Windyasmara",
+      "givenName": "Ludfia",
+      "familyName": "Windyasmara",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210139437",
+          "name": "Universitas Bangun Nusantara",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5063451422",
+      "name": "Muhammad Husein",
+      "givenName": "Muhammad",
+      "familyName": "Husein",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210139437",
+          "name": "Universitas Bangun Nusantara",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-4972-2456"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5032100378",
+      "name": "Marinir Marinir",
+      "givenName": "Marinir",
+      "familyName": "Marinir",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210139437",
+          "name": "Universitas Bangun Nusantara",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2645140062",
+    "https://openalex.org/W2783078695",
+    "https://openalex.org/W2808880232",
+    "https://openalex.org/W3138821096"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5468946
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.53600836
+    },
+    {
+      "id": "https://openalex.org/keywords/profit-margin",
+      "display_name": "Profit margin",
+      "score": 0.41484955
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C173419221",
+      "name": "Crossbreed",
+      "sameAs": "https://www.wikidata.org/wiki/Q4390467"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181622380",
+      "name": "Profit (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q26911"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C56666940",
+      "name": "Documentation",
+      "sameAs": "https://www.wikidata.org/wiki/Q788790"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2908647359",
+      "name": "Population",
+      "sameAs": "https://www.wikidata.org/wiki/Q2625603"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C189560676",
+      "name": "Profit margin",
+      "sameAs": "https://www.wikidata.org/wiki/Q1187906"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37621935",
+      "name": "Agricultural science",
+      "sameAs": "https://www.wikidata.org/wiki/Q3606845"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C140793950",
+      "name": "Animal science",
+      "sameAs": "https://www.wikidata.org/wiki/Q168091"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149923435",
+      "name": "Demography",
+      "sameAs": "https://www.wikidata.org/wiki/Q37732"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199360897",
+      "name": "Programming language",
+      "sameAs": "https://www.wikidata.org/wiki/Q9143"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    }
+  ],
+  "abstract": "This study aims to determine the feasibility of a trader of Etawa Crossbred goats in Bangkleyan Village, Jati District, Blora Regency. The population that became the research sample were all traders of Etawa crossbred goats in Bangkleyan Village, totalling five people. Research variables such as trader status, investment capital, costs, income and business financial feasibility are collected through interviews, direct observation and documentation with traders. Business feasibility is measured by profit, B/C ratio and length of return on investment. The study results show that the average: Investment capital is Rp. 36.300.000, costs are Rp. 110.496.126/month and income is Rp. 120.176.000/month. The study concluded that the trading business of etawa crossbred goats in Bangkleyan Village, Jati District, Blora Regency is financially feasible, with an average profit value of traders of IDR 9.679.874, B/C Ratio of 1.08 and return time investment capital for 3.9 months",
+  "url": "https://doi.org/10.51773/ajcd.v3i2.225",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://journal.amca2012.org/index.php/ajcd/article/download/225/90",
+    "encodingFormat": "text/html"
+  }
+}

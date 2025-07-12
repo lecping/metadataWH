@@ -1,0 +1,274 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4399386362",
+  "doi": "10.13060/csr.2024.017",
+  "name": "'I Know There Are Smart People There' - Private Schools as an Investment in Children's Social Capital",
+  "headline": "'I Know There Are Smart People There' - Private Schools as an Investment in Children's Social Capital",
+  "datePublished": "2024-06-06",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Czech Sociological Review",
+    "issn": "0038-0288",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5008049873",
+      "name": "Kateřina Lojdová",
+      "givenName": "Kateřina",
+      "familyName": "Lojdová",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I21449261",
+          "name": "Masaryk University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CZ"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-5671-9047"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5108147935",
+      "name": "Betarice-Elena Chromková Manea",
+      "givenName": "Betarice-Elena",
+      "familyName": "Manea",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I21449261",
+          "name": "Masaryk University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CZ"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W1741321747",
+    "https://openalex.org/W1883257815",
+    "https://openalex.org/W2025043495",
+    "https://openalex.org/W2035254464",
+    "https://openalex.org/W2036937632",
+    "https://openalex.org/W2047044754",
+    "https://openalex.org/W2074395150",
+    "https://openalex.org/W2128964118",
+    "https://openalex.org/W2133497765",
+    "https://openalex.org/W2138009706",
+    "https://openalex.org/W2148588303",
+    "https://openalex.org/W2150374398",
+    "https://openalex.org/W2787819150",
+    "https://openalex.org/W2797401358",
+    "https://openalex.org/W2806692887",
+    "https://openalex.org/W2896106320",
+    "https://openalex.org/W2897034989",
+    "https://openalex.org/W3032986491",
+    "https://openalex.org/W3037464703",
+    "https://openalex.org/W3081337717",
+    "https://openalex.org/W3091338658",
+    "https://openalex.org/W3121305186",
+    "https://openalex.org/W3123534837",
+    "https://openalex.org/W3124803443",
+    "https://openalex.org/W3135121095",
+    "https://openalex.org/W3202935891",
+    "https://openalex.org/W3211754203",
+    "https://openalex.org/W4235608110",
+    "https://openalex.org/W4238058650",
+    "https://openalex.org/W4238595976",
+    "https://openalex.org/W4240751015",
+    "https://openalex.org/W4243577287",
+    "https://openalex.org/W4254117867",
+    "https://openalex.org/W4255947266",
+    "https://openalex.org/W4307886367",
+    "https://openalex.org/W4316810669",
+    "https://openalex.org/W4376860815",
+    "https://openalex.org/W4387909803"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6346855
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5369356
+    },
+    {
+      "id": "https://openalex.org/keywords/private-school",
+      "display_name": "Private school",
+      "score": 0.49939036
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.48389897
+    },
+    {
+      "id": "https://openalex.org/keywords/private-capital",
+      "display_name": "Private capital",
+      "score": 0.45157072
+    },
+    {
+      "id": "https://openalex.org/keywords/need-to-know",
+      "display_name": "Need to know",
+      "score": 0.41473496
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C68062652",
+      "name": "Social capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q214693"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C3017714297",
+      "name": "Private school",
+      "sameAs": "https://www.wikidata.org/wiki/Q3238833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2993232446",
+      "name": "Private capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q8137"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778519782",
+      "name": "Need to know",
+      "sameAs": "https://www.wikidata.org/wiki/Q1974060"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C4249254",
+      "name": "Demographic economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3044431"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C36289849",
+      "name": "Social science",
+      "sameAs": "https://www.wikidata.org/wiki/Q34749"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C38652104",
+      "name": "Computer security",
+      "sameAs": "https://www.wikidata.org/wiki/Q3510521"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C142362112",
+      "name": "Art",
+      "sameAs": "https://www.wikidata.org/wiki/Q735"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C153349607",
+      "name": "Visual arts",
+      "sameAs": "https://www.wikidata.org/wiki/Q36649"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The rapid growth of private schools in the Czech Republic raises the issue of equal access to education.Czech research on external differentiation in education has mainly focused on multi-year gymnasiums, while private schools have not yet received the same attention.Private schools in the Czech Republic tend to appeal to middle-class parents with liberal views and an orientation towards personal development.Our research focuses on the choice of a private school from the perspective of students' parents.The research question was: How are the advantages of private school for their child constructed in the narratives of students' parents?We chose a narrative research design.Twelve parents of students from two private schools were the participants in our research.In contrast to existing research, which has focused mainly on the importance of social capital in relation to the reproduction of social inequalities, our research focuses more on the importance of social capital in the education process itself.Our research results show that parents of students place greater emphasis on the social capital associated with private schools than academic skills.At the same time, they understand social capital as both a tool and a goal of education.In the narratives of the parents, a theme that surfaced in the parents' narratives was the reproduction of educational inequalities.Parents consider this issue through the reasons they give to justify using a private school.Parents generally do not regard private schools in the education system as a very good solution but consider it good for their children, especially in terms of the individual support provided to students.",
+  "url": "https://doi.org/10.13060/csr.2024.017",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "http://sreview.soc.cas.cz/doi/10.13060/csr.2024.017.pdf",
+    "encodingFormat": "text/html"
+  }
+}

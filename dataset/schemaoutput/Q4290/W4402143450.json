@@ -1,0 +1,155 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4402143450",
+  "doi": "10.61220/famj.v2i2.2248",
+  "name": "Human Capital Theory as a Foundation for Investment Among the Young Generation",
+  "headline": "Human Capital Theory as a Foundation for Investment Among the Young Generation",
+  "datePublished": "2024-08-29",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-sa",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Fundamental and Applied Management Journal",
+    "issn": "2988-6333",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5106937814",
+      "name": "Anis Pri Nandini",
+      "givenName": "None",
+      "familyName": "Nandini",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4429535",
+          "name": "State University of Makassar",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5106937815",
+      "name": "Ari Darni Latif",
+      "givenName": "None",
+      "familyName": "Latif",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4429535",
+          "name": "State University of Makassar",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2807158043",
+    "https://openalex.org/W3096880524",
+    "https://openalex.org/W3100316465",
+    "https://openalex.org/W3115689576",
+    "https://openalex.org/W4254968344",
+    "https://openalex.org/W4376573391"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/foundation",
+      "display_name": "Foundation (evidence)",
+      "score": 0.7763667
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.56877697
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41850078
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780966255",
+      "name": "Foundation (evidence)",
+      "sameAs": "https://www.wikidata.org/wiki/Q5474306"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    }
+  ],
+  "abstract": "This study makes a significant contribution to understanding the role of Human Capital Theory in the investment decisions made by students, with a focus on human capital development. Through data analysis gathered from respondents at Universitas Negeri Makassar, the research explores the importance of investing in education, skills, and financial literacy as crucial elements in strengthening individual capacity for success. Using a descriptive method, the findings indicate that respondents exhibit consistent behavior toward human capital investment, reflecting a strong awareness of the importance of human capital development in achieving career success. The results underscore the critical role that Human Capital Theory plays in shaping students' investment decisions, highlighting the value they place on educational and skill development. The implications of this study reinforce the need for effective educational policies that enhance the quality of human resources within the academic environment, providing a solid foundation for students to achieve long-term success in their professional lives.",
+  "url": "https://doi.org/10.61220/famj.v2i2.2248",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://journal.lontaradigitech.com/FAMJ/article/download/413/305",
+    "encodingFormat": "text/html"
+  }
+}

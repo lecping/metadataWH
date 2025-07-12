@@ -1,0 +1,255 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4392735502",
+  "doi": "10.17358/jabm.10.1.137",
+  "name": "Igniting Employee Investment Interest: Unveiling The Impact of Investment Knowledge, Minimal Capital, Return and Risk of Investment, and Technological Advances",
+  "headline": "Igniting Employee Investment Interest: Unveiling The Impact of Investment Knowledge, Minimal Capital, Return and Risk of Investment, and Technological Advances",
+  "datePublished": "2024-01-30",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Jurnal Aplikasi Bisnis dan Manajemen",
+    "issn": "2460-7819",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Bogor Institute of Agriculture"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5034678162",
+      "name": "Yetty Murni",
+      "givenName": "Yetty",
+      "familyName": "Murni",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3129280579",
+          "name": "Pancasila University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5113140372",
+      "name": "Rifqi Ali Azhar",
+      "givenName": "Rifqi",
+      "familyName": "Azhar",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3129280579",
+          "name": "Pancasila University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5073991003",
+      "name": "Eka Sudarmaji",
+      "givenName": "Eka",
+      "familyName": "Sudarmaji",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3129280579",
+          "name": "Pancasila University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-6074-5114"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2536779724",
+    "https://openalex.org/W2734421733",
+    "https://openalex.org/W2788134352",
+    "https://openalex.org/W2903695402",
+    "https://openalex.org/W2981781013",
+    "https://openalex.org/W2982192633",
+    "https://openalex.org/W2995937540",
+    "https://openalex.org/W3002341766",
+    "https://openalex.org/W3035008229",
+    "https://openalex.org/W3084374199",
+    "https://openalex.org/W3090312095",
+    "https://openalex.org/W3173418227",
+    "https://openalex.org/W4320169381",
+    "https://openalex.org/W4401652127"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 1500000,
+      "currency": "IDR"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6942668
+    },
+    {
+      "id": "https://openalex.org/keywords/return-of-capital",
+      "display_name": "Return of capital",
+      "score": 0.6350167
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4773593
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.46252188
+    },
+    {
+      "id": "https://openalex.org/keywords/rate-of-return",
+      "display_name": "Rate of return",
+      "score": 0.45867616
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C169549615",
+      "name": "Return on investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q939134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C57693453",
+      "name": "Return of capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q7317193"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86637286",
+      "name": "Rate of return",
+      "sameAs": "https://www.wikidata.org/wiki/Q7317264"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145236788",
+      "name": "Labour economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q28161"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26584437",
+      "name": "Investment performance",
+      "sameAs": "https://www.wikidata.org/wiki/Q6060874"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The study examined how investing knowledge, minimum capital requirements, risk and returns, and technological advances affect PT Telkom Indonesia workers' investment interest. From December 2022 to April 2023, 120 workers received surveys. SEM with PLS was used to analyze the data. The findings show that of the four hypotheses, two hypotheses, namely return and risk, investment, and technological advances, were supported or accepted. However, two hypotheses, namely investment knowledge and minimal capital, did not affect investment interest. Investment knowledge and minimal capital did not significantly affect PT. Telkom employees. The evidence suggests that senior workers approaching retirement choose wealth preservation above difficult learning of complex capital market topics. The return and risk of investment and technological advances promote widespread adoption regardless of seniority. The study advised that the management should foster financial advice literacy early in junior recruits' careers. Strategically, HR divisions should emphasize core investing instruction while onboarding young arrivals early in their income accumulation. Corporate programs should be designed to adapt employee involvement in the market model to achieve optimal results in building an investment culture that can ultimately strengthen the company's reputation. Keywords: investment interest, investment knowledge, minimum capital, return & risk of investment, technological advancement",
+  "url": "https://doi.org/10.17358/jabm.10.1.137",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://journal.ipb.ac.id/index.php/jabm/article/download/50638/27343",
+    "encodingFormat": "text/html"
+  }
+}

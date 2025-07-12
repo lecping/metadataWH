@@ -1,0 +1,251 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4389599197",
+  "doi": "10.48550/arxiv.2312.04695",
+  "name": "Foreign Capital and Economic Growth: Evidence from Bangladesh",
+  "headline": "Foreign Capital and Economic Growth: Evidence from Bangladesh",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "other-oa",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "arXiv (Cornell University)",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": "Cornell University"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5069862749",
+      "name": "Ummya Salma",
+      "givenName": "Salma,",
+      "familyName": "Ummya",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-1884-5963"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5079166708",
+      "name": "Md. Fazlul Huq Khan",
+      "givenName": "Khan,",
+      "familyName": "Huq",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0009-0001-4648-1546"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5101660030",
+      "name": "Md. Masum Billah",
+      "givenName": "Billah,",
+      "familyName": "Masum",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/foreign-capital",
+      "display_name": "Foreign capital",
+      "score": 0.68456125
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4668513
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.42928636
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.42062214
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33842695",
+      "name": "Foreign direct investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q490513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134024062",
+      "name": "Error correction model",
+      "sameAs": "https://www.wikidata.org/wiki/Q1401229"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2993879009",
+      "name": "Foreign capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q8137"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2777382242",
+      "name": "Index (typography)",
+      "sameAs": "https://www.wikidata.org/wiki/Q6017816"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204208750",
+      "name": "Short run",
+      "sameAs": "https://www.wikidata.org/wiki/Q1519415"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C58202505",
+      "name": "Capital formation",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035700"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C151406439",
+      "name": "Time series",
+      "sameAs": "https://www.wikidata.org/wiki/Q186588"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C47768531",
+      "name": "Development economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q1127188"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145162277",
+      "name": "Cointegration",
+      "sameAs": "https://www.wikidata.org/wiki/Q1751675"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149782125",
+      "name": "Econometrics",
+      "sameAs": "https://www.wikidata.org/wiki/Q160039"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C44750222",
+      "name": "Financial capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q1897397"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119857082",
+      "name": "Machine learning",
+      "sameAs": "https://www.wikidata.org/wiki/Q2539"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136764020",
+      "name": "World Wide Web",
+      "sameAs": "https://www.wikidata.org/wiki/Q466"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This study aims to examine the relationship between Foreign Direct Investment (FDI), personal remittances received, and official development assistance (ODA) in the economic growth of Bangladesh. The study utilizes time series data on Bangladesh from 1976 to 2021. Additionally, this research contributes to the existing literature by introducing the Foreign Capital Depthless Index (FCDI) and exploring its impact on Bangladesh's economic growth. The results of the Vector Error Correction Model (VECM) suggest that the economic growth of Bangladesh depends on FDI, remittances, and aid in the long run. However, these variables do not exhibit a causal relationship with GDP in the short run. The relationship between FCDI and economic growth is positive in the long run. Nevertheless, the presence of these three variables has a more significant impact on the economic growth of Bangladesh",
+  "url": "https://arxiv.org/abs/2312.04695",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://arxiv.org/abs/2312.04695",
+    "encodingFormat": "text/html"
+  }
+}

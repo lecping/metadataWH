@@ -1,0 +1,203 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W3208882453",
+  "doi": "10.3233/faia210229",
+  "name": "Financial Flexibility During the Pre- and Post-Global Financial Crisis Periods",
+  "headline": "Financial Flexibility During the Pre- and Post-Global Financial Crisis Periods",
+  "datePublished": "2021-10-29",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Frontiers in artificial intelligence and applications",
+    "issn": "0922-6389",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5047227450",
+      "name": "Weihan Cui",
+      "givenName": "Weihan",
+      "familyName": "Cui",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I60134161",
+          "name": "Nagoya University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "JP"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3132069261",
+          "name": "Japan University of Economics",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "JP"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1714651000",
+    "https://openalex.org/W1968770404",
+    "https://openalex.org/W1993790966",
+    "https://openalex.org/W2020872716",
+    "https://openalex.org/W2050390909",
+    "https://openalex.org/W2094161779",
+    "https://openalex.org/W2115871647",
+    "https://openalex.org/W2124127488",
+    "https://openalex.org/W2152081433",
+    "https://openalex.org/W2739611148",
+    "https://openalex.org/W2990033693",
+    "https://openalex.org/W3121150545",
+    "https://openalex.org/W3121986562",
+    "https://openalex.org/W3123334383",
+    "https://openalex.org/W3123732362",
+    "https://openalex.org/W3123830264",
+    "https://openalex.org/W3124329888",
+    "https://openalex.org/W3124796920",
+    "https://openalex.org/W3125140669",
+    "https://openalex.org/W3125353045",
+    "https://openalex.org/W4361851987"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.586527
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.43379664
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.42403322
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778300220",
+      "name": "Financial crisis",
+      "sameAs": "https://www.wikidata.org/wiki/Q114380"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780598303",
+      "name": "Flexibility (engineering)",
+      "sameAs": "https://www.wikidata.org/wiki/Q65921492"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C73283319",
+      "name": "Financial system",
+      "sameAs": "https://www.wikidata.org/wiki/Q1416617"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C187736073",
+      "name": "Management",
+      "sameAs": "https://www.wikidata.org/wiki/Q2920921"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This paper investigates the determinants of financial flexibility of Japanese firms before and after the global financial crisis. In the pre-crisis period, growth opportunity has a positive effect on financial flexibility, but in the post-crisis period, this effect turns to negative and is especially strong for financially constrained firms. These results indicate that in normal time, the Japanese firms pursue financial flexibility for investment demand as argued in previous literature. During difficult time, investment environment deteriorates and investment declines, therefore the firms with less growth opportunity accelerate to accumulate financial flexibility, especially for financially constrained firms as they suffer more than others in such a period. Enhancing the investment environment can improve the efficiency of corporate capital and financial support from banking system may ease the stress of financially constrained firms in post-crisis period.",
+  "url": "https://doi.org/10.3233/faia210229",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA210229",
+    "encodingFormat": "text/html"
+  }
+}

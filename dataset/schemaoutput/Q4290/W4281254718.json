@@ -1,0 +1,271 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4281254718",
+  "doi": "10.36348/gajeb.2022.v04i01.002",
+  "name": "Strengthening the Management of Projects Using Investment Capital from the State Budget: Necessity and Recommendations for Solutions",
+  "headline": "Strengthening the Management of Projects Using Investment Capital from the State Budget: Necessity and Recommendations for Solutions",
+  "datePublished": "2022-02-11",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Global Academic Journal of Economics and Business",
+    "issn": "2706-9001",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5085454707",
+      "name": "Pham Nguyen Quynh Huong",
+      "givenName": "Pham",
+      "familyName": "Huong",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210093659",
+          "name": "University of Transport and Communications",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "VN"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6885525
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-budgeting",
+      "display_name": "Capital Budgeting",
+      "score": 0.6442275
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.6200969
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.55771565
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-expenditure",
+      "display_name": "Capital expenditure",
+      "score": 0.42431486
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C57918260",
+      "name": "Capital budgeting",
+      "sameAs": "https://www.wikidata.org/wiki/Q1354666"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779530757",
+      "name": "Quality (philosophy)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1207505"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48103436",
+      "name": "State (computer science)",
+      "sameAs": "https://www.wikidata.org/wiki/Q599031"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C122637931",
+      "name": "Unit (ring theory)",
+      "sameAs": "https://www.wikidata.org/wiki/Q118084"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C177264268",
+      "name": "Set (abstract data type)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1514741"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C172497479",
+      "name": "Capital expenditure",
+      "sameAs": "https://www.wikidata.org/wiki/Q302208"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15952604",
+      "name": "Project management",
+      "sameAs": "https://www.wikidata.org/wiki/Q179012"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C112930515",
+      "name": "Risk analysis (engineering)",
+      "sameAs": "https://www.wikidata.org/wiki/Q4389547"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134560507",
+      "name": "Environmental economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q753291"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21547014",
+      "name": "Operations management",
+      "sameAs": "https://www.wikidata.org/wiki/Q1423657"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C110354214",
+      "name": "Engineering management",
+      "sameAs": "https://www.wikidata.org/wiki/Q6314146"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21425071",
+      "name": "Project appraisal",
+      "sameAs": "https://www.wikidata.org/wiki/Q7249389"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C201995342",
+      "name": "Systems engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q682496"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145420912",
+      "name": "Mathematics education",
+      "sameAs": "https://www.wikidata.org/wiki/Q853077"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111472728",
+      "name": "Epistemology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9471"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C11413529",
+      "name": "Algorithm",
+      "sameAs": "https://www.wikidata.org/wiki/Q8366"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199360897",
+      "name": "Programming language",
+      "sameAs": "https://www.wikidata.org/wiki/Q9143"
+    }
+  ],
+  "abstract": "In the past time, the management of investment projects using state budget capital has had many positive changes, the quality of project appraisal, design appraisal is implemented after basic design (technical design). techniques) of specialized agencies has improved day by day, many works and projects after being completed and handed over and put into use are of high quality and effective. However, besides that, there are still some works and projects with certain limitations, the project must be adjusted many times; the volume, unit price, and norms applied are not appropriate; projects that are completed late, handed over and put into use, or after they are put into use, quickly damaged or degraded buildings have not yet brought into full play their functions according to the set objectives, causing a waste of the state budget. This study points out the need to strengthen management, thereby proposing solutions for the management of investment projects using state budget capital to achieve high efficiency in the future.",
+  "url": "https://doi.org/10.36348/gajeb.2022.v04i01.002",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.36348/gajeb.2022.v04i01.002",
+    "encodingFormat": "text/html"
+  }
+}

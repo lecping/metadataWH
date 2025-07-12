@@ -1,0 +1,294 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4313004521",
+  "doi": "10.2139/ssrn.4281265",
+  "name": "Investment and Subjective Uncertainty",
+  "headline": "Investment and Subjective Uncertainty",
+  "datePublished": "2022-01-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "SSRN Electronic Journal",
+    "issn": "1556-5068",
+    "publisher": {
+      "@type": "Organization",
+      "name": "RELX Group (Netherlands)"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5044421873",
+      "name": "Nicholas Bloom",
+      "givenName": "Nicholas",
+      "familyName": "Bloom",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I1321305853",
+          "name": "National Bureau of Economic Research",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I97018004",
+          "name": "Stanford University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-1600-7819"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5102869039",
+      "name": "Steven J. Davis",
+      "givenName": "Steven",
+      "familyName": "Davis",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I1286498122",
+          "name": "Hoover Institution",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I1321305853",
+          "name": "National Bureau of Economic Research",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I40347166",
+          "name": "University of Chicago",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-5901-7021"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5110737589",
+      "name": "Lucia Foster",
+      "givenName": "Lucia",
+      "familyName": "Foster",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I1333512998",
+          "name": "United States Census Bureau",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5043918850",
+      "name": "Scott Ohlmacher",
+      "givenName": "Scott",
+      "familyName": "Ohlmacher",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5003345786",
+      "name": "Itay Saporta Eksten",
+      "givenName": "Itay",
+      "familyName": "Eksten",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I45129253",
+          "name": "University College London",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I16391192",
+          "name": "Tel Aviv University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IL"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.7388947
+    },
+    {
+      "id": "https://openalex.org/keywords/uncertainty-reduction-theory",
+      "display_name": "Uncertainty reduction theory",
+      "score": 0.5865092
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5273208
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-expenditure",
+      "display_name": "Capital expenditure",
+      "score": 0.42436308
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C85502023",
+      "name": "Renting",
+      "sameAs": "https://www.wikidata.org/wiki/Q157171"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94361409",
+      "name": "Uncertainty reduction theory",
+      "sameAs": "https://www.wikidata.org/wiki/Q7882500"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149782125",
+      "name": "Econometrics",
+      "sameAs": "https://www.wikidata.org/wiki/Q160039"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C22679943",
+      "name": "Standard deviation",
+      "sameAs": "https://www.wikidata.org/wiki/Q159375"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C172497479",
+      "name": "Capital expenditure",
+      "sameAs": "https://www.wikidata.org/wiki/Q302208"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162118730",
+      "name": "Actuarial science",
+      "sameAs": "https://www.wikidata.org/wiki/Q1128453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105795698",
+      "name": "Statistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q12483"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C147176958",
+      "name": "Civil engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q77590"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C46312422",
+      "name": "Communication",
+      "sameAs": "https://www.wikidata.org/wiki/Q11024"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    }
+  ],
+  "abstract": "A longstanding challenge in evaluating the impact of uncertainty on investment is obtaining measures of managers' subjective uncertainty. We address this challenge by using a detailed new survey measure of subjective uncertainty collected by the U.S. Census Bureau for approximately 25,000 manufacturing plants. We find three key results. First, investment is strongly and robustly negatively associated with higher uncertainty, with a two standard deviation increase in uncertainty associated with about a 6% reduction in investment. Second, uncertainty is also negatively related to employment growth and overall shipments (sales) growth, which highlights the damaging impact of uncertainty on firm growth. Third, flexible inputs like rental capital and temporary workers show a positive relationship to uncertainty, demonstrating that businesses switch from less flexible to more flexible factor inputs at higher levels of uncertainty.",
+  "url": "https://doi.org/10.2139/ssrn.4281265",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.econstor.eu/bitstream/10419/267447/1/dp15710.pdf",
+    "encodingFormat": "text/html"
+  }
+}

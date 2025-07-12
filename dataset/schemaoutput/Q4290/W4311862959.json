@@ -1,0 +1,312 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4311862959",
+  "doi": "10.24191/jibe.v7i1.18662",
+  "name": "Public Capital and Economic Growth Dynamics in Nigeria",
+  "headline": "Public Capital and Economic Growth Dynamics in Nigeria",
+  "datePublished": "2022-06-25",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-sa",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of International Business Economics and Entrepreneurship",
+    "issn": "2550-1429",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5083593608",
+      "name": "Mohammed AbdulKhaleq AbdulRahm Alamoodi",
+      "givenName": "Mohammed",
+      "familyName": "Alamoodi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I173029219",
+          "name": "Multimedia University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "MY"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5070764552",
+      "name": "Zarehan Selamat",
+      "givenName": "Zarehan",
+      "familyName": "Selamat",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I173029219",
+          "name": "Multimedia University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "MY"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-4354-7191"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.683087
+    },
+    {
+      "id": "https://openalex.org/keywords/causality",
+      "display_name": "Causality",
+      "score": 0.6428505
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-deepening",
+      "display_name": "Capital deepening",
+      "score": 0.58025074
+    },
+    {
+      "id": "https://openalex.org/keywords/public-capital",
+      "display_name": "Public capital",
+      "score": 0.5755179
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.51759803
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-accumulation",
+      "display_name": "Capital Accumulation",
+      "score": 0.48239362
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.47355998
+    },
+    {
+      "id": "https://openalex.org/keywords/private-capital",
+      "display_name": "Private capital",
+      "score": 0.4444209
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C64357122",
+      "name": "Causality (physics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1149766"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C24649204",
+      "name": "Capital deepening",
+      "sameAs": "https://www.wikidata.org/wiki/Q3656853"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C129824826",
+      "name": "Granger causality",
+      "sameAs": "https://www.wikidata.org/wiki/Q2630107"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776675903",
+      "name": "Public capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q457193"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121426985",
+      "name": "Private sector",
+      "sameAs": "https://www.wikidata.org/wiki/Q591763"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2994464924",
+      "name": "Public investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q1929688"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C81751973",
+      "name": "Capital accumulation",
+      "sameAs": "https://www.wikidata.org/wiki/Q420062"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2993232446",
+      "name": "Private capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q8137"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C58202505",
+      "name": "Capital formation",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035700"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C147859227",
+      "name": "Public sector",
+      "sameAs": "https://www.wikidata.org/wiki/Q294217"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C47768531",
+      "name": "Development economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q1127188"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C44750222",
+      "name": "Financial capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q1897397"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C100001284",
+      "name": "Public economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q2248246"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136264566",
+      "name": "Economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q159810"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33842695",
+      "name": "Foreign direct investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q490513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2992428842",
+      "name": "Public fund",
+      "sameAs": "https://www.wikidata.org/wiki/Q1929688"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149782125",
+      "name": "Econometrics",
+      "sameAs": "https://www.wikidata.org/wiki/Q160039"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C62520636",
+      "name": "Quantum mechanics",
+      "sameAs": "https://www.wikidata.org/wiki/Q944"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121332964",
+      "name": "Physics",
+      "sameAs": "https://www.wikidata.org/wiki/Q413"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    }
+  ],
+  "abstract": "Using annual time series data covering the period 1981 to 2017, this paper investigates the relationship between public capital investment and economic growth in Nigeria using the General to Specific (GETS) approach. The empirical findings reveal that public capital and labour force have a detrimental impact on economic growth. The study also discovered that private capital and growth are positively related. The Granger causality tests, on the other hand, unveil that both bidirectional and unidirectional causal linkages. As a result, these findings suggest that infrastructure development should be emphasized through public-private partnerships and a favourable investment climate to stimulate private sector investment to sustain long-term economic growth should be improved.",
+  "url": "https://doi.org/10.24191/jibe.v7i1.18662",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.24191/jibe.v7i1.18662",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4410374285",
+  "doi": "10.37266/iser.2025v12i2.pp95-100",
+  "name": "A Predictive and Scalable Capital Investment Risk Model (CIRM) for the Department of Veterans Affairs",
+  "headline": "A Predictive and Scalable Capital Investment Risk Model (CIRM) for the Department of Veterans Affairs",
+  "datePublished": "2025-05-12",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Industrial and Systems Engineering Review",
+    "issn": "2329-0188",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5077869343",
+      "name": "James Schreiner",
+      "givenName": "James",
+      "familyName": "Schreiner",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5065579372",
+      "name": "Madeleine E. Jackson",
+      "givenName": "Montrel",
+      "familyName": "Jackson",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5117545615",
+      "name": "Michael Ruggieri",
+      "givenName": "Michael",
+      "familyName": "Ruggieri",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5117545616",
+      "name": "Christian Sarlitto",
+      "givenName": "Christian",
+      "familyName": "Sarlitto",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5117545617",
+      "name": "John Szalankiewicz",
+      "givenName": "John",
+      "familyName": "Szalankiewicz",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/veterans-affairs",
+      "display_name": "Veterans Affairs",
+      "score": 0.898633
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5312564
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.50291556
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.49375138
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2775969662",
+      "name": "Veterans Affairs",
+      "sameAs": "https://www.wikidata.org/wiki/Q7923600"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C71924100",
+      "name": "Medicine",
+      "sameAs": "https://www.wikidata.org/wiki/Q11190"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162118730",
+      "name": "Actuarial science",
+      "sameAs": "https://www.wikidata.org/wiki/Q1128453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C126322002",
+      "name": "Internal medicine",
+      "sameAs": "https://www.wikidata.org/wiki/Q11180"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The Department of Veterans Affairs (VA), Office of Construction and Facilities Management, is working towards providing a data-driven, risk-informed, capital investment information model to aid VA stakeholders in the allocation of funds and resources across the VA medical facility portfolio. The novel research methodology presented uses ArcGIS to provide a layered risk visual of the country using a unique multi-criteria additive risk model and compares the risk score against veteran satisfaction and facility condition assessments to understand the investment trade space. This output is the distinctive Capital Investment Risk Model (CIRM). Three main risk factors behind a county specific risk priority number metric include environmental risk, veteran demand, and resource allocations. The findings include insights into how the VA enterprise, and regional VA leaders might consider the next fiscal investment, understand its sensitivity, and predict future trends in the risk profile of each healthcare provider’s ability to serve its veterans.",
+  "url": "https://doi.org/10.37266/iser.2025v12i2.pp95-100",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.37266/iser.2025v12i2.pp95-100",
+    "encodingFormat": "text/html"
+  }
+}

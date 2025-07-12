@@ -1,0 +1,218 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4406790466",
+  "doi": "10.2478/remav-2025-0007",
+  "name": "A Location Effect on the Capital Gains of Condominium Investment",
+  "headline": "A Location Effect on the Capital Gains of Condominium Investment",
+  "datePublished": "2024-01-24",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Real Estate Management and Valuation",
+    "issn": "2300-5289",
+    "publisher": {
+      "@type": "Organization",
+      "name": "De Gruyter Open"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5019060361",
+      "name": "Monthinee Teeramungcalanon",
+      "givenName": "Monthinee",
+      "familyName": "Teeramungcalanon",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I108108428",
+          "name": "Thammasat University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "TH"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5065540735",
+      "name": "Niti Rattanaprichavej",
+      "givenName": "Niti",
+      "familyName": "Rattanaprichavej",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I108108428",
+          "name": "Thammasat University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "TH"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-2961-3076"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1506724559",
+    "https://openalex.org/W1522017815",
+    "https://openalex.org/W1525191630",
+    "https://openalex.org/W1770435058",
+    "https://openalex.org/W1830503333",
+    "https://openalex.org/W1971583046",
+    "https://openalex.org/W1978549132",
+    "https://openalex.org/W1984766411",
+    "https://openalex.org/W1984838704",
+    "https://openalex.org/W2003920462",
+    "https://openalex.org/W2008883022",
+    "https://openalex.org/W2038709021",
+    "https://openalex.org/W2045929239",
+    "https://openalex.org/W2055000648",
+    "https://openalex.org/W2069443262",
+    "https://openalex.org/W2080086883",
+    "https://openalex.org/W2083994680",
+    "https://openalex.org/W2084133492",
+    "https://openalex.org/W2092252722",
+    "https://openalex.org/W2097821275",
+    "https://openalex.org/W2125468565",
+    "https://openalex.org/W2137401704",
+    "https://openalex.org/W2169598144",
+    "https://openalex.org/W2171583611",
+    "https://openalex.org/W2346441445",
+    "https://openalex.org/W2562344110",
+    "https://openalex.org/W2754978208",
+    "https://openalex.org/W2811419847",
+    "https://openalex.org/W2903009927",
+    "https://openalex.org/W2971527117",
+    "https://openalex.org/W2997403148",
+    "https://openalex.org/W2997969549",
+    "https://openalex.org/W3038436037",
+    "https://openalex.org/W3041164760",
+    "https://openalex.org/W3045435521",
+    "https://openalex.org/W3122009953",
+    "https://openalex.org/W3122763966",
+    "https://openalex.org/W3123371416",
+    "https://openalex.org/W3124103471",
+    "https://openalex.org/W3125182198",
+    "https://openalex.org/W3125698183",
+    "https://openalex.org/W3125766507",
+    "https://openalex.org/W3126101838",
+    "https://openalex.org/W3130203367",
+    "https://openalex.org/W3139088596",
+    "https://openalex.org/W3198511763",
+    "https://openalex.org/W4206989127",
+    "https://openalex.org/W4238535494",
+    "https://openalex.org/W4307717093",
+    "https://openalex.org/W4311644703"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6593884
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.600796
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.45715496
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Abstract This research focuses on the effect of locational factors on condominium capital gains investment in Thailand. It employed secondary data selected through judgmental sampling. Capital gains data spanning 5 to 15 years were collected quarterly from 1,381 condominium projects in Thailand. ANOVA and Pearson correlation were conducted to study the relationship between locations, capital gains, and price per square meter. The main findings can be summarized in three aspects: capital gains rates, locations, and timing, indicating that investing in a condominium based solely on capital gains without considering rental fees may not be a favorable strategy. Furthermore, regarding locations and timing, no significant returns were contributed. Although each location does not significantly contribute to different capital gains, the research highlights that residential and commercial activities are the most critical factors for generating higher-than-average capital gains. As a result, residential areas, the Bangkok Central Business District (CBD), Bangkok suburbs, commercial districts, and high-density residential areas are the top five potential locations for investment. Moreover, the relationship between the capital gains and the prices per square meter exhibits three directions: positive, negative, and no relationship, depending on locations.",
+  "url": "https://doi.org/10.2478/remav-2025-0007",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.2478/remav-2025-0007",
+    "encodingFormat": "text/html"
+  }
+}

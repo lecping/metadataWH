@@ -1,0 +1,166 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4297860729",
+  "doi": "10.36807/2411-7269-2022-3-30-109-114",
+  "name": "TRENDS AND FEATURES OF FINANCIAL INVESTMENT DECISION-MAKING IN HOUSEHOLDS: RUSSIAN EXPERIENCE",
+  "headline": "TRENDS AND FEATURES OF FINANCIAL INVESTMENT DECISION-MAKING IN HOUSEHOLDS: RUSSIAN EXPERIENCE",
+  "datePublished": "2022-09-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "ECONOMIC VECTOR",
+    "issn": "2411-7269",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5073872975",
+      "name": "I.V. Korostelev",
+      "givenName": "I.V.",
+      "familyName": "Korostelev",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 2,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/irrationality",
+      "display_name": "Irrationality",
+      "score": 0.78619957
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6197381
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.49655968
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41508153
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2777019708",
+      "name": "Irrationality",
+      "sameAs": "https://www.wikidata.org/wiki/Q1412340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778069335",
+      "name": "Sanctions",
+      "sameAs": "https://www.wikidata.org/wiki/Q32098"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C19244329",
+      "name": "Financial market",
+      "sameAs": "https://www.wikidata.org/wiki/Q208697"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105639569",
+      "name": "Economic policy",
+      "sameAs": "https://www.wikidata.org/wiki/Q582577"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C201717286",
+      "name": "Rationality",
+      "sameAs": "https://www.wikidata.org/wiki/Q938185"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "With Russia's limited access to the external capital market and sanctions pressure from Western countries, the importance of do-mestic sources of financing for economic development is growing, one of which may be household savings. The author identifies trends and features of making financial in-vestment decisions in difficult socio-economic and political conditions. Particular attention is paid to the problem of stereotypi-cal thinking and irrationality of household financial investment decisions.",
+  "url": "https://doi.org/10.36807/2411-7269-2022-3-30-109-114",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.36807/2411-7269-2022-3-30-109-114",
+    "encodingFormat": "text/html"
+  }
+}

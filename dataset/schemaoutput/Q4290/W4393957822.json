@@ -1,0 +1,235 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4393957822",
+  "doi": "10.53067/ije3.v2i3.103",
+  "name": "THE EFFECT OF MICRO, SMALL AND MEDIUM ENTERPRISES, CAPITAL EXPENDITURE, INVESTMENT, AND LABOR ON INDONESIA'S ECONOMIC GROWTH",
+  "headline": "THE EFFECT OF MICRO, SMALL AND MEDIUM ENTERPRISES, CAPITAL EXPENDITURE, INVESTMENT, AND LABOR ON INDONESIA'S ECONOMIC GROWTH",
+  "datePublished": "2022-12-06",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-sa",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Economy Education and Entrepreneurship (IJE3)",
+    "issn": "2798-0138",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5072643512",
+      "name": "Hedwigis Esti Riwayati",
+      "givenName": "Hedwigis",
+      "familyName": "Riwayati",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3129457838",
+          "name": "Perbanas Institute",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-8951-6334"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5110876140",
+      "name": "Erlinel Manuel",
+      "givenName": "Erlinel",
+      "familyName": "Manuel",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3129457838",
+          "name": "Perbanas Institute",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W2231428219",
+    "https://openalex.org/W2435156563",
+    "https://openalex.org/W2560165096",
+    "https://openalex.org/W2605101413",
+    "https://openalex.org/W2738635390",
+    "https://openalex.org/W2762865639",
+    "https://openalex.org/W2797087967",
+    "https://openalex.org/W2903129425",
+    "https://openalex.org/W2908353660",
+    "https://openalex.org/W2922241779",
+    "https://openalex.org/W2925301130",
+    "https://openalex.org/W2943520797",
+    "https://openalex.org/W2949030662",
+    "https://openalex.org/W2967925683",
+    "https://openalex.org/W2980281068",
+    "https://openalex.org/W2989827891",
+    "https://openalex.org/W2995541451",
+    "https://openalex.org/W2997321500",
+    "https://openalex.org/W3013171296",
+    "https://openalex.org/W3022690663",
+    "https://openalex.org/W3042340304",
+    "https://openalex.org/W3091176588",
+    "https://openalex.org/W3091910493",
+    "https://openalex.org/W3099392776",
+    "https://openalex.org/W3108598033",
+    "https://openalex.org/W4243717163",
+    "https://openalex.org/W4393957822"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6322562
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-expenditure",
+      "display_name": "Capital expenditure",
+      "score": 0.5168572
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5014672
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.494657
+    },
+    {
+      "id": "https://openalex.org/keywords/fixed-investment",
+      "display_name": "Fixed investment",
+      "score": 0.45324743
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C172497479",
+      "name": "Capital expenditure",
+      "sameAs": "https://www.wikidata.org/wiki/Q302208"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C120564339",
+      "name": "Fixed investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q5456372"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145236788",
+      "name": "Labour economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q28161"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C58202505",
+      "name": "Capital formation",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035700"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C44750222",
+      "name": "Financial capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q1897397"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "This study aims to analyse the effect of micro, small, and medium enterprises (MSMEs), capital expenditure, investment, and labour on Indonesia's economic growth. This research adopts a quantitative methodology and bases its findings on secondary data obtained from the Central Statistics Agency. The analysis included 330 samples from 33 provinces, all chosen using the purposive sampling method. The total number of observations in the study was 33. According to the panel data analysis, findings carry out with the aid of the programme processing tools found in E-Views 9.0. The results of this study show that capital expenditure, investment, and labour partially have a significant positive effect on Indonesian economic growth. On the other hand, variable MSMEs have no impact on the economic development of Indonesia. Another finding from the analysis is that the estimated regression model can explain Indonesia's economic growth",
+  "url": "https://doi.org/10.53067/ije3.v2i3.103",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://ije3.esc-id.org/index.php/home/article/download/103/101",
+    "encodingFormat": "text/html"
+  }
+}

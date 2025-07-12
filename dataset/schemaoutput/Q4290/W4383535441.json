@@ -1,0 +1,295 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4383535441",
+  "doi": "10.47451/ecn2023-05-02",
+  "name": "The theoretical bases of the definition of capital investment of sustainable development",
+  "headline": "The theoretical bases of the definition of capital investment of sustainable development",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "European Scientific e-Journal",
+    "issn": "2695-0243",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5022230468",
+      "name": "Viktor Khelemskyi",
+      "givenName": "Viktor",
+      "familyName": "Khelemskyi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210087881",
+          "name": "State Tax University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-1397-1506"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5027651591",
+      "name": "Herman E. Daly",
+      "givenName": "Herman",
+      "familyName": "Daly",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210087881",
+          "name": "State Tax University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-9755-8179"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5070981581",
+      "name": "John B. Cobb",
+      "givenName": "John",
+      "familyName": "Cobb",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210087881",
+          "name": "State Tax University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5019321866",
+      "name": "Thomas Prugh",
+      "givenName": "Thomas",
+      "familyName": "Prugh",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210087881",
+          "name": "State Tax University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5002328925",
+      "name": "Gro Harlem Brundtland",
+      "givenName": "Gro",
+      "familyName": "Brundtland",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210087881",
+          "name": "State Tax University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5065491392",
+      "name": "Joseph H. Hulse",
+      "givenName": "J",
+      "familyName": "Hulse",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210087881",
+          "name": "State Tax University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5052239782",
+      "name": "Anthony Leiserowitz",
+      "givenName": "A",
+      "familyName": "Leiserowitz",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210087881",
+          "name": "State Tax University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-5349-409X"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5112672119",
+      "name": "Robert A. Kates",
+      "givenName": "R",
+      "familyName": "Kates",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210087881",
+          "name": "State Tax University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5110656406",
+      "name": "Thomas M. Parris",
+      "givenName": "T",
+      "familyName": "Parris",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210087881",
+          "name": "State Tax University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W2075468634",
+    "https://openalex.org/W2121519719",
+    "https://openalex.org/W2493213485",
+    "https://openalex.org/W2591909885",
+    "https://openalex.org/W4312383384",
+    "https://openalex.org/W4361016261"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5487063
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.52821213
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.44737235
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C552854447",
+      "name": "Sustainable development",
+      "sameAs": "https://www.wikidata.org/wiki/Q131201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The need to define the term capital investment of sustainable development is due to the availability of various theoretical and methodological approaches to the definition of capital investment as such, challenges of a socio-economic and environmental nature, the causes and methods of overcoming, which are constantly changing and improving.In view of this, the theoretical foundations for determining capital investments in sustainable development have scientific and methodological value.The study object was capital investments of sustainable development.The study subject was the theoretical and methodological foundations, the current state of socio-economic and environmental problems, mechanisms and tools for their solution, which determine the change in theoretical approaches to determining the term of capital investment of sustainable development.The study purpose was to provide a definition of sustainable development capital investment, considering the latest trends in both approaches to defining capital investment and current characteristics and goals of sustainable development.To achieve the study purpose and solve the tasks set, such scientific methods as generalization, induction, analysis and synthesis were used.The main researchers of sustainable capital investment are",
+  "url": "https://doi.org/10.47451/ecn2023-05-02",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.47451/ecn2023-05-02",
+    "encodingFormat": "text/html"
+  }
+}

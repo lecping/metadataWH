@@ -1,0 +1,238 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4411403209",
+  "doi": "10.1016/j.erss.2025.104163",
+  "name": "The effect of capital markets and climate policy on low and high-carbon energy investment: Evidence from electric utilities",
+  "headline": "The effect of capital markets and climate policy on low and high-carbon energy investment: Evidence from electric utilities",
+  "datePublished": "2025-06-18",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Energy Research & Social Science",
+    "issn": "2214-6296",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Elsevier BV"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5091192802",
+      "name": "C. Wilson",
+      "givenName": "Christian",
+      "familyName": "Wilson",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5084318857",
+      "name": "Gireesh Shrimali",
+      "givenName": "Gireesh",
+      "familyName": "Shrimali",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-8476-0108"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5073533284",
+      "name": "Ben Caldecott",
+      "givenName": "Ben",
+      "familyName": "Caldecott",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0001-8846-9847"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1568331111",
+    "https://openalex.org/W1608624382",
+    "https://openalex.org/W1836722941",
+    "https://openalex.org/W1966435194",
+    "https://openalex.org/W1978573565",
+    "https://openalex.org/W1981149119",
+    "https://openalex.org/W2009236937",
+    "https://openalex.org/W2020537950",
+    "https://openalex.org/W2043728733",
+    "https://openalex.org/W2069991802",
+    "https://openalex.org/W2075652341",
+    "https://openalex.org/W2085979753",
+    "https://openalex.org/W2087601600",
+    "https://openalex.org/W2123532539",
+    "https://openalex.org/W2139122730",
+    "https://openalex.org/W2141004455",
+    "https://openalex.org/W2300564070",
+    "https://openalex.org/W2405379812",
+    "https://openalex.org/W2549401932",
+    "https://openalex.org/W2584274515",
+    "https://openalex.org/W2599710430",
+    "https://openalex.org/W2760385907",
+    "https://openalex.org/W2768029869",
+    "https://openalex.org/W2791392401",
+    "https://openalex.org/W2792659358",
+    "https://openalex.org/W2810432793",
+    "https://openalex.org/W2899469104",
+    "https://openalex.org/W2903721628",
+    "https://openalex.org/W2910828360",
+    "https://openalex.org/W2950396825",
+    "https://openalex.org/W2953493694",
+    "https://openalex.org/W2955640382",
+    "https://openalex.org/W2963056311",
+    "https://openalex.org/W2969520687",
+    "https://openalex.org/W2973063406",
+    "https://openalex.org/W2984982484",
+    "https://openalex.org/W3009850891",
+    "https://openalex.org/W3035052224",
+    "https://openalex.org/W3035200949",
+    "https://openalex.org/W3087861513",
+    "https://openalex.org/W3089879809",
+    "https://openalex.org/W3093236334",
+    "https://openalex.org/W3121235248",
+    "https://openalex.org/W3121296400",
+    "https://openalex.org/W3122337292",
+    "https://openalex.org/W3123778558",
+    "https://openalex.org/W3123899250",
+    "https://openalex.org/W3123908492",
+    "https://openalex.org/W3124269223",
+    "https://openalex.org/W3125601827",
+    "https://openalex.org/W3165533349",
+    "https://openalex.org/W3176957609",
+    "https://openalex.org/W3188795583",
+    "https://openalex.org/W3193811585",
+    "https://openalex.org/W3195314382",
+    "https://openalex.org/W3200186802",
+    "https://openalex.org/W3200908098",
+    "https://openalex.org/W4200447668",
+    "https://openalex.org/W4205425626",
+    "https://openalex.org/W4214838156",
+    "https://openalex.org/W4250109603",
+    "https://openalex.org/W4282977374",
+    "https://openalex.org/W4285116028",
+    "https://openalex.org/W4288693512",
+    "https://openalex.org/W4291167743",
+    "https://openalex.org/W4306318618",
+    "https://openalex.org/W4366818900",
+    "https://openalex.org/W4382790137",
+    "https://openalex.org/W4384834402",
+    "https://openalex.org/W4390837263",
+    "https://openalex.org/W4392093225",
+    "https://openalex.org/W4398401988",
+    "https://openalex.org/W4408828987"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 3300,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6597664
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.54415756
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.43693736
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "url": "https://doi.org/10.1016/j.erss.2025.104163",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1016/j.erss.2025.104163",
+    "encodingFormat": "text/html"
+  }
+}

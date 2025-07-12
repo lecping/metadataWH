@@ -1,0 +1,164 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4405114188",
+  "doi": "10.20473/jeba.v34i22024.318-338",
+  "name": "INVESTMENT IN INTELLECTUAL CAPITAL AND ITS IMPACT ON THE PROFITABILITY OF ISLAMIC BANKS IN INDONESIA",
+  "headline": "INVESTMENT IN INTELLECTUAL CAPITAL AND ITS IMPACT ON THE PROFITABILITY OF ISLAMIC BANKS IN INDONESIA",
+  "datePublished": "2024-11-30",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-sa",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Jurnal Ekonomi dan Bisnis Airlangga",
+    "issn": "2338-2686",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Airlangga University"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5000875687",
+      "name": "Trisnaning Setya Sutjipto",
+      "givenName": "Trisnaning",
+      "familyName": "Sutjipto",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5109815365",
+      "name": "T. Saipul Hadi",
+      "givenName": "T.",
+      "familyName": "Hadi",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5932443
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.45736748
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.42147997
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C129361004",
+      "name": "Profitability index",
+      "sameAs": "https://www.wikidata.org/wiki/Q2470236"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C4445939",
+      "name": "Islam",
+      "sameAs": "https://www.wikidata.org/wiki/Q432"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C73283319",
+      "name": "Financial system",
+      "sameAs": "https://www.wikidata.org/wiki/Q1416617"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C195244886",
+      "name": "Ancient history",
+      "sameAs": "https://www.wikidata.org/wiki/Q41493"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Introduction: Islamic banks in Indonesia show significant potential, although their current asset contribution is only 1,9 percent of total Islamic banking asset globally. This is quite a contrast to Indonesia’s title as the country with largest Muslim population in the world, as well as its ambition to become the center of the global sharia economy. One of the efforts that can be made to achieve this goal is by increasing the assets of Indonesian Islamic banks through enhancing their profitability. Methods: This research uses secondary data from eight Sharia Commercial Banks (BUS) in the 2014-2022 period. A static panel regression model is used to examine the impact of Intellectual Capital on the profitability of BUS using Stata 17 application. The dependent variable is profitability, while the independent variables are IC and its components (Human Capital, Structural Capital, Customer Equity, and Relational Capital). The control variables consist of the ratio of total equity to total assets (EQA), non-performing financing (NPF), inflation, and the COVID-19 phenomenon. Results: This study analyzes the impact of intellectual capital (IC) on the profitability of Islamic banks in Indonesia. The results show that IC has a significant positive effect on profitability. The components of human capital (HC) and capital employed (CE) contribute positively, while structural capital (SC) and relational capital (RC) do not have a significant impact. Conclusion and suggestion: Findings of this research indicate that improving human resource competence and optimizing equity capital can enhance the profitability of Islamic banks, whereas investments in organizational structure, technology, and promotion do not yield significant effects. This study also provides policy implications for regulators and bank management in more effectively allocating IC investments. Additionally, the research suggests that Islamic banks should focus on digitalization and financial innovation to strengthen their performance.",
+  "url": "https://doi.org/10.20473/jeba.v34i22024.318-338",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.20473/jeba.v34i22024.318-338",
+    "encodingFormat": "text/html"
+  }
+}

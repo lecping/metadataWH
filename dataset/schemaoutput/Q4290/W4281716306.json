@@ -1,0 +1,219 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4281716306",
+  "doi": "10.26714/mki.12.1.2022.42-52",
+  "name": "FAKTOR-FAKTOR YANG MEMPENGARUHI MINAT MAHASISWA BERINVESTASI DI PASAR MODAL PADA MASA PANDEMI COVID-19",
+  "headline": "FAKTOR-FAKTOR YANG MEMPENGARUHI MINAT MAHASISWA BERINVESTASI DI PASAR MODAL PADA MASA PANDEMI COVID-19",
+  "datePublished": "2022-05-18",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "MAKSIMUM",
+    "issn": "2087-2836",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Universitas Muhammadiyah Semarang"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5016108454",
+      "name": "Dwi Qothrun Nada",
+      "givenName": "Dwi",
+      "familyName": "Nada",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210092405",
+          "name": "Universitas Muhammadiyah Gresik",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5101916451",
+      "name": "Syaiful Syaiful",
+      "givenName": "Syaiful",
+      "familyName": "Syaiful",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210092405",
+          "name": "Universitas Muhammadiyah Gresik",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-0985-1541"
+    }
+  ],
+  "citationCount": 5,
+  "citation": [
+    "https://openalex.org/W1517229207",
+    "https://openalex.org/W2223323401",
+    "https://openalex.org/W2536779724",
+    "https://openalex.org/W2573067182",
+    "https://openalex.org/W2737416521",
+    "https://openalex.org/W2786693304",
+    "https://openalex.org/W2788134352",
+    "https://openalex.org/W2908207287",
+    "https://openalex.org/W2969340805",
+    "https://openalex.org/W3011566696",
+    "https://openalex.org/W4390351570"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6074781
+    },
+    {
+      "id": "https://openalex.org/keywords/pandemic",
+      "display_name": "Pandemic",
+      "score": 0.5813486
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4752514
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.44724268
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C100363876",
+      "name": "Nonprobability sampling",
+      "sameAs": "https://www.wikidata.org/wiki/Q690661"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C89623803",
+      "name": "Pandemic",
+      "sameAs": "https://www.wikidata.org/wiki/Q12184"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C3008058167",
+      "name": "Coronavirus disease 2019 (COVID-19)",
+      "sameAs": "https://www.wikidata.org/wiki/Q84263196"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C71924100",
+      "name": "Medicine",
+      "sameAs": "https://www.wikidata.org/wiki/Q11190"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779134260",
+      "name": "Disease",
+      "sameAs": "https://www.wikidata.org/wiki/Q12136"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C99454951",
+      "name": "Environmental health",
+      "sameAs": "https://www.wikidata.org/wiki/Q932068"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2908647359",
+      "name": "Population",
+      "sameAs": "https://www.wikidata.org/wiki/Q2625603"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C142724271",
+      "name": "Pathology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7208"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C524204448",
+      "name": "Infectious disease (medical specialty)",
+      "sameAs": "https://www.wikidata.org/wiki/Q788926"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The purpose of this study is to confirm the factors that influence student interest in investing in the capital market during the Covid-19 pandemic. The method used is quantitative with primary data in the form of questionnaires distributed to respondents. 96 questionnaires were distributed to accounting students at the Muhammadiyah University of Gresik. Sampling is by using purposive sampling technique. The data analysis technique used is multiple linear regression analysis. The results showed that the benefits of investment and minimal capital had an effect on students' interest in investing in the capital market during the Covid-19 pandemic. Meanwhile, the variables of investment knowledge and risk perception did not affect students' interest in investing in the capital market during the Covid-19 pandemic.",
+  "url": "https://doi.org/10.26714/mki.12.1.2022.42-52",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://jurnal.unimus.ac.id/index.php/MAX/article/download/8831/6193",
+    "encodingFormat": "text/html"
+  }
+}

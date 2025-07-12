@@ -1,0 +1,293 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4400384782",
+  "doi": "10.4102/sajems.v27i1.5442",
+  "name": "Knowledge capital and innovation management: Impact of transboundary investment and assimilative capacity",
+  "headline": "Knowledge capital and innovation management: Impact of transboundary investment and assimilative capacity",
+  "datePublished": "2024-07-06",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "South African Journal of Economic and Management Sciences",
+    "issn": "1015-8812",
+    "publisher": {
+      "@type": "Organization",
+      "name": "AOSIS"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5084956471",
+      "name": "Suleman Bawa",
+      "givenName": "Suleman",
+      "familyName": "Bawa",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I149594827",
+          "name": "Xidian University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0009-0007-4520-3492"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5109375703",
+      "name": "Yongping Xie",
+      "givenName": "Xie",
+      "familyName": "Yongping",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I149594827",
+          "name": "Xidian University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-2797-4249"
+    }
+  ],
+  "citationCount": 2,
+  "citation": [
+    "https://openalex.org/W1517301836",
+    "https://openalex.org/W1849190772",
+    "https://openalex.org/W1959609815",
+    "https://openalex.org/W1969904564",
+    "https://openalex.org/W1973612587",
+    "https://openalex.org/W1991142410",
+    "https://openalex.org/W1995651884",
+    "https://openalex.org/W2005657591",
+    "https://openalex.org/W2031442140",
+    "https://openalex.org/W2054116597",
+    "https://openalex.org/W2067506959",
+    "https://openalex.org/W2073325643",
+    "https://openalex.org/W2156247188",
+    "https://openalex.org/W2160674659",
+    "https://openalex.org/W2183092452",
+    "https://openalex.org/W2224422582",
+    "https://openalex.org/W2400827012",
+    "https://openalex.org/W2478834177",
+    "https://openalex.org/W2611593672",
+    "https://openalex.org/W2626829994",
+    "https://openalex.org/W2742618045",
+    "https://openalex.org/W2748735679",
+    "https://openalex.org/W2749414291",
+    "https://openalex.org/W2762480296",
+    "https://openalex.org/W2781019807",
+    "https://openalex.org/W2791388486",
+    "https://openalex.org/W2799556840",
+    "https://openalex.org/W2807129918",
+    "https://openalex.org/W2808048033",
+    "https://openalex.org/W2809003403",
+    "https://openalex.org/W2895349309",
+    "https://openalex.org/W2901073753",
+    "https://openalex.org/W2944993499",
+    "https://openalex.org/W2953515272",
+    "https://openalex.org/W2961339320",
+    "https://openalex.org/W2964319596",
+    "https://openalex.org/W2969540267",
+    "https://openalex.org/W2971403214",
+    "https://openalex.org/W2971870131",
+    "https://openalex.org/W2981899579",
+    "https://openalex.org/W2982414494",
+    "https://openalex.org/W3005886336",
+    "https://openalex.org/W3008345757",
+    "https://openalex.org/W3010913530",
+    "https://openalex.org/W3015791465",
+    "https://openalex.org/W3028641025",
+    "https://openalex.org/W3034753807",
+    "https://openalex.org/W3044471574",
+    "https://openalex.org/W3068735412",
+    "https://openalex.org/W3082404074",
+    "https://openalex.org/W3083528220",
+    "https://openalex.org/W3094268087",
+    "https://openalex.org/W3124687805",
+    "https://openalex.org/W3125902317",
+    "https://openalex.org/W3130642865",
+    "https://openalex.org/W3133416133",
+    "https://openalex.org/W3135526011",
+    "https://openalex.org/W3138012046",
+    "https://openalex.org/W3148901153",
+    "https://openalex.org/W3168915979",
+    "https://openalex.org/W3176991930",
+    "https://openalex.org/W4224044965",
+    "https://openalex.org/W4226197988",
+    "https://openalex.org/W4230348989",
+    "https://openalex.org/W4234286363",
+    "https://openalex.org/W4247184660",
+    "https://openalex.org/W4249675837",
+    "https://openalex.org/W4252132138",
+    "https://openalex.org/W4288084168",
+    "https://openalex.org/W4297724750",
+    "https://openalex.org/W4319780311",
+    "https://openalex.org/W4319833898",
+    "https://openalex.org/W4319870661",
+    "https://openalex.org/W4320476375",
+    "https://openalex.org/W4321456882",
+    "https://openalex.org/W4323928282",
+    "https://openalex.org/W4327498255",
+    "https://openalex.org/W4360851180",
+    "https://openalex.org/W4365396777",
+    "https://openalex.org/W4377148686",
+    "https://openalex.org/W4386351526",
+    "https://openalex.org/W4389145594",
+    "https://openalex.org/W4389338873",
+    "https://openalex.org/W636319814",
+    "https://openalex.org/W636880670",
+    "https://openalex.org/W886320394"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 14604,
+      "currency": "ZAR"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6287612
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5206303
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5038118
+    },
+    {
+      "id": "https://openalex.org/keywords/knowledge-flow",
+      "display_name": "Knowledge flow",
+      "score": 0.4517481
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2984563274",
+      "name": "Knowledge flow",
+      "sameAs": "https://www.wikidata.org/wiki/Q2586354"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C107826830",
+      "name": "Environmental resource management",
+      "sameAs": "https://www.wikidata.org/wiki/Q929380"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C56739046",
+      "name": "Knowledge management",
+      "sameAs": "https://www.wikidata.org/wiki/Q192060"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Background: In today’s volatile and highly competitive business environment, the importance of knowledge capital and innovation management for multinational manufacturing firms has been widely recognised by both academia and industry.Aim: This article aims to explore the impact of transboundary investment and assimilative capacity on the association between knowledge capital and innovation management in this specific context.Setting: A total of 217 managers and employees were selected from 19 multinational manufacturing firms listed on the Ghana stock exchange to participate in the survey.Method: Using a theoretical-based association existing research model, data were collected through an online electronic questionnaire survey. The collected data were then analysed using path analysis, utilising SPSS 22.0 and AMOS 24.0 software to test the formulated hypotheses.Results: The study found that an organisation-wide unified system, technological, organisational resource and knowledge capital-enabling structures strongly influence multinational manufacturing firms. Besides, knowledge capital and innovation management have a positive mediating role and a significant impact on multinational manufacturing firms. However, there was no significant impact between knowledge of empirical capital and innovation management.Conclusion: The findings of this study highlight the importance of knowledge capital in enhancing innovation management and emphasise the role of transboundary investment and assimilative capacity in mediating this relationship.Contribution: This research contributes to the theoretical understanding of how knowledge capital and innovation management are interconnected, as well as the relationship between transboundary investment and assimilative capacity, and their respective roles in mediating this relationship.",
+  "url": "https://doi.org/10.4102/sajems.v27i1.5442",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://sajems.org/index.php/sajems/article/download/5442/3085",
+    "encodingFormat": "text/html"
+  }
+}

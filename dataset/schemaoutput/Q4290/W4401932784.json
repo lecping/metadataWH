@@ -1,0 +1,236 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4401932784",
+  "doi": "10.5296/jpag.v14i2.22178",
+  "name": "The Dual Impact of Foreign Capital: A Comprehensive Analysis of the Interplay between Foreign Direct Investment and Development Assistance Committee Initiatives in Ethiopia",
+  "headline": "The Dual Impact of Foreign Capital: A Comprehensive Analysis of the Interplay between Foreign Direct Investment and Development Assistance Committee Initiatives in Ethiopia",
+  "datePublished": "2024-08-20",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Public Administration and Governance",
+    "issn": "2161-7104",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5038439144",
+      "name": "James E. Conable",
+      "givenName": "James",
+      "familyName": "Conable",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I11892038",
+          "name": "University of Nigeria",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NG"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-0944-0064"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5106776339",
+      "name": "Sampson C. Onwuka",
+      "givenName": "Sampson",
+      "familyName": "Onwuka",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I11892038",
+          "name": "University of Nigeria",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NG"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1493036800",
+    "https://openalex.org/W1510296667",
+    "https://openalex.org/W1531420731",
+    "https://openalex.org/W1538871020",
+    "https://openalex.org/W1541254054",
+    "https://openalex.org/W1572790984",
+    "https://openalex.org/W1726602151",
+    "https://openalex.org/W1964145023",
+    "https://openalex.org/W2009623235",
+    "https://openalex.org/W2010190155",
+    "https://openalex.org/W2022555298",
+    "https://openalex.org/W2028547008",
+    "https://openalex.org/W2077904179",
+    "https://openalex.org/W2094092453",
+    "https://openalex.org/W2106345821",
+    "https://openalex.org/W2107517332",
+    "https://openalex.org/W2116388354",
+    "https://openalex.org/W2142355674",
+    "https://openalex.org/W2146616118",
+    "https://openalex.org/W2149292156",
+    "https://openalex.org/W2279428168",
+    "https://openalex.org/W2501209333",
+    "https://openalex.org/W2568844275",
+    "https://openalex.org/W2802974450",
+    "https://openalex.org/W2955108884",
+    "https://openalex.org/W3123888140",
+    "https://openalex.org/W3126122316"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/foreign-capital",
+      "display_name": "Foreign capital",
+      "score": 0.61632264
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.48648947
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.461774
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.4208362
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33842695",
+      "name": "Foreign direct investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q490513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2993879009",
+      "name": "Foreign capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q8137"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780980858",
+      "name": "Dual (grammatical number)",
+      "sameAs": "https://www.wikidata.org/wiki/Q110022"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C155202549",
+      "name": "International trade",
+      "sameAs": "https://www.wikidata.org/wiki/Q178803"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18547055",
+      "name": "International economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q47417"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C142362112",
+      "name": "Art",
+      "sameAs": "https://www.wikidata.org/wiki/Q735"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C124952713",
+      "name": "Literature",
+      "sameAs": "https://www.wikidata.org/wiki/Q8242"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    }
+  ],
+  "abstract": "This study delves into the intricate dynamics of Ethiopia's economic landscape, examining the dual impact of foreign capital through a comprehensive analysis of Foreign Direct Investment (FDI) and Development Assistance Committee (DAC) initiatives. Over the period 1992-2012, a two-part empirical approach is employed, encompassing descriptive statistics and rigorous econometric modeling rooted in time series analysis. The nuanced relationship between foreign capital and economic growth in Ethiopia is unraveled, addressing challenges such as job displacement and potential exploitation, alongside positive outcomes like infrastructure development and increased service accessibility. The econometric analysis utilizes various models to explore the causal relationships between FDI, DAC, economic growth, and self-employment. Sensitivity analysis ensures the robustness of the models by unraveling multicollinearity, while stationarity tests guide appropriate treatment of non-stationary variables. Cointegration tests reveal potential long-term relationships among variables, with specific models suggesting cointegration, further substantiating the intertwined nature of FDI, DAC, and economic growth. Granger causality Wald tests scrutinize short-run equilibrium relationships, unveiling intriguing insights into the direct and indirect effects of FDI, DAC, and self-employment on economic growth. Robust diagnostic tests affirm the reliability of the models, indicating compliance with Ordinary Least Squares (OLS) conditions. In summary, our findings illuminate the dual impact of foreign capital on Ethiopia's economic trajectory, offering nuanced perspectives for policymakers. The study's comprehensive empirical foundation facilitates a deeper understanding of the complex interplay between FDI, DAC initiatives, and economic growth, paving the way for informed decision-making and future research endeavors.",
+  "url": "https://doi.org/10.5296/jpag.v14i2.22178",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.macrothink.org/journal/index.php/jpag/article/download/22178/pdf",
+    "encodingFormat": "text/html"
+  }
+}

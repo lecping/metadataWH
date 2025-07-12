@@ -1,0 +1,210 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4408833117",
+  "doi": "10.37745/ejaafr.2013/vol13n3113",
+  "name": "Foreign Direct Investment and Infrastructure Development in Nigeria: Assessing Government Capital Expenditure",
+  "headline": "Foreign Direct Investment and Infrastructure Development in Nigeria: Assessing Government Capital Expenditure",
+  "datePublished": "2025-02-15",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "European Journal of Accounting Auditing and Finance Research",
+    "issn": "2053-4086",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5091000828",
+      "name": "Augustine Ikechukwu Ojeh",
+      "givenName": "Augustine",
+      "familyName": "Ojeh",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5116793243",
+      "name": "Felix Okechukwu Oketah",
+      "givenName": "Felix",
+      "familyName": "Oketah",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5092840951",
+      "name": "Judethadeus Chukwuebuka Oshim",
+      "givenName": "Judethadeus",
+      "familyName": "Oshim",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-expenditure",
+      "display_name": "Capital expenditure",
+      "score": 0.6265674
+    },
+    {
+      "id": "https://openalex.org/keywords/government-expenditure",
+      "display_name": "Government Expenditure",
+      "score": 0.5428865
+    },
+    {
+      "id": "https://openalex.org/keywords/foreign-capital",
+      "display_name": "Foreign capital",
+      "score": 0.5413958
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.45835227
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.45299268
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41159028
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33842695",
+      "name": "Foreign direct investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q490513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C172497479",
+      "name": "Capital expenditure",
+      "sameAs": "https://www.wikidata.org/wiki/Q302208"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778137410",
+      "name": "Government (linguistics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2732820"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2992690401",
+      "name": "Government expenditure",
+      "sameAs": "https://www.wikidata.org/wiki/Q7257739"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2993879009",
+      "name": "Foreign capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q8137"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C178283979",
+      "name": "Public finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q274490"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This study examines the relationship between Foreign Direct Investment (FDI) and infrastructure development in Nigeria, focusing on government capital expenditure. The research considers FDI inflows, FDI outflows, and remittance inflows as independent variables, while government capital expenditure serves as the dependent variable. Using an ex-post facto research design, the study covers the period from 1991 to 2021, relying on secondary data obtained from the Central Bank of Nigeria (CBN) Statistical Bulletin. A multiple regression analysis was conducted to assess the impact of these financial inflows on capital spending. The findings reveal that FDI inflows (p-value: 0.0055) significantly contribute to increased government capital expenditure, whereas FDI outflows (p-value: 0.4081) exhibit a positive but statistically insignificant effect. Additionally, remittance inflows (p-value: 0.0000) show a substantial positive impact on capital expenditure. These results suggest that foreign investment and remittances play a crucial role in shaping Nigeria’s infrastructure development. Given these insights, the study recommends that the government implement policies to enhance investment attractiveness, particularly by addressing security challenges and creating a stable economic environment. Moreover, initiatives should be put in place to encourage both domestic and foreign investors to engage in infrastructure projects that yield long-term economic benefits.",
+  "url": "https://doi.org/10.37745/ejaafr.2013/vol13n3113",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.37745/ejaafr.2013/vol13n3113",
+    "encodingFormat": "text/html"
+  }
+}

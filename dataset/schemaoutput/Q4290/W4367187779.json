@@ -1,0 +1,217 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4367187779",
+  "doi": "10.33975/riuq.vol35n1.1007",
+  "name": "Technology revolution 4.0 promotes the development of Vietnam's economic structure",
+  "headline": "Technology revolution 4.0 promotes the development of Vietnam's economic structure",
+  "datePublished": "2023-04-27",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-nd",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Revista de Investigaciones Universidad del Quindío",
+    "issn": "1794-631X",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5027265984",
+      "name": "Bui Xuan Dung",
+      "givenName": "Dung",
+      "familyName": "Bui",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I202539009",
+          "name": "Industrial University of Ho Chi Minh City",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "VN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-8323-6443"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1511470574",
+    "https://openalex.org/W1523865339",
+    "https://openalex.org/W2180238570",
+    "https://openalex.org/W2321203029",
+    "https://openalex.org/W2768385352",
+    "https://openalex.org/W2808845928",
+    "https://openalex.org/W3013278140",
+    "https://openalex.org/W3025383415",
+    "https://openalex.org/W3138235643",
+    "https://openalex.org/W3214405724",
+    "https://openalex.org/W4229368785",
+    "https://openalex.org/W4244595204",
+    "https://openalex.org/W4254756809"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6318617
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5626806
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4891663
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204983608",
+      "name": "Productivity",
+      "sameAs": "https://www.wikidata.org/wiki/Q2111958"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C29985473",
+      "name": "Natural resource",
+      "sameAs": "https://www.wikidata.org/wiki/Q188460"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779530757",
+      "name": "Quality (philosophy)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1207505"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C74363100",
+      "name": "Economic system",
+      "sameAs": "https://www.wikidata.org/wiki/Q273005"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111472728",
+      "name": "Epistemology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9471"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    }
+  ],
+  "abstract": "Today, when assessing the development level of each country, the development level of infrastructure is a crucial indicator. Therefore, investment in the development of production infrastructure is a priority and goes ahead of direct investment. Along with labor, capital, natural resources, etc., science and technology are considered essential resources with a significant impact on economic development. Over 35 years of innovation, our country's science and technology have made positive changes with many achievements in research and investigation, creating a scientific basis for formulating strategies and plans for economic development. Socio-economic, environmental protection, science, and technology, in association with production and life, contribute to improving productivity, quality, and efficiency of all branches and fields.",
+  "url": "https://doi.org/10.33975/riuq.vol35n1.1007",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://ojs.uniquindio.edu.co/ojs/index.php/riuq/article/download/1007/1762",
+    "encodingFormat": "text/html"
+  }
+}

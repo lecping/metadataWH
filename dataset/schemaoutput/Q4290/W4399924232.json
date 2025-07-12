@@ -1,0 +1,209 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4399924232",
+  "doi": "10.53625/ijss.v4i1.7969",
+  "name": "SUSTAINABLE INVESTMENT IN THE WATER SECTOR: THE ROLE OF ACCOUNTING AND FINANCE IN ATTRACTING CAPITAL AND SUPPORTING SUSTAINABLE DEVELOPMENT GOALS",
+  "headline": "SUSTAINABLE INVESTMENT IN THE WATER SECTOR: THE ROLE OF ACCOUNTING AND FINANCE IN ATTRACTING CAPITAL AND SUPPORTING SUSTAINABLE DEVELOPMENT GOALS",
+  "datePublished": "2024-06-23",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Social Science",
+    "issn": "2798-4079",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5099393876",
+      "name": "Dika Fuji Okta",
+      "givenName": "None",
+      "familyName": "Okta",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210104702",
+          "name": "Kwik Kian Gie School of Business",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5011371414",
+      "name": "Rimi Gusliana Mais",
+      "givenName": "None",
+      "familyName": "Mais",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210104702",
+          "name": "Kwik Kian Gie School of Business",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-2625-0601"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2773089182",
+    "https://openalex.org/W2806956764",
+    "https://openalex.org/W2906994370",
+    "https://openalex.org/W4200484796",
+    "https://openalex.org/W4240238021",
+    "https://openalex.org/W4401153721"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5757052
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.559699
+    },
+    {
+      "id": "https://openalex.org/keywords/water-sector",
+      "display_name": "Water sector",
+      "score": 0.53254694
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.51011807
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C552854447",
+      "name": "Sustainable development",
+      "sameAs": "https://www.wikidata.org/wiki/Q131201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2991925429",
+      "name": "Water sector",
+      "sameAs": "https://www.wikidata.org/wiki/Q474883"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121955636",
+      "name": "Accounting",
+      "sameAs": "https://www.wikidata.org/wiki/Q4116214"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C97053079",
+      "name": "Water supply",
+      "sameAs": "https://www.wikidata.org/wiki/Q1061108"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C87717796",
+      "name": "Environmental engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q146326"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "Achieving the Sustainable Development Goals (SDGs) and tackling the world's water issues depend heavily on sustainable investment in the water sector. In order to raise money, encourage sustainable investments, and improve accountability in water management, accounting and finance are essential. By using sustainable accounting practices and transparent reporting, firms may efficiently manage water resources and make a positive impact on a more sustainable future. For example, green bonds can be used to finance initiatives aimed at sustainable sanitation and water conservation. However, there are obstacles to putting sustainable accounting techniques into reality, such precisely calculating environmental consequences and upholding international standards. Notwithstanding its drawbacks, including sustainable accounting builds stakeholder confidence and raises awareness of the importance of water resource management. Moving forward, improving methodologies and collaboration between public and private sectors will strengthen the role of sustainable accounting in achieving water sustainability goals",
+  "url": "https://doi.org/10.53625/ijss.v4i1.7969",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://bajangjournal.com/index.php/IJSS/article/download/7969/6200",
+    "encodingFormat": "text/html"
+  }
+}

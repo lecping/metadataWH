@@ -1,0 +1,190 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4394318795",
+  "doi": "10.6084/m9.figshare.20484513",
+  "name": "Productivity, investment and capital flow: the failure of growth with foreign savings in Brazil",
+  "headline": "Productivity, investment and capital flow: the failure of growth with foreign savings in Brazil",
+  "datePublished": "2022-01-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Figshare",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": "Figshare (United Kingdom)"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5025943845",
+      "name": "Marcos Tostes Lamônica",
+      "givenName": "MARCOS",
+      "familyName": "LAMONICA",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-1232-9503"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5042897194",
+      "name": "Sergiany da Silva Lima",
+      "givenName": "SERGIANY",
+      "familyName": "LIMA",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0003-3606-7971"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5660689
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.52020925
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4913763
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204983608",
+      "name": "Productivity",
+      "sameAs": "https://www.wikidata.org/wiki/Q2111958"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2991741723",
+      "name": "Capital flows",
+      "sameAs": "https://www.wikidata.org/wiki/Q8137"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33842695",
+      "name": "Foreign direct investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q490513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C58823610",
+      "name": "Liberalization",
+      "sameAs": "https://www.wikidata.org/wiki/Q746418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "ABSTRACT This work analyzes productivity and the hypothesis that capital flow does not influence investment in the Brazilian economy. To do so, we present a productivity equation conditioned on the rates of: investments, wage costs, and external demand. The relationship between productivity and investment and wage rates suggests a possible simultaneity, given the distributive nature of aggregate income between capital and labor. Therefore, estimators that treat endogeneity in two stages are used: the Two-Stage Least Squares (MQ2E) and the Generalized Least Moments (MMG), to increase the robustness of the results. We find that the investment rate explains productivity, but capital flow does not determine productive investment. In addition, Brazilian investment is more susceptible to the parameters of marginal capital efficiency, whose fall has affected Brazilian productivity since the 1980s.",
+  "url": "https://scielo.figshare.com/articles/dataset/Productivity_investment_and_capital_flow_the_failure_of_growth_with_foreign_savings_in_Brazil/20484513",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://scielo.figshare.com/articles/dataset/Productivity_investment_and_capital_flow_the_failure_of_growth_with_foreign_savings_in_Brazil/20484513",
+    "encodingFormat": "text/html"
+  }
+}

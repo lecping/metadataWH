@@ -1,0 +1,170 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4406935907",
+  "doi": "10.21686/2413-2829-2025-1-99-110",
+  "name": "Co-Financing of Capital Investment Within the Frames of Federal Projects",
+  "headline": "Co-Financing of Capital Investment Within the Frames of Federal Projects",
+  "datePublished": "2025-01-28",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Vestnik of the Plekhanov Russian University of Economics",
+    "issn": "2413-2829",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5057246442",
+      "name": "Alla Yu. Chalova",
+      "givenName": "A.",
+      "familyName": "Chalova",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I103031861",
+          "name": "Plekhanov Russian University of Economics",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-6818-2918"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5032556170",
+      "name": "Anton Y. Borisov",
+      "givenName": "A.",
+      "familyName": "Borisov",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I103031861",
+          "name": "Plekhanov Russian University of Economics",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-8381-1970"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2034658610",
+    "https://openalex.org/W4396215998"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6190634
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5439948
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-budgeting",
+      "display_name": "Capital Budgeting",
+      "score": 0.49993968
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4839297
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C57918260",
+      "name": "Capital budgeting",
+      "sameAs": "https://www.wikidata.org/wiki/Q1354666"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C120527767",
+      "name": "Debt",
+      "sameAs": "https://www.wikidata.org/wiki/Q3196867"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The article deals with issues of inter-budget and inter-departmental coordination to finance project activities connected with capital investment. Special attention was paid to evaluation of factors influencing budget expenses of all levels and non-budget sources, observation of dates of reaching control points and results of project events in conducting capital investment. The goal of the present research is to identify problems in mechanism of capital investment financing within the frames of federal and regional projects at different levels of management and work out recommendations aimed at their overcoming. The authors revealed and systematized key problems in implementation of federal and regional projects in case of capital investment financing, analyzed their reasons and after-effects illustrated by different projects, including incompleteness of regulating enactments in the field of project financing of budget expenses; low quality of project-estimate documents; improper procedures of finding the supplier (contractor, executor) and careless observation of their obligations under the contract. Special attention was paid to issues of insufficient finance support of capital investment, inaccurate estimation of finance volumes and coordination of dates of reaching control points in project events. As a result the authors formulated and substantiated practical recommendations aimed at raising the role and wider authorities of municipal bodies as participants of project activities, upgrading procedures of project documents preparation, modernization and developing new information systems in the field of project activities of power bodies, elaborating typical provisions for cooperation of authorized bodies and other participants of purchase, managing risks of circumstances not under control of contract client and executors. These recommendations could provide more efficient planning of budget allocations in developing federal and regional projects, cutting terms of step implementation for building projects of capital construction, tracing the process of capital investment, minimizing risks of unpredictable costs of consolidated budgets of entities of the Russian Federation.",
+  "url": "https://doi.org/10.21686/2413-2829-2025-1-99-110",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.21686/2413-2829-2025-1-99-110",
+    "encodingFormat": "text/html"
+  }
+}

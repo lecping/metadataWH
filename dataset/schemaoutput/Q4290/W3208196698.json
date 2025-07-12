@@ -1,0 +1,373 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W3208196698",
+  "doi": "10.1007/s11356-021-17000-9",
+  "name": "The impact of economic policy uncertainty on carbon emissions: evaluating the role of foreign capital investment and renewable energy in East Asian economies",
+  "headline": "The impact of economic policy uncertainty on carbon emissions: evaluating the role of foreign capital investment and renewable energy in East Asian economies",
+  "datePublished": "2021-10-23",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Environmental Science and Pollution Research",
+    "issn": "0944-1344",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Springer Science+Business Media"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5034913847",
+      "name": "Yasir Khan",
+      "givenName": "Yasir",
+      "familyName": "Khan",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I70908550",
+          "name": "Anhui Polytechnic University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-9391-1772"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5068831620",
+      "name": "Taimoor Hassan",
+      "givenName": "Taimoor",
+      "familyName": "Hassan",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I36399199",
+          "name": "Nanjing University of Science and Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-3512-3847"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5059498663",
+      "name": "Derviş Kırıkkaleli",
+      "givenName": "Dervis",
+      "familyName": "Kirikkaleli",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I116528569",
+          "name": "European University of Lefke",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "TR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-5733-5045"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5101710613",
+      "name": "Zhang Xiu-qin",
+      "givenName": "Zhang",
+      "familyName": "Xiuqin",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I70908550",
+          "name": "Anhui Polytechnic University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-1016-8953"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5102751831",
+      "name": "Shukai Cai",
+      "givenName": "Cai",
+      "familyName": "Shukai",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I70908550",
+          "name": "Anhui Polytechnic University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-1292-4457"
+    }
+  ],
+  "citationCount": 81,
+  "citation": [
+    "https://openalex.org/W1952401333",
+    "https://openalex.org/W1983122369",
+    "https://openalex.org/W1998193730",
+    "https://openalex.org/W1998329524",
+    "https://openalex.org/W1999377623",
+    "https://openalex.org/W1999996005",
+    "https://openalex.org/W2005602721",
+    "https://openalex.org/W2009191664",
+    "https://openalex.org/W2012428181",
+    "https://openalex.org/W2016585213",
+    "https://openalex.org/W2023668736",
+    "https://openalex.org/W2025161033",
+    "https://openalex.org/W2026686386",
+    "https://openalex.org/W2031240442",
+    "https://openalex.org/W2046510663",
+    "https://openalex.org/W2058549495",
+    "https://openalex.org/W2061547491",
+    "https://openalex.org/W2067402622",
+    "https://openalex.org/W2108419099",
+    "https://openalex.org/W2112778351",
+    "https://openalex.org/W2124884000",
+    "https://openalex.org/W2125331782",
+    "https://openalex.org/W2127312520",
+    "https://openalex.org/W2140254662",
+    "https://openalex.org/W2147422150",
+    "https://openalex.org/W2152785505",
+    "https://openalex.org/W2153792204",
+    "https://openalex.org/W2204855040",
+    "https://openalex.org/W2223048010",
+    "https://openalex.org/W2237627653",
+    "https://openalex.org/W2290018798",
+    "https://openalex.org/W2336883268",
+    "https://openalex.org/W2511342218",
+    "https://openalex.org/W2516387531",
+    "https://openalex.org/W2553714148",
+    "https://openalex.org/W2596688951",
+    "https://openalex.org/W2752061982",
+    "https://openalex.org/W2766318201",
+    "https://openalex.org/W2770191288",
+    "https://openalex.org/W2770206078",
+    "https://openalex.org/W2789945420",
+    "https://openalex.org/W2790726659",
+    "https://openalex.org/W2805489378",
+    "https://openalex.org/W2883395653",
+    "https://openalex.org/W2901738309",
+    "https://openalex.org/W2903362348",
+    "https://openalex.org/W2904159049",
+    "https://openalex.org/W2913006305",
+    "https://openalex.org/W2920662170",
+    "https://openalex.org/W2937872839",
+    "https://openalex.org/W2939571112",
+    "https://openalex.org/W2946778077",
+    "https://openalex.org/W2950881370",
+    "https://openalex.org/W2953927955",
+    "https://openalex.org/W2975632424",
+    "https://openalex.org/W2982280374",
+    "https://openalex.org/W2998506436",
+    "https://openalex.org/W3015948226",
+    "https://openalex.org/W3020881573",
+    "https://openalex.org/W3025498968",
+    "https://openalex.org/W3027161249",
+    "https://openalex.org/W3034077298",
+    "https://openalex.org/W3035829225",
+    "https://openalex.org/W3036400444",
+    "https://openalex.org/W3036597228",
+    "https://openalex.org/W3041673809",
+    "https://openalex.org/W3081283719",
+    "https://openalex.org/W3088117561",
+    "https://openalex.org/W3092045521",
+    "https://openalex.org/W3096112474",
+    "https://openalex.org/W3112557550",
+    "https://openalex.org/W3118938213",
+    "https://openalex.org/W3119205460",
+    "https://openalex.org/W3121504769",
+    "https://openalex.org/W3122090684",
+    "https://openalex.org/W3122327593",
+    "https://openalex.org/W3123095200",
+    "https://openalex.org/W3123833473",
+    "https://openalex.org/W3124091918",
+    "https://openalex.org/W3125975571",
+    "https://openalex.org/W3126081245",
+    "https://openalex.org/W3129024926",
+    "https://openalex.org/W3129130871",
+    "https://openalex.org/W3172178979",
+    "https://openalex.org/W3189479463",
+    "https://openalex.org/W3191706156",
+    "https://openalex.org/W3193516752",
+    "https://openalex.org/W3210729289",
+    "https://openalex.org/W40048283",
+    "https://openalex.org/W4253884756"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.49416307
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.48758596
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.43537867
+    },
+    {
+      "id": "https://openalex.org/keywords/foreign-capital",
+      "display_name": "Foreign capital",
+      "score": 0.42172065
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C188573790",
+      "name": "Renewable energy",
+      "sameAs": "https://www.wikidata.org/wiki/Q12705"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C47737302",
+      "name": "Greenhouse gas",
+      "sameAs": "https://www.wikidata.org/wiki/Q167336"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C76775654",
+      "name": "East Asia",
+      "sameAs": "https://www.wikidata.org/wiki/Q27231"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33842695",
+      "name": "Foreign direct investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q490513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2993879009",
+      "name": "Foreign capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q8137"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18547055",
+      "name": "International economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q47417"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C191935318",
+      "name": "China",
+      "sameAs": "https://www.wikidata.org/wiki/Q148"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "url": "https://doi.org/10.1007/s11356-021-17000-9",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://link.springer.com/content/pdf/10.1007/s11356-021-17000-9.pdf",
+    "encodingFormat": "text/html"
+  }
+}

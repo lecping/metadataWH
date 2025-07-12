@@ -1,0 +1,168 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4312222098",
+  "doi": "10.1016/j.bir.2022.11.019",
+  "name": "Developing a purification method for the stock exchange market gains: An application for Borsa Istanbul",
+  "headline": "Developing a purification method for the stock exchange market gains: An application for Borsa Istanbul",
+  "datePublished": "2022-12-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-nd",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Borsa Istanbul Review",
+    "issn": "2214-8450",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Elsevier BV"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5044142689",
+      "name": "Zeyneb Hafsa Orhan",
+      "givenName": "Zeyneb",
+      "familyName": "Orhan",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I123758333",
+          "name": "İstanbul Sabahattin Zaim Üniversitesi",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "TR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-7515-910X"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5091418367",
+      "name": "Murat Işıker",
+      "givenName": "Murat",
+      "familyName": "Işıker",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I123758333",
+          "name": "İstanbul Sabahattin Zaim Üniversitesi",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "TR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-1327-9982"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5082396513",
+      "name": "Hüseyin İçen",
+      "givenName": "Hüseyin",
+      "familyName": "İçen",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I123758333",
+          "name": "İstanbul Sabahattin Zaim Üniversitesi",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "TR"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 2,
+  "citation": [
+    "https://openalex.org/W1991971331",
+    "https://openalex.org/W2262657276",
+    "https://openalex.org/W2465655814",
+    "https://openalex.org/W2619149957",
+    "https://openalex.org/W2737129118",
+    "https://openalex.org/W2749977944",
+    "https://openalex.org/W3191603858"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 1500,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.51406276
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41426027
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C200870193",
+      "name": "Stock exchange",
+      "sameAs": "https://www.wikidata.org/wiki/Q11691"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Islamic indices provide a guideline for deciding which stocks to invest in; however, they mostly ignore investment purification. Despite the vitality of purification, the related literature is not well developed for several reasons. This paper aims to develop a purification method by considering the existing literature and applications. In this regard, ten Shariah-compliant firms listed in Borsa Istanbul from different industries were selected for 2021. Three scenarios are applied, suggesting holding shares for different periods. The findings suggest that investors are obliged to purify non-compliant income even when their rate of return is negative. The cost of purification can be severe when the investment firm has a high purification ratio. Conversely, investors should also purify their investments when there is a capital gain.",
+  "url": "https://doi.org/10.1016/j.bir.2022.11.019",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1016/j.bir.2022.11.019",
+    "encodingFormat": "text/html"
+  }
+}

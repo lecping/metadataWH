@@ -1,0 +1,249 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4396776675",
+  "doi": "10.58812/esee.v2i03.248",
+  "name": "The Relationship between Startup Incubator Development and Venture Capital Investment on Digital Economic Growth in Indonesia",
+  "headline": "The Relationship between Startup Incubator Development and Venture Capital Investment on Digital Economic Growth in Indonesia",
+  "datePublished": "2024-04-30",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-sa",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "The Es Economics and Entrepreneurship",
+    "issn": "2964-8920",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5046970510",
+      "name": "Azis Rachman",
+      "givenName": "Azis",
+      "familyName": "Rachman",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5113847676",
+      "name": "Jasmin Jasmin",
+      "givenName": "Jasmin",
+      "familyName": "Jasmin",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210141763",
+          "name": "Institut Agama Islam Negeri Manado",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5005542155",
+      "name": "Ibadurrahman Ibadurrahman",
+      "givenName": "Ibadurrahman",
+      "familyName": "Ibadurrahman",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210141298",
+          "name": "Universitas Indonesia Timur",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5077210681",
+      "name": "Eva Yuniarti Utami",
+      "givenName": "Eva",
+      "familyName": "Utami",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I119896790",
+          "name": "Sebelas Maret University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0009-0009-7951-9238"
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W1990980528",
+    "https://openalex.org/W3159435042",
+    "https://openalex.org/W4214878530",
+    "https://openalex.org/W4226438098",
+    "https://openalex.org/W4294761343",
+    "https://openalex.org/W4309680576",
+    "https://openalex.org/W4313325535",
+    "https://openalex.org/W4313886406",
+    "https://openalex.org/W4316923868",
+    "https://openalex.org/W4317754375",
+    "https://openalex.org/W4362600859",
+    "https://openalex.org/W4365802128",
+    "https://openalex.org/W4366333696",
+    "https://openalex.org/W4367180383",
+    "https://openalex.org/W4376616146",
+    "https://openalex.org/W4379157736",
+    "https://openalex.org/W4379203357",
+    "https://openalex.org/W4379385758",
+    "https://openalex.org/W4381197976",
+    "https://openalex.org/W4381278403",
+    "https://openalex.org/W4381546028",
+    "https://openalex.org/W4381622279",
+    "https://openalex.org/W4381622310",
+    "https://openalex.org/W4383267228",
+    "https://openalex.org/W4384130511",
+    "https://openalex.org/W4384468513",
+    "https://openalex.org/W837657366"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/incubator",
+      "display_name": "Incubator",
+      "score": 0.9774873
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6558031
+    },
+    {
+      "id": "https://openalex.org/keywords/social-venture-capital",
+      "display_name": "Social venture capital",
+      "score": 0.5095406
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.46811575
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4226671
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21905920",
+      "name": "Incubator",
+      "sameAs": "https://www.wikidata.org/wiki/Q900452"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21279758",
+      "name": "Venture capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q219409"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134827381",
+      "name": "Social venture capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q261851"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C178550888",
+      "name": "Business administration",
+      "sameAs": "https://www.wikidata.org/wiki/Q2043282"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C89423630",
+      "name": "Microbiology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7193"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    }
+  ],
+  "abstract": "This study examines the relationship between startup incubator development, venture capital investment, and digital economy growth in Indonesia through quantitative analysis. Utilizing a survey method, data was collected from stakeholders in the Indonesian startup ecosystem. Structural Equation Modeling (SEM) with Partial Least Squares (PLS) analysis was conducted to analyze the data and test the hypotheses. The results reveal significant positive relationships between startup incubator development, venture capital investment, and digital economy growth. These findings underscore the pivotal roles of startup incubators and venture capital in fostering digital innovation and economic development in Indonesia, providing valuable insights for policymakers, investors, and entrepreneurs aiming to nurture the growth of the digital economy.",
+  "url": "https://doi.org/10.58812/esee.v2i03.248",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://esj.eastasouth-institute.com/index.php/esee/article/download/248/190",
+    "encodingFormat": "text/html"
+  }
+}

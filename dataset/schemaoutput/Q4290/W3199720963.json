@@ -1,0 +1,676 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W3199720963",
+  "doi": "10.1016/j.ijpharm.2021.121115",
+  "name": "Innovative Drying Technologies for Biopharmaceuticals",
+  "headline": "Innovative Drying Technologies for Biopharmaceuticals",
+  "datePublished": "2021-09-20",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Pharmaceutics",
+    "issn": "0378-5173",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Elsevier BV"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5057507118",
+      "name": "Ashutosh Sharma",
+      "givenName": "Ashutosh",
+      "familyName": "Sharma",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I7478328",
+          "name": "Waterford Institute of Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IE"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-5054-8432"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5079372503",
+      "name": "Dikshitkumar Khamar",
+      "givenName": "Dikshitkumar",
+      "familyName": "Khamar",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I7478328",
+          "name": "Waterford Institute of Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IE"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-1170-6060"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5005683331",
+      "name": "Sean P. Cullen",
+      "givenName": "Sean",
+      "familyName": "Cullen",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5067994962",
+      "name": "Ambrose Hayden",
+      "givenName": "Ambrose",
+      "familyName": "Hayden",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I7478328",
+          "name": "Waterford Institute of Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IE"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5032348407",
+      "name": "Helen Hughes",
+      "givenName": "Helen",
+      "familyName": "Hughes",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I7478328",
+          "name": "Waterford Institute of Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IE"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-5939-2323"
+    }
+  ],
+  "citationCount": 65,
+  "citation": [
+    "https://openalex.org/W1008715347",
+    "https://openalex.org/W113097087",
+    "https://openalex.org/W1445211465",
+    "https://openalex.org/W1487385215",
+    "https://openalex.org/W1493236562",
+    "https://openalex.org/W1545507486",
+    "https://openalex.org/W1550365680",
+    "https://openalex.org/W1558206741",
+    "https://openalex.org/W158602015",
+    "https://openalex.org/W1806690489",
+    "https://openalex.org/W1950022475",
+    "https://openalex.org/W1950441759",
+    "https://openalex.org/W1966610942",
+    "https://openalex.org/W1966961169",
+    "https://openalex.org/W1967681366",
+    "https://openalex.org/W1967889181",
+    "https://openalex.org/W1970164759",
+    "https://openalex.org/W1970454189",
+    "https://openalex.org/W1971532834",
+    "https://openalex.org/W1971606715",
+    "https://openalex.org/W1974538225",
+    "https://openalex.org/W1975670424",
+    "https://openalex.org/W1977003293",
+    "https://openalex.org/W1979739531",
+    "https://openalex.org/W1981810319",
+    "https://openalex.org/W1982248450",
+    "https://openalex.org/W1985028477",
+    "https://openalex.org/W1985484350",
+    "https://openalex.org/W1985668850",
+    "https://openalex.org/W1987405744",
+    "https://openalex.org/W1987538717",
+    "https://openalex.org/W1988953186",
+    "https://openalex.org/W1991433186",
+    "https://openalex.org/W1992096393",
+    "https://openalex.org/W1993064474",
+    "https://openalex.org/W1995757340",
+    "https://openalex.org/W1996334859",
+    "https://openalex.org/W1996593995",
+    "https://openalex.org/W1998533766",
+    "https://openalex.org/W2001570554",
+    "https://openalex.org/W2001738413",
+    "https://openalex.org/W2001797505",
+    "https://openalex.org/W2004648579",
+    "https://openalex.org/W2004795366",
+    "https://openalex.org/W2007305132",
+    "https://openalex.org/W2007369629",
+    "https://openalex.org/W2007791425",
+    "https://openalex.org/W2007839767",
+    "https://openalex.org/W2009830238",
+    "https://openalex.org/W2011235132",
+    "https://openalex.org/W2011881868",
+    "https://openalex.org/W2013330889",
+    "https://openalex.org/W2014213512",
+    "https://openalex.org/W2014576081",
+    "https://openalex.org/W2016097990",
+    "https://openalex.org/W2019210215",
+    "https://openalex.org/W2019379775",
+    "https://openalex.org/W2021054017",
+    "https://openalex.org/W2023087723",
+    "https://openalex.org/W2025351758",
+    "https://openalex.org/W2025607756",
+    "https://openalex.org/W2026413535",
+    "https://openalex.org/W2029833886",
+    "https://openalex.org/W2033879272",
+    "https://openalex.org/W2034507508",
+    "https://openalex.org/W2035035846",
+    "https://openalex.org/W2035629622",
+    "https://openalex.org/W2036085538",
+    "https://openalex.org/W2037117759",
+    "https://openalex.org/W2038162223",
+    "https://openalex.org/W2039418353",
+    "https://openalex.org/W2041020381",
+    "https://openalex.org/W2041394509",
+    "https://openalex.org/W2042230657",
+    "https://openalex.org/W2042465367",
+    "https://openalex.org/W2042622176",
+    "https://openalex.org/W2044393380",
+    "https://openalex.org/W2044683923",
+    "https://openalex.org/W2048104427",
+    "https://openalex.org/W2048199422",
+    "https://openalex.org/W2051121045",
+    "https://openalex.org/W2051583472",
+    "https://openalex.org/W2052939968",
+    "https://openalex.org/W2053320991",
+    "https://openalex.org/W2053879423",
+    "https://openalex.org/W2054260828",
+    "https://openalex.org/W2055974743",
+    "https://openalex.org/W2056147706",
+    "https://openalex.org/W2056428286",
+    "https://openalex.org/W2059937056",
+    "https://openalex.org/W2061702288",
+    "https://openalex.org/W2062956044",
+    "https://openalex.org/W2067392529",
+    "https://openalex.org/W2069407296",
+    "https://openalex.org/W2071050148",
+    "https://openalex.org/W2071646629",
+    "https://openalex.org/W2071944517",
+    "https://openalex.org/W2072736653",
+    "https://openalex.org/W2079832800",
+    "https://openalex.org/W2081689154",
+    "https://openalex.org/W2082218425",
+    "https://openalex.org/W2085392494",
+    "https://openalex.org/W2086033059",
+    "https://openalex.org/W2086774877",
+    "https://openalex.org/W2086803648",
+    "https://openalex.org/W2087354737",
+    "https://openalex.org/W2087546805",
+    "https://openalex.org/W2087983645",
+    "https://openalex.org/W2090539354",
+    "https://openalex.org/W2090761382",
+    "https://openalex.org/W2091811848",
+    "https://openalex.org/W2092898290",
+    "https://openalex.org/W2094334289",
+    "https://openalex.org/W2094615518",
+    "https://openalex.org/W2095261164",
+    "https://openalex.org/W2099292375",
+    "https://openalex.org/W2099365752",
+    "https://openalex.org/W2102073348",
+    "https://openalex.org/W2104340561",
+    "https://openalex.org/W2107207387",
+    "https://openalex.org/W2107220417",
+    "https://openalex.org/W2107882642",
+    "https://openalex.org/W2108368626",
+    "https://openalex.org/W2109272614",
+    "https://openalex.org/W2110364669",
+    "https://openalex.org/W2112135623",
+    "https://openalex.org/W2114343111",
+    "https://openalex.org/W2117404180",
+    "https://openalex.org/W2118016452",
+    "https://openalex.org/W2118107894",
+    "https://openalex.org/W2121354319",
+    "https://openalex.org/W2124493947",
+    "https://openalex.org/W2127736441",
+    "https://openalex.org/W2130491100",
+    "https://openalex.org/W2131918208",
+    "https://openalex.org/W2133675582",
+    "https://openalex.org/W2135346040",
+    "https://openalex.org/W2136214280",
+    "https://openalex.org/W2137398998",
+    "https://openalex.org/W2137748976",
+    "https://openalex.org/W2139491055",
+    "https://openalex.org/W2147024375",
+    "https://openalex.org/W2154404663",
+    "https://openalex.org/W2155625543",
+    "https://openalex.org/W2155886309",
+    "https://openalex.org/W2156553359",
+    "https://openalex.org/W2157544220",
+    "https://openalex.org/W2161118851",
+    "https://openalex.org/W2161876271",
+    "https://openalex.org/W2167119162",
+    "https://openalex.org/W2168475351",
+    "https://openalex.org/W2169818027",
+    "https://openalex.org/W2171845176",
+    "https://openalex.org/W2179165127",
+    "https://openalex.org/W2232426968",
+    "https://openalex.org/W2267224379",
+    "https://openalex.org/W2268107305",
+    "https://openalex.org/W2270323125",
+    "https://openalex.org/W2296941757",
+    "https://openalex.org/W2312835772",
+    "https://openalex.org/W2315284404",
+    "https://openalex.org/W2328316876",
+    "https://openalex.org/W2341339879",
+    "https://openalex.org/W2344902651",
+    "https://openalex.org/W2394975318",
+    "https://openalex.org/W2401545698",
+    "https://openalex.org/W2411828982",
+    "https://openalex.org/W2443079687",
+    "https://openalex.org/W2466647614",
+    "https://openalex.org/W2476110077",
+    "https://openalex.org/W2502667046",
+    "https://openalex.org/W2504832826",
+    "https://openalex.org/W2514619652",
+    "https://openalex.org/W2574576076",
+    "https://openalex.org/W2587584959",
+    "https://openalex.org/W2588517001",
+    "https://openalex.org/W2595264563",
+    "https://openalex.org/W2599606102",
+    "https://openalex.org/W2737889668",
+    "https://openalex.org/W2751469561",
+    "https://openalex.org/W2753895822",
+    "https://openalex.org/W2762518907",
+    "https://openalex.org/W2763666190",
+    "https://openalex.org/W2763859111",
+    "https://openalex.org/W2765382150",
+    "https://openalex.org/W2768418205",
+    "https://openalex.org/W2770357116",
+    "https://openalex.org/W2778886043",
+    "https://openalex.org/W2782283010",
+    "https://openalex.org/W2789664096",
+    "https://openalex.org/W2791248084",
+    "https://openalex.org/W2791681471",
+    "https://openalex.org/W2792189838",
+    "https://openalex.org/W2793189904",
+    "https://openalex.org/W2793259539",
+    "https://openalex.org/W2793542153",
+    "https://openalex.org/W2793977722",
+    "https://openalex.org/W2794128007",
+    "https://openalex.org/W2795572942",
+    "https://openalex.org/W2797247418",
+    "https://openalex.org/W2801972654",
+    "https://openalex.org/W2806895914",
+    "https://openalex.org/W2809595930",
+    "https://openalex.org/W2857500415",
+    "https://openalex.org/W2866995152",
+    "https://openalex.org/W2883166177",
+    "https://openalex.org/W2884929327",
+    "https://openalex.org/W2884946808",
+    "https://openalex.org/W2886457623",
+    "https://openalex.org/W2887951693",
+    "https://openalex.org/W2888157059",
+    "https://openalex.org/W2888364578",
+    "https://openalex.org/W2888677649",
+    "https://openalex.org/W2894495615",
+    "https://openalex.org/W2898596112",
+    "https://openalex.org/W2899885335",
+    "https://openalex.org/W2900173670",
+    "https://openalex.org/W2903193937",
+    "https://openalex.org/W2903853700",
+    "https://openalex.org/W2907358011",
+    "https://openalex.org/W2911297598",
+    "https://openalex.org/W2911600042",
+    "https://openalex.org/W2913546575",
+    "https://openalex.org/W291459394",
+    "https://openalex.org/W2921747566",
+    "https://openalex.org/W2930702100",
+    "https://openalex.org/W2939462295",
+    "https://openalex.org/W2943921001",
+    "https://openalex.org/W2944213415",
+    "https://openalex.org/W2944276026",
+    "https://openalex.org/W2944813952",
+    "https://openalex.org/W2945790386",
+    "https://openalex.org/W2951543777",
+    "https://openalex.org/W2954703082",
+    "https://openalex.org/W2955056242",
+    "https://openalex.org/W2955162013",
+    "https://openalex.org/W2980637141",
+    "https://openalex.org/W2983160636",
+    "https://openalex.org/W2984284230",
+    "https://openalex.org/W2984505117",
+    "https://openalex.org/W2987159395",
+    "https://openalex.org/W2988515954",
+    "https://openalex.org/W2996410236",
+    "https://openalex.org/W2998780888",
+    "https://openalex.org/W3005548102",
+    "https://openalex.org/W3005555892",
+    "https://openalex.org/W3005980502",
+    "https://openalex.org/W3006003399",
+    "https://openalex.org/W3006592950",
+    "https://openalex.org/W3007158189",
+    "https://openalex.org/W3008126141",
+    "https://openalex.org/W3015851157",
+    "https://openalex.org/W3021490079",
+    "https://openalex.org/W3026254776",
+    "https://openalex.org/W3033340871",
+    "https://openalex.org/W3033638166",
+    "https://openalex.org/W3036178444",
+    "https://openalex.org/W3040275409",
+    "https://openalex.org/W3043471360",
+    "https://openalex.org/W3044038245",
+    "https://openalex.org/W3046242349",
+    "https://openalex.org/W3046475418",
+    "https://openalex.org/W3082616038",
+    "https://openalex.org/W3088523123",
+    "https://openalex.org/W3089862760",
+    "https://openalex.org/W3095434142",
+    "https://openalex.org/W3095607091",
+    "https://openalex.org/W3096284144",
+    "https://openalex.org/W3097431180",
+    "https://openalex.org/W3097667006",
+    "https://openalex.org/W3097992848",
+    "https://openalex.org/W3099318828",
+    "https://openalex.org/W3108532053",
+    "https://openalex.org/W3113163849",
+    "https://openalex.org/W3114518749",
+    "https://openalex.org/W3125603480",
+    "https://openalex.org/W3128783647",
+    "https://openalex.org/W3130038318",
+    "https://openalex.org/W3133597808",
+    "https://openalex.org/W3135761715",
+    "https://openalex.org/W3136381581",
+    "https://openalex.org/W3152830288",
+    "https://openalex.org/W3153515080",
+    "https://openalex.org/W3170464486",
+    "https://openalex.org/W3187584183",
+    "https://openalex.org/W3194308237",
+    "https://openalex.org/W3201024908",
+    "https://openalex.org/W345263468",
+    "https://openalex.org/W4207078632",
+    "https://openalex.org/W4232825295",
+    "https://openalex.org/W4244258840",
+    "https://openalex.org/W4249000196",
+    "https://openalex.org/W4251241169",
+    "https://openalex.org/W755615356",
+    "https://openalex.org/W817171649",
+    "https://openalex.org/W960468730"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 4190,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/biopharmaceutical",
+      "display_name": "Biopharmaceutical",
+      "score": 0.81130683
+    },
+    {
+      "id": "https://openalex.org/keywords/critical-quality-attributes",
+      "display_name": "Critical quality attributes",
+      "score": 0.7281587
+    },
+    {
+      "id": "https://openalex.org/keywords/quality-by-design",
+      "display_name": "Quality by Design",
+      "score": 0.7112501
+    },
+    {
+      "id": "https://openalex.org/keywords/process-analytical-technology",
+      "display_name": "Process Analytical Technology",
+      "score": 0.50767267
+    },
+    {
+      "id": "https://openalex.org/keywords/emerging-technologies",
+      "display_name": "Emerging Technologies",
+      "score": 0.47704047
+    },
+    {
+      "id": "https://openalex.org/keywords/manufacturing-process",
+      "display_name": "Manufacturing process",
+      "score": 0.47256583
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4300057
+    },
+    {
+      "id": "https://openalex.org/keywords/pharmaceutical-manufacturing",
+      "display_name": "Pharmaceutical Manufacturing",
+      "score": 0.41330695
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2781047461",
+      "name": "Biopharmaceutical",
+      "sameAs": "https://www.wikidata.org/wiki/Q679692"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780449318",
+      "name": "Critical quality attributes",
+      "sameAs": "https://www.wikidata.org/wiki/Q18344773"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204320433",
+      "name": "Quality by Design",
+      "sameAs": "https://www.wikidata.org/wiki/Q7268772"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C178144697",
+      "name": "Process analytical technology",
+      "sameAs": "https://www.wikidata.org/wiki/Q2111609"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C117671659",
+      "name": "Manufacturing engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11049265"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779530757",
+      "name": "Quality (philosophy)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1207505"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21880701",
+      "name": "Process engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q2144042"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C207267971",
+      "name": "Emerging technologies",
+      "sameAs": "https://www.wikidata.org/wiki/Q120208"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2987875673",
+      "name": "Manufacturing process",
+      "sameAs": "https://www.wikidata.org/wiki/Q187939"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C183696295",
+      "name": "Biochemical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q2487696"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C4916135",
+      "name": "Bioprocess",
+      "sameAs": "https://www.wikidata.org/wiki/Q4119055"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779587474",
+      "name": "Spray drying",
+      "sameAs": "https://www.wikidata.org/wiki/Q1066303"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C98045186",
+      "name": "Process (computing)",
+      "sameAs": "https://www.wikidata.org/wiki/Q205663"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778938233",
+      "name": "Pharmaceutical manufacturing",
+      "sameAs": "https://www.wikidata.org/wiki/Q7180757"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C150903083",
+      "name": "Biotechnology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7108"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21547014",
+      "name": "Operations management",
+      "sameAs": "https://www.wikidata.org/wiki/Q1423657"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C192562407",
+      "name": "Materials science",
+      "sameAs": "https://www.wikidata.org/wiki/Q228736"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C71924100",
+      "name": "Medicine",
+      "sameAs": "https://www.wikidata.org/wiki/Q11190"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776207758",
+      "name": "Downstream (manufacturing)",
+      "sameAs": "https://www.wikidata.org/wiki/Q5303302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C154945302",
+      "name": "Artificial intelligence",
+      "sameAs": "https://www.wikidata.org/wiki/Q11660"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C159985019",
+      "name": "Composite material",
+      "sameAs": "https://www.wikidata.org/wiki/Q181790"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111919701",
+      "name": "Operating system",
+      "sameAs": "https://www.wikidata.org/wiki/Q9135"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111472728",
+      "name": "Epistemology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9471"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C98274493",
+      "name": "Pharmacology",
+      "sameAs": "https://www.wikidata.org/wiki/Q128406"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C42360764",
+      "name": "Chemical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q83588"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    }
+  ],
+  "abstract": "In the past two decades, biopharmaceuticals have been a breakthrough in improving the quality of lives of patients with various cancers, autoimmune, genetic disorders etc. With the growing demand of biopharmaceuticals, the need for reducing manufacturing costs is essential without compromising on the safety, quality, and efficacy of products. Batch Freeze-drying is the primary commercial means of manufacturing solid biopharmaceuticals. However, Freeze-drying is an economically unfriendly means of production with long production cycles, high energy consumption and heavy capital investment, resulting in high overall costs. This review compiles some potential, innovative drying technologies that have not gained popularity for manufacturing parenteral biopharmaceuticals. Some of these technologies such as Spin-freeze-drying, Spray-drying, Lynfinity® Technology etc. offer a paradigm shift towards continuous manufacturing, whereas PRINT® Technology and MicroglassificationTM allow controlled dry particle characteristics. Also, some of these drying technologies can be easily scaled-up with reduced requirement for different validation processes. The inclusion of Process Analytical Technology (PAT) and offline characterization techniques in tandem can provide additional information on the Critical Process Parameters (CPPs) and Critical Quality Attributes (CQAs) during biopharmaceutical processing. These processing technologies can be envisaged to increase the manufacturing capacity for biopharmaceutical products at reduced costs.",
+  "url": "https://doi.org/10.1016/j.ijpharm.2021.121115",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1016/j.ijpharm.2021.121115",
+    "encodingFormat": "text/html"
+  }
+}

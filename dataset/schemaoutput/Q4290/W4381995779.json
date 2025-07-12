@@ -1,0 +1,329 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4381995779",
+  "doi": "10.9734/ajfar/2023/v23i2598",
+  "name": "Feasibility of Fishing Business with Purse Seine in Gentuma, North Gorontalo, Indonesia",
+  "headline": "Feasibility of Fishing Business with Purse Seine in Gentuma, North Gorontalo, Indonesia",
+  "datePublished": "2023-06-24",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Asian Journal of Fisheries and Aquatic Research",
+    "issn": "2582-3760",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5059352283",
+      "name": "Eli Nurlaela",
+      "givenName": "Eli",
+      "familyName": "Nurlaela",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5104134636",
+      "name": "Eddy Sugriwa Husen",
+      "givenName": "Eddy",
+      "familyName": "Husen",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5104134637",
+      "name": "Moh Rifki H.",
+      "givenName": "Moh",
+      "familyName": "H.",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5065651773",
+      "name": "Rahmat Muallim",
+      "givenName": "Rahmat",
+      "familyName": "Muallim",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5016616767",
+      "name": "Hery Choerudin",
+      "givenName": "Hery",
+      "familyName": "Choerudin",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5112899774",
+      "name": "Danu Sudrajat",
+      "givenName": "Danu",
+      "familyName": "Sudrajat",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5012389425",
+      "name": "Abdul Kohar Mudzakir",
+      "givenName": "Abdul",
+      "familyName": "Mudzakir",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I11855966",
+          "name": "Diponegoro University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-6923-9699"
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W2008118505",
+    "https://openalex.org/W2023798940",
+    "https://openalex.org/W2559101574",
+    "https://openalex.org/W2911422643",
+    "https://openalex.org/W2982324419",
+    "https://openalex.org/W3106413782",
+    "https://openalex.org/W3134114045",
+    "https://openalex.org/W3145705135",
+    "https://openalex.org/W3150384450",
+    "https://openalex.org/W3164910092"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/payback-period",
+      "display_name": "Payback period",
+      "score": 0.7632129
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.55460733
+    },
+    {
+      "id": "https://openalex.org/keywords/rate-of-return",
+      "display_name": "Rate of return",
+      "score": 0.5074939
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.45796445
+    },
+    {
+      "id": "https://openalex.org/keywords/net-profit",
+      "display_name": "Net profit",
+      "score": 0.45030838
+    },
+    {
+      "id": "https://openalex.org/keywords/value",
+      "display_name": "Value (mathematics)",
+      "score": 0.42498264
+    },
+    {
+      "id": "https://openalex.org/keywords/return-on-capital",
+      "display_name": "Return on capital",
+      "score": 0.42416623
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144553756",
+      "name": "Payback period",
+      "sameAs": "https://www.wikidata.org/wiki/Q15081665"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C169549615",
+      "name": "Return on investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q939134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C195487862",
+      "name": "Revenue",
+      "sameAs": "https://www.wikidata.org/wiki/Q850210"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181622380",
+      "name": "Profit (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q26911"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C514101110",
+      "name": "Fishing",
+      "sameAs": "https://www.wikidata.org/wiki/Q14373"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37917861",
+      "name": "Internal rate of return",
+      "sameAs": "https://www.wikidata.org/wiki/Q507477"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86637286",
+      "name": "Rate of return",
+      "sameAs": "https://www.wikidata.org/wiki/Q7317264"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C100716732",
+      "name": "Net profit",
+      "sameAs": "https://www.wikidata.org/wiki/Q570938"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776291640",
+      "name": "Value (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2912517"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40113805",
+      "name": "Return on capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q245930"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181230689",
+      "name": "Net present value",
+      "sameAs": "https://www.wikidata.org/wiki/Q192472"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37621935",
+      "name": "Agricultural science",
+      "sameAs": "https://www.wikidata.org/wiki/Q3606845"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C505870484",
+      "name": "Fishery",
+      "sameAs": "https://www.wikidata.org/wiki/Q180538"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105795698",
+      "name": "Statistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q12483"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C44750222",
+      "name": "Financial capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q1897397"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C58202505",
+      "name": "Capital formation",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035700"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    }
+  ],
+  "abstract": "The Purse Seine becomes a fishing gear commonly used by fishermen in Gentuma, North Gorontalo. A business feasibility analysis needs to be carried out to assess business opportunities to consider whether the business is feasible to continue or not. The components analyzed include Payback Period, Revenue Cost Ratio, Break Even Point and Return on Investment. This study aims to analyze the feasibility of the business of fishing for purse boats in North Gorontalo Gentuma. This research is based on a case study on MV. Inka Mina 730 operating in Gentuma waters, North Gorontalo. Based on the calculation of financial analysis indicators on MV. Inka Mina 730, obtained profit/loss analysis results of Rp. 388,287,988, R/C Ratio obtained 1.46, Payback Period analysis results of 4,12 means that to return the investment value it takes an interval of 4,12 years, while the BEP value is Rp. 3.220,383,810, then also obtained a BEP (kg) value of 236,382 kg, and a ROI (Return on Investment) calculation of 24%. The purse seine fishing business in Gentuma, North Gorontalo, Indonesia is feasible and profitable based on the NPV, IRR, and B/C ratio, with return on capital included in the fast return on capital category.",
+  "url": "https://doi.org/10.9734/ajfar/2023/v23i2598",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://journalajfar.com/index.php/AJFAR/article/download/598/1180",
+    "encodingFormat": "text/html"
+  }
+}

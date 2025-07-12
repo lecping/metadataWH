@@ -1,0 +1,230 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4407581301",
+  "doi": "10.26650/jepr1345184",
+  "name": "Robust Empirical Study of the Moderating Role of Human Capital and Natural Resources on the Effects of COVID-19 and Financial Development on Foreign Direct Investment: Evidence from Sub-Saharan Africa",
+  "headline": "Robust Empirical Study of the Moderating Role of Human Capital and Natural Resources on the Effects of COVID-19 and Financial Development on Foreign Direct Investment: Evidence from Sub-Saharan Africa",
+  "datePublished": "2025-02-14",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Economic Policy Researches / İktisat Politikası Araştırmaları Dergisi",
+    "issn": "2148-3876",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Istanbul University"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100017247",
+      "name": "Obaike John Ojeka",
+      "givenName": "Obaike",
+      "familyName": "Ojeka",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0009-0005-9862-3197"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5116273538",
+      "name": "Favour Odey",
+      "givenName": "Favour",
+      "familyName": "Odey",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5072952834",
+      "name": "Damilola Adebayo",
+      "givenName": "Deborah",
+      "familyName": "Adebayo",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0009-0008-2630-1414"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5116273539",
+      "name": "Gideon Amodu",
+      "givenName": "Gideon",
+      "familyName": "Amodu",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5116273540",
+      "name": "Daniel Buba",
+      "givenName": "Daniel",
+      "familyName": "Buba",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.49051255
+    },
+    {
+      "id": "https://openalex.org/keywords/empirical-evidence",
+      "display_name": "Empirical evidence",
+      "score": 0.47962293
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.47178742
+    },
+    {
+      "id": "https://openalex.org/keywords/empirical-research",
+      "display_name": "Empirical Research",
+      "score": 0.41878027
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33842695",
+      "name": "Foreign direct investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q490513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C3008058167",
+      "name": "Coronavirus disease 2019 (COVID-19)",
+      "sameAs": "https://www.wikidata.org/wiki/Q84263196"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166052673",
+      "name": "Empirical evidence",
+      "sameAs": "https://www.wikidata.org/wiki/Q83021"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C29985473",
+      "name": "Natural resource",
+      "sameAs": "https://www.wikidata.org/wiki/Q188460"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C120936955",
+      "name": "Empirical research",
+      "sameAs": "https://www.wikidata.org/wiki/Q2155640"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C71924100",
+      "name": "Medicine",
+      "sameAs": "https://www.wikidata.org/wiki/Q11190"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779134260",
+      "name": "Disease",
+      "sameAs": "https://www.wikidata.org/wiki/Q12136"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C142724271",
+      "name": "Pathology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7208"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111472728",
+      "name": "Epistemology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9471"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C524204448",
+      "name": "Infectious disease (medical specialty)",
+      "sameAs": "https://www.wikidata.org/wiki/Q788926"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "url": "https://doi.org/10.26650/jepr1345184",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.26650/jepr1345184",
+    "encodingFormat": "text/html"
+  }
+}

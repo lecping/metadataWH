@@ -1,0 +1,232 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4320500078",
+  "doi": "10.2991/978-94-6463-098-5_24",
+  "name": "Effect of Financial Reporting Quality on the Cost of Capital and Investment in China",
+  "headline": "Effect of Financial Reporting Quality on the Cost of Capital and Investment in China",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Advances in economics, business and management research/Advances in Economics, Business and Management Research",
+    "issn": "2352-5428",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Atlantis Press"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5000509953",
+      "name": "Rongfei Diao",
+      "givenName": "Rongfei",
+      "familyName": "Diao",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I27357992",
+          "name": "Dalian University of Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5057790369",
+      "name": "Ziyou Wang",
+      "givenName": "Ziyou",
+      "familyName": "Wang",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I157725225",
+          "name": "University of Illinois Urbana-Champaign",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-0374-346X"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5055103025",
+      "name": "Yuan Fang",
+      "givenName": "Fang",
+      "familyName": "Yuan",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-4265-5289"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5113481136",
+      "name": "Zhou Qiwen",
+      "givenName": "Qiwen",
+      "familyName": "Zhou",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I181401687",
+          "name": "American University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5110607179",
+      "name": "Danqi Liu",
+      "givenName": "Danqi",
+      "familyName": "Liu",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I185261750",
+          "name": "University of Toronto",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CA"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W4230216559"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5781021
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5432372
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.41079205
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C191935318",
+      "name": "China",
+      "sameAs": "https://www.wikidata.org/wiki/Q148"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779530757",
+      "name": "Quality (philosophy)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1207505"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C73283319",
+      "name": "Financial system",
+      "sameAs": "https://www.wikidata.org/wiki/Q1416617"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111472728",
+      "name": "Epistemology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9471"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Financial reporting helps reduce information asymmetry between external personnel and the internal members of the company.A high-quality financial reporting can help people better understand the company's business operations and financial performance and make the best investment decisions.Since the financial reports in the U.S. can reduce the cost of capital, the purpose of this paper is to look for the possibility that any financial reporting could have effects on Chinese companies.The data samples in this paper include thirty listed Chinese companies from 2000 to 2020.By comparing these Chinese companies' data, the statistics show that high-quality financial reporting could not reduce the cost of capital or bring more investment income to Chinese companies.This result may be due to language barriers and different investment habits.Moreover, the auditing system and reporting standards may vary for different listed companies in Asia and Europe.This paper will further analyze why the conclusion drawn from the U.S. companies' data may not apply to Chinese companies.In conclusion, using the initial public offering of equity securities (IPO), research, and analysis, financial statements have little impact on the cost of capital and investments.Also, due to the information asymmetry and different writers of prospectuses, the result from U.S. companies may not be applicable to Chinese businesses.",
+  "url": "https://doi.org/10.2991/978-94-6463-098-5_24",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.atlantis-press.com/article/125981275.pdf",
+    "encodingFormat": "text/html"
+  }
+}

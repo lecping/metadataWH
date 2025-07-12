@@ -1,0 +1,290 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4390746011",
+  "doi": "10.26425/1816-4277-2023-11-101-114",
+  "name": "The impact of the industrial special economic zone “Lipetsk” on socio-economic processes of the region",
+  "headline": "The impact of the industrial special economic zone “Lipetsk” on socio-economic processes of the region",
+  "datePublished": "2023-12-28",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Vestnik Universiteta",
+    "issn": "1816-4277",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Saint Petersburg State University"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5088826174",
+      "name": "Yu. B. Nadtochiy",
+      "givenName": "Yu.",
+      "familyName": "Nadtochiy",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2801368570",
+          "name": "Government of Russia",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I211738395",
+          "name": "Financial University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210155601",
+          "name": "Innovative Research (United States)",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-8880-4131"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5067303907",
+      "name": "A. D. Zhukovskii",
+      "givenName": "A.",
+      "familyName": "Zhukovskii",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I211738395",
+          "name": "Financial University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-5383-2156"
+    }
+  ],
+  "citationCount": 2,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/special-economic-zone",
+      "display_name": "Special economic zone",
+      "score": 0.7402594
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6368632
+    },
+    {
+      "id": "https://openalex.org/keywords/economic-community",
+      "display_name": "Economic community",
+      "score": 0.46414697
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.45078105
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.45066229
+    },
+    {
+      "id": "https://openalex.org/keywords/foreign-capital",
+      "display_name": "Foreign capital",
+      "score": 0.41953835
+    },
+    {
+      "id": "https://openalex.org/keywords/exclusive-economic-zone",
+      "display_name": "Exclusive economic zone",
+      "score": 0.41938043
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C47648889",
+      "name": "Special economic zone",
+      "sameAs": "https://www.wikidata.org/wiki/Q494978"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779530757",
+      "name": "Quality (philosophy)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1207505"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2993898506",
+      "name": "Economic community",
+      "sameAs": "https://www.wikidata.org/wiki/Q20715894"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33842695",
+      "name": "Foreign direct investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q490513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C188897",
+      "name": "Economic impact analysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q5333508"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776608160",
+      "name": "Natural (archaeology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q4785462"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2993879009",
+      "name": "Foreign capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q8137"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C113513581",
+      "name": "Exclusive economic zone",
+      "sameAs": "https://www.wikidata.org/wiki/Q202008"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C154193497",
+      "name": "Economic sector",
+      "sameAs": "https://www.wikidata.org/wiki/Q3958441"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136264566",
+      "name": "Economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q159810"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C191935318",
+      "name": "China",
+      "sameAs": "https://www.wikidata.org/wiki/Q148"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111472728",
+      "name": "Epistemology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9471"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    }
+  ],
+  "abstract": "The processes of economic development of the Russian regions nowadays represent a deep practical interest in the professional community, which requires further study and observation in dynamics. Due to natural and artificial circumstances and reasons, the regions of the country are developed extremely unevenly. There are no actual systematisation of the economic development of the federal subjects management and territorial clusterisation according to their development indicators. The Lipetsk region historically and today is also no exception. The region is part of the Central Federal District and a significant industrial centre here. More than 18 years ago the industrial special economic zone (hereinafter referred to as ISEZ) “Lipetsk” was created. The Lipetsk region is one of the first regions among various investment ratings in terms of quality and volume of investments, as well as among implemented investment projects, involving domestic and foreign capital. The purpose of this study is to determine the impact of the activities of the ISEZ “Lipetsk” on the socio-economic processes of the region and to study the possibilities of assessing such an impact.",
+  "url": "https://doi.org/10.26425/1816-4277-2023-11-101-114",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://vestnik.guu.ru/jour/article/download/4871/2856",
+    "encodingFormat": "text/html"
+  }
+}

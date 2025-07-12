@@ -1,0 +1,222 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4397013832",
+  "doi": "10.33423/jabe.v26i1.6963",
+  "name": "A Heuristic Model to Find Optimal or Realistic Target Industry Sectors",
+  "headline": "A Heuristic Model to Find Optimal or Realistic Target Industry Sectors",
+  "datePublished": "2024-02-14",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Applied Business and Economics",
+    "issn": "1499-691X",
+    "publisher": {
+      "@type": "Organization",
+      "name": "North American Business Press"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5102666868",
+      "name": "Geungu Yu",
+      "givenName": "Geungu",
+      "familyName": "Yu",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I61937129",
+          "name": "Jackson State University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2085317472",
+    "https://openalex.org/W2090935480"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.54585886
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.44080445
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.42406467
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780821815",
+      "name": "Portfolio",
+      "sameAs": "https://www.wikidata.org/wiki/Q5340806"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C173801870",
+      "name": "Heuristic",
+      "sameAs": "https://www.wikidata.org/wiki/Q201413"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C76178495",
+      "name": "Asset (computer security)",
+      "sameAs": "https://www.wikidata.org/wiki/Q4808784"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780801425",
+      "name": "Construct (python library)",
+      "sameAs": "https://www.wikidata.org/wiki/Q5164392"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181236170",
+      "name": "Capital asset pricing model",
+      "sameAs": "https://www.wikidata.org/wiki/Q848354"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C66204764",
+      "name": "Sustainability",
+      "sameAs": "https://www.wikidata.org/wiki/Q219416"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C112930515",
+      "name": "Risk analysis (engineering)",
+      "sameAs": "https://www.wikidata.org/wiki/Q4389547"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C154945302",
+      "name": "Artificial intelligence",
+      "sameAs": "https://www.wikidata.org/wiki/Q11660"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C38652104",
+      "name": "Computer security",
+      "sameAs": "https://www.wikidata.org/wiki/Q3510521"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199360897",
+      "name": "Programming language",
+      "sameAs": "https://www.wikidata.org/wiki/Q9143"
+    }
+  ],
+  "abstract": "Policymakers or prospective investors recognize a continuing need to find target industry sectors to expand or contract for a sustainably healthy economy or investment portfolios. This paper discusses how to apply an optimal portfolio theory to selecting target industry sectors. With the information technology and the analytical approach in mind, this paper provides an operational and workable framework for selecting target industry sectors for an economy. The application incorporates the capital asset pricing model, ways to find excess return to risk ratios, unsystematic risk measures, etc. First, this paper shows a practical approach to finding the optimal weights for target industry sectors. Second, this paper develops a heuristic framework for analyzing the performance of industry sectors to construct realistic mixes of industry sectors.",
+  "url": "https://doi.org/10.33423/jabe.v26i1.6963",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://articlegateway.com/index.php/JABE/article/download/6963/6568",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4312967639",
+  "doi": "10.25236/ajbm.2022.041811",
+  "name": "A Study on the Contribution of Human Capital to Economic Growth of Graduate Students in Xinjiang",
+  "headline": "A Study on the Contribution of Human Capital to Economic Growth of Graduate Students in Xinjiang",
+  "datePublished": "2022-01-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Academic Journal of Business & Management",
+    "issn": "2616-5902",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5110952972",
+      "name": "Yinhui Zhai",
+      "givenName": "Yinhui",
+      "familyName": "Zhai",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I96908189",
+          "name": "Xinjiang University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5023380585",
+      "name": "Hui Sun",
+      "givenName": "Hui",
+      "familyName": "Sun",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I96908189",
+          "name": "Xinjiang University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-9251-4196"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5009071051",
+      "name": "Yongfang Dou",
+      "givenName": "Yongfang",
+      "familyName": "Dou",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I96908189",
+          "name": "Xinjiang University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1998398275"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/stock",
+      "display_name": "Stock (firearms)",
+      "score": 0.6523532
+    },
+    {
+      "id": "https://openalex.org/keywords/graduate-education",
+      "display_name": "Graduate Education",
+      "score": 0.6491643
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.52686936
+    },
+    {
+      "id": "https://openalex.org/keywords/education-economics",
+      "display_name": "Education economics",
+      "score": 0.46935564
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.43875608
+    },
+    {
+      "id": "https://openalex.org/keywords/production-function",
+      "display_name": "Production function",
+      "score": 0.41111204
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204036174",
+      "name": "Stock (firearms)",
+      "sameAs": "https://www.wikidata.org/wiki/Q909380"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985790989",
+      "name": "Graduate education",
+      "sameAs": "https://www.wikidata.org/wiki/Q141212"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C538133343",
+      "name": "Economics education",
+      "sameAs": "https://www.wikidata.org/wiki/Q5333576"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C527016502",
+      "name": "Education economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q861689"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139876678",
+      "name": "Production function",
+      "sameAs": "https://www.wikidata.org/wiki/Q524004"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C120912362",
+      "name": "Higher education",
+      "sameAs": "https://www.wikidata.org/wiki/Q136822"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134819137",
+      "name": "Comparative education",
+      "sameAs": "https://www.wikidata.org/wiki/Q1346247"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C19417346",
+      "name": "Pedagogy",
+      "sameAs": "https://www.wikidata.org/wiki/Q7922"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    }
+  ],
+  "abstract": "Based on the Cobb-Douglas production function model, the data of the number of graduate students, physical capital stock, education expenditure and regional gross national product in Xinjiang from 2002-2019 were selected as the basis for calculating the human capital stock of graduate students by using the method of years of education to further analyze the impact of graduate education on economic growth. The results show that postgraduate education in Xinjiang region promotes the national economic growth of Xinjiang region and the contribution rate reaches 0.1360%, and the stock of social physical capital and the investment of the whole society in education funding have a greater role in promoting economic growth. On this basis, relevant countermeasures and suggestions are given for economic development and improving the quality of postgraduate education in Xinjiang region.",
+  "url": "https://doi.org/10.25236/ajbm.2022.041811",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "http://francis-press.com/uploads/papers/4fVZdDEUkKIzeSJEW8mUKWIooB2684Wpn0Mjafo4.pdf",
+    "encodingFormat": "text/html"
+  }
+}

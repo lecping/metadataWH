@@ -1,0 +1,230 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4285214307",
+  "doi": "10.1039/d2ee01244h",
+  "name": "Bridging capital discipline and energy scenarios",
+  "headline": "Bridging capital discipline and energy scenarios",
+  "datePublished": "2022-01-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Energy & Environmental Science",
+    "issn": "1754-5692",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Royal Society of Chemistry"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5038899010",
+      "name": "Sam Uden",
+      "givenName": "Sam",
+      "familyName": "Uden",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5067533100",
+      "name": "Robert H. Socolow",
+      "givenName": "Robert",
+      "familyName": "Socolow",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I20089843",
+          "name": "Princeton University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5010437701",
+      "name": "Chris Greig",
+      "givenName": "Chris",
+      "familyName": "Greig",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I20089843",
+          "name": "Princeton University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-7671-6388"
+    }
+  ],
+  "citationCount": 9,
+  "citation": [
+    "https://openalex.org/W2171158391",
+    "https://openalex.org/W2345673676",
+    "https://openalex.org/W2967958786",
+    "https://openalex.org/W3161488630",
+    "https://openalex.org/W3166494494",
+    "https://openalex.org/W3205557953"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/bridge",
+      "display_name": "Bridge (graph theory)",
+      "score": 0.7017248
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.48414594
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41112936
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C174348530",
+      "name": "Bridging (networking)",
+      "sameAs": "https://www.wikidata.org/wiki/Q188635"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C100776233",
+      "name": "Bridge (graph theory)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2532492"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26517878",
+      "name": "Key (lock)",
+      "sameAs": "https://www.wikidata.org/wiki/Q228039"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27415008",
+      "name": "Psychological intervention",
+      "sameAs": "https://www.wikidata.org/wiki/Q7256382"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C112930515",
+      "name": "Risk analysis (engineering)",
+      "sameAs": "https://www.wikidata.org/wiki/Q4389547"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134560507",
+      "name": "Environmental economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q753291"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C38652104",
+      "name": "Computer security",
+      "sameAs": "https://www.wikidata.org/wiki/Q3510521"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C71924100",
+      "name": "Medicine",
+      "sameAs": "https://www.wikidata.org/wiki/Q11190"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C126322002",
+      "name": "Internal medicine",
+      "sameAs": "https://www.wikidata.org/wiki/Q11180"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C118552586",
+      "name": "Psychiatry",
+      "sameAs": "https://www.wikidata.org/wiki/Q7867"
+    }
+  ],
+  "abstract": "Asset developer decision-making is often neglected in energy systems models. We describe a new reverse-engineering method to bridge this gap, informing key policy and investment interventions needed to achieve ambitious net-zero targets.",
+  "url": "https://doi.org/10.1039/d2ee01244h",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://pubs.rsc.org/en/content/articlepdf/2022/ee/d2ee01244h",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4385813166",
+  "doi": "10.47750/qas/24.196.22",
+  "name": "Driving Millennials To Be Investors: The Case Of Investment Decision Performance In Indonesian Capital Market",
+  "headline": "Driving Millennials To Be Investors: The Case Of Investment Decision Performance In Indonesian Capital Market",
+  "datePublished": "2023-08-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Quality - Access to Success",
+    "issn": "1582-2559",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5108276317",
+      "name": "Ni Putu",
+      "givenName": "Ni",
+      "familyName": "Putu",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5027259103",
+      "name": "Ayu Darmayanti",
+      "givenName": "Ayu",
+      "familyName": "Darmayanti",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I126826664",
+          "name": "Udayana University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5094711566",
+      "name": "Ni Luh",
+      "givenName": "Ni",
+      "familyName": "Luh",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5094711567",
+      "name": "Putu Wiagustini",
+      "givenName": "Putu",
+      "familyName": "Wiagustini",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I126826664",
+          "name": "Udayana University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5094711569",
+      "name": "Luh Gede",
+      "givenName": "Luh",
+      "familyName": "Gede",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5094711570",
+      "name": "Sri Artini",
+      "givenName": "Sri",
+      "familyName": "Artini",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I126826664",
+          "name": "Udayana University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5045529036",
+      "name": "Ica Rika Candraningrat",
+      "givenName": "Ica",
+      "familyName": "Candraningrat",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I126826664",
+          "name": "Udayana University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-2580-1926"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1437219066",
+    "https://openalex.org/W1820632930",
+    "https://openalex.org/W1922999250",
+    "https://openalex.org/W1967908557",
+    "https://openalex.org/W2048797268",
+    "https://openalex.org/W2110354947",
+    "https://openalex.org/W2115540370",
+    "https://openalex.org/W2145223569",
+    "https://openalex.org/W2147168592",
+    "https://openalex.org/W2151666381",
+    "https://openalex.org/W2255922874",
+    "https://openalex.org/W2273122560",
+    "https://openalex.org/W2559671271",
+    "https://openalex.org/W2575765586",
+    "https://openalex.org/W2763811139",
+    "https://openalex.org/W2768354961",
+    "https://openalex.org/W2782555025",
+    "https://openalex.org/W2786555934",
+    "https://openalex.org/W2895330846",
+    "https://openalex.org/W2912491697",
+    "https://openalex.org/W2969781331",
+    "https://openalex.org/W2978346952",
+    "https://openalex.org/W2999446980",
+    "https://openalex.org/W3004022374",
+    "https://openalex.org/W3005540266",
+    "https://openalex.org/W3039316841",
+    "https://openalex.org/W3044802860",
+    "https://openalex.org/W3086457269",
+    "https://openalex.org/W3112260151",
+    "https://openalex.org/W3125685058",
+    "https://openalex.org/W3125987272",
+    "https://openalex.org/W4308359708",
+    "https://openalex.org/W4364361381",
+    "https://openalex.org/W568236543"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.58526367
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4932627
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4390809
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779207338",
+      "name": "Indonesian",
+      "sameAs": "https://www.wikidata.org/wiki/Q9240"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C143910263",
+      "name": "Capital market",
+      "sameAs": "https://www.wikidata.org/wiki/Q750458"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Investment in the capital market offers the expectation of a relatively high rate of return.However, it is also considered risky, raising various obstacles in achieving the investment performance that investors expect.The present study investigated the effect of risk tolerance, financial literacy, and risky investment decisions regarding the investment performance made by millennial investors in Indonesia.Therefore, the objectives of this study were accomplished by examining the millennial who invested in the Indonesian capital market in several steps.Data collection was performed utilizing the survey method by administering electronic questionnaire media.The purposive sampling method was employed, resulting in a sample of 300 participants.Further, the data analysis was achieved by applying the partial least square method.Accordingly, the analysis results indicated that financial literacy, risk tolerance, and risky investment decisions were predictors of the investment performance of millennial investors in Indonesia.The mediation test indicated that risky investment decisions partially mediated the effect of financial literacy and risk tolerance toward investment performance.The study contributes to the literature by developing an integrated model between investment performance, risky investment decisions, risk tolerance, and financial literacy.Moreover, the practical implications of the results of this study offer beneficial impacts to investment advisors,policymakers,investors, and potential investors to help them enhance investment performance.",
+  "url": "https://doi.org/10.47750/qas/24.196.22",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.47750/qas/24.196.22",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4389403141",
+  "doi": "10.1051/e3sconf/202345702029",
+  "name": "Solutions to promote digital transformation of construction industry in Vietnam",
+  "headline": "Solutions to promote digital transformation of construction industry in Vietnam",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "E3S Web of Conferences",
+    "issn": "2267-1242",
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDP Sciences"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5092537232",
+      "name": "Dung Nguyen Thi Tuyet",
+      "givenName": "Dung",
+      "familyName": "Tuyet",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5092537397",
+      "name": "Nga Hoang Thi Hang",
+      "givenName": "Nga",
+      "familyName": "Hang",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5102510868",
+      "name": "Huong Nguyen Thi Thu",
+      "givenName": "Huong",
+      "familyName": "Thu",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0009-0000-1502-8127"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2490033382",
+    "https://openalex.org/W2755222073",
+    "https://openalex.org/W4297199158"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5142855
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.49367055
+    },
+    {
+      "id": "https://openalex.org/keywords/christian-ministry",
+      "display_name": "Christian ministry",
+      "score": 0.42145464
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41536403
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C126082660",
+      "name": "Digital transformation",
+      "sameAs": "https://www.wikidata.org/wiki/Q4252370"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204983608",
+      "name": "Productivity",
+      "sameAs": "https://www.wikidata.org/wiki/Q2111958"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778137410",
+      "name": "Government (linguistics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2732820"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C206345919",
+      "name": "Resource (disambiguation)",
+      "sameAs": "https://www.wikidata.org/wiki/Q20380951"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C74363100",
+      "name": "Economic system",
+      "sameAs": "https://www.wikidata.org/wiki/Q273005"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C521751864",
+      "name": "Christian ministry",
+      "sameAs": "https://www.wikidata.org/wiki/Q1729207"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C31258907",
+      "name": "Computer network",
+      "sameAs": "https://www.wikidata.org/wiki/Q1301371"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "The 4th industrial revolution is taking place worldwide and has a strong impact on economic, cultural, and social activities. In recent times, digital transformation has become the top concern for businesses in Vietnam in the Industrial Revolution 4.0. According to the National Digital Transformation Program to 2025, with the Prime Minister’s 2030 orientation, the digital economy aims to achieve 20% of GDP by 2050 and 30% of GDP by 2030. In the construction sector, construction accounts for 30-40% of the total social investment capital, which contributes to increasing productivity, increasing the competitiveness of construction products, and is an important resource contributing to national economic development. For construction enterprises, this contributes to improving their competitiveness. Guidelines and policies of the Government and the Ministry of Construction are available, but digital transformation in the construction industry is still slow. The article analyzes the achieved results as well as difficulties and challenges, thereby proposing solutions to promote the digital transformation of the construction industry.",
+  "url": "https://doi.org/10.1051/e3sconf/202345702029",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/94/e3sconf_fci2023_02029.pdf",
+    "encodingFormat": "text/html"
+  }
+}

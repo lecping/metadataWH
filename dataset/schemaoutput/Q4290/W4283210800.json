@@ -1,0 +1,328 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4283210800",
+  "doi": "10.21203/rs.3.rs-1690995/v1",
+  "name": "Decomposition and scenario analysis of manufacturing consumption embedded emissions: Insights from the province-level data",
+  "headline": "Decomposition and scenario analysis of manufacturing consumption embedded emissions: Insights from the province-level data",
+  "datePublished": "2022-06-21",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Research Square (Research Square)",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": "Research Square (United States)"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5066061841",
+      "name": "Rong Yuan",
+      "givenName": "Rong",
+      "familyName": "Yuan",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I158842170",
+          "name": "Chongqing University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-7723-927X"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5015702768",
+      "name": "Haoyun Liao",
+      "givenName": "Haoyun",
+      "familyName": "Liao",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I158842170",
+          "name": "Chongqing University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5016990566",
+      "name": "Yihan Ge",
+      "givenName": "Yihan",
+      "familyName": "Ge",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I158842170",
+          "name": "Chongqing University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1493472778",
+    "https://openalex.org/W1586936537",
+    "https://openalex.org/W1898879261",
+    "https://openalex.org/W1965227129",
+    "https://openalex.org/W1984382828",
+    "https://openalex.org/W1990310464",
+    "https://openalex.org/W2000183434",
+    "https://openalex.org/W2003089160",
+    "https://openalex.org/W2016290692",
+    "https://openalex.org/W2048781907",
+    "https://openalex.org/W2111489448",
+    "https://openalex.org/W2190698000",
+    "https://openalex.org/W2194004009",
+    "https://openalex.org/W2263216528",
+    "https://openalex.org/W2322644912",
+    "https://openalex.org/W2535430096",
+    "https://openalex.org/W2549877311",
+    "https://openalex.org/W2596797025",
+    "https://openalex.org/W2743003707",
+    "https://openalex.org/W2755702121",
+    "https://openalex.org/W2792335742",
+    "https://openalex.org/W2800745567",
+    "https://openalex.org/W2809788748",
+    "https://openalex.org/W2888892882",
+    "https://openalex.org/W2894082375",
+    "https://openalex.org/W2905889508",
+    "https://openalex.org/W2921001867",
+    "https://openalex.org/W2941089997",
+    "https://openalex.org/W2943005491",
+    "https://openalex.org/W2950338271",
+    "https://openalex.org/W2953284469",
+    "https://openalex.org/W2979581796",
+    "https://openalex.org/W2981857860",
+    "https://openalex.org/W3001707711",
+    "https://openalex.org/W3002177913",
+    "https://openalex.org/W3006300863",
+    "https://openalex.org/W3019323811",
+    "https://openalex.org/W3022206193",
+    "https://openalex.org/W3040061855",
+    "https://openalex.org/W3096235622",
+    "https://openalex.org/W3102696189",
+    "https://openalex.org/W3116916887",
+    "https://openalex.org/W3121693942",
+    "https://openalex.org/W3131101720",
+    "https://openalex.org/W3154326309",
+    "https://openalex.org/W3157286952",
+    "https://openalex.org/W3158748634",
+    "https://openalex.org/W3160670627",
+    "https://openalex.org/W3165639975",
+    "https://openalex.org/W3171162192",
+    "https://openalex.org/W3181807481",
+    "https://openalex.org/W3195147360",
+    "https://openalex.org/W4206740169",
+    "https://openalex.org/W4213453482"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.69092435
+    },
+    {
+      "id": "https://openalex.org/keywords/consumption",
+      "display_name": "Consumption",
+      "score": 0.65650517
+    },
+    {
+      "id": "https://openalex.org/keywords/manufacturing",
+      "display_name": "Manufacturing",
+      "score": 0.58502126
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5073609
+    },
+    {
+      "id": "https://openalex.org/keywords/final-demand",
+      "display_name": "Final demand",
+      "score": 0.48350266
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C30772137",
+      "name": "Consumption (sociology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q5164762"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175700187",
+      "name": "Manufacturing",
+      "sameAs": "https://www.wikidata.org/wiki/Q187939"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C47737302",
+      "name": "Greenhouse gas",
+      "sameAs": "https://www.wikidata.org/wiki/Q167336"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778755073",
+      "name": "Scale (ratio)",
+      "sameAs": "https://www.wikidata.org/wiki/Q10858537"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2993367358",
+      "name": "Final demand",
+      "sameAs": "https://www.wikidata.org/wiki/Q1801078"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C191935318",
+      "name": "China",
+      "sameAs": "https://www.wikidata.org/wiki/Q148"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134560507",
+      "name": "Environmental economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q753291"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121332964",
+      "name": "Physics",
+      "sameAs": "https://www.wikidata.org/wiki/Q413"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C62520636",
+      "name": "Quantum mechanics",
+      "sameAs": "https://www.wikidata.org/wiki/Q944"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C36289849",
+      "name": "Social science",
+      "sameAs": "https://www.wikidata.org/wiki/Q34749"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Abstract In order to support the emissions reduction options in manufacturing industry effectively, it is necessary to quantify the final demand embedded manufacturing consumption (DEMC) emissions which can be estimated by converting intermediate manufacturing consumption into all final demand categories. Here, we quantify the DEMC emissions in China’s 30 provinces during 2007–2017 using a multi-regional input-output (MRIO) model and the modified Hypothetical Extraction Method (HEM). Then, we analyze impacts of four factors (including emissions multipliers, consumption structure, investment efficiency and investment scale) on the DEMC emissions. Finally, considering a large driving effect of investment scale on manufacturing emissions, we conduct four scenarios to quantify the mitigation potential of DEMC emissions during 2020–2035. We find that from 2007 to 2012, the DMEC emissions increased doubled, while during 2012–2017, it decreased from 1217 Mt to 634 Mt. The capital-intensive manufacturing and the labor-intensive manufacturing industries were main sources of intra- and inter-sectoral emissions, respectively. Investment scale was the main driver of the growth in DEMC emissions during 2007–2015, while it led to a reduction of DEMC emissions during 2015–2017. Emission multipliers was the largest inhibiting factor for DEMC emissions during the whole period. Consumption structure had the positive effect on DEMC emissions during 2007–2012, while with the consumption structure shift towards knowledge-intensive manufacturing industry, it induced a reduction of DEMC emissions during 2012–2017. Moreover, implementing an integrated mitigation measures (including reducing emissions multipliers, decreasing investment efficiency, and adjusting consumption structure) could help China to realize the emissions peaking target. However, there are still 8 provinces whose DEMC emissions are unlikely to peak before 2030.",
+  "url": "https://doi.org/10.21203/rs.3.rs-1690995/v1",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.researchsquare.com/article/rs-1690995/latest.pdf",
+    "encodingFormat": "text/html"
+  }
+}

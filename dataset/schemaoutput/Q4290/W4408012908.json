@@ -1,0 +1,224 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4408012908",
+  "doi": "10.55643/fcaptp.1.60.2025.4593",
+  "name": "SOCIOECONOMIC EFFICIENCY OF FLEXIBLE MANAGEMENT OF HUMAN CAPITAL DEVELOPMENT INVESTMENT PROJECTS",
+  "headline": "SOCIOECONOMIC EFFICIENCY OF FLEXIBLE MANAGEMENT OF HUMAN CAPITAL DEVELOPMENT INVESTMENT PROJECTS",
+  "datePublished": "2025-02-27",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Financial and credit activity problems of theory and practice",
+    "issn": "2306-4994",
+    "publisher": {
+      "@type": "Organization",
+      "name": "University of Banking of the National Bank of Ukraine"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5038940836",
+      "name": "Оlena Kakhovska",
+      "givenName": "Olena",
+      "familyName": "Kakhovska",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-6235-968X"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5106518203",
+      "name": "Lesia Brych",
+      "givenName": "Lesia",
+      "familyName": "Brych",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5079205462",
+      "name": "Pavlo Skotnyy",
+      "givenName": "Pavlo",
+      "familyName": "Skotnyy",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0001-8150-8946"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5017640755",
+      "name": "Діна Тюріна",
+      "givenName": "Dina",
+      "familyName": "Tiurina",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-1506-5849"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5114924198",
+      "name": "Тетяна СКЛЯРУК",
+      "givenName": "Tetiana",
+      "familyName": "Skliaruk",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0001-8890-9152"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5033682009",
+      "name": "R. P. Nikitenko",
+      "givenName": "Raisa",
+      "familyName": "Nikitenko",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1512640557",
+    "https://openalex.org/W1767223597",
+    "https://openalex.org/W1964034134",
+    "https://openalex.org/W2052573780",
+    "https://openalex.org/W2060671855",
+    "https://openalex.org/W2107612477",
+    "https://openalex.org/W2140905468",
+    "https://openalex.org/W2156266548",
+    "https://openalex.org/W218113910",
+    "https://openalex.org/W2502046458",
+    "https://openalex.org/W2760825020",
+    "https://openalex.org/W2767581005",
+    "https://openalex.org/W2806391000",
+    "https://openalex.org/W4221049521",
+    "https://openalex.org/W4306737880",
+    "https://openalex.org/W4321462766",
+    "https://openalex.org/W4322154552",
+    "https://openalex.org/W4388930249",
+    "https://openalex.org/W4389049287",
+    "https://openalex.org/W4392592995"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 500,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.59308326
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.50924885
+    },
+    {
+      "id": "https://openalex.org/keywords/socioeconomic-development",
+      "display_name": "Socioeconomic development",
+      "score": 0.5046538
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C147077947",
+      "name": "Socioeconomic status",
+      "sameAs": "https://www.wikidata.org/wiki/Q1515895"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C42298096",
+      "name": "Socioeconomic development",
+      "sameAs": "https://www.wikidata.org/wiki/Q1643441"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2908647359",
+      "name": "Population",
+      "sameAs": "https://www.wikidata.org/wiki/Q2625603"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149923435",
+      "name": "Demography",
+      "sameAs": "https://www.wikidata.org/wiki/Q37732"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Modern projects investing in the development of human capital are extremely diverse and differ in the level of complexity or the volume of tasks and work that need to be carried out both in advance and directly during the process. Therefore, there arises a need to choose the right method of managing these problems. Moreover, the choice depends on the results of evaluating their effectiveness, including socioeconomic effectiveness. Thus, the aim is to conduct an evaluation of the effectiveness of flexible management of projects related to investments in the development of human capital. The subject of the research is projects investing in the development of human capital. The task is to present an approach to evaluating the socioeconomic effectiveness of flexible management of such projects. The key method is the modelling method for choosing the most optimal form of flexible management of the investment project in the development of human capital. For visual assessment, a real project investing in the development of human capital was selected. Corresponding areas for evaluating socioeconomic effectiveness were determined. It is proposed to carry out the evaluation of the socioeconomic effectiveness of flexible management precisely based on these areas: quality, budget, time for completing the set tasks, risks, and the health of the team involved in the investment project in the development of human capital. Thus, the result of the article is an improved methodology for evaluating the socioeconomic effectiveness of flexible management using the EVM method based on the criteria of quality, budget, time, risks, and team health. Regarding limitations, it should be emphasised that practical application occurred within only one project. Further research should be dedicated to evaluating the safety aspect of implementing projects investing in the development of human capital.",
+  "url": "https://doi.org/10.55643/fcaptp.1.60.2025.4593",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.55643/fcaptp.1.60.2025.4593",
+    "encodingFormat": "text/html"
+  }
+}

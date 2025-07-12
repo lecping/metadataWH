@@ -1,0 +1,225 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4317185113",
+  "doi": "10.32782/2415-8240-2022-101-2-30-37",
+  "name": "Comprehensive assessment of the efficiency of commercial banks",
+  "headline": "Comprehensive assessment of the efficiency of commercial banks",
+  "datePublished": "2022-01-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Collected Works of Uman National University of Horticulture",
+    "issn": "2415-8240",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5038529325",
+      "name": "P. K. Bechko",
+      "givenName": "P.",
+      "familyName": "Bechko",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5078372721",
+      "name": "Наталья Бондаренко",
+      "givenName": "N.",
+      "familyName": "Bondarenko",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-1173-4769"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5110787075",
+      "name": "S.A. Vlasyuk",
+      "givenName": "S.",
+      "familyName": "Vlasyuk",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5076724312",
+      "name": "О. А. Непочатенко",
+      "givenName": "O.",
+      "familyName": "Nepochatenko",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5061463113",
+      "name": "B. S. Huzar",
+      "givenName": "B.",
+      "familyName": "Huzar",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 1,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6400848
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.42209727
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C129361004",
+      "name": "Profitability index",
+      "sameAs": "https://www.wikidata.org/wiki/Q2470236"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C118518473",
+      "name": "Agriculture",
+      "sameAs": "https://www.wikidata.org/wiki/Q11451"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C29122968",
+      "name": "Incentive",
+      "sameAs": "https://www.wikidata.org/wiki/Q1414816"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C53844881",
+      "name": "Modernization theory",
+      "sameAs": "https://www.wikidata.org/wiki/Q856122"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C128383755",
+      "name": "Agricultural productivity",
+      "sameAs": "https://www.wikidata.org/wiki/Q3816336"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134560507",
+      "name": "Environmental economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q753291"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    }
+  ],
+  "abstract": "implementation of investments, which is proof of their orientation to the technical and technological modernization of the production base.It is determined that the lack of economic incentives to increase the fertility of agricultural land does not stimulate capital investment by agricultural enterprises, which requires the development of a set of measures at the state level to invest in maintaining and improving soil fertility.In order to increase the level of profitability of agricultural production, it is advisable to implement comprehensive investment projects for irrigation, the introduction of adaptive technologies for growing crops, construction of environmentally friendly livestock complexes.It is proved that the need to develop measures at the state level to stimulate agricultural producers to invest in maintaining and improving soil fertility.",
+  "url": "https://doi.org/10.32782/2415-8240-2022-101-2-30-37",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.32782/2415-8240-2022-101-2-30-37",
+    "encodingFormat": "text/html"
+  }
+}

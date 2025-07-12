@@ -1,0 +1,132 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4384260553",
+  "doi": "10.1787/59071aa8-en",
+  "name": "Greenfield foreign direct investment to Africa by source region and sector, % change in capital expenditures between 2018-19 and 2020-21",
+  "headline": "Greenfield foreign direct investment to Africa by source region and sector, % change in capital expenditures between 2018-19 and 2020-21",
+  "datePublished": "2023-07-07",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Africa’s development dynamics",
+    "issn": "2790-2765",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Organization for Economic Cooperation and Development"
+    }
+  },
+  "author": [],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/greenfield-project",
+      "display_name": "Greenfield project",
+      "score": 0.5741511
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5259124
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5169146
+    },
+    {
+      "id": "https://openalex.org/keywords/foreign-capital",
+      "display_name": "Foreign capital",
+      "score": 0.4410501
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33842695",
+      "name": "Foreign direct investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q490513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C126081937",
+      "name": "Greenfield project",
+      "sameAs": "https://www.wikidata.org/wiki/Q833406"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2993879009",
+      "name": "Foreign capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q8137"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18547055",
+      "name": "International economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q47417"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C155202549",
+      "name": "International trade",
+      "sameAs": "https://www.wikidata.org/wiki/Q178803"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    }
+  ],
+  "url": "https://doi.org/10.1787/59071aa8-en",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.oecd-ilibrary.org/deliver/3269532b-en.pdf?itemId=%2Fcontent%2Fpublication%2F3269532b-en&mimeType=pdf",
+    "encodingFormat": "text/html"
+  }
+}

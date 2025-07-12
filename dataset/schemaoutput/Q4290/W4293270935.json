@@ -1,0 +1,195 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4293270935",
+  "doi": "10.54204/taji/vol412022012",
+  "name": "The Role Of Education And Health In Work Participation In Cambodia",
+  "headline": "The Role Of Education And Health In Work Participation In Cambodia",
+  "datePublished": "2022-01-31",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Tamansiswa Accounting Journal International",
+    "issn": "2775-1635",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5075938007",
+      "name": "Adita Taufik Widianto",
+      "givenName": "Adita",
+      "familyName": "Widianto",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210147496",
+          "name": "Universitas Pgri Banyuwangi",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5085000955",
+      "name": "Achariya Chanthavy",
+      "givenName": "Achariya",
+      "familyName": "Chanthavy",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3133382251",
+          "name": "Royal University of Law and Economics",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "KH"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2793502909",
+    "https://openalex.org/W2899387968",
+    "https://openalex.org/W2903717751",
+    "https://openalex.org/W2905088567",
+    "https://openalex.org/W2963209143",
+    "https://openalex.org/W3000701211",
+    "https://openalex.org/W3020888693",
+    "https://openalex.org/W3027232640",
+    "https://openalex.org/W3092755427",
+    "https://openalex.org/W3117939921",
+    "https://openalex.org/W3163978954",
+    "https://openalex.org/W3207201018",
+    "https://openalex.org/W4205138636",
+    "https://openalex.org/W4230408071",
+    "https://openalex.org/W4282821922",
+    "https://openalex.org/W4285739154"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.751257
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.43623668
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18762648",
+      "name": "Work (physics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q42213"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C4249254",
+      "name": "Demographic economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3044431"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145236788",
+      "name": "Labour economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q28161"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C45355965",
+      "name": "Socioeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q1643441"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78519656",
+      "name": "Mechanical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q101333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    }
+  ],
+  "abstract": "This study's goal is to determine how the role of investment in health and education on job participation in Cambodia. This study examines investment in education, investment in health, and the number of Cambodian residents who work or are absorbed as laborers in Cambodia. This study uses secondary data from the world bank. We use behavioral data analysis with the Threshold Autoregressive model. The research period in this study is the annual period from 2000 to 2019.We found that employment in Cambodia is impacted by investments in health and education. Education is able to increase human capital so that people can find suitable and more productive jobs and jobs that require experts are increasingly filled, this increases work participation while increasing economic performance. Health itself keeps the community healthy and can still work productively so that it can increase the work participation of the Cambodian community",
+  "url": "https://doi.org/10.54204/taji/vol412022012",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.54204/taji/vol412022012",
+    "encodingFormat": "text/html"
+  }
+}

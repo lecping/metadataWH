@@ -1,0 +1,193 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4406838501",
+  "doi": "10.31849/dinamisia.v8i4.19245",
+  "name": "Investment Management and Capital Markets Training for Students State Vocational School 1 Pontianak",
+  "headline": "Investment Management and Capital Markets Training for Students State Vocational School 1 Pontianak",
+  "datePublished": "2024-08-16",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-sa",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Dinamisia Jurnal Pengabdian Kepada Masyarakat",
+    "issn": "2614-7424",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Lancang Kuning University"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5057507267",
+      "name": "Windi Pratiwi",
+      "givenName": "Windi",
+      "familyName": "Pratiwi*",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100731124",
+      "name": "Aisyah Aisyah",
+      "givenName": "Aisyah",
+      "familyName": "Aisyah",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0009-0004-2856-485X"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5116037877",
+      "name": "Rianti Ardana Reswari",
+      "givenName": "None",
+      "familyName": "Reswari",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5116037878",
+      "name": "Naiyun Untung Utama",
+      "givenName": "Naiyun",
+      "familyName": "Utama",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5082916271",
+      "name": "Muhammad Zalviwan",
+      "givenName": "Muhammad",
+      "familyName": "Zalviwan",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 300000,
+      "currency": "IDR"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.60273975
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5260891
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C668760",
+      "name": "Vocational education",
+      "sameAs": "https://www.wikidata.org/wiki/Q6869278"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2777211547",
+      "name": "Training (meteorology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q17141490"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48103436",
+      "name": "State (computer science)",
+      "sameAs": "https://www.wikidata.org/wiki/Q599031"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C11413529",
+      "name": "Algorithm",
+      "sameAs": "https://www.wikidata.org/wiki/Q8366"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C153294291",
+      "name": "Meteorology",
+      "sameAs": "https://www.wikidata.org/wiki/Q25261"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "SMK Negeri 1 Pontianak is one of the vocational schools in Pontianak City that has not applied investment management knowledge in the capital market so students cannot understand the concept of capital markets in the business world. Apart from that, students' knowledge about capital markets is also very minimal due to the low level of literature and practice related to capital markets. It is hoped that this activity will trigger awareness, interest, and knowledge from the younger generation to invest in the capital market. Apart from that, this training also aims to introduce students to investment mechanisms in the Capital Market. This training starts from the preparation stage, namely surveying, determining target locations, preparing facilities and infrastructure for activities, and preparing training materials, including modules for training activities. The stages of implementing the activities are the presentation of material and investment training with simulations using the Motion Trade application.",
+  "url": "https://doi.org/10.31849/dinamisia.v8i4.19245",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.31849/dinamisia.v8i4.19245",
+    "encodingFormat": "text/html"
+  }
+}

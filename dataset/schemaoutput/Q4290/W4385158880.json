@@ -1,0 +1,232 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4385158880",
+  "doi": "10.21686/2413-2829-2023-4-31-43",
+  "name": "Developing Approaches to Priority Setting for Closing-Down of Nuclear Infrastructure",
+  "headline": "Developing Approaches to Priority Setting for Closing-Down of Nuclear Infrastructure",
+  "datePublished": "2023-07-22",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Vestnik of the Plekhanov Russian University of Economics",
+    "issn": "2413-2829",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100810904",
+      "name": "A. Yu. Ivanov",
+      "givenName": "A.",
+      "familyName": "Ivanov",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210157935",
+          "name": "Nuclear Safety Institute",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I1313323035",
+          "name": "Russian Academy of Sciences",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5014958024",
+      "name": "D. F. Ilyasov",
+      "givenName": "D.",
+      "familyName": "Ilyasov",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210157935",
+          "name": "Nuclear Safety Institute",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I1313323035",
+          "name": "Russian Academy of Sciences",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5088120669",
+      "name": "E. G. Mamchits",
+      "givenName": "E.",
+      "familyName": "Mamchits",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210157935",
+          "name": "Nuclear Safety Institute",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I1313323035",
+          "name": "Russian Academy of Sciences",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 3,
+  "citation": [
+    "https://openalex.org/W4293576410",
+    "https://openalex.org/W4316169329"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5373245
+    },
+    {
+      "id": "https://openalex.org/keywords/corporation",
+      "display_name": "Corporation",
+      "score": 0.53311783
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.419703
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C513653683",
+      "name": "Nuclear power",
+      "sameAs": "https://www.wikidata.org/wiki/Q12739"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778775528",
+      "name": "Closing (real estate)",
+      "sameAs": "https://www.wikidata.org/wiki/Q5135432"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348171",
+      "name": "Corporation",
+      "sameAs": "https://www.wikidata.org/wiki/Q167037"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C112930515",
+      "name": "Risk analysis (engineering)",
+      "sameAs": "https://www.wikidata.org/wiki/Q4389547"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134560507",
+      "name": "Environmental economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q753291"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    }
+  ],
+  "abstract": "The article proposes new approaches to prioritizing the close-down of nuclear infrastructure of the State Corporation of Nuclear Power Engineering 'Rosatom' according to social and economic potential of such infrastructure location, their possible risks and with due regard to analyzing different variants of industrial site return to economic use. The effectiveness of nuclear heritage elimination can be increased, for example, at the expense of investment capital raising in such cases, when apart from final condition of the site its target condition can be worked out as a result of re-profiling and re-developing. To elaborate variants of the final standing data of 69 sites were collected and systematized. On these sites operation of nuclear and radiation-risky objects was stopped or it will be stopped by 2025. Apart from this a list of 33 sites was prepared, which have not got clear restrictions concerning their return to economic use. Within the frames of this article methodology was worked out and the result of its testing was provided using the examples of possible variants of targeted condition for the pilot site of enterprises of 'Rosatom' by applying conventional values to demonstrate calculations of the finance and economic model.",
+  "url": "https://doi.org/10.21686/2413-2829-2023-4-31-43",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://vest.rea.ru/jour/article/download/1680/1096",
+    "encodingFormat": "text/html"
+  }
+}

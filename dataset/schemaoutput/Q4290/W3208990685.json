@@ -1,0 +1,249 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W3208990685",
+  "doi": "10.22437/pdpd.v10i2.13431",
+  "name": "Pengaruh belanja modal dan penanaman modal dalam negeri terhadap pertumbuhan ekonomi di Kabupaten/Kota Provinsi Jambi",
+  "headline": "Pengaruh belanja modal dan penanaman modal dalam negeri terhadap pertumbuhan ekonomi di Kabupaten/Kota Provinsi Jambi",
+  "datePublished": "2021-08-01",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "e-Jurnal Perspektif Ekonomi dan Pembangunan Daerah",
+    "issn": "2303-1255",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5030314003",
+      "name": "Haikal Redho Fitrah",
+      "givenName": "Haikal",
+      "familyName": "Fitrah",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I147791725",
+          "name": "Jambi University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5000636755",
+      "name": "Syaparudin Syaparudin",
+      "givenName": "Syaparudin",
+      "familyName": "Syaparudin",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I147791725",
+          "name": "Jambi University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5050494046",
+      "name": "Emilia Emilia",
+      "givenName": "Emilia",
+      "familyName": "Emilia",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I147791725",
+          "name": "Jambi University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2519455688",
+    "https://openalex.org/W2756304344",
+    "https://openalex.org/W2911278779",
+    "https://openalex.org/W3110848970",
+    "https://openalex.org/W3135119595",
+    "https://openalex.org/W590798354"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.62076056
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-expenditure",
+      "display_name": "Capital expenditure",
+      "score": 0.4955455
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-city",
+      "display_name": "Capital city",
+      "score": 0.46585116
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.45250356
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.42131466
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C6422946",
+      "name": "Panel data",
+      "sameAs": "https://www.wikidata.org/wiki/Q857354"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C152877465",
+      "name": "Regression analysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q208042"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C172497479",
+      "name": "Capital expenditure",
+      "sameAs": "https://www.wikidata.org/wiki/Q302208"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2994052530",
+      "name": "Capital city",
+      "sameAs": "https://www.wikidata.org/wiki/Q5119"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C71139939",
+      "name": "Modal",
+      "sameAs": "https://www.wikidata.org/wiki/Q910194"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149782125",
+      "name": "Econometrics",
+      "sameAs": "https://www.wikidata.org/wiki/Q160039"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105795698",
+      "name": "Statistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q12483"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26271046",
+      "name": "Economic geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q187097"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C188027245",
+      "name": "Polymer chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q750446"
+    }
+  ],
+  "abstract": "This study aims to: 1) analyze the development of Capital Expenditure, PMDN and Regency and City Economic Growth in Jambi Province; 2) To find out and analyze the effect of Capital Expenditures and Domestic Investment on the Regency and City Economic Growth in Jambi Province. The research analysis tool uses panel data regression analysis tools. Based on the regression test results, the data of the simultaneous data shows that capital expenditure and PMDN have a significant effect on the economic growth of regencies/cities in Jambi Province. While partially leading the two independent variables, only PMDN affects economic growth in Jambi Province districts/cities, while capital expenditure does not affect economic growth in Jambi Province districts/cities during 2011-2017. Keywords: Capital expenditure, PMDN, Economic growth",
+  "url": "https://doi.org/10.22437/pdpd.v10i2.13431",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://online-journal.unja.ac.id/pdpd/article/download/13431/11965",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4294865112",
+  "doi": "10.2991/aebmr.k.220307.262",
+  "name": "Effect of Financial Reporting Quality on the Cost of Capital and Investment in China",
+  "headline": "Effect of Financial Reporting Quality on the Cost of Capital and Investment in China",
+  "datePublished": "2022-01-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Advances in economics, business and management research/Advances in Economics, Business and Management Research",
+    "issn": "2352-5428",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Atlantis Press"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5059082778",
+      "name": "Erheng Zhou",
+      "givenName": "Erheng",
+      "familyName": "Zhou",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I82495205",
+          "name": "University of Alabama in Huntsville",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5020498877",
+      "name": "Qianwen Luo",
+      "givenName": "Qianwen",
+      "familyName": "Luo",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I27837315",
+          "name": "University of Michigan",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0009-0002-5488-633X"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5102490897",
+      "name": "Yanzi Wu",
+      "givenName": "Yanzi",
+      "familyName": "Wu",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W1968717816",
+    "https://openalex.org/W2066151919",
+    "https://openalex.org/W2160681286",
+    "https://openalex.org/W4230024300",
+    "https://openalex.org/W4244912305",
+    "https://openalex.org/W4249720144"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.60682344
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4897821
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4569552
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C191935318",
+      "name": "China",
+      "sameAs": "https://www.wikidata.org/wiki/Q148"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779530757",
+      "name": "Quality (philosophy)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1207505"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C74734477",
+      "name": "Cost of capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q1479274"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111472728",
+      "name": "Epistemology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9471"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C29122968",
+      "name": "Incentive",
+      "sameAs": "https://www.wikidata.org/wiki/Q1414816"
+    }
+  ],
+  "abstract": "The quality of the financial report is a critical issue in accounting supervision and theoretical research and whether and how it affects the resource allocation decision of the capital market for understanding the importance of accounting to investors and management responsibility.In various financial activities of enterprises, investment management activities are the core, based on the specific relationship between the quality of financial reports and the company's investment efficiency, in the process of practice management must grasp the key to the problem, in accordance with the requirements of the process.There is a close relationship between the quality of financial reports and investment efficiency, which is a supervision and management problem and has an essential impact on investment efficiency.It is necessary to start from the current financial management situation, clarify the relationship between the two, and do an excellent evaluation and evaluation.Starting from the mechanism of financial report affecting company's investment decision, this paper summarizes and evaluates the measurement and empirical research of company's investment efficiency in detail.In conclusion, when the quality of financial reporting is the only factor affecting investment, presenting a company's projects to a broader audience through excellent financial reporting does lead to more investment.",
+  "url": "https://doi.org/10.2991/aebmr.k.220307.262",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.atlantis-press.com/article/125971753.pdf",
+    "encodingFormat": "text/html"
+  }
+}

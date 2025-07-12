@@ -1,0 +1,197 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4410528495",
+  "doi": "10.21043/equilibrium.v12i2.29455",
+  "name": "Analyze of Indonesian and Malaysian Students' Investment Intentions in Islamic Capital Market: The Application of The Theory of Planned Behavior",
+  "headline": "Analyze of Indonesian and Malaysian Students' Investment Intentions in Islamic Capital Market: The Application of The Theory of Planned Behavior",
+  "datePublished": "2024-12-07",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-sa",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Equilibrium Jurnal Ekonomi Syariah",
+    "issn": "2355-0228",
+    "publisher": {
+      "@type": "Organization",
+      "name": "STAIN Kudus"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5035820026",
+      "name": "Muhammad Hafizh Raihan",
+      "givenName": "Muhartsal",
+      "familyName": "Raihan",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5033214991",
+      "name": "Yadi Nurhayadi",
+      "givenName": "Yadi",
+      "familyName": "Nurhayadi",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5015118863",
+      "name": "Tita Nursyamsiah",
+      "givenName": "Tita",
+      "familyName": "Nursyamsiah",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0003-3808-8602"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6436776
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.51538956
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.41775715
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779207338",
+      "name": "Indonesian",
+      "sameAs": "https://www.wikidata.org/wiki/Q9240"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C4445939",
+      "name": "Islam",
+      "sameAs": "https://www.wikidata.org/wiki/Q432"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C167562979",
+      "name": "Classical economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q271857"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C89785696",
+      "name": "Theory of planned behavior",
+      "sameAs": "https://www.wikidata.org/wiki/Q2290753"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C187736073",
+      "name": "Management",
+      "sameAs": "https://www.wikidata.org/wiki/Q2920921"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27206212",
+      "name": "Theology",
+      "sameAs": "https://www.wikidata.org/wiki/Q34178"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C195244886",
+      "name": "Ancient history",
+      "sameAs": "https://www.wikidata.org/wiki/Q41493"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2775924081",
+      "name": "Control (management)",
+      "sameAs": "https://www.wikidata.org/wiki/Q55608371"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    }
+  ],
+  "abstract": "&lt;p&gt;&lt;em&gt;This research aims to identify the factors influencing the investment intentions of Indonesian and Malaysian students in the Islamic Capital Market. The study is based on the Theory of Planned Behavior as its framework. It employs non-probability sampling techniques, specifically purposive sampling, combined with a quantitative methodology. Data for the study was collected from 191 respondents, consisting of students from various universities in Indonesia and Malaysia, through a survey questionnaire. Data analysis was conducted using Structural Equation Modeling (SEM) with the SmartPLS 3.0 software. This research seeks to encourage Indonesian and Malaysian students, as representatives of two predominantly Muslim nations, to develop intentions to invest in the Islamic Capital Market.&lt;/em&gt;&lt;/p&gt;",
+  "url": "https://doi.org/10.21043/equilibrium.v12i2.29455",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.21043/equilibrium.v12i2.29455",
+    "encodingFormat": "text/html"
+  }
+}

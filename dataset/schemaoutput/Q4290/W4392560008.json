@@ -1,0 +1,233 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4392560008",
+  "doi": "10.21744/ijbem.v7n1.2249",
+  "name": "influence of investment knowledge, minimum capital, influencers, technological progress on students interest in investing in the capital market",
+  "headline": "influence of investment knowledge, minimum capital, influencers, technological progress on students interest in investing in the capital market",
+  "datePublished": "2024-03-05",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International journal of business economics & management",
+    "issn": "2632-9476",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5094091634",
+      "name": "Made Arindra Riswana",
+      "givenName": "Made",
+      "familyName": "Riswana",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I126826664",
+          "name": "Udayana University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5024513388",
+      "name": "Gerianta Wirawan Yasa",
+      "givenName": "Gerianta",
+      "familyName": "Yasa",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I126826664",
+          "name": "Udayana University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-8991-0152"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2040550167",
+    "https://openalex.org/W2055446988",
+    "https://openalex.org/W2085453641",
+    "https://openalex.org/W2126071269",
+    "https://openalex.org/W2142197452",
+    "https://openalex.org/W2508094183",
+    "https://openalex.org/W2759276665",
+    "https://openalex.org/W2767340885",
+    "https://openalex.org/W2981781013",
+    "https://openalex.org/W2990691738",
+    "https://openalex.org/W3112212740",
+    "https://openalex.org/W3121865524",
+    "https://openalex.org/W3122613786",
+    "https://openalex.org/W3124023764",
+    "https://openalex.org/W3193947725",
+    "https://openalex.org/W4205892496",
+    "https://openalex.org/W4214947197",
+    "https://openalex.org/W4283811016",
+    "https://openalex.org/W4285046989",
+    "https://openalex.org/W4294904066",
+    "https://openalex.org/W4311032088",
+    "https://openalex.org/W4312116857",
+    "https://openalex.org/W4388798419",
+    "https://openalex.org/W4390861284",
+    "https://openalex.org/W4401992657"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6292018
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.49837542
+    },
+    {
+      "id": "https://openalex.org/keywords/physical-capital",
+      "display_name": "Physical capital",
+      "score": 0.47500953
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.43047747
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26011011",
+      "name": "Influencer marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q6030243"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C9127897",
+      "name": "Physical capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q990550"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C192975520",
+      "name": "Marketing management",
+      "sameAs": "https://www.wikidata.org/wiki/Q1143466"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C54649085",
+      "name": "Relationship marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q574424"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This research aims to analyze the influence of investment knowledge, minimum capital, influencers, technological advances, and student's interest in investing. The population for this study were all tertiary students in the city of Denpasar totaling 85,595 people and the number of samples calculated using the Slovin formula was 398 people. This study used a data collection technique, namely a questionnaire. The analysis technique in this study is multiple linear regression analysis. The results of this research are that investment knowledge, influencers, and technological advances have a positive effect on investment interest, while the minimum capital has no effect on student's investment interest.",
+  "url": "https://doi.org/10.21744/ijbem.v7n1.2249",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://sloap.org/journal/index.php/ijbem/article/download/2249/1000",
+    "encodingFormat": "text/html"
+  }
+}

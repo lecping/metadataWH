@@ -1,0 +1,211 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4410836446",
+  "doi": "10.47191/ijcsrr/v8-i5-53",
+  "name": "Improving Public Sector Performance through Human Capital Investment: The Role of Training and Career Development in Pariaman City, Indonesia",
+  "headline": "Improving Public Sector Performance through Human Capital Investment: The Role of Training and Career Development in Pariaman City, Indonesia",
+  "datePublished": "2025-05-26",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Current Science Research and Review",
+    "issn": "2581-8341",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5104106423",
+      "name": "Novita Anggraini",
+      "givenName": "Novita",
+      "familyName": "Anggraini",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5088381878",
+      "name": "Nidya Dudija",
+      "givenName": "Nidya",
+      "familyName": "Dudija",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.64641094
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.45654866
+    },
+    {
+      "id": "https://openalex.org/keywords/training-and-development",
+      "display_name": "Training and Development",
+      "score": 0.4450172
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2777211547",
+      "name": "Training (meteorology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q17141490"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C147859227",
+      "name": "Public sector",
+      "sameAs": "https://www.wikidata.org/wiki/Q294217"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2994464924",
+      "name": "Public investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q1929688"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2777132934",
+      "name": "Training and development",
+      "sameAs": "https://www.wikidata.org/wiki/Q348960"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2777247013",
+      "name": "Career development",
+      "sameAs": "https://www.wikidata.org/wiki/Q5038939"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145236788",
+      "name": "Labour economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q28161"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C187736073",
+      "name": "Management",
+      "sameAs": "https://www.wikidata.org/wiki/Q2920921"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105639569",
+      "name": "Economic policy",
+      "sameAs": "https://www.wikidata.org/wiki/Q582577"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136264566",
+      "name": "Economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q159810"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C19417346",
+      "name": "Pedagogy",
+      "sameAs": "https://www.wikidata.org/wiki/Q7922"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2910001868",
+      "name": "European union",
+      "sameAs": "https://www.wikidata.org/wiki/Q458"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C153294291",
+      "name": "Meteorology",
+      "sameAs": "https://www.wikidata.org/wiki/Q25261"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Employee performance plays a crucial role in governance and public service. Enhancing staff performance through training and development to increase competencies in order to improve performance is one way the government is working to increase the efficacy and efficiency of public services. The firm can reap long-term benefits from investing in human resource development, so it is imperative to provide staff training and career development greater thought and assistance. The primary goal of this research is to examine the effects of training and career development on the performance of civil servants in the Pariaman City government. The respondents total are 295 civil servants from the Pariaman City Government participated in the data gathering process, which involved distributing questionnaires to them both online and offline. The Slovin formula and cluster random sampling technique were used to get the sample size. To examine data was used the Structural Equation Modeling (SEM) – Partial Least Square (PLS) method. According to the study’s result, training has a considerable and substansial impact on employee performance. Career development also has an influence on employee performance but has a weak correlation. Simultaneously, training and career development have impact with a percentage of 45.5% on employee performance.",
+  "url": "https://doi.org/10.47191/ijcsrr/v8-i5-53",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.47191/ijcsrr/v8-i5-53",
+    "encodingFormat": "text/html"
+  }
+}

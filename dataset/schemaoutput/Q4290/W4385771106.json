@@ -1,0 +1,229 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4385771106",
+  "doi": "10.1051/shsconf/202317401027",
+  "name": "Status and improvements of transforming scientific research achievements into teaching resources in universities",
+  "headline": "Status and improvements of transforming scientific research achievements into teaching resources in universities",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "SHS Web of Conferences",
+    "issn": "2261-2424",
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDP Sciences"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5102421883",
+      "name": "Fengling Yang",
+      "givenName": "Fengling",
+      "familyName": "Yang",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I257545875",
+          "name": "Hunan University of Humanities, Science and Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5067498384",
+      "name": "Shu Wang",
+      "givenName": "Shu",
+      "familyName": "Wang",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I257545875",
+          "name": "Hunan University of Humanities, Science and Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-5914-0804"
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W2018168937"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.7176579
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5095856
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4450876
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204241405",
+      "name": "Transformation (genetics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q461499"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C89611455",
+      "name": "Mechanism (biology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q6804646"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C110354214",
+      "name": "Engineering management",
+      "sameAs": "https://www.wikidata.org/wiki/Q6314146"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C56739046",
+      "name": "Knowledge management",
+      "sameAs": "https://www.wikidata.org/wiki/Q192060"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145420912",
+      "name": "Mathematics education",
+      "sameAs": "https://www.wikidata.org/wiki/Q853077"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C104317684",
+      "name": "Gene",
+      "sameAs": "https://www.wikidata.org/wiki/Q7187"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C55493867",
+      "name": "Biochemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q7094"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111472728",
+      "name": "Epistemology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9471"
+    }
+  ],
+  "abstract": "There are many practical difficulties in the concrete implementation of transforming scientific research results into teaching resources. Through analyzing the existing transformation forms and problems, a comprehensive transformation model is discussed, and a comprehensive evaluation system covering teachers and students is established. Establish a guarantee mechanism from multiple channels such as capital investment, system guarantee, and performance reward, escort the transformation of scientific research results into teaching resources, and promote universities to strengthen the talents training.",
+  "url": "https://doi.org/10.1051/shsconf/202317401027",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.shs-conferences.org/articles/shsconf/pdf/2023/23/shsconf_seaa2023_01027.pdf",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4307329714",
+  "doi": "10.15350/2409-7616.2022.2.42",
+  "name": "Choice of the form of investment organization for state participation in the venture capital market",
+  "headline": "Choice of the form of investment organization for state participation in the venture capital market",
+  "datePublished": "2022-09-30",
+  "copyrightYear": 2022,
+  "inLanguage": "ru",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "CITISE",
+    "issn": "2409-7616",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5083057293",
+      "name": "Roman Kulagin",
+      "givenName": "Roman",
+      "familyName": "Kulagin",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I21203515",
+          "name": "Kazan Federal University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-9974-463X"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2619828687",
+    "https://openalex.org/W2685003786",
+    "https://openalex.org/W2981526505",
+    "https://openalex.org/W3025418264",
+    "https://openalex.org/W3039596987",
+    "https://openalex.org/W3204836939",
+    "https://openalex.org/W4251938632"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/social-venture-capital",
+      "display_name": "Social venture capital",
+      "score": 0.7937901
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6810576
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.421041
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41556206
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21279758",
+      "name": "Venture capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q219409"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134827381",
+      "name": "Social venture capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q261851"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48103436",
+      "name": "State (computer science)",
+      "sameAs": "https://www.wikidata.org/wiki/Q599031"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C73283319",
+      "name": "Financial system",
+      "sameAs": "https://www.wikidata.org/wiki/Q1416617"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C11413529",
+      "name": "Algorithm",
+      "sameAs": "https://www.wikidata.org/wiki/Q8366"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "Аннотация.Венчурное инвестирование является основным механизмом финансирования малых инновационных предприятий.Государственное участие сыграло определяющую роль в развитии и институционализации рынка венчурного инвестирования.Считается, что предприятия, продвигающие инновационные проекты способствуют экономическому росту и повышению конкурентоспособности экономики страны.По этой причине, правительства многих стран уделяют особое внимание проблемам функционирования и развития институтов венчурных инвестиций.В экономике России наблюдается тенденция к снижению объема венчурных инвестиций.Увеличение объема финансовых средств, выделяемых государством на венчурные инвестиции, могло бы сгладить этот тренд",
+  "url": "https://doi.org/10.15350/2409-7616.2022.2.42",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://ma123.ru/wp-content/uploads/2022/06/Kulagin_CITISE_2-2022.pdf",
+    "encodingFormat": "text/html"
+  }
+}

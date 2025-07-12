@@ -1,0 +1,172 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4409379804",
+  "doi": "10.32479/ijefi.18735",
+  "name": "Capital Mobility between ASEAN+3 and the US: An Analysis of Saving-Investment Relationship",
+  "headline": "Capital Mobility between ASEAN+3 and the US: An Analysis of Saving-Investment Relationship",
+  "datePublished": "2025-04-12",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Economics and Financial Issues",
+    "issn": "2146-4138",
+    "publisher": {
+      "@type": "Organization",
+      "name": "EconJournals"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5008340442",
+      "name": "Farihana Shahari",
+      "givenName": "Farihana",
+      "familyName": "Shahari",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0003-3964-1959"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100739163",
+      "name": "Md. Saifur Rahman",
+      "givenName": "Md.",
+      "familyName": "Rahman",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0001-7247-5564"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5030873409",
+      "name": "Mahfuzur Rahman",
+      "givenName": "Mahfuzur",
+      "familyName": "Rahman",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0003-2072-5829"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 300,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.63433915
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.51787233
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.48835728
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18547055",
+      "name": "International economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q47417"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C155202549",
+      "name": "International trade",
+      "sameAs": "https://www.wikidata.org/wiki/Q178803"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "By using the hedging approach, this paper empirically examines the effectiveness of portfolio diversification in ASEAN+3 and US financial markets. Equity returns which is extracted from equity indices is used in the estimation by spanning data period from January 1991 to June 2018 which is disaggregated between pre-and post-financial cooperation agreement period. The study offers several outcomes for example portfolio with multiple assets is more effective than that of two-asset portfolio. The assets of emerging economies are more effective than that of developed economies due to the reflection of efficient market hypothesis. The study suggests policy recommendation for selecting the right assets to form an effective portfolio diversification.",
+  "url": "https://doi.org/10.32479/ijefi.18735",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.32479/ijefi.18735",
+    "encodingFormat": "text/html"
+  }
+}

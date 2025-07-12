@@ -1,0 +1,324 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4288047193",
+  "doi": "10.5377/nexo.v35i02.14633",
+  "name": "Involving 4th generation district heating technologies: residential buildings in remote areas of Russia",
+  "headline": "Involving 4th generation district heating technologies: residential buildings in remote areas of Russia",
+  "datePublished": "2022-06-30",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Nexo Revista Científica",
+    "issn": "1818-6742",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Universidad Nacional de Ingeniería"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5013456294",
+      "name": "Sergey V. Glukhov",
+      "givenName": "Sergey",
+      "familyName": "Glukhov",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I20119556",
+          "name": "Omsk State Technical University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5009610600",
+      "name": "Mariya V. Glughova",
+      "givenName": "Mariya",
+      "familyName": "Glughova",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I20119556",
+          "name": "Omsk State Technical University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5061847185",
+      "name": "Станислав Чичерин",
+      "givenName": "Stanislav",
+      "familyName": "Chicherin",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I20119556",
+          "name": "Omsk State Technical University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-9359-9678"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5089876606",
+      "name": "Andrey Zhuikov",
+      "givenName": "Andrey",
+      "familyName": "Zhuikov",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4853710",
+          "name": "Siberian Federal University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-9809-8285"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5073236401",
+      "name": "Lyazzat Junussova",
+      "givenName": "Lyazzat",
+      "familyName": "Junussova",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I247491477",
+          "name": "Almaty University of Power Engineering and Telecommunications",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "KZ"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-6874-268X"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2776522409",
+    "https://openalex.org/W2781532259",
+    "https://openalex.org/W2782412874",
+    "https://openalex.org/W2993143318",
+    "https://openalex.org/W3013441533",
+    "https://openalex.org/W3019367691",
+    "https://openalex.org/W3038474450",
+    "https://openalex.org/W3041251713",
+    "https://openalex.org/W3072847883",
+    "https://openalex.org/W3081598828",
+    "https://openalex.org/W3084878490",
+    "https://openalex.org/W3110890673"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-cost",
+      "display_name": "Capital cost",
+      "score": 0.6137569
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.57024556
+    },
+    {
+      "id": "https://openalex.org/keywords/payback-period",
+      "display_name": "Payback period",
+      "score": 0.566831
+    },
+    {
+      "id": "https://openalex.org/keywords/consumption",
+      "display_name": "Consumption",
+      "score": 0.50128865
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4476501
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C157062255",
+      "name": "Capital cost",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035697"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144553756",
+      "name": "Payback period",
+      "sameAs": "https://www.wikidata.org/wiki/Q15081665"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C206658404",
+      "name": "Electricity",
+      "sameAs": "https://www.wikidata.org/wiki/Q12725"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776060655",
+      "name": "Tariff",
+      "sameAs": "https://www.wikidata.org/wiki/Q52389"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776461528",
+      "name": "Heat pump",
+      "sameAs": "https://www.wikidata.org/wiki/Q131313"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C30772137",
+      "name": "Consumption (sociology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q5164762"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C548081761",
+      "name": "Waste management",
+      "sameAs": "https://www.wikidata.org/wiki/Q180388"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119599485",
+      "name": "Electrical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q43035"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78519656",
+      "name": "Mechanical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q101333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C107706546",
+      "name": "Heat exchanger",
+      "sameAs": "https://www.wikidata.org/wiki/Q189124"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C36289849",
+      "name": "Social science",
+      "sameAs": "https://www.wikidata.org/wiki/Q34749"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C155202549",
+      "name": "International trade",
+      "sameAs": "https://www.wikidata.org/wiki/Q178803"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    }
+  ],
+  "abstract": "This study aims to justify the possibility of expanding the energy and economic efficiency of a district heating [DH] system. The case study territory is a remote area of the Omsk region (Russia); the method is electric heating. To address this issue, we (1) considered the potential of modernizing these DH systems, (2) analyzed available options, (3) designed the main and auxiliary heat generation equipment, and (4) committed a feasibility study. The design heat consumption was 0.24 MW. To achieve this goal, we suggested two heat pumps; their capacity was 280 kW, and the investment required to install two heat pumps of 150 kW was 2.6 billion rubles. The total capital cost was 4.0 billion rubles. The annual effect after the heat pumps were installed was 0.7 billion rubles. The payback period was 5.6 years; to decrease it, one should install multiple heat pumps on the consumer side. The reason is to avoid heat distribution losses. Replacing traditional DH plants with electric boilers is feasible only if the cost of heat is 6,600 rubles per MWh or above. This cost has already been achieved for several DH plants. Ground source heat pumps are viable at lower prices, approximately 4,100 rubles per MWh. This option is especially helpful in remote areas of the Omsk region where the billing tariff is already high. When modernizing the heat supply infrastructure of the northern areas of the Omsk region, one can increase annual electricity consumption by 6%, decrease tariffs, and become more ecologically friendly at the same time.",
+  "url": "https://doi.org/10.5377/nexo.v35i02.14633",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.camjol.info/index.php/NEXO/article/download/14633/17359",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4376525842",
+  "doi": "10.35429/janre.2022.11.6.13.18",
+  "name": "Economic evaluation of solar drying process for washed coffee in mixteca region of Oaxaca state, México",
+  "headline": "Economic evaluation of solar drying process for washed coffee in mixteca region of Oaxaca state, México",
+  "datePublished": "2022-12-31",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal-Agrarian and Natural Resource Economics",
+    "issn": "2524-2091",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5027692413",
+      "name": "Luis Eduardo García-Mayoral",
+      "givenName": "Luis",
+      "familyName": "García-Mayoral",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210086193",
+          "name": "Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "MX"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-7073-9482"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5075519442",
+      "name": "Juan Quintanar Olguín",
+      "givenName": "Juan",
+      "familyName": "Quintanar-Olguin",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210086193",
+          "name": "Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "MX"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-2388-5027"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5010998494",
+      "name": "Antonio Martínez Ruíz",
+      "givenName": "Antonio",
+      "familyName": "Martinez-Ruiz",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210086193",
+          "name": "Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "MX"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-6555-4651"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1822945457",
+    "https://openalex.org/W1984943927",
+    "https://openalex.org/W2031978279",
+    "https://openalex.org/W2460716256",
+    "https://openalex.org/W2562846122",
+    "https://openalex.org/W2567537263",
+    "https://openalex.org/W2806785466",
+    "https://openalex.org/W2885698075",
+    "https://openalex.org/W2894525576",
+    "https://openalex.org/W3006670288",
+    "https://openalex.org/W3048260927",
+    "https://openalex.org/W3085207434",
+    "https://openalex.org/W3202438719",
+    "https://openalex.org/W4211210207",
+    "https://openalex.org/W4300029962"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/solar-dryer",
+      "display_name": "Solar dryer",
+      "score": 0.6838856
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4833038
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.42498288
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779973532",
+      "name": "Solar dryer",
+      "sameAs": "https://www.wikidata.org/wiki/Q7556156"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C32198211",
+      "name": "Greenhouse",
+      "sameAs": "https://www.wikidata.org/wiki/Q165044"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C541104983",
+      "name": "Solar energy",
+      "sameAs": "https://www.wikidata.org/wiki/Q40015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18762648",
+      "name": "Work (physics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q42213"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C528095902",
+      "name": "Pulp and paper industry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2283886"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C548081761",
+      "name": "Waste management",
+      "sameAs": "https://www.wikidata.org/wiki/Q180388"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C88463610",
+      "name": "Agricultural engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q194118"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C87717796",
+      "name": "Environmental engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q146326"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37621935",
+      "name": "Agricultural science",
+      "sameAs": "https://www.wikidata.org/wiki/Q3606845"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144027150",
+      "name": "Horticulture",
+      "sameAs": "https://www.wikidata.org/wiki/Q48803"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78519656",
+      "name": "Mechanical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q101333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119599485",
+      "name": "Electrical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q43035"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    }
+  ],
+  "abstract": "Solar drying is an alternative innovation to process where product is exposed to direct sunlight and outdoors and where final quality is not always optimal. Solar dryers are installations that require little capital and low maintenance costs, are easy to build and use any locally available material. Objective of this work was to evaluate economic efficiency of drying process of washed coffee beans using a solar dryer built with regional materials. Study was carried out during 2022 coffee harvest, in a passive semi-parabolic greenhouse solar dryer, with an external cover of 36 m2 as a collector. Results showed a unit cost of $11.29 MXN on average to dry a kilogram of washed coffee and transform it into parchment coffee; the benefit/cost ratio was 1.40 and the investment recovery period was determined in one months, values that make solar drying unit a highly profitable option.",
+  "url": "https://doi.org/10.35429/janre.2022.11.6.13.18",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.35429/janre.2022.11.6.13.18",
+    "encodingFormat": "text/html"
+  }
+}

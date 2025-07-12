@@ -1,0 +1,260 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4390098719",
+  "doi": "10.35265/2236-6717-241-12905",
+  "name": "MODELAGEM PREDITIVA DE CUSTOS EM PROCESSOS DE CONVERSÃO DE FITAS ADESIVAS",
+  "headline": "MODELAGEM PREDITIVA DE CUSTOS EM PROCESSOS DE CONVERSÃO DE FITAS ADESIVAS",
+  "datePublished": "2023-12-18",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Revista Científica Semana Acadêmica",
+    "issn": "2236-6717",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5101400994",
+      "name": "RAMON DELANO DE ASSUNÇÃO",
+      "givenName": "RAMON",
+      "familyName": "ASSUNÇÃO",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I52418104",
+          "name": "Universidade Federal do Paraná",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "BR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0009-0002-0681-2715"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5069700351",
+      "name": "Marcell Mariano Corrêa Maceno",
+      "givenName": "MARCELL",
+      "familyName": "MACENO",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-6762-8236"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1971525654",
+    "https://openalex.org/W1979685808",
+    "https://openalex.org/W1993747447",
+    "https://openalex.org/W2020564360",
+    "https://openalex.org/W2027974857",
+    "https://openalex.org/W2054907463",
+    "https://openalex.org/W2062350773",
+    "https://openalex.org/W2927708271",
+    "https://openalex.org/W2977324162",
+    "https://openalex.org/W2984593266",
+    "https://openalex.org/W3117547812",
+    "https://openalex.org/W3123999129",
+    "https://openalex.org/W3155098077",
+    "https://openalex.org/W3170966032",
+    "https://openalex.org/W3210959740",
+    "https://openalex.org/W3212115849",
+    "https://openalex.org/W368444936",
+    "https://openalex.org/W4205635279",
+    "https://openalex.org/W4213162407",
+    "https://openalex.org/W4224141351",
+    "https://openalex.org/W4313887414",
+    "https://openalex.org/W4361282646",
+    "https://openalex.org/W58292276",
+    "https://openalex.org/W644557015"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6867491
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.52682704
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.48149145
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204983608",
+      "name": "Productivity",
+      "sameAs": "https://www.wikidata.org/wiki/Q2111958"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C90673727",
+      "name": "Product (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q901718"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779530757",
+      "name": "Quality (philosophy)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1207505"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C98045186",
+      "name": "Process (computing)",
+      "sameAs": "https://www.wikidata.org/wiki/Q205663"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37621935",
+      "name": "Agricultural science",
+      "sameAs": "https://www.wikidata.org/wiki/Q3606845"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2524010",
+      "name": "Geometry",
+      "sameAs": "https://www.wikidata.org/wiki/Q8087"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111472728",
+      "name": "Epistemology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9471"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111919701",
+      "name": "Operating system",
+      "sameAs": "https://www.wikidata.org/wiki/Q9135"
+    }
+  ],
+  "abstract": "Packaging and crepe adhesive tapes are common items in the retail market and in the daily lives of Brazilian consumers. In this article, through a case study, an evaluation was carried out on these types of adhesive tapes sold in retail regarding possible converting processes, cost calculation, capital investment and considerations on finished product quality and maintenance of machinery in the production process. In a two-step converting process, rewinding followed by cutting, it was observed lesser need for capital investment, lesser need for specialized labor and lower maintenance costs. For a single-step converting process, with simultaneous rewinding and cutting, it was observed better productivity, higher quality and lower finished product cost due to the more efficient converting process. However, for this type of single-step process, a bigger capital investment is necessary due to investment in more complex machinery, higher expenditure on more qualified labor and maintenance. A cost sensitivity analysis of the converting processes and finished product was also carried out depending on the desired output in order to compare process scenarios at different output levels for both products.",
+  "url": "https://doi.org/10.35265/2236-6717-241-12905",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.35265/2236-6717-241-12905",
+    "encodingFormat": "text/html"
+  }
+}

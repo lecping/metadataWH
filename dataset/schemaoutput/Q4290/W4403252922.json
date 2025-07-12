@@ -1,0 +1,162 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4403252922",
+  "doi": "10.55956/dfrh7457",
+  "name": "FORMATION OF INVESTMENT ACTIVITY IN THE REGION AS A FACTOR OF SPATIAL DEVELOPMENT",
+  "headline": "FORMATION OF INVESTMENT ACTIVITY IN THE REGION AS A FACTOR OF SPATIAL DEVELOPMENT",
+  "datePublished": "2024-09-30",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "DULATY UNIVERSITY BULLETIN",
+    "issn": "2788-4724",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5093017849",
+      "name": "U.К. Raimbekova",
+      "givenName": "U.К.",
+      "familyName": "Raimbekova",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0001-7240-3237"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.7755316
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.51438195
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.44800127
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26271046",
+      "name": "Economic geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q187097"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776542497",
+      "name": "Development (topology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q5266672"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C148383697",
+      "name": "Regional science",
+      "sameAs": "https://www.wikidata.org/wiki/Q1781695"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C74363100",
+      "name": "Economic system",
+      "sameAs": "https://www.wikidata.org/wiki/Q273005"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134306372",
+      "name": "Mathematical analysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q7754"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    }
+  ],
+  "abstract": "Capital is always looking for favorable conditions to preserve and increase, respectively, the institutional factors of investment activity in the regions of the country are crucial to ensure its attraction. The purpose of this study is to substantiate the impact of investments on the main economic indicators of the region's development, on its spatial development. The article examines the importance and role of investments and provides a brief overview of scientific ideas about the content of the concept of «spatial development. It is shown that when developing a spatial development strategy, it is necessary to apply a systematic approach. During the research, general scientific methods of analysis and special methods of economic and statistical research were used. From the results obtained, it can be concluded that the state of investment activity in the region has unstable growth trends, in particular investments in fixed assets. In conclusion, the main aspects of the relationship between investment activity and the spatial development of the region are summarized.",
+  "url": "https://doi.org/10.55956/dfrh7457",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://journals.dulaty.kz/images/vipusk/dulaty/2024/3/199-206-raimbekova.pdf",
+    "encodingFormat": "text/html"
+  }
+}

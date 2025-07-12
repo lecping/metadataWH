@@ -1,0 +1,192 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4411379853",
+  "doi": "10.62843/jrsr/2025.4a073",
+  "name": "The Human Capital Investment and Economic Growth in Pakistan: Insights from Education and Infrastructure Development",
+  "headline": "The Human Capital Investment and Economic Growth in Pakistan: Insights from Education and Infrastructure Development",
+  "datePublished": "2025-03-30",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Regional Studies Review",
+    "issn": "3006-8118",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5086054263",
+      "name": "Bushra Pervaiz",
+      "givenName": "Bushra",
+      "familyName": "Pervaiz",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I274311791",
+          "name": "Lahore Leads University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PK"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-8942-9465"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5069223740",
+      "name": "Muhammad Qasim Manzoor",
+      "givenName": "Muhammad",
+      "familyName": "Manzoor",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210150075",
+          "name": "Rahnuma",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PK"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5101177711",
+      "name": "Hassan Farooq",
+      "givenName": "Hassan",
+      "familyName": "Farooq",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I17120543",
+          "name": "National University of Modern Languages",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PK"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5115738316",
+      "name": "Rana Hamza Gull",
+      "givenName": "Rana",
+      "familyName": "Gull",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I274311791",
+          "name": "Lahore Leads University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PK"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.610816
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4532512
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C47768531",
+      "name": "Development economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q1127188"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The complex pathways behind positive impact of human capital investment on economic growth have gained considerable focus in recent decades. The investment in education, technology innovation, and skills development play a crucial role in driving sustainable economic development. Despite Pakistan’s growing population and investment in education and infrastructure, the economy continues to face challenges in achieving sustainable growth. This research explored the dynamic relationship between education levels (Illiterate, basic and advanced), gross fixed capital formation (GFCF), and economic growth in Pakistan. The relevant data spanning from 2000 to 2024 was derived from Government of Pakistan’s statistics. The ARDL cointegration was employed for data analysis. The empirical findings revealed that advanced education and GFCF were significant drivers of economic growth in the long run, whereas illiteracy had adverse impact on real GDP. Notably, the study found that basic education alone was insufficient to stimulate economic growth, and it highlighted the need for more advanced human capital in Pakistan. In the short run, the impact of advanced education and GFCF were mixed. The GFCF appeared to be hindered by inefficiencies in capital utilization. The study's results were robust and reliable as confirmed by diagnostic and stability tests. The findings underlined the importance of policy interventions aimed at reducing illiteracy, enhancing basic education outcomes, expanding access to advanced education, and improving capital formation efficiencies for sustainable economic growth in Pakistan.",
+  "url": "https://doi.org/10.62843/jrsr/2025.4a073",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.62843/jrsr/2025.4a073",
+    "encodingFormat": "text/html"
+  }
+}

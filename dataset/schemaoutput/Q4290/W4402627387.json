@@ -1,0 +1,154 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4402627387",
+  "doi": "10.33506/sl.v13i3.3482",
+  "name": "Entrepreneurial Behaviour in Choosing Capital Alternatives in MSMEs and Investment Trends in Indonesia",
+  "headline": "Entrepreneurial Behaviour in Choosing Capital Alternatives in MSMEs and Investment Trends in Indonesia",
+  "datePublished": "2024-08-18",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "SENTRALISASI",
+    "issn": "1979-7567",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Universitas Muhammadiyah Sidoarjo"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5107471034",
+      "name": "Muhammad Iqbal Fathurrahman",
+      "givenName": "Muhammad",
+      "familyName": "Fathurrahman",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5107605192",
+      "name": "Annisa Fajri",
+      "givenName": "Annisa",
+      "familyName": "Fajri",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5000530120",
+      "name": "Edy Purwanto",
+      "givenName": "Edy",
+      "familyName": "Purwanto",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-5155-5845"
+    }
+  ],
+  "citationCount": 1,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5565956
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.53528017
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.47389784
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This study explores entrepreneurial behaviors that influence the decisions of SME owners in choosing financing alternatives and investment trends in Indonesia. Through quantitative study using questionnaire, this aiming to provide insights into the factors influencing the selection of financing sources and investment tendencies among SMEs. The findings reveal that entrepreneurial behaviors such as risk tolerance, financial knowledge, long-term vision, and adaptability significantly influence the decisions of SME owners in selecting funding sources. Additionally, investment trends in Indonesia also play a crucial role, with SMEs tending to choose financing alternatives that align with their business growth needs. This research contributes significantly to understanding how entrepreneurial behaviors interact with external factors such as investment trends in the context of SMEs in Indonesia. The practical implication highlighting importance of a better understanding of the dynamics of financing decisions among SMEs and how governments and relevant institutions can support SME growth through a better understanding of financial needs and preferences to a small—medium sized business owners. The condition where workers shift from agriculture to industry often occurs with the advent of industrialization.",
+  "url": "https://doi.org/10.33506/sl.v13i3.3482",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.33506/sl.v13i3.3482",
+    "encodingFormat": "text/html"
+  }
+}

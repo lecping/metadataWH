@@ -1,0 +1,170 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4401195074",
+  "doi": "10.5539/ass.v20n4p49",
+  "name": "Strengthening the Family Economy through Efforts to Development of Working Capital Investment in Traditional Fishermen in Pati Karya Village, Indonesia",
+  "headline": "Strengthening the Family Economy through Efforts to Development of Working Capital Investment in Traditional Fishermen in Pati Karya Village, Indonesia",
+  "datePublished": "2024-07-31",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Asian Social Science",
+    "issn": "1911-2017",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Canadian Center of Science and Education"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5106017692",
+      "name": "Rustan M.Si",
+      "givenName": "Rustan",
+      "familyName": "M.Si",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210108816",
+          "name": "Universitas Muhammadiyah Jember",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3132802412",
+          "name": "Muhammadiyah University of Makassar",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W1966094829",
+    "https://openalex.org/W1990276610",
+    "https://openalex.org/W2468364239",
+    "https://openalex.org/W2534317664",
+    "https://openalex.org/W2617809343",
+    "https://openalex.org/W3021839124",
+    "https://openalex.org/W653358338"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6986873
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5668793
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.51418185
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C60679458",
+      "name": "Working capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q823288"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136264566",
+      "name": "Economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q159810"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C195244886",
+      "name": "Ancient history",
+      "sameAs": "https://www.wikidata.org/wiki/Q41493"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    }
+  ],
+  "abstract": "Type of qualitative research through a phenomenologica approach, while the research results show that the welfare of traditional fishermen in coastal areas, especially those who depend on the fisheries sector, is the main focus in maintaining economic and social sustainability. The main challenges faced are low income and limited access to profitable markets, adequate technology, and sufficient working capital. Therefore, the necessary strategies include the formation of fishing groups, knowledge enhancement training, government support in information technology, and modernization of fishing gear. Through cooperation between the government, development agencies, and communities, efforts to improve the welfare of traditional fishermen can be realized, maintaining the sustainability of the fisheries sector and the local economy. The financial management of traditional fishermen in Selayar Regency has advantages in independence, flexibility, and connectedness with local culture, but also faces a number of challenges. Despite being able to manage finances independently and flexibly in the face of changing markets and seasons, traditional fishermen often have difficulty accessing formal financial resources and lack understanding of modern financial principles. They are also vulnerable to economic and environmental changes and lack of supporting infrastructure in their areas. Therefore, efforts are needed to improve access to formal financial services, modern financial knowledge, and supporting infrastructure to improve financial management and economic stability of traditional fishermen.",
+  "url": "https://doi.org/10.5539/ass.v20n4p49",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.5539/ass.v20n4p49",
+    "encodingFormat": "text/html"
+  }
+}

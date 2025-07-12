@@ -1,0 +1,235 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4389494831",
+  "doi": "10.15587/978-617-7319-71-8.ch8",
+  "name": "Management of innovative development projects of railway transport enterprises",
+  "headline": "Management of innovative development projects of railway transport enterprises",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "PRIVAT COMPANY TECHNOLOGY CENTER eBooks",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5113066901",
+      "name": "Viktoriia Ovchynnikova",
+      "givenName": "Viktoriia",
+      "familyName": "Ovchynnikova",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210151026",
+          "name": "Ukrainian State University of Railway Transport",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5092506346",
+      "name": "Dariya Toropova",
+      "givenName": "Dariya",
+      "familyName": "Toropova",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210151026",
+          "name": "Ukrainian State University of Railway Transport",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-2959-5381"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5084690731",
+      "name": "Vladislava Toropova",
+      "givenName": "Vladislava",
+      "familyName": "Toropova",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210151026",
+          "name": "Ukrainian State University of Railway Transport",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-6274-0552"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5064278172",
+      "name": "Illia Dmytriiev",
+      "givenName": "Illia",
+      "familyName": "Dmytriiev",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I24798489",
+          "name": "Kharkiv National Automobile and Highway University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-8693-3706"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6304134
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.44487706
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41103286
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C137996800",
+      "name": "Technological change",
+      "sameAs": "https://www.wikidata.org/wiki/Q762702"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C91306197",
+      "name": "Competition (biology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q45767"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C54750564",
+      "name": "Commerce",
+      "sameAs": "https://www.wikidata.org/wiki/Q26643"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    }
+  ],
+  "abstract": "INNOVATIVE DEVELOPMENT OF THE ROAD AND TRANSPORT COMPLEX: PROBLEMS AND PROSPECTS The transformation of the global environment, accompanied by a change in the operating environment of enterprises under the influence of digitalization processes, has a significant impact on the activities of railway transport enterprises. For more than a dozen years now, they have been operating under the conditions of the implementation of reforms and systematic underfunding of the processes of updating the technical and technological base. Due to the lack of investment and the low level of innovative activity, the enterprises of the industry are currently experiencing a state of technological crisis, which is manifested in the critical state of technological objects and rolling stock that are key to the transport process. According to experts' estimates, the annual investment need of railway transport enterprises is about 35 billion UAH. Currently, the industry's capital investment needs are met by 25–30 %. Due to a systemic violation of the reproduction mechanism of the technological base, the latter is being exploited at the critical limit. Such a situation with the state of the technological base of railway transport enterprises indicates that the mechanism of innovation reproduction of funds is currently broken in the industry and the priorities of the innovation policy have not been chosen correctly. In the conditions of the digital revolution, which leads to a significant increase in competition in the market of transport and logistics services, in the coming years, railway transport enterprises must implement radical changes in all the main technological and business processes through the systematic introduction of technological and organizational innovations. ------------------------------------------------------------------------------------------------------------------ How to Cite: Ovchynnikova, V., Toropova, D., Toropova, V., Dmytriiev, I.; Levchenko, Ia., Dmytriiev, I. (Eds.) (2023). Management of innovative development projects of railway transport enterprises. Innovative development of the road and transport complex: problems and prospects. Kharkiv: РС ТЕСHNOLOGY СЕNTЕR, 125-138. doi: http://doi.org/10.15587/978-617-7319-71-8.ch8 ------------------------------------------------------------------------------------------------------------------ Indexing:",
+  "url": "https://doi.org/10.15587/978-617-7319-71-8.ch8",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.15587/978-617-7319-71-8.ch8",
+    "encodingFormat": "text/html"
+  }
+}

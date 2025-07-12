@@ -1,0 +1,171 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4328095051",
+  "doi": "10.54691/bcpbm.v38i.3783",
+  "name": "Stock Screening Based on P/E and Other Related Valuation Methods: A Case Study of Food Processing Industry in Henan Province, China",
+  "headline": "Stock Screening Based on P/E and Other Related Valuation Methods: A Case Study of Food Processing Industry in Henan Province, China",
+  "datePublished": "2023-03-02",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "BCP Business & Management",
+    "issn": "2692-6156",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100552728",
+      "name": "Zhiheng Zhao",
+      "givenName": "Zhiheng",
+      "familyName": "Zhao",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I205237279",
+          "name": "Nankai University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0009-0003-0463-4617"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2064639719",
+    "https://openalex.org/W2775111313"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/stock",
+      "display_name": "Stock (firearms)",
+      "score": 0.53968245
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.46639603
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C129361004",
+      "name": "Profitability index",
+      "sameAs": "https://www.wikidata.org/wiki/Q2470236"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C191935318",
+      "name": "China",
+      "sameAs": "https://www.wikidata.org/wiki/Q148"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204036174",
+      "name": "Stock (firearms)",
+      "sameAs": "https://www.wikidata.org/wiki/Q909380"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C186027771",
+      "name": "Valuation (finance)",
+      "sameAs": "https://www.wikidata.org/wiki/Q4008379"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780299701",
+      "name": "Stock market",
+      "sameAs": "https://www.wikidata.org/wiki/Q475000"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C88199923",
+      "name": "Food processing",
+      "sameAs": "https://www.wikidata.org/wiki/Q627371"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779343474",
+      "name": "Context (archaeology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3109175"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C31903555",
+      "name": "Food science",
+      "sameAs": "https://www.wikidata.org/wiki/Q1637030"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    }
+  ],
+  "abstract": "China's capital market has undergone a process of development, in which the industries of various sectors have been continuously improved with steady growth. For a long time, Henan Province, as China's largest grain province, has lacked strong financial investment support for its local food processing industry. With the support of China's national policies, Henan's food processing industry has broad prospects and has attracted a large number of investors. The financial data of seven related companies was collected as a data source for this research. The purpose of this study is to provide investors in the food industry in Henan province with a stock selection model based on two valuation methods, P/E and P/B ratio. At the same time, the profitability and growth potential of enterprises are also taken into account in the stock selection criteria. Through continuous sorting and filtering, finally, the two stocks with the best overall performance are selected and the investment targets are determined. The study introduces several basic indicators for selecting stocks and is designed to provide investors with experience and scientific guidance.",
+  "url": "https://doi.org/10.54691/bcpbm.v38i.3783",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://bcpublication.org/index.php/BM/article/download/3783/3692",
+    "encodingFormat": "text/html"
+  }
+}

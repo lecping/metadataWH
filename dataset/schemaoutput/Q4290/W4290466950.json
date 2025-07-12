@@ -1,0 +1,473 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4290466950",
+  "doi": "10.1007/s13399-022-03144-2",
+  "name": "Conversion of oil palm waste into value-added products through pyrolysis: a sensitivity and techno-economic investigation",
+  "headline": "Conversion of oil palm waste into value-added products through pyrolysis: a sensitivity and techno-economic investigation",
+  "datePublished": "2022-08-08",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Biomass Conversion and Biorefinery",
+    "issn": "2190-6815",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Springer Nature"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5048536333",
+      "name": "Prakash Parthasarathy",
+      "givenName": "Prakash",
+      "familyName": "Parthasarathy",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I92528248",
+          "name": "Qatar Foundation",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "QA"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210144839",
+          "name": "Hamad bin Khalifa University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "QA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-2635-4416"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5016783191",
+      "name": "Mohammad Alherbawi",
+      "givenName": "Mohammad",
+      "familyName": "Alherbawi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210144839",
+          "name": "Hamad bin Khalifa University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "QA"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I92528248",
+          "name": "Qatar Foundation",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "QA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-2033-0202"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5015276325",
+      "name": "Muhammad Shahbaz",
+      "givenName": "Muhammad",
+      "familyName": "Shahbaz",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210144839",
+          "name": "Hamad bin Khalifa University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "QA"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I92528248",
+          "name": "Qatar Foundation",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "QA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-2295-8167"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5032149149",
+      "name": "Hamish R. Mackey",
+      "givenName": "Hamish",
+      "familyName": "Mackey",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210144839",
+          "name": "Hamad bin Khalifa University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "QA"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I92528248",
+          "name": "Qatar Foundation",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "QA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-4593-0944"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5022819682",
+      "name": "Gordon McKay",
+      "givenName": "Gordon",
+      "familyName": "McKay",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210144839",
+          "name": "Hamad bin Khalifa University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "QA"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I92528248",
+          "name": "Qatar Foundation",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "QA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-9965-7659"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5086098688",
+      "name": "Tareq Al‐Ansari",
+      "givenName": "Tareq",
+      "familyName": "Al-Ansari",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210144839",
+          "name": "Hamad bin Khalifa University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "QA"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I92528248",
+          "name": "Qatar Foundation",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "QA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-2932-8240"
+    }
+  ],
+  "citationCount": 28,
+  "citation": [
+    "https://openalex.org/W1579312372",
+    "https://openalex.org/W1976816647",
+    "https://openalex.org/W1980957448",
+    "https://openalex.org/W1985441960",
+    "https://openalex.org/W1991248125",
+    "https://openalex.org/W1993180995",
+    "https://openalex.org/W2033955738",
+    "https://openalex.org/W2050429552",
+    "https://openalex.org/W2069783971",
+    "https://openalex.org/W2072640673",
+    "https://openalex.org/W2091295711",
+    "https://openalex.org/W2092451395",
+    "https://openalex.org/W2114281525",
+    "https://openalex.org/W2132528426",
+    "https://openalex.org/W2304375984",
+    "https://openalex.org/W2315656241",
+    "https://openalex.org/W2404732171",
+    "https://openalex.org/W2462219352",
+    "https://openalex.org/W2510380956",
+    "https://openalex.org/W2528359810",
+    "https://openalex.org/W2558481786",
+    "https://openalex.org/W2603119140",
+    "https://openalex.org/W2620311245",
+    "https://openalex.org/W2620617547",
+    "https://openalex.org/W2621116223",
+    "https://openalex.org/W2754354919",
+    "https://openalex.org/W2770545403",
+    "https://openalex.org/W2810346559",
+    "https://openalex.org/W2883658131",
+    "https://openalex.org/W2903145101",
+    "https://openalex.org/W2910966603",
+    "https://openalex.org/W2947437176",
+    "https://openalex.org/W2949249918",
+    "https://openalex.org/W2956698931",
+    "https://openalex.org/W2969432363",
+    "https://openalex.org/W2971991876",
+    "https://openalex.org/W3047612816",
+    "https://openalex.org/W3047676451",
+    "https://openalex.org/W3048891512",
+    "https://openalex.org/W3092426053",
+    "https://openalex.org/W3112714915",
+    "https://openalex.org/W3124622085",
+    "https://openalex.org/W3132328839",
+    "https://openalex.org/W3135770399",
+    "https://openalex.org/W3155638327",
+    "https://openalex.org/W3167511476",
+    "https://openalex.org/W3176045413",
+    "https://openalex.org/W3186830235",
+    "https://openalex.org/W3197260501",
+    "https://openalex.org/W3205602331",
+    "https://openalex.org/W3215803240",
+    "https://openalex.org/W4206294044",
+    "https://openalex.org/W4211147262",
+    "https://openalex.org/W4290702104"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 2790,
+      "currency": "EUR"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/palm-kernel",
+      "display_name": "Palm kernel",
+      "score": 0.69882786
+    },
+    {
+      "id": "https://openalex.org/keywords/payback-period",
+      "display_name": "Payback period",
+      "score": 0.65617883
+    },
+    {
+      "id": "https://openalex.org/keywords/heat-of-combustion",
+      "display_name": "Heat of combustion",
+      "score": 0.5917207
+    },
+    {
+      "id": "https://openalex.org/keywords/pyrolysis-oil",
+      "display_name": "Pyrolysis oil",
+      "score": 0.46990556
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-cost",
+      "display_name": "Capital cost",
+      "score": 0.46612334
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4195985
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C56085101",
+      "name": "Biochar",
+      "sameAs": "https://www.wikidata.org/wiki/Q905495"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C36759035",
+      "name": "Pyrolysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q176848"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2777021569",
+      "name": "Palm kernel",
+      "sameAs": "https://www.wikidata.org/wiki/Q7128104"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144553756",
+      "name": "Payback period",
+      "sameAs": "https://www.wikidata.org/wiki/Q15081665"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C156383657",
+      "name": "Heat of combustion",
+      "sameAs": "https://www.wikidata.org/wiki/Q902126"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C548081761",
+      "name": "Waste management",
+      "sameAs": "https://www.wikidata.org/wiki/Q180388"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C528095902",
+      "name": "Pulp and paper industry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2283886"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780536370",
+      "name": "Pyrolysis oil",
+      "sameAs": "https://www.wikidata.org/wiki/Q898694"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C156380964",
+      "name": "Bioenergy",
+      "sameAs": "https://www.wikidata.org/wiki/Q18556"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C157062255",
+      "name": "Capital cost",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035697"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C53991642",
+      "name": "Biofuel",
+      "sameAs": "https://www.wikidata.org/wiki/Q128991"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181230689",
+      "name": "Net present value",
+      "sameAs": "https://www.wikidata.org/wiki/Q192472"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2988237154",
+      "name": "Palm oil",
+      "sameAs": "https://www.wikidata.org/wiki/Q231458"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134121241",
+      "name": "Yield (engineering)",
+      "sameAs": "https://www.wikidata.org/wiki/Q899301"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37621935",
+      "name": "Agricultural science",
+      "sameAs": "https://www.wikidata.org/wiki/Q3606845"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C192562407",
+      "name": "Materials science",
+      "sameAs": "https://www.wikidata.org/wiki/Q228736"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105923489",
+      "name": "Combustion",
+      "sameAs": "https://www.wikidata.org/wiki/Q133235"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119599485",
+      "name": "Electrical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q43035"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C178790620",
+      "name": "Organic chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q11351"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C191897082",
+      "name": "Metallurgy",
+      "sameAs": "https://www.wikidata.org/wiki/Q11467"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    }
+  ],
+  "abstract": "Abstract In this study, an empirical model for the pyrolysis of major oil palm wastes (OPW) such as palm kernel shell (PKS), empty fruit bunches (EFB), and oil palm frond (OPF), and their blends is developed. Moreover, the techno-economic feasibility of the wastes is investigated to determine the type of waste that would be suitable for the commercialization of different types of products. According to the model results, the bio-oil dominates the pyrolysis process’ product output, accounting for 59.21, 50.51, 56.60, and 55.65% of PKS, EFB, OPF, and their blend, respectively. Whereas biochar yield is 23.21, 23.1, 22.95, and 23.08%, gas yield is 17.57, 26.38, 20.44, and 21.27%. The findings demonstrate that the feedstocks under consideration are mostly suitable for producing bio-oil. According to the economic analysis, PKS-based pyrolysis has the highest capital expenses (CAPEX), while EFB-based pyrolysis has the lowest CAPEX of all tested feedstocks. Furthermore, PKS has the highest operating expenses (OPEX) due to its relatively higher market price as well as higher moisture content, which necessitates more energy input during the drying stage. Among the feedstocks, OPF has delivered the highest profit of USD 17 M/year, with a 22% return on investment (ROI). In terms of investment capital payback period, all OPW feedstocks demonstrated a reasonable period of 4–6 years. Bio-oil is the most valuable pyrolysis product, with the highest market value when compared to biochar and syngas. The established prediction model can be utilized as a solid reference for biomass pyrolysis modelling studies. Furthermore, the predicted values are reasonable enough to be used in industrial process design.",
+  "url": "https://doi.org/10.1007/s13399-022-03144-2",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://link.springer.com/content/pdf/10.1007/s13399-022-03144-2.pdf",
+    "encodingFormat": "text/html"
+  }
+}

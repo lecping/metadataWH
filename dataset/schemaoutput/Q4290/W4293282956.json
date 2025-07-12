@@ -1,0 +1,198 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4293282956",
+  "doi": "10.36074/logos-12.08.2022.02",
+  "name": "PROVIDING OF ECONOMIC POTENTIAL OF THE ENTERPRISE USING THE CIRCULAR MODEL OF INVESTMENTS IN INNOVATIVE ACTIVITIES",
+  "headline": "PROVIDING OF ECONOMIC POTENTIAL OF THE ENTERPRISE USING THE CIRCULAR MODEL OF INVESTMENTS IN INNOVATIVE ACTIVITIES",
+  "datePublished": "2022-08-12",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-sa",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "GRUNDLAGEN DER MODERNEN WISSENSCHAFTLICHEN FORSCHUNG",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5045091290",
+      "name": "Світлана Онешко",
+      "givenName": "Svitlana",
+      "familyName": "Oneshko",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I91988273",
+          "name": "Odessa National Maritime University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-2313-3984"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W3196869886"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/component",
+      "display_name": "Component (thermodynamics)",
+      "score": 0.6012676
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.55388355
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.47249284
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.43200982
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136197465",
+      "name": "Variety (cybernetics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1729295"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181622380",
+      "name": "Profit (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q26911"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C168167062",
+      "name": "Component (thermodynamics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1117970"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121332964",
+      "name": "Physics",
+      "sameAs": "https://www.wikidata.org/wiki/Q413"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C154945302",
+      "name": "Artificial intelligence",
+      "sameAs": "https://www.wikidata.org/wiki/Q11660"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C97355855",
+      "name": "Thermodynamics",
+      "sameAs": "https://www.wikidata.org/wiki/Q11473"
+    }
+  ],
+  "abstract": "The economic potential of the enterprise from the standpoint of its essence is quite actively researched by scientists [1, 2, 3, 4] and includes quite a variety of components, among which the investment component is of great importance, which contributes to the ability of the enterprise to attract capital in sufficient quantities to ensure the maximum possible or sufficient the size of the financial result in the form of profit.",
+  "url": "https://doi.org/10.36074/logos-12.08.2022.02",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://archive.logos-science.com/index.php/conference-proceedings/article/download/241/247",
+    "encodingFormat": "text/html"
+  }
+}

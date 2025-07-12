@@ -1,0 +1,174 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4387513153",
+  "doi": "10.31014/aior.1996.02.04.81",
+  "name": "A Literature Review of Public Investment Capital Management in Infrastructure Construction",
+  "headline": "A Literature Review of Public Investment Capital Management in Infrastructure Construction",
+  "datePublished": "2023-10-11",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Law and Humanities Quarterly Reviews",
+    "issn": "2827-9735",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5093039611",
+      "name": "Duc Toan",
+      "givenName": "Duc",
+      "familyName": "Do",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I123565023",
+          "name": "Vietnam National University Ho Chi Minh City",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "VN"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1496842752",
+    "https://openalex.org/W150292108",
+    "https://openalex.org/W1580645754",
+    "https://openalex.org/W1963732442",
+    "https://openalex.org/W1975648197",
+    "https://openalex.org/W1977404191",
+    "https://openalex.org/W1991887168",
+    "https://openalex.org/W2002459612",
+    "https://openalex.org/W2007540180",
+    "https://openalex.org/W2029726783",
+    "https://openalex.org/W2039796384",
+    "https://openalex.org/W2042170744",
+    "https://openalex.org/W2064205661",
+    "https://openalex.org/W2102553182",
+    "https://openalex.org/W2111087829",
+    "https://openalex.org/W2115702457",
+    "https://openalex.org/W2147081279",
+    "https://openalex.org/W2165531282",
+    "https://openalex.org/W2594406943",
+    "https://openalex.org/W2982225026",
+    "https://openalex.org/W3023189921",
+    "https://openalex.org/W3121501545",
+    "https://openalex.org/W3124097077",
+    "https://openalex.org/W3124356156",
+    "https://openalex.org/W3150881788",
+    "https://openalex.org/W3150960583",
+    "https://openalex.org/W3189708188",
+    "https://openalex.org/W3195278925",
+    "https://openalex.org/W4210556977",
+    "https://openalex.org/W4224515997",
+    "https://openalex.org/W4229988546",
+    "https://openalex.org/W4318067689",
+    "https://openalex.org/W4377142831"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.4771911
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.47673976
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4735771
+    },
+    {
+      "id": "https://openalex.org/keywords/public-infrastructure",
+      "display_name": "Public infrastructure",
+      "score": 0.43216896
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776330005",
+      "name": "Public infrastructure",
+      "sameAs": "https://www.wikidata.org/wiki/Q7257917"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The article conducts a literature review on the topic of public investment capital management in economic infrastructure construction.Using the bibliometrics method, the author has compiled and analyzed 383 studies to get an overall picture of this topic.Conclusions are drawn based on the following criteria: keywords, author, country, journal, and citations; The results obtained from the literature review show that this is a topic receiving great attention among researchers and retaining.There are two new research trends that the author noticed.First, to delve into theoretical research on public investment capital management, thereby making policy recommendations for governments.Second, to research the management of public investment capital in large projects in specific countries, thereby providing approval, implementation and strict control of public investment capital.",
+  "url": "https://doi.org/10.31014/aior.1996.02.04.81",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://zenodo.org/record/8430571/files/lhqr0155%20duc%20.pdf",
+    "encodingFormat": "text/html"
+  }
+}

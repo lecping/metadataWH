@@ -1,0 +1,185 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4388332314",
+  "doi": "10.3390/ijfs11040131",
+  "name": "The Differential Effects of Internal Control Teams on Investment Decision Making Based on Industry Competition",
+  "headline": "The Differential Effects of Internal Control Teams on Investment Decision Making Based on Industry Competition",
+  "datePublished": "2023-11-03",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Financial Studies",
+    "issn": "2227-7072",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Multidisciplinary Digital Publishing Institute"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5101563393",
+      "name": "Hyun‐Jung Choi",
+      "givenName": "Hyunjung",
+      "familyName": "Choi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210117332",
+          "name": "Sungkyul University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "KR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-2901-5962"
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W1547944138",
+    "https://openalex.org/W1981712407",
+    "https://openalex.org/W1994041879",
+    "https://openalex.org/W2000578291",
+    "https://openalex.org/W2033400055",
+    "https://openalex.org/W2071659625",
+    "https://openalex.org/W2109391295",
+    "https://openalex.org/W2134268741",
+    "https://openalex.org/W2149902237",
+    "https://openalex.org/W2322238852",
+    "https://openalex.org/W2332943889",
+    "https://openalex.org/W2336757421",
+    "https://openalex.org/W2994906175",
+    "https://openalex.org/W2995525215",
+    "https://openalex.org/W3011488246",
+    "https://openalex.org/W3108612313",
+    "https://openalex.org/W3108739000",
+    "https://openalex.org/W3121886917",
+    "https://openalex.org/W3123002740",
+    "https://openalex.org/W3123215895",
+    "https://openalex.org/W3125510660",
+    "https://openalex.org/W3125686936",
+    "https://openalex.org/W4206419669",
+    "https://openalex.org/W4251781751",
+    "https://openalex.org/W4384466799"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 1400,
+      "currency": "CHF"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.7183664
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.43820146
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C91306197",
+      "name": "Competition (biology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q45767"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2775924081",
+      "name": "Control (management)",
+      "sameAs": "https://www.wikidata.org/wiki/Q55608371"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C187736073",
+      "name": "Management",
+      "sameAs": "https://www.wikidata.org/wiki/Q2920921"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    }
+  ],
+  "abstract": "This study investigates how a company’s internal control team affects their investment decision making, considering the level of industry competition within the South Korean capital market. A model obtained from the literature was employed to test the hypothesis. When industry competition is low, the quantitative adequacy of internal control staff increases the likelihood of investment when the risk of underinvestment is high, and it decreases the likelihood of investment when the risk of overinvestment is high. However, this is not the case when industry competition is fierce. Qualitative adequacy of internal control staff—expertise—has a significant effect on investment decision making when industry competition is high, but has no significant effect when industry competition is low. These results suggest that investors should consider the quantitative and qualitative adequacy of internal control staff along with the level of industry competition when evaluating the investment efficiency of a company.",
+  "url": "https://doi.org/10.3390/ijfs11040131",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.mdpi.com/2227-7072/11/4/131/pdf?version=1699088567",
+    "encodingFormat": "text/html"
+  }
+}

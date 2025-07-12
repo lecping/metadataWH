@@ -1,0 +1,223 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4362713276",
+  "doi": "10.20542/reb.eng-2022-3-3-12",
+  "name": "Investment Behavior of Enterprises in 2021–2022",
+  "headline": "Investment Behavior of Enterprises in 2021–2022",
+  "datePublished": "2022-01-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Russian Economic Barometer (QuE)",
+    "issn": "0202-179X",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5090574381",
+      "name": "С. Аукуционек",
+      "givenName": "S.",
+      "familyName": "Aukutsionek",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210162245",
+          "name": "Institute of World Economy and International Relations",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-1173-2800"
+    }
+  ],
+  "citationCount": 1,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.8163898
+    },
+    {
+      "id": "https://openalex.org/keywords/limiting",
+      "display_name": "Limiting",
+      "score": 0.645731
+    },
+    {
+      "id": "https://openalex.org/keywords/umbrella-fund",
+      "display_name": "Umbrella fund",
+      "score": 0.60666275
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.49222842
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.47887796
+    },
+    {
+      "id": "https://openalex.org/keywords/separately-managed-account",
+      "display_name": "Separately managed account",
+      "score": 0.44668588
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181308471",
+      "name": "Open-ended investment company",
+      "sameAs": "https://www.wikidata.org/wiki/Q25245118"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C188198153",
+      "name": "Limiting",
+      "sameAs": "https://www.wikidata.org/wiki/Q1613840"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C161599624",
+      "name": "Umbrella fund",
+      "sameAs": "https://www.wikidata.org/wiki/Q7881412"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C169549615",
+      "name": "Return on investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q939134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C147147588",
+      "name": "Separately managed account",
+      "sameAs": "https://www.wikidata.org/wiki/Q12859651"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144559511",
+      "name": "Principal (computer security)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2986279"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78519656",
+      "name": "Mechanical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q101333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111919701",
+      "name": "Operating system",
+      "sameAs": "https://www.wikidata.org/wiki/Q9135"
+    }
+  ],
+  "abstract": "The article outlines the trends of 2021 – the first half of 2022 in the field of investment behavior of enterprises. The following aspects are examined: the level of investment activity both in terms of equipment purchases and total capital investment; the rating of factors limiting capital investment; the main sources of funds for investment and principal motives to invest; the features of borrowings from banks to finance investment.",
+  "url": "https://doi.org/10.20542/reb.eng-2022-3-3-12",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.20542/reb.eng-2022-3-3-12",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4200371155",
+  "doi": "10.1080/1331677x.2021.2012217",
+  "name": "The shadows of economic growth: AI automation and globalisation",
+  "headline": "The shadows of economic growth: AI automation and globalisation",
+  "datePublished": "2021-12-15",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Economic Research-Ekonomska Istraživanja",
+    "issn": "1331-677X",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Taylor & Francis"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5023794615",
+      "name": "Mieta Bobanović",
+      "givenName": "Mieta",
+      "familyName": "Bobanović",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I25607154",
+          "name": "Juraj Dobrila University of Pula",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "HR"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 2,
+  "citation": [
+    "https://openalex.org/W1552250470",
+    "https://openalex.org/W1568632324",
+    "https://openalex.org/W1978775682",
+    "https://openalex.org/W2046751548",
+    "https://openalex.org/W206494092",
+    "https://openalex.org/W2112485965",
+    "https://openalex.org/W2151486445",
+    "https://openalex.org/W2161041152",
+    "https://openalex.org/W2238649632",
+    "https://openalex.org/W2526781987",
+    "https://openalex.org/W2585432763",
+    "https://openalex.org/W2614079273",
+    "https://openalex.org/W2791261766",
+    "https://openalex.org/W2952776616",
+    "https://openalex.org/W3121973872",
+    "https://openalex.org/W3124310943",
+    "https://openalex.org/W4230809332",
+    "https://openalex.org/W4249400484"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 770,
+      "currency": "GBP"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/prosperity",
+      "display_name": "Prosperity",
+      "score": 0.83312833
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5385035
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.510838
+    },
+    {
+      "id": "https://openalex.org/keywords/economic-globalization",
+      "display_name": "Economic Globalization",
+      "score": 0.46130922
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.44310242
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776554220",
+      "name": "Prosperity",
+      "sameAs": "https://www.wikidata.org/wiki/Q1760011"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2119116",
+      "name": "Globalization",
+      "sameAs": "https://www.wikidata.org/wiki/Q7181"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204983608",
+      "name": "Productivity",
+      "sameAs": "https://www.wikidata.org/wiki/Q2111958"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C120009192",
+      "name": "Total factor productivity",
+      "sameAs": "https://www.wikidata.org/wiki/Q1936153"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2777382242",
+      "name": "Index (typography)",
+      "sameAs": "https://www.wikidata.org/wiki/Q6017816"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C63504599",
+      "name": "Economic globalization",
+      "sameAs": "https://www.wikidata.org/wiki/Q2339766"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C47768531",
+      "name": "Development economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q1127188"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C74363100",
+      "name": "Economic system",
+      "sameAs": "https://www.wikidata.org/wiki/Q273005"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136764020",
+      "name": "World Wide Web",
+      "sameAs": "https://www.wikidata.org/wiki/Q466"
+    }
+  ],
+  "abstract": "Today's political and economic framework is marked significantly by globalisation and AI automation exponential expansion. Their advancements ensure development and prosperity – which is often not equally distributed across nations. A study showed that U.S. citizens experienced a decrease in the medium household income although their productivity increased, making the problem of distribution visible. Why is this digital era disbalancing the key drivers that used to grow in union? A possible explanation is presented in this article through variables as total factor productivity and Globalisation Index. Investment in human capital, in the form of education, is discussed.",
+  "url": "https://doi.org/10.1080/1331677x.2021.2012217",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1080/1331677x.2021.2012217",
+    "encodingFormat": "text/html"
+  }
+}

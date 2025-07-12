@@ -1,0 +1,284 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4361305418",
+  "doi": "10.33094/ijaefa.v16i1.890",
+  "name": "Factors influence residents’ investment decision for tourism industry development",
+  "headline": "Factors influence residents’ investment decision for tourism industry development",
+  "datePublished": "2023-03-28",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Applied Economics Finance and Accounting",
+    "issn": "2577-767X",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5052444319",
+      "name": "Merith Ifeoma Anaba",
+      "givenName": "Merith",
+      "familyName": "Anaba",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I33849332",
+          "name": "University of Malaya",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "MY"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-8706-6229"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5001371214",
+      "name": "Hong Ching Goh",
+      "givenName": "Goh",
+      "familyName": "Ching",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I33849332",
+          "name": "University of Malaya",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "MY"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-9250-2205"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5054865602",
+      "name": "Muhammad Mehedi Masud",
+      "givenName": "Muhammad",
+      "familyName": "Masud",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I33849332",
+          "name": "University of Malaya",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "MY"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-0476-4481"
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W1027771360",
+    "https://openalex.org/W119818611",
+    "https://openalex.org/W1581143213",
+    "https://openalex.org/W1591013228",
+    "https://openalex.org/W1690996665",
+    "https://openalex.org/W1992456279",
+    "https://openalex.org/W2009172469",
+    "https://openalex.org/W2014774785",
+    "https://openalex.org/W2017041428",
+    "https://openalex.org/W2048933059",
+    "https://openalex.org/W2057256549",
+    "https://openalex.org/W2074566016",
+    "https://openalex.org/W2076914294",
+    "https://openalex.org/W2095640496",
+    "https://openalex.org/W2114299207",
+    "https://openalex.org/W2160262307",
+    "https://openalex.org/W2272022271",
+    "https://openalex.org/W2280750375",
+    "https://openalex.org/W2292269537",
+    "https://openalex.org/W2550114728",
+    "https://openalex.org/W2559210371",
+    "https://openalex.org/W2581588173",
+    "https://openalex.org/W2733104894",
+    "https://openalex.org/W2747087244",
+    "https://openalex.org/W2787497286",
+    "https://openalex.org/W2794072666",
+    "https://openalex.org/W280011524",
+    "https://openalex.org/W2888135969",
+    "https://openalex.org/W2895775694",
+    "https://openalex.org/W2907084893",
+    "https://openalex.org/W2912791564",
+    "https://openalex.org/W2918645798",
+    "https://openalex.org/W2919813553",
+    "https://openalex.org/W2919953679",
+    "https://openalex.org/W2981693738",
+    "https://openalex.org/W2988633782",
+    "https://openalex.org/W3016204462",
+    "https://openalex.org/W3122840020",
+    "https://openalex.org/W3123722757",
+    "https://openalex.org/W3125209586",
+    "https://openalex.org/W3136450251",
+    "https://openalex.org/W3162968667",
+    "https://openalex.org/W4235678817",
+    "https://openalex.org/W4236523229"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.75869167
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5477235
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.53364456
+    },
+    {
+      "id": "https://openalex.org/keywords/investment-decisions",
+      "display_name": "Investment Decisions",
+      "score": 0.473613
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18918823",
+      "name": "Tourism",
+      "sameAs": "https://www.wikidata.org/wiki/Q49389"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778865806",
+      "name": "Investment decisions",
+      "sameAs": "https://www.wikidata.org/wiki/Q6060850"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C98045186",
+      "name": "Process (computing)",
+      "sameAs": "https://www.wikidata.org/wiki/Q205663"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C71104824",
+      "name": "Structural equation modeling",
+      "sameAs": "https://www.wikidata.org/wiki/Q1476639"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105795698",
+      "name": "Statistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q12483"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C109574028",
+      "name": "Behavioral economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q647525"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111919701",
+      "name": "Operating system",
+      "sameAs": "https://www.wikidata.org/wiki/Q9135"
+    }
+  ],
+  "abstract": "The growth of the tourism sector depends on tourism investment in small and medium-sized businesses throughout various regions. This paper investigates the impacts of capital, expectations of benefits, knowledge, and information on residents' investment decisions in the tourism industry. Investment in tourism is a key driver of economic expansion and development. So, it is necessary to look into locals' predisposition to invest in the tourism industry. A suitable process for selecting study participants was used, and the questionnaire method was used to collect data. Partial least square structural equation modelling was then used to evaluate the data (PLS-SEM). The findings of this study indicate that citizens' investment decisions are influenced by capital, knowledge, information, and benefit expectations. The results of this study will provide policymakers and the management of Malaysian tourist industry with new information that they can use to create successful regulations that encourage locals to make investment decisions that will advance the tourism industry.",
+  "url": "https://doi.org/10.33094/ijaefa.v16i1.890",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "http://onlineacademicpress.com/index.php/IJAEFA/article/download/890/733",
+    "encodingFormat": "text/html"
+  }
+}

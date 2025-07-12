@@ -1,0 +1,156 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4398132849",
+  "doi": "10.55041/ijsrem34166",
+  "name": "STARTUPS -Requirement Factor in Finance",
+  "headline": "STARTUPS -Requirement Factor in Finance",
+  "datePublished": "2024-05-20",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+    "issn": "2582-3930",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5109721481",
+      "name": "Vaishnavi Virendra Jadhav",
+      "givenName": "Vaishnavi",
+      "familyName": "Jadhav",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210134084",
+          "name": "Institute of Engineering Science",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210129773",
+          "name": "Institute of Engineering",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NP"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.53768814
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41583446
+    },
+    {
+      "id": "https://openalex.org/keywords/corporate-finance",
+      "display_name": "Corporate Finance",
+      "score": 0.41047403
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780224610",
+      "name": "Credibility",
+      "sameAs": "https://www.wikidata.org/wiki/Q1530061"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21279758",
+      "name": "Venture capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q219409"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26517878",
+      "name": "Key (lock)",
+      "sameAs": "https://www.wikidata.org/wiki/Q228039"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C80515813",
+      "name": "Corporate finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q1134763"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C38652104",
+      "name": "Computer security",
+      "sameAs": "https://www.wikidata.org/wiki/Q3510521"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This abstract examines critical factors influencing startup success in securing financial resources. It explores the multifaceted dynamics encompassing funding sources, investor preferences, and regulatory frameworks. Key determinants such as business model viability, market potential, and founder credibility are scrutinized for their impact on attracting investment. Additionally, the study delves into emerging trends like crowdfunding and venture capital trends shaping the financing landscape. By synthesizing empirical evidence and industry insights, this abstract sheds light on the imperative considerations for startups navigating the complex terrain of finance, offering valuable guidance for entrepreneurial endeavors. Key Words: optics, photonics, light, lasers, templates, journals",
+  "url": "https://doi.org/10.55041/ijsrem34166",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://ijsrem.com/download/startups-requirement-factor-in-finance/?wpdmdl=34248&refresh=6659e9715014e1717168497",
+    "encodingFormat": "text/html"
+  }
+}

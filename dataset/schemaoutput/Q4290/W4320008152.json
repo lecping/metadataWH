@@ -1,0 +1,305 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4320008152",
+  "doi": "10.1088/1755-1315/1136/1/012060",
+  "name": "Reducing operating costs in district heating systems by optimizing functional parameters. Comparative studies",
+  "headline": "Reducing operating costs in district heating systems by optimizing functional parameters. Comparative studies",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "IOP Conference Series Earth and Environmental Science",
+    "issn": "1755-1315",
+    "publisher": {
+      "@type": "Organization",
+      "name": "IOP Publishing"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5074014125",
+      "name": "Daniel Muntean",
+      "givenName": "Daniel",
+      "familyName": "Muntean",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210093057",
+          "name": "Faculty (United Kingdom)",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3122695212",
+          "name": "Polytechnic University of Timişoara",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RO"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-2275-9256"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5056127547",
+      "name": "Adriana Tokar",
+      "givenName": "Adriana",
+      "familyName": "Tokar",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210093057",
+          "name": "Faculty (United Kingdom)",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3122695212",
+          "name": "Polytechnic University of Timişoara",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RO"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-2838-0717"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1493390801",
+    "https://openalex.org/W1504604536",
+    "https://openalex.org/W1972270549",
+    "https://openalex.org/W1991999695",
+    "https://openalex.org/W2002071697",
+    "https://openalex.org/W2208568589",
+    "https://openalex.org/W2594787851",
+    "https://openalex.org/W2612422940",
+    "https://openalex.org/W3046854285",
+    "https://openalex.org/W4207029893",
+    "https://openalex.org/W4387093703",
+    "https://openalex.org/W766740878"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-cost",
+      "display_name": "Capital cost",
+      "score": 0.5707975
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.4745627
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.46683896
+    },
+    {
+      "id": "https://openalex.org/keywords/operating-cost",
+      "display_name": "Operating cost",
+      "score": 0.4628479
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C43214815",
+      "name": "Reliability (semiconductor)",
+      "sameAs": "https://www.wikidata.org/wiki/Q7310987"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C43521106",
+      "name": "Pipeline (software)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2165493"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C157062255",
+      "name": "Capital cost",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035697"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C200601418",
+      "name": "Reliability engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q2193887"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780165032",
+      "name": "Energy consumption",
+      "sameAs": "https://www.wikidata.org/wiki/Q16869822"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175309249",
+      "name": "Pipeline transport",
+      "sameAs": "https://www.wikidata.org/wiki/Q725864"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2777347956",
+      "name": "Operating cost",
+      "sameAs": "https://www.wikidata.org/wiki/Q1362005"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C186370098",
+      "name": "Energy (signal processing)",
+      "sameAs": "https://www.wikidata.org/wiki/Q442787"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21880701",
+      "name": "Process engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q2144042"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78519656",
+      "name": "Mechanical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q101333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C87717796",
+      "name": "Environmental engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q146326"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C548081761",
+      "name": "Waste management",
+      "sameAs": "https://www.wikidata.org/wiki/Q180388"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119599485",
+      "name": "Electrical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q43035"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C163258240",
+      "name": "Power (physics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q25342"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105795698",
+      "name": "Statistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q12483"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121332964",
+      "name": "Physics",
+      "sameAs": "https://www.wikidata.org/wiki/Q413"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C62520636",
+      "name": "Quantum mechanics",
+      "sameAs": "https://www.wikidata.org/wiki/Q944"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    }
+  ],
+  "abstract": "Abstract In district heating networks, the influence of conditions: thermohydraulic, reliability, availability and cost of materials, heat demand and energy consumption for pumping, on the operation of the system must be considered in terms of optimizing the design so that the costs of production, transport and maintenance to be reduced as much as possible. These system problems are unavoidable during operation and therefore the paper proposes an analysis based on simulating the operation of the system in two possible situations: reducing the diameters of the heat transmission pipes with the compromise of increasing the energy consumption required for pumping and respectively reducing the maximum pressure losses with the advantage of obtaining an energy saving at pumping. The comparison of the results obtained by the simulation allowed the choice of the optimal solution established on the basis of the minimum total costs (capital and operational) and the minimum heat losses on the pipeline network, taking into account the variation of investment costs of the pipeline and pumping energy depending on the diameter of the pipe.",
+  "url": "https://doi.org/10.1088/1755-1315/1136/1/012060",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1088/1755-1315/1136/1/012060",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4407960366",
+  "doi": "10.1016/j.eap.2025.02.038",
+  "name": "Examining the Effect of Macroeconomic, Institutional, and Capital Market Drivers on Infrastructure Investment",
+  "headline": "Examining the Effect of Macroeconomic, Institutional, and Capital Market Drivers on Infrastructure Investment",
+  "datePublished": "2025-02-01",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Economic Analysis and Policy",
+    "issn": "0313-5926",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Elsevier BV"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5000266841",
+      "name": "João A. C. Santos",
+      "givenName": "João",
+      "familyName": "Santos",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-6002-5969"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5017790551",
+      "name": "Víctor Moutinho",
+      "givenName": "Vítor",
+      "familyName": "Moutinho",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0003-0811-9033"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5006739562",
+      "name": "Mara Madaleno",
+      "givenName": "Mara",
+      "familyName": "Madaleno",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-4905-2771"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5064450522",
+      "name": "Zélia Serrasqueiro",
+      "givenName": "Zélia",
+      "familyName": "Teixeira",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0003-1761-5426"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W161402243",
+    "https://openalex.org/W1983352000",
+    "https://openalex.org/W1998003452",
+    "https://openalex.org/W2014661770",
+    "https://openalex.org/W2041559475",
+    "https://openalex.org/W2041585339",
+    "https://openalex.org/W2043291729",
+    "https://openalex.org/W2048843691",
+    "https://openalex.org/W2061979451",
+    "https://openalex.org/W2077554271",
+    "https://openalex.org/W2126667499",
+    "https://openalex.org/W2135167672",
+    "https://openalex.org/W2140472779",
+    "https://openalex.org/W2141425467",
+    "https://openalex.org/W2144131031",
+    "https://openalex.org/W2147081279",
+    "https://openalex.org/W2171050209",
+    "https://openalex.org/W2290206121",
+    "https://openalex.org/W2296836982",
+    "https://openalex.org/W2563852298",
+    "https://openalex.org/W2579590739",
+    "https://openalex.org/W2588689305",
+    "https://openalex.org/W2601338169",
+    "https://openalex.org/W2712733770",
+    "https://openalex.org/W2756073207",
+    "https://openalex.org/W2802429194",
+    "https://openalex.org/W2808721538",
+    "https://openalex.org/W2973103296",
+    "https://openalex.org/W2974510385",
+    "https://openalex.org/W2981158024",
+    "https://openalex.org/W3021822145",
+    "https://openalex.org/W3046303856",
+    "https://openalex.org/W3111513402",
+    "https://openalex.org/W3122088097",
+    "https://openalex.org/W3123548166",
+    "https://openalex.org/W3124224791",
+    "https://openalex.org/W3125601827",
+    "https://openalex.org/W3143632826",
+    "https://openalex.org/W3184505969",
+    "https://openalex.org/W4200273261",
+    "https://openalex.org/W4283377001",
+    "https://openalex.org/W4309796589",
+    "https://openalex.org/W4312055630",
+    "https://openalex.org/W4318990764",
+    "https://openalex.org/W4321381442",
+    "https://openalex.org/W4386102859",
+    "https://openalex.org/W4391177803",
+    "https://openalex.org/W4393109104"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 2250,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.58520025
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.42503017
+    },
+    {
+      "id": "https://openalex.org/keywords/transport-infrastructure",
+      "display_name": "Transport Infrastructure",
+      "score": 0.41394097
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C73283319",
+      "name": "Financial system",
+      "sameAs": "https://www.wikidata.org/wiki/Q1416617"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985109136",
+      "name": "Transport infrastructure",
+      "sameAs": "https://www.wikidata.org/wiki/Q7590"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C22212356",
+      "name": "Transport engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q775325"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "url": "https://doi.org/10.1016/j.eap.2025.02.038",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1016/j.eap.2025.02.038",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4411555731",
+  "doi": "10.32479/irmm.18707",
+  "name": "Shaping Investment Decisions: The Role of Investor Sentiment and its Antecedents in Indian Capital Market Investment Decisions",
+  "headline": "Shaping Investment Decisions: The Role of Investor Sentiment and its Antecedents in Indian Capital Market Investment Decisions",
+  "datePublished": "2025-06-23",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Review of Management and Marketing",
+    "issn": "2146-4405",
+    "publisher": {
+      "@type": "Organization",
+      "name": "EconJournals"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5115026465",
+      "name": "M. Savithri",
+      "givenName": "M.",
+      "familyName": "Savithri",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5115026466",
+      "name": "D. Rajakumari",
+      "givenName": "D.",
+      "familyName": "Rajakumari",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 300,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.7207116
+    },
+    {
+      "id": "https://openalex.org/keywords/investment-decisions",
+      "display_name": "Investment Decisions",
+      "score": 0.66528505
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5943788
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5387273
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778865806",
+      "name": "Investment decisions",
+      "sameAs": "https://www.wikidata.org/wiki/Q6060850"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C143910263",
+      "name": "Capital market",
+      "sameAs": "https://www.wikidata.org/wiki/Q750458"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C109574028",
+      "name": "Behavioral economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q647525"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "This study sought to determine how working individuals in India felt about risk tolerance, financial health, financial literacy, overconfidence bias, herding behaviour, and social interaction in relation to their desire to participate in and engagement in the stock market. Using a cross-sectional methodology, this study gathered quantitative data via an online survey distributed via a Google form link to 343 participants from a variety of social media sites. The hypothesis in this study were tested using the partial least squares structural equation modelling (PLS-SEM) method. The results of this study demonstrated the strong benefits of social connection, herding behaviour, and risk tolerance on the desire to engage in the stock market. Participation in the stock market was significantly impacted by stock market investing intention as well. It was also shown that the intention to engage in the stock market effectively mediates the associations between stock market involvement and risk tolerance and overconfidence bias. Regarding stock market investing, the government and relevant authorities have to concentrate on formulating laws and programs that offer investors a financial safety net and encourage investment-related social media platforms. Risk tolerance, financial well-being, financial literacy, overconfidence bias, herding behaviour, social interaction, desire to participate in the stock market, and stock market involvement were all associated in this study. This is one of the few early initiatives to address difficulties of working people' involvement in stock market investments in underdeveloped nations.",
+  "url": "https://doi.org/10.32479/irmm.18707",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.32479/irmm.18707",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4405062216",
+  "doi": "10.47738/jads.v5i4.428",
+  "name": "Utilizing Structural Equation Modelling to Evaluate Factors Affecting Investment Capital Attraction and Sustainable Development in Vietnam",
+  "headline": "Utilizing Structural Equation Modelling to Evaluate Factors Affecting Investment Capital Attraction and Sustainable Development in Vietnam",
+  "datePublished": "2024-12-01",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Applied Data Sciences",
+    "issn": "2723-6471",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5041048246",
+      "name": "Do Thi Lan Dai",
+      "givenName": "Do",
+      "familyName": "Dai",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210134642",
+          "name": "Lac Hong University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "VN"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5359007
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5260848
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.50428593
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C71104824",
+      "name": "Structural equation modeling",
+      "sameAs": "https://www.wikidata.org/wiki/Q1476639"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778364177",
+      "name": "Attraction",
+      "sameAs": "https://www.wikidata.org/wiki/Q2247133"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C552854447",
+      "name": "Sustainable development",
+      "sameAs": "https://www.wikidata.org/wiki/Q131201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105795698",
+      "name": "Statistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q12483"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Vietnam and several nations globally are facing unparalleled effects of climate change, the progressive exhaustion of natural resources, and the global Covid-19 pandemic alongside non-traditional security threats. These tremendous challenges and occurrences underscore the significance of harmonious and balanced development among the three pillars of economics, society, and the environment. Sustainable development has emerged as an imperative necessity and an unavoidable trajectory in the evolution of human society. This study examines the principal aspects influencing investment capital attraction and sustainable development, consequently offering suggestions to enhance this process. The study employed two methodologies: qualitative research, executed via interviews, and concentrated on 15 economic expert group talks to modify the substance of observable factors to align with the business's features. Quantitative research was conducted on 800 representative managers from three Vietnamese provinces and one city to evaluate the model and research assumptions. The results indicate five elements influencing the attraction of investment capital, with a significance level of five percent, and the attraction of investment capital impacting sustainable development in Vietnam. This contribution enhances academic significance and is a reference for future studies on sustainable development in Vietnam. Five policy implications and contributions exist to advancing sustainable development in Vietnam, fostering innovation and enthusiasm. The novelty of this study is that sustainable development will establish Vietnam's working and living environment by concurrently advancing three dimensions: sustainable economic growth, a prosperous and equitable society, stable cultural diversity, a pristine environment, and preserved resources maintained sustainably. Consequently, a comprehensive framework of ethical principles for sustainable development encompasses the concepts of sustainability across the economic, social, and environmental dimensions.",
+  "url": "https://doi.org/10.47738/jads.v5i4.428",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.47738/jads.v5i4.428",
+    "encodingFormat": "text/html"
+  }
+}

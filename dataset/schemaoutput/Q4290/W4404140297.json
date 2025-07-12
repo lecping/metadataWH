@@ -1,0 +1,226 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4404140297",
+  "doi": "10.62154/ajmbr.2024.017.010461",
+  "name": "Foreign Portfolio Investment and Capital Market Development in Nigeria",
+  "headline": "Foreign Portfolio Investment and Capital Market Development in Nigeria",
+  "datePublished": "2024-11-07",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Deleted Journal",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5114556398",
+      "name": "P. C. Adumah",
+      "givenName": "None",
+      "familyName": "C.",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I207227095",
+          "name": "Nnamdi Azikiwe University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NG"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5041033689",
+      "name": "Uchenna Nnanna Anyanwu",
+      "givenName": "Uchenna",
+      "familyName": "Anyanwu",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I207227095",
+          "name": "Nnamdi Azikiwe University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NG"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5091965906",
+      "name": "Matthew Okechukwu Nwokoye",
+      "givenName": "None",
+      "familyName": "M.",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I207227095",
+          "name": "Nnamdi Azikiwe University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NG"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2131773668",
+    "https://openalex.org/W3122516223",
+    "https://openalex.org/W3125754014",
+    "https://openalex.org/W3125858107",
+    "https://openalex.org/W4231546411",
+    "https://openalex.org/W4232474910",
+    "https://openalex.org/W4318481039"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/foreign-portfolio-investment",
+      "display_name": "Foreign portfolio investment",
+      "score": 0.6997293
+    },
+    {
+      "id": "https://openalex.org/keywords/portfolio-investment",
+      "display_name": "Portfolio investment",
+      "score": 0.5988243
+    },
+    {
+      "id": "https://openalex.org/keywords/foreign-capital",
+      "display_name": "Foreign capital",
+      "score": 0.5046109
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.43594164
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.42439944
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50787887",
+      "name": "Foreign portfolio investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q5468447"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C75956513",
+      "name": "Portfolio investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q609343"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780821815",
+      "name": "Portfolio",
+      "sameAs": "https://www.wikidata.org/wiki/Q5340806"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2993879009",
+      "name": "Foreign capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q8137"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33842695",
+      "name": "Foreign direct investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q490513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C169549615",
+      "name": "Return on investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q939134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181308471",
+      "name": "Open-ended investment company",
+      "sameAs": "https://www.wikidata.org/wiki/Q25245118"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This study investigates the impact of foreign portfolio investment (FPI) on the development of the Nigerian capital market from 1986 to 2023, addressing challenges such as exchange rate volatility and inadequate technological advancement. The research aims to explore the following questions: What is the relationship between foreign portfolio investments and capital market development in Nigeria? How do exchange rate volatility influence the capital market development in Nigeria? What role do technological advancements play in enhancing market performance and attracting foreign investors? Data were sourced from the Central Bank of Nigeria Statistical Bulletin and the National Bureau of Statistics. A quantitative methodology was employed, utilizing the Johansen co-integration test, Vector Error Correction Model (VECM), and Granger causality test to analyze secondary time-series data. The Johansen co-integration test revealed a long-run relationship among the variables, while the VECM indicated that FPI negatively impacts market capitalization. Additionally, the Granger causality test demonstrated unidirectional causality from capital market development to FPI. To address the identified challenges, the study recommends that policymakers create a more supportive environment that ensures foreign investors can repatriate capital and earnings. The government should prioritize exchange rate stability that reflects market realities to enhance investor confidence. Investments in advanced technology are crucial to improving efficiency and accountability in market transactions. By adopting these targeted recommendations, Nigeria can better leverage FPI to foster capital market growth and promote sustainable economic development. JEL Codes: G15, O16",
+  "url": "https://doi.org/10.62154/ajmbr.2024.017.010461",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://afropolitanjournals.com/index.php/ajmbr/article/download/461/401",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4407603114",
+  "doi": "10.62034/2815-5300/2024-v1-i6-008",
+  "name": "STRATEGIC APPROACHES TO FINANCIAL STABILITY AND HUMAN CAPITAL ASSESSMENT AS KEY FACTORS OF ENTERPRISE INVESTMENT ATTRACTIVENESS",
+  "headline": "STRATEGIC APPROACHES TO FINANCIAL STABILITY AND HUMAN CAPITAL ASSESSMENT AS KEY FACTORS OF ENTERPRISE INVESTMENT ATTRACTIVENESS",
+  "datePublished": "2025-02-15",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Interdisciplinary Scientific Journal Expert",
+    "issn": "2815-5300",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5096579331",
+      "name": "Maksym Havrylenko",
+      "givenName": "Maksym",
+      "familyName": "Havrylenko",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0009-0008-7528-8244"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5116281557",
+      "name": "Andrii Laiko",
+      "givenName": "Andrii",
+      "familyName": "Laiko",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5635065
+    },
+    {
+      "id": "https://openalex.org/keywords/financial-stability",
+      "display_name": "Financial Stability",
+      "score": 0.5631722
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41444817
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C31173074",
+      "name": "Attractiveness",
+      "sameAs": "https://www.wikidata.org/wiki/Q2632514"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26517878",
+      "name": "Key (lock)",
+      "sameAs": "https://www.wikidata.org/wiki/Q228039"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2992337254",
+      "name": "Financial stability",
+      "sameAs": "https://www.wikidata.org/wiki/Q31275820"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C73283319",
+      "name": "Financial system",
+      "sameAs": "https://www.wikidata.org/wiki/Q1416617"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C38652104",
+      "name": "Computer security",
+      "sameAs": "https://www.wikidata.org/wiki/Q3510521"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C11171543",
+      "name": "Psychoanalysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q41630"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "url": "https://doi.org/10.62034/2815-5300/2024-v1-i6-008",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.62034/2815-5300/2024-v1-i6-008",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4205204566",
+  "doi": "10.18551/rjoas.2021-12.03",
+  "name": "THE EFFECT OF INVESTMENT, CAPITAL EXPENDITURE, AND DISTRICT / CITY MINIMUM WAGE ON INCLUSIVE ECONOMIC DEVELOPMENT IN THE REGENCY / CITY OF BALI PROVINCE, INDONESIA",
+  "headline": "THE EFFECT OF INVESTMENT, CAPITAL EXPENDITURE, AND DISTRICT / CITY MINIMUM WAGE ON INCLUSIVE ECONOMIC DEVELOPMENT IN THE REGENCY / CITY OF BALI PROVINCE, INDONESIA",
+  "datePublished": "2021-12-28",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Russian Journal of Agricultural and Socio-Economic Sciences",
+    "issn": "2226-1184",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Russian Journal of Agricultural and Socio-Economic Sciences"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5013929177",
+      "name": "Made Sinthya Aryasthini Mahaendrayasa",
+      "givenName": "M.S.A.",
+      "familyName": "Mahaendrayasa",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I126826664",
+          "name": "Udayana University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0009-0007-8883-1931"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5003691664",
+      "name": "Made Kembar Sri Budhi",
+      "givenName": "M.K.S.",
+      "familyName": "Budhi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I126826664",
+          "name": "Udayana University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-8514-5254"
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W1489520031",
+    "https://openalex.org/W1544868493",
+    "https://openalex.org/W1545468261",
+    "https://openalex.org/W1600631899",
+    "https://openalex.org/W1939646599",
+    "https://openalex.org/W1989822153",
+    "https://openalex.org/W2005586556",
+    "https://openalex.org/W2034050604",
+    "https://openalex.org/W2036257150",
+    "https://openalex.org/W2110358268",
+    "https://openalex.org/W2184446715",
+    "https://openalex.org/W2224465425",
+    "https://openalex.org/W2338703417",
+    "https://openalex.org/W2468004856",
+    "https://openalex.org/W2508061310",
+    "https://openalex.org/W2519330966",
+    "https://openalex.org/W2555685651",
+    "https://openalex.org/W2574479567",
+    "https://openalex.org/W2595715229",
+    "https://openalex.org/W2737920998",
+    "https://openalex.org/W2738961244",
+    "https://openalex.org/W2741921107",
+    "https://openalex.org/W2755075844",
+    "https://openalex.org/W2759695246",
+    "https://openalex.org/W2793174841",
+    "https://openalex.org/W2807197861",
+    "https://openalex.org/W2811426003",
+    "https://openalex.org/W2908768824",
+    "https://openalex.org/W2919462083",
+    "https://openalex.org/W2927764915",
+    "https://openalex.org/W3013672837",
+    "https://openalex.org/W3128629550",
+    "https://openalex.org/W3135867331",
+    "https://openalex.org/W3149578249",
+    "https://openalex.org/W3197708032",
+    "https://openalex.org/W3201644112",
+    "https://openalex.org/W3215411603",
+    "https://openalex.org/W4241871521",
+    "https://openalex.org/W59358061",
+    "https://openalex.org/W82838914"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 3000,
+      "currency": "RUB"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6443571
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.52361447
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.45519197
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-expenditure",
+      "display_name": "Capital expenditure",
+      "score": 0.4234925
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2777388388",
+      "name": "Wage",
+      "sameAs": "https://www.wikidata.org/wiki/Q6821213"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C172497479",
+      "name": "Capital expenditure",
+      "sameAs": "https://www.wikidata.org/wiki/Q302208"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145236788",
+      "name": "Labour economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q28161"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The achievement of equitable community welfare is one of the goals expected by every district/city including in the Province of Bali.There are various factors that can affect community welfare and inclusive economic development, such as: life expectancy, health, school enrollment rates, minimum wages, percentage of population poor, investment, and the allocation of financing from the government for public facilities.The data used is secondary data, namely district/city panel data in the Province of Bali in 2015-2019 which was obtained from the Central Statistics Agency for the Province of Bali and Bappenas.The data is analyzed using path analysis.The results show that direct investment has a positive and significant impact on people's welfare.The district/city minimum wage has a direct positive and significant effect on inclusive economic development and community welfare in the districts/cities of Bali Province.Investment has a positive and insignificant effect on inclusive economic development.Capital expenditure has a negative and significant effect on inclusive economic development and community welfare.Inclusive economic development has a direct positive and insignificant effect on the welfare of the people in the districts/cities of Bali Province.Inclusive economic development as an intervening variable is only on capital expenditure on people's welfare.",
+  "url": "https://doi.org/10.18551/rjoas.2021-12.03",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.18551/rjoas.2021-12.03",
+    "encodingFormat": "text/html"
+  }
+}

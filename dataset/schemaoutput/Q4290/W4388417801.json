@@ -1,0 +1,341 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4388417801",
+  "doi": "10.1111/acfi.13185",
+  "name": "Affect and reason in uncertain accounting settings: The case of capital investment appraisal",
+  "headline": "Affect and reason in uncertain accounting settings: The case of capital investment appraisal",
+  "datePublished": "2023-11-05",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Accounting and Finance",
+    "issn": "0810-5391",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Wiley"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5056188443",
+      "name": "Paul Andon",
+      "givenName": "Paul",
+      "familyName": "Andon",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I31746571",
+          "name": "UNSW Sydney",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-7775-9195"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5028705394",
+      "name": "Jane Baxter",
+      "givenName": "Jane",
+      "familyName": "Baxter",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I31746571",
+          "name": "UNSW Sydney",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-9527-2687"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5031890972",
+      "name": "Wai Fong Chua",
+      "givenName": "Wai",
+      "familyName": "Chua",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I129604602",
+          "name": "The University of Sydney",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-1634-7151"
+    }
+  ],
+  "citationCount": 4,
+  "citation": [
+    "https://openalex.org/W1490676200",
+    "https://openalex.org/W1574089532",
+    "https://openalex.org/W1679456992",
+    "https://openalex.org/W1771720084",
+    "https://openalex.org/W1965718654",
+    "https://openalex.org/W1969243091",
+    "https://openalex.org/W1970690721",
+    "https://openalex.org/W1977675760",
+    "https://openalex.org/W1984596072",
+    "https://openalex.org/W1984846859",
+    "https://openalex.org/W1985039788",
+    "https://openalex.org/W1990391359",
+    "https://openalex.org/W1994362858",
+    "https://openalex.org/W2005721219",
+    "https://openalex.org/W2007870489",
+    "https://openalex.org/W2009146663",
+    "https://openalex.org/W2031301236",
+    "https://openalex.org/W2031483304",
+    "https://openalex.org/W2033540244",
+    "https://openalex.org/W2036479327",
+    "https://openalex.org/W2041333115",
+    "https://openalex.org/W2045508192",
+    "https://openalex.org/W2047452591",
+    "https://openalex.org/W2049791443",
+    "https://openalex.org/W2050294535",
+    "https://openalex.org/W2052796989",
+    "https://openalex.org/W2055673921",
+    "https://openalex.org/W2060580886",
+    "https://openalex.org/W2061441640",
+    "https://openalex.org/W2066421325",
+    "https://openalex.org/W2068380992",
+    "https://openalex.org/W2078240089",
+    "https://openalex.org/W2084641016",
+    "https://openalex.org/W2090955071",
+    "https://openalex.org/W2099550678",
+    "https://openalex.org/W2113317218",
+    "https://openalex.org/W2126833522",
+    "https://openalex.org/W2135539456",
+    "https://openalex.org/W2142708307",
+    "https://openalex.org/W2153028749",
+    "https://openalex.org/W2160063196",
+    "https://openalex.org/W2216498388",
+    "https://openalex.org/W2254670458",
+    "https://openalex.org/W2259137825",
+    "https://openalex.org/W2321794008",
+    "https://openalex.org/W2524943735",
+    "https://openalex.org/W2592835225",
+    "https://openalex.org/W2737150751",
+    "https://openalex.org/W2803245998",
+    "https://openalex.org/W2808134721",
+    "https://openalex.org/W2892563248",
+    "https://openalex.org/W2900977962",
+    "https://openalex.org/W2981716025",
+    "https://openalex.org/W2987085420",
+    "https://openalex.org/W3035645265",
+    "https://openalex.org/W3121354542",
+    "https://openalex.org/W3121727157",
+    "https://openalex.org/W3121733912",
+    "https://openalex.org/W3124676928",
+    "https://openalex.org/W3125265655",
+    "https://openalex.org/W3125271785",
+    "https://openalex.org/W3142625486",
+    "https://openalex.org/W3148423062",
+    "https://openalex.org/W3177224359",
+    "https://openalex.org/W4205477768",
+    "https://openalex.org/W4239727386",
+    "https://openalex.org/W4243990692",
+    "https://openalex.org/W4388168958",
+    "https://openalex.org/W4388174267",
+    "https://openalex.org/W588834284"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 3140,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/affect",
+      "display_name": "Affect",
+      "score": 0.78503525
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.70861995
+    },
+    {
+      "id": "https://openalex.org/keywords/craft",
+      "display_name": "Craft",
+      "score": 0.64188963
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-budgeting",
+      "display_name": "Capital Budgeting",
+      "score": 0.55309564
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.51239735
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5062472
+    },
+    {
+      "id": "https://openalex.org/keywords/investment-decisions",
+      "display_name": "Investment Decisions",
+      "score": 0.4882617
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776035688",
+      "name": "Affect (linguistics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1606558"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779732396",
+      "name": "Craft",
+      "sameAs": "https://www.wikidata.org/wiki/Q2207288"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C57918260",
+      "name": "Capital budgeting",
+      "sameAs": "https://www.wikidata.org/wiki/Q1354666"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778865806",
+      "name": "Investment decisions",
+      "sameAs": "https://www.wikidata.org/wiki/Q6060850"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121955636",
+      "name": "Accounting",
+      "sameAs": "https://www.wikidata.org/wiki/Q4116214"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C118084267",
+      "name": "Positive economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q26110"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21425071",
+      "name": "Project appraisal",
+      "sameAs": "https://www.wikidata.org/wiki/Q7249389"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C109574028",
+      "name": "Behavioral economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q647525"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C46312422",
+      "name": "Communication",
+      "sameAs": "https://www.wikidata.org/wiki/Q11024"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "Abstract Affect is generally characterised as distinct from, and detrimental to, reason in investment appraisal. This paper, in contrast, illustrates that affect is integral to reasoning, particularly when uncertainty disturbs investment appraisal. Investment appraisals produce uncertain projections about the future, which generate discomfort. This causes actors to undertake adaptive activities to craft calculations they can become comfortable with, which we characterise as epistemic participation and shaping the politics of expectations . These activities constitute a dualistic fusion of comfort and reason: discomfort initiates and informs reasoning to regain comfort. We further show the effects of the laborious efforts accompanying this accretion of both knowledge and comfort. Our arguments are supported by an analysis of investment appraisal for a 30‐year capital project.",
+  "url": "https://doi.org/10.1111/acfi.13185",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/acfi.13185",
+    "encodingFormat": "text/html"
+  }
+}

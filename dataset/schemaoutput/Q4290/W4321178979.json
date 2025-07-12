@@ -1,0 +1,251 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4321178979",
+  "doi": "10.51125/citaekonomika.v17i1.7783",
+  "name": "FAKTOR-FAKTOR YANG MEMPENGARUHI PRODUKSI NELAYAN DI DESA LAHA KECAMATAN TELUK AMBON",
+  "headline": "FAKTOR-FAKTOR YANG MEMPENGARUHI PRODUKSI NELAYAN DI DESA LAHA KECAMATAN TELUK AMBON",
+  "datePublished": "2023-02-08",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Jurnal Cita Ekonomika",
+    "issn": "1978-3612",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5028252519",
+      "name": "Mohamad Ratmasa Serang",
+      "givenName": "Mohamad",
+      "familyName": "Serang",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3133131564",
+          "name": "University of Pattimura",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5042853379",
+      "name": "Harvey Hiariej",
+      "givenName": "Harvey",
+      "familyName": "Hiariej",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3133131564",
+          "name": "University of Pattimura",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2894583547",
+    "https://openalex.org/W2914681762",
+    "https://openalex.org/W4321261408",
+    "https://openalex.org/W4378082728",
+    "https://openalex.org/W4392813816",
+    "https://openalex.org/W4401961240",
+    "https://openalex.org/W593898368"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.6321914
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.588661
+    },
+    {
+      "id": "https://openalex.org/keywords/variables",
+      "display_name": "Variables",
+      "score": 0.45622545
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.45609203
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C514101110",
+      "name": "Fishing",
+      "sameAs": "https://www.wikidata.org/wiki/Q14373"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27574286",
+      "name": "Variables",
+      "sameAs": "https://www.wikidata.org/wiki/Q320723"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C182365436",
+      "name": "Variable (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q50701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C152877465",
+      "name": "Regression analysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q208042"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21547014",
+      "name": "Operations management",
+      "sameAs": "https://www.wikidata.org/wiki/Q1423657"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37621935",
+      "name": "Agricultural science",
+      "sameAs": "https://www.wikidata.org/wiki/Q3606845"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105795698",
+      "name": "Statistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q12483"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C505870484",
+      "name": "Fishery",
+      "sameAs": "https://www.wikidata.org/wiki/Q180538"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134306372",
+      "name": "Mathematical analysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q7754"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Analysis of the description for the indicator of maintenance costs obtained a total score of 134 which is included in the low criteria. The indicator of the cost of production expenditure on the capital variable obtained a total score of 268 which is included in the low criteria. for the number of workers obtained a total score of 270 which is included in the criteria for a little for a long time at sea, it is obtained a total score of 211 which is included in the medium criteria. for the indicator of the number of fishermen's production obtained a total score of 292 which is included in the criteria is quite high. Fishermen in Laha Village still use traditional fishing gear. This is because they do not have sufficient capital (investment) to develop their business with modern technology. Simultaneously, capital, labor, length of time at sea and climate affect production results. Partially, it shows that capital, labor, length of time at sea and climate have a two-way effect (positive and negative) on fisherman production. In this case, the variables of labor, length of time at sea and climate have a positive effect, while the capital variable has a negative effect on the production of fishermen. Based on the results of multiple regression analysis, the magnitude of the effect of capital, labor, time at sea, and climate on the production of fishermen in Laha Village is 68.3%. Meanwhile, the remaining 31.7% is influenced by other factors outside the model that are not discussed in this study.",
+  "url": "https://doi.org/10.51125/citaekonomika.v17i1.7783",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://ojs3.unpatti.ac.id/index.php/citaekonomika/article/download/7783/5307",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4313434008",
+  "doi": "10.1787/650ab2a6-en",
+  "name": "Capital expenditure in the health sector",
+  "headline": "Capital expenditure in the health sector",
+  "datePublished": "2022-12-20",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Health at a glance. Europe",
+    "issn": "2305-607X",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Organization for Economic Cooperation and Development"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5110843672",
+      "name": "OECD",
+      "givenName": "OECD",
+      "familyName": "OECD",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5095941314",
+      "name": "European Union",
+      "givenName": "European",
+      "familyName": "Union",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/spare-part",
+      "display_name": "Spare part",
+      "score": 0.7999631
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6235969
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-expenditure",
+      "display_name": "Capital expenditure",
+      "score": 0.6075033
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5438846
+    },
+    {
+      "id": "https://openalex.org/keywords/health-sector",
+      "display_name": "Health sector",
+      "score": 0.49223462
+    },
+    {
+      "id": "https://openalex.org/keywords/resilience",
+      "display_name": "Resilience",
+      "score": 0.47098112
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.45714217
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C194648553",
+      "name": "Spare part",
+      "sameAs": "https://www.wikidata.org/wiki/Q1364774"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C172497479",
+      "name": "Capital expenditure",
+      "sameAs": "https://www.wikidata.org/wiki/Q302208"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C160735492",
+      "name": "Health care",
+      "sameAs": "https://www.wikidata.org/wiki/Q31207"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2988643123",
+      "name": "Health sector",
+      "sameAs": "https://www.wikidata.org/wiki/Q15067276"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779585090",
+      "name": "Resilience (materials science)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3457762"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2908647359",
+      "name": "Population",
+      "sameAs": "https://www.wikidata.org/wiki/Q2625603"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C100001284",
+      "name": "Public economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q2248246"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2986740045",
+      "name": "Health services",
+      "sameAs": "https://www.wikidata.org/wiki/Q31207"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C99454951",
+      "name": "Environmental health",
+      "sameAs": "https://www.wikidata.org/wiki/Q932068"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C71924100",
+      "name": "Medicine",
+      "sameAs": "https://www.wikidata.org/wiki/Q11190"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C97355855",
+      "name": "Thermodynamics",
+      "sameAs": "https://www.wikidata.org/wiki/Q11473"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121332964",
+      "name": "Physics",
+      "sameAs": "https://www.wikidata.org/wiki/Q413"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Investments in health care facilities, diagnostic and therapeutic equipment, and information and communications technology, affect the capacity to respond to population needs. There are no guidelines or international benchmarks regarding the optimal level of capital investment in the health sector. Nonetheless, it is of critical importance for countries to maintain spare capacity to deal with surges – too little investment will over-stretch service provision, undermining health system resilience.",
+  "url": "https://doi.org/10.1787/650ab2a6-en",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.oecd-ilibrary.org/deliver/507433b0-en.pdf?itemId=%2Fcontent%2Fpublication%2F507433b0-en&mimeType=pdf",
+    "encodingFormat": "text/html"
+  }
+}

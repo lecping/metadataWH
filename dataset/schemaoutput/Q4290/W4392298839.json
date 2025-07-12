@@ -1,0 +1,206 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4392298839",
+  "doi": "10.33271/nvngu/2024-1/191",
+  "name": "Modeling the return on investment in human capital in the IT industry of Ukraine",
+  "headline": "Modeling the return on investment in human capital in the IT industry of Ukraine",
+  "datePublished": "2024-02-29",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Naukovyi Visnyk Natsionalnoho Hirnychoho Universytetu",
+    "issn": "2071-2227",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5058418663",
+      "name": "А. Ю. Полчанов",
+      "givenName": "A.",
+      "familyName": "Polchanov",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0001-6019-9275"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5024432403",
+      "name": "Nataliya Vyhovska",
+      "givenName": "N.",
+      "familyName": "Vyhovska",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0001-7129-6169"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5016590539",
+      "name": "Nataliia Valinkevych",
+      "givenName": "N.",
+      "familyName": "Valinkevych",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0001-8804-868X"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5113130485",
+      "name": "Iryna Lytvynchuk",
+      "givenName": "I.",
+      "familyName": "Lytvynchuk",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5044853103",
+      "name": "Олексій Юрійович Полчанов",
+      "givenName": "O.",
+      "familyName": "Polchanov",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-6664-1383"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2078182602",
+    "https://openalex.org/W2290775834",
+    "https://openalex.org/W2517357745",
+    "https://openalex.org/W2560629576",
+    "https://openalex.org/W2586395186",
+    "https://openalex.org/W2885242481",
+    "https://openalex.org/W2914323506",
+    "https://openalex.org/W2996358293",
+    "https://openalex.org/W2997227060",
+    "https://openalex.org/W3127450883",
+    "https://openalex.org/W3144195079",
+    "https://openalex.org/W4282823331",
+    "https://openalex.org/W4366175140",
+    "https://openalex.org/W4382120274"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.61361307
+    },
+    {
+      "id": "https://openalex.org/keywords/return-of-capital",
+      "display_name": "Return of capital",
+      "score": 0.5277458
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.46165335
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C169549615",
+      "name": "Return on investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q939134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C57693453",
+      "name": "Return of capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q7317193"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26584437",
+      "name": "Investment performance",
+      "sameAs": "https://www.wikidata.org/wiki/Q6060874"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Purpose. To identify patterns of return on investment in human capital in the IT industry of Ukraine through a quantitative assessment of the relationship between the income of IT specialists and the experience and other characteristics of the specialist and the company, as well as the formation of relevant recommendations. Methodology. The empirical basis of the study was a survey on the salary of IT specialists in Ukraine conducted in December 2022. The methodological basis of the study was general scientific and special research methods, in particular, the method of abstraction (to focus on the main determinants of the formation of IT specialists’ income), induction (to extrapolate the patterns found in the sample to the entire IT industry of Ukraine), economic mathematical modeling (for the construction of a multiple regression model that reflects the patterns of influence of factors on the income of IT specialists that exist in reality). Findings. It was established that among IT specialists people are predominant with little work experience (up to 5 years). The effect of experience on the growth rate of income has a decreasing non-linear nature, while the most noticeable increase in income is observed during the first years of work in the specialty. It was found that the highest-paid IT professionals are software development engineers, managers at various levels, and quality assurance engineers. It has been proven that the level of English proficiency has a positive effect on income. A higher level of remuneration for the work of IT specialists in product companies and startups compared to outsourcing or outstaffing companies has been established. Originality. It has been revealed that the relationship between the income of IT specialists and their work experience, profession, level of English language proficiency, and company type. Practical value. The applied value of the study lies in the ability to predict the income of IT specialists. The formed recommendations can be used in the activities of IT companies in terms of improving financial control over the spending of funds for the payment of services of IT specialists, assessing the feasibility of investing funds in personnel development, as well as substantiating the planned indicators of changes in the costs of paying for the services of IT specialists.",
+  "url": "https://doi.org/10.33271/nvngu/2024-1/191",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "http://nvngu.in.ua/jdownloads/pdf/2024/1/01_2024_Polchanov.pdf",
+    "encodingFormat": "text/html"
+  }
+}

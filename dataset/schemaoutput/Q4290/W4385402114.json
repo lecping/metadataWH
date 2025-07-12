@@ -1,0 +1,375 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4385402114",
+  "doi": "10.1016/j.aquaeng.2023.102349",
+  "name": "Research verification of four commercial scale split-pond designs",
+  "headline": "Research verification of four commercial scale split-pond designs",
+  "datePublished": "2023-07-26",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Aquacultural Engineering",
+    "issn": "0144-8609",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Elsevier BV"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5060434411",
+      "name": "Morgan Cheatham",
+      "givenName": "Morgan",
+      "familyName": "Cheatham",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2799773763",
+          "name": "Mississippi Delta Community College",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I99041443",
+          "name": "Mississippi State University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-6709-8119"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5061112442",
+      "name": "Ganesh Kumar",
+      "givenName": "Ganesh",
+      "familyName": "Kumar",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I99041443",
+          "name": "Mississippi State University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2799773763",
+          "name": "Mississippi Delta Community College",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-4765-5306"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5012225747",
+      "name": "Craig S. Tucker",
+      "givenName": "Craig",
+      "familyName": "Tucker",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2799773763",
+          "name": "Mississippi Delta Community College",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I99041443",
+          "name": "Mississippi State University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-0818-7247"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5066825659",
+      "name": "Billy Rutland",
+      "givenName": "Billy",
+      "familyName": "Rutland",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2799773763",
+          "name": "Mississippi Delta Community College",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I99041443",
+          "name": "Mississippi State University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 4,
+  "citation": [
+    "https://openalex.org/W1526274266",
+    "https://openalex.org/W1978456877",
+    "https://openalex.org/W1987319415",
+    "https://openalex.org/W2001612419",
+    "https://openalex.org/W2015800687",
+    "https://openalex.org/W2042970072",
+    "https://openalex.org/W2046414357",
+    "https://openalex.org/W2047718905",
+    "https://openalex.org/W2102312976",
+    "https://openalex.org/W2208030886",
+    "https://openalex.org/W2210403307",
+    "https://openalex.org/W2232219186",
+    "https://openalex.org/W2281528595",
+    "https://openalex.org/W2341993214",
+    "https://openalex.org/W2568986941",
+    "https://openalex.org/W2599675388",
+    "https://openalex.org/W2605968929",
+    "https://openalex.org/W2612002453",
+    "https://openalex.org/W2754667486",
+    "https://openalex.org/W2765096842",
+    "https://openalex.org/W2790100988",
+    "https://openalex.org/W2799958658",
+    "https://openalex.org/W2888065126",
+    "https://openalex.org/W2953668270",
+    "https://openalex.org/W2955009790",
+    "https://openalex.org/W2994814687",
+    "https://openalex.org/W2999129677",
+    "https://openalex.org/W3015333431",
+    "https://openalex.org/W3020986123",
+    "https://openalex.org/W3023335056",
+    "https://openalex.org/W3028190532",
+    "https://openalex.org/W3037263252",
+    "https://openalex.org/W3037377642",
+    "https://openalex.org/W3049108359",
+    "https://openalex.org/W3086537828",
+    "https://openalex.org/W3087232926",
+    "https://openalex.org/W3092886021",
+    "https://openalex.org/W3134331472",
+    "https://openalex.org/W3180235204",
+    "https://openalex.org/W3216309743",
+    "https://openalex.org/W4212774863",
+    "https://openalex.org/W4213303469",
+    "https://openalex.org/W4240527544",
+    "https://openalex.org/W4285391020",
+    "https://openalex.org/W4321614150"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5651157
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.47731885
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-cost",
+      "display_name": "Capital cost",
+      "score": 0.45954603
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778189562",
+      "name": "Catfish",
+      "sameAs": "https://www.wikidata.org/wiki/Q59576"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204983608",
+      "name": "Productivity",
+      "sameAs": "https://www.wikidata.org/wiki/Q2111958"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C109007969",
+      "name": "Structural basin",
+      "sameAs": "https://www.wikidata.org/wiki/Q749565"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C87717796",
+      "name": "Environmental engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q146326"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C157062255",
+      "name": "Capital cost",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035697"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86922832",
+      "name": "Aeration",
+      "sameAs": "https://www.wikidata.org/wiki/Q381105"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778755073",
+      "name": "Scale (ratio)",
+      "sameAs": "https://www.wikidata.org/wiki/Q10858537"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2909208804",
+      "name": "Fish <Actinopterygii>",
+      "sameAs": "https://www.wikidata.org/wiki/Q127282"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C76886044",
+      "name": "Hydrology (agriculture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2883300"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C505870484",
+      "name": "Fishery",
+      "sameAs": "https://www.wikidata.org/wiki/Q180538"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C548081761",
+      "name": "Waste management",
+      "sameAs": "https://www.wikidata.org/wiki/Q180388"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119599485",
+      "name": "Electrical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q43035"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C58640448",
+      "name": "Cartography",
+      "sameAs": "https://www.wikidata.org/wiki/Q42515"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C187320778",
+      "name": "Geotechnical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q1349130"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C151730666",
+      "name": "Paleontology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7205"
+    }
+  ],
+  "url": "https://doi.org/10.1016/j.aquaeng.2023.102349",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": null,
+    "encodingFormat": "text/html"
+  }
+}

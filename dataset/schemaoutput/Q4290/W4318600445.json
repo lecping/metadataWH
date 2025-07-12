@@ -1,0 +1,207 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4318600445",
+  "doi": "10.52062/thecommen.v5i2.2538",
+  "name": "Pelatihan Literasi Keuangan Dan Investasi Bagi Masyarakat Kampung Warna-Warni Yoboi",
+  "headline": "Pelatihan Literasi Keuangan Dan Investasi Bagi Masyarakat Kampung Warna-Warni Yoboi",
+  "datePublished": "2022-11-25",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "The Community Engagement Journal The Commen",
+    "issn": "2621-6817",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5011112106",
+      "name": "Yohanes C. Seralurin",
+      "givenName": "Yohanes",
+      "familyName": "Seralurin",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3129799171",
+          "name": "Cenderawasih University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5052782352",
+      "name": "Ulfah Rizky Muslimin",
+      "givenName": "Ulfah",
+      "familyName": "Muslimin",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2471359015",
+    "https://openalex.org/W2734421733",
+    "https://openalex.org/W3011566696"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/stock",
+      "display_name": "Stock (firearms)",
+      "score": 0.70372945
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.49164826
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.48333976
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204036174",
+      "name": "Stock (firearms)",
+      "sameAs": "https://www.wikidata.org/wiki/Q909380"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C200870193",
+      "name": "Stock exchange",
+      "sameAs": "https://www.wikidata.org/wiki/Q11691"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C55958113",
+      "name": "Indigenous",
+      "sameAs": "https://www.wikidata.org/wiki/Q169480"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C110875604",
+      "name": "The Internet",
+      "sameAs": "https://www.wikidata.org/wiki/Q75"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780299701",
+      "name": "Stock market",
+      "sameAs": "https://www.wikidata.org/wiki/Q475000"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136764020",
+      "name": "World Wide Web",
+      "sameAs": "https://www.wikidata.org/wiki/Q466"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78519656",
+      "name": "Mechanical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q101333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779343474",
+      "name": "Context (archaeology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3109175"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    }
+  ],
+  "abstract": "This company performance analysis training using technical analysis with the number of participants about 50 persons, which all the participants are from Yoboi village and people around Sentani lake. This training are conducted with the Investment Gallery of Indonesia Stock Exchange, University of Cenderawasih to introduce stock investment in the capital market to the community or indigenous Papuans. Basic things about stock investment, the benefits and risks of stock investment, also training and mentoring for stock investment are the references in educational activities in the stock village. However, it must be acknowledged that there are technical obstacles such as adequate internet and cellphones, as well as understanding the use of applications which are serious problems. Therefore, training and mentoring are needed gradually, not only in theory, but also with direct practice",
+  "url": "https://doi.org/10.52062/thecommen.v5i2.2538",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://ejournal.uncen.ac.id/index.php/COMMEN/article/download/2538/2019",
+    "encodingFormat": "text/html"
+  }
+}

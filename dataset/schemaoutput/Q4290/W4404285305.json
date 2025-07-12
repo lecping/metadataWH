@@ -1,0 +1,160 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4404285305",
+  "doi": "10.30988/jmil.v5i2.1198",
+  "name": "THE INFLUENCE OF PROFITABILITY, CAPITAL STRUCTURE AND INVESTMENT DECISIONS ON COMPANY VALUE",
+  "headline": "THE INFLUENCE OF PROFITABILITY, CAPITAL STRUCTURE AND INVESTMENT DECISIONS ON COMPANY VALUE",
+  "datePublished": "2023-03-26",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Jurnal Manajemen Industri dan Logistik",
+    "issn": "2598-5795",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5108903570",
+      "name": "Dede Hertina",
+      "givenName": "Dede",
+      "familyName": "Hertina",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5043229838",
+      "name": "Azis Muslim",
+      "givenName": "Azis",
+      "familyName": "Muslim",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5114609968",
+      "name": "Dadang Iskandar Danubrata",
+      "givenName": "Dadang",
+      "familyName": "Danubrata",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/value",
+      "display_name": "Value (mathematics)",
+      "score": 0.54409844
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5279255
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41149765
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C129361004",
+      "name": "Profitability index",
+      "sameAs": "https://www.wikidata.org/wiki/Q2470236"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149933338",
+      "name": "Capital structure",
+      "sameAs": "https://www.wikidata.org/wiki/Q950816"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776291640",
+      "name": "Value (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2912517"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105795698",
+      "name": "Statistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q12483"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C120527767",
+      "name": "Debt",
+      "sameAs": "https://www.wikidata.org/wiki/Q3196867"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This study aims to determine the effect of profitability, capital structure and investment decisions on firm value in Chemical and Basic Industry Sector Companies Listed on the Indonesia Stock Exchange Period 2016-2020. The sampling technique was carried out using a purposive sampling method. This research method uses a descriptive method. The results of the study show that simultaneously profitability, capital structure and investment decisions have a significant effect on firm value. The results of the study partially state that profitability has a significant effect on firm value, capital structure has no significant effect on firm value, investment decisions have a significant effect on firm value.",
+  "url": "https://doi.org/10.30988/jmil.v5i2.1198",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.30988/jmil.v5i2.1198",
+    "encodingFormat": "text/html"
+  }
+}

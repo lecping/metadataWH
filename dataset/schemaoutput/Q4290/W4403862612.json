@@ -1,0 +1,286 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4403862612",
+  "doi": "10.1080/02665433.2024.2411391",
+  "name": "Regulating capital investment in urban property: towards comparative-historical research in planning history",
+  "headline": "Regulating capital investment in urban property: towards comparative-historical research in planning history",
+  "datePublished": "2024-10-29",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-nd",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Planning Perspectives",
+    "issn": "0266-5433",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Taylor & Francis"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5089673756",
+      "name": "André Sørensen",
+      "givenName": "André",
+      "familyName": "Sorensen",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I185261750",
+          "name": "University of Toronto",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-4856-2593"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5054754797",
+      "name": "Nico Adams",
+      "givenName": "Neve",
+      "familyName": "Adams",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210121988",
+          "name": "Film Independent",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-3136-1338"
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W102652799",
+    "https://openalex.org/W1493574796",
+    "https://openalex.org/W1505006517",
+    "https://openalex.org/W1509292812",
+    "https://openalex.org/W1541803598",
+    "https://openalex.org/W1561018600",
+    "https://openalex.org/W1722286686",
+    "https://openalex.org/W1843442624",
+    "https://openalex.org/W1875948999",
+    "https://openalex.org/W1965711253",
+    "https://openalex.org/W1976706333",
+    "https://openalex.org/W1983207435",
+    "https://openalex.org/W1986552822",
+    "https://openalex.org/W1990507469",
+    "https://openalex.org/W1998746419",
+    "https://openalex.org/W1998800605",
+    "https://openalex.org/W2013208240",
+    "https://openalex.org/W2016204775",
+    "https://openalex.org/W2027231334",
+    "https://openalex.org/W2031321564",
+    "https://openalex.org/W2043691842",
+    "https://openalex.org/W2059026345",
+    "https://openalex.org/W2061606666",
+    "https://openalex.org/W2070363143",
+    "https://openalex.org/W2083318936",
+    "https://openalex.org/W2091005948",
+    "https://openalex.org/W2092386195",
+    "https://openalex.org/W2097780461",
+    "https://openalex.org/W2112469094",
+    "https://openalex.org/W2113571993",
+    "https://openalex.org/W2117592571",
+    "https://openalex.org/W2121206876",
+    "https://openalex.org/W2137414337",
+    "https://openalex.org/W2141344981",
+    "https://openalex.org/W2145594848",
+    "https://openalex.org/W2146767583",
+    "https://openalex.org/W2147111138",
+    "https://openalex.org/W2307860711",
+    "https://openalex.org/W2327950447",
+    "https://openalex.org/W2331199442",
+    "https://openalex.org/W2406668323",
+    "https://openalex.org/W2489124092",
+    "https://openalex.org/W2530257411",
+    "https://openalex.org/W2586326365",
+    "https://openalex.org/W2634855525",
+    "https://openalex.org/W270153728",
+    "https://openalex.org/W2730267842",
+    "https://openalex.org/W2773452486",
+    "https://openalex.org/W2804435003",
+    "https://openalex.org/W2896494141",
+    "https://openalex.org/W2948371047",
+    "https://openalex.org/W2970616369",
+    "https://openalex.org/W3006582453",
+    "https://openalex.org/W3123942752",
+    "https://openalex.org/W4210557368",
+    "https://openalex.org/W4210896772",
+    "https://openalex.org/W4229738978",
+    "https://openalex.org/W4232233948",
+    "https://openalex.org/W4236576741",
+    "https://openalex.org/W4237522314",
+    "https://openalex.org/W4245671161",
+    "https://openalex.org/W4246817496",
+    "https://openalex.org/W4248789038",
+    "https://openalex.org/W4252255126",
+    "https://openalex.org/W4253254975",
+    "https://openalex.org/W4298296395",
+    "https://openalex.org/W4298413470",
+    "https://openalex.org/W4309670845",
+    "https://openalex.org/W4382874668",
+    "https://openalex.org/W4385601725",
+    "https://openalex.org/W4389205594",
+    "https://openalex.org/W4390754147",
+    "https://openalex.org/W4402855075",
+    "https://openalex.org/W567741130",
+    "https://openalex.org/W586600944",
+    "https://openalex.org/W615520470"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.58076817
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.55894494
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5164247
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C189950617",
+      "name": "Property (philosophy)",
+      "sameAs": "https://www.wikidata.org/wiki/Q937228"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C49545453",
+      "name": "Urban planning",
+      "sameAs": "https://www.wikidata.org/wiki/Q69883"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26271046",
+      "name": "Economic geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q187097"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C74363100",
+      "name": "Economic system",
+      "sameAs": "https://www.wikidata.org/wiki/Q273005"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136264566",
+      "name": "Economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q159810"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C147176958",
+      "name": "Civil engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q77590"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111472728",
+      "name": "Epistemology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9471"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    }
+  ],
+  "url": "https://doi.org/10.1080/02665433.2024.2411391",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1080/02665433.2024.2411391",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4393007651",
+  "doi": "10.1051/bioconf/20249303009",
+  "name": "Methodology for assessing the development potential of the AIC of the Federal District",
+  "headline": "Methodology for assessing the development potential of the AIC of the Federal District",
+  "datePublished": "2024-01-01",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "BIO Web of Conferences",
+    "issn": "2117-4458",
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDP Sciences"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5002130313",
+      "name": "Misak Arzumanyan",
+      "givenName": "Misak",
+      "familyName": "Arzumanyan",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210154301",
+          "name": "Krasnoyarsk State Agrarian University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W3193333224",
+    "https://openalex.org/W4238586924",
+    "https://openalex.org/W4281778351",
+    "https://openalex.org/W4362721130"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.70042956
+    },
+    {
+      "id": "https://openalex.org/keywords/value",
+      "display_name": "Value (mathematics)",
+      "score": 0.55620515
+    },
+    {
+      "id": "https://openalex.org/keywords/relevance",
+      "display_name": "Relevance",
+      "score": 0.49173167
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4154215
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776291640",
+      "name": "Value (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2912517"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C158154518",
+      "name": "Relevance (law)",
+      "sameAs": "https://www.wikidata.org/wiki/Q7310970"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C4679612",
+      "name": "Aggregate (composite)",
+      "sameAs": "https://www.wikidata.org/wiki/Q866298"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C177264268",
+      "name": "Set (abstract data type)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1514741"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C3019953208",
+      "name": "Russian federation",
+      "sameAs": "https://www.wikidata.org/wiki/Q159"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778572836",
+      "name": "Space (punctuation)",
+      "sameAs": "https://www.wikidata.org/wiki/Q380933"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149782125",
+      "name": "Econometrics",
+      "sameAs": "https://www.wikidata.org/wiki/Q160039"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C42475967",
+      "name": "Operations research",
+      "sameAs": "https://www.wikidata.org/wiki/Q194292"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105795698",
+      "name": "Statistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q12483"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105639569",
+      "name": "Economic policy",
+      "sameAs": "https://www.wikidata.org/wiki/Q582577"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C192562407",
+      "name": "Materials science",
+      "sameAs": "https://www.wikidata.org/wiki/Q228736"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C159985019",
+      "name": "Composite material",
+      "sameAs": "https://www.wikidata.org/wiki/Q181790"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199360897",
+      "name": "Programming language",
+      "sameAs": "https://www.wikidata.org/wiki/Q9143"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111919701",
+      "name": "Operating system",
+      "sameAs": "https://www.wikidata.org/wiki/Q9135"
+    }
+  ],
+  "abstract": "The article presents the methodological foundations of AIC functioning, formation of its potential as an element of strategic space planning. The purpose of the study is to create a methodology that allows us to assess the level of AIC development potential of a federal district, a territorial entity consisting of regions, subjects of the Federation. The potential of the federal district is considered as an aggregate value, which is based on the potentials of its components - the potentials of the regions, set in the form of values resulting from the integration of the elements of the potential, reflecting the current state of AIC in the field of: harvesting and processing of products, investment in fixed capital of AIC, expenditures on scientific research. The algorithm of the methodology implies the calculation of indicators: reflecting the comparison of the rate of transformation of the value of gross output and the rate of change in its physical volume; comparing the rate of change in the amount of investment in the results of applied scientific activity with the rate of change in the value of investment in R&amp;D, which determines the relevance of further investment activity in view of the achieved level of demand for the results of scientific activity. The methodology is intended for researchers whose research is related to solving the problems of regulation of socio-economic development at the local level, at the level of the subject of the Federation and at the macro level for making managerial decisions. The results of the research will serve as methodological tools for assessing the achieved level of development of local territories of the federal district, forecasting the values of components and the level of development of AIC, based on the planned values of indicators of economic development of the territory.",
+  "url": "https://doi.org/10.1051/bioconf/20249303009",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.bio-conferences.org/articles/bioconf/pdf/2024/12/bioconf_ff2024_03009.pdf",
+    "encodingFormat": "text/html"
+  }
+}

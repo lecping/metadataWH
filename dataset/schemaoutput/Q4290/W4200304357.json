@@ -1,0 +1,228 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4200304357",
+  "doi": "10.1201/9781003196013-60",
+  "name": "Capital investment, internationalization, and firm performance: An empirical study of listed manufacturing firms in the Indonesian stock exchange in 2014–2019",
+  "headline": "Capital investment, internationalization, and firm performance: An empirical study of listed manufacturing firms in the Indonesian stock exchange in 2014–2019",
+  "datePublished": "2021-11-02",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-nd",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "CRC Press eBooks",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": "Informa"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5085909205",
+      "name": "Yovita Yovita",
+      "givenName": "None",
+      "familyName": "Yovita",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5071935767",
+      "name": "Deddy Marciano",
+      "givenName": "D.",
+      "familyName": "Marciano",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I16413167",
+          "name": "University of Surabaya",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-6216-5319"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1969763987",
+    "https://openalex.org/W1996518112",
+    "https://openalex.org/W2045691281",
+    "https://openalex.org/W2056579895",
+    "https://openalex.org/W2076083223",
+    "https://openalex.org/W2497589701",
+    "https://openalex.org/W2565314919",
+    "https://openalex.org/W2801122520",
+    "https://openalex.org/W2972098726",
+    "https://openalex.org/W3020890883",
+    "https://openalex.org/W3124796920"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.43745735
+    },
+    {
+      "id": "https://openalex.org/keywords/stock",
+      "display_name": "Stock (firearms)",
+      "score": 0.42679864
+    },
+    {
+      "id": "https://openalex.org/keywords/empirical-research",
+      "display_name": "Empirical Research",
+      "score": 0.42209214
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4188053
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779207338",
+      "name": "Indonesian",
+      "sameAs": "https://www.wikidata.org/wiki/Q9240"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C200870193",
+      "name": "Stock exchange",
+      "sameAs": "https://www.wikidata.org/wiki/Q11691"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C97509610",
+      "name": "Internationalization",
+      "sameAs": "https://www.wikidata.org/wiki/Q3141064"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204036174",
+      "name": "Stock (firearms)",
+      "sameAs": "https://www.wikidata.org/wiki/Q909380"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C120936955",
+      "name": "Empirical research",
+      "sameAs": "https://www.wikidata.org/wiki/Q2155640"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121955636",
+      "name": "Accounting",
+      "sameAs": "https://www.wikidata.org/wiki/Q4116214"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C73283319",
+      "name": "Financial system",
+      "sameAs": "https://www.wikidata.org/wiki/Q1416617"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C155202549",
+      "name": "International trade",
+      "sameAs": "https://www.wikidata.org/wiki/Q178803"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111472728",
+      "name": "Epistemology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9471"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This study aims to answer whether capital investment of a firm affects the firm's degree of internationalization and to test the effect of internationalization on the firm performance. This research focuses solely on 72 Indonesian manufacturing firms that have been actively engaging in export activities from 2014 to 2019, making up a total of 360 observation points. Capital investment is measured using CAPEXTA, while internationalization is measured using FSTS and the internationalization level change is measured using FSG. In addition, to measure the effect of internationalization on the firm performance, this study uses ROA and Tobin's Q. The control variables include industry return, firm size, leverage, tangible asset ratio, market-to-book ratio, gross profit margin, and sales growth. The hypotheses are confirmed using simple linear regression and ordinary least-squares. The results show that CAPEXTA and internationalization (FSTS) have a significantly negative relationship, and there is an evidence of non-linear relationship. The impact of CAPEXTA on FSG is also shown to be significantly negative and non-linear. While FSTS and ROA have a positive U-shaped relationship, and FSTS shows that it has a directly positive relationship to Tobin's Q.",
+  "url": "https://doi.org/10.1201/9781003196013-60",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.1201/9781003196013-60&type=chapterpdf",
+    "encodingFormat": "text/html"
+  }
+}

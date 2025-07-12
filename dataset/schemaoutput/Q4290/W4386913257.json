@@ -1,0 +1,356 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4386913257",
+  "doi": "10.3390/en16186735",
+  "name": "The Impact of Manure Use for Energy Purposes on the Economic Balance of a Dairy Farm",
+  "headline": "The Impact of Manure Use for Energy Purposes on the Economic Balance of a Dairy Farm",
+  "datePublished": "2023-09-21",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Energies",
+    "issn": "1996-1073",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Multidisciplinary Digital Publishing Institute"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5005068864",
+      "name": "Jakub Mazurkiewicz",
+      "givenName": "Jakub",
+      "familyName": "Mazurkiewicz",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I55783418",
+          "name": "University of Life Sciences in Poznań",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PL"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-7560-4779"
+    }
+  ],
+  "citationCount": 7,
+  "citation": [
+    "https://openalex.org/W1527231434",
+    "https://openalex.org/W1896076198",
+    "https://openalex.org/W1963480119",
+    "https://openalex.org/W1982879545",
+    "https://openalex.org/W1993339692",
+    "https://openalex.org/W1994580782",
+    "https://openalex.org/W1996592984",
+    "https://openalex.org/W2006436235",
+    "https://openalex.org/W2032792259",
+    "https://openalex.org/W2045704695",
+    "https://openalex.org/W2076383100",
+    "https://openalex.org/W2079440869",
+    "https://openalex.org/W2086763541",
+    "https://openalex.org/W2148433173",
+    "https://openalex.org/W2148976336",
+    "https://openalex.org/W2169822897",
+    "https://openalex.org/W2266889823",
+    "https://openalex.org/W2426128788",
+    "https://openalex.org/W2549525157",
+    "https://openalex.org/W2562477323",
+    "https://openalex.org/W2612328867",
+    "https://openalex.org/W2753100992",
+    "https://openalex.org/W2754036426",
+    "https://openalex.org/W2767876464",
+    "https://openalex.org/W2768451064",
+    "https://openalex.org/W2769378472",
+    "https://openalex.org/W2770283133",
+    "https://openalex.org/W2770408722",
+    "https://openalex.org/W2857681941",
+    "https://openalex.org/W2901645227",
+    "https://openalex.org/W2910273482",
+    "https://openalex.org/W2914018004",
+    "https://openalex.org/W2983594448",
+    "https://openalex.org/W2988479878",
+    "https://openalex.org/W2990709100",
+    "https://openalex.org/W2991277007",
+    "https://openalex.org/W3004466044",
+    "https://openalex.org/W3008084100",
+    "https://openalex.org/W3008406145",
+    "https://openalex.org/W3017761088",
+    "https://openalex.org/W3018901688",
+    "https://openalex.org/W3034681062",
+    "https://openalex.org/W3040537180",
+    "https://openalex.org/W3083348611",
+    "https://openalex.org/W3092189718",
+    "https://openalex.org/W3097537259",
+    "https://openalex.org/W3101257352",
+    "https://openalex.org/W3102984777",
+    "https://openalex.org/W3109842080",
+    "https://openalex.org/W3112040450",
+    "https://openalex.org/W3120521973",
+    "https://openalex.org/W3132011409",
+    "https://openalex.org/W3155718428",
+    "https://openalex.org/W3157247337",
+    "https://openalex.org/W3160115565",
+    "https://openalex.org/W3164066376",
+    "https://openalex.org/W3169700586",
+    "https://openalex.org/W3198864564",
+    "https://openalex.org/W3199979947",
+    "https://openalex.org/W3205490280",
+    "https://openalex.org/W3206820697",
+    "https://openalex.org/W3213103466",
+    "https://openalex.org/W373018672",
+    "https://openalex.org/W4205695009",
+    "https://openalex.org/W4210536986",
+    "https://openalex.org/W4210834866",
+    "https://openalex.org/W4224989400",
+    "https://openalex.org/W4229446866",
+    "https://openalex.org/W4282834176",
+    "https://openalex.org/W4285296761",
+    "https://openalex.org/W4304688240",
+    "https://openalex.org/W4306916462",
+    "https://openalex.org/W4308507053",
+    "https://openalex.org/W4309772370",
+    "https://openalex.org/W4309852604",
+    "https://openalex.org/W4309931028",
+    "https://openalex.org/W4311485530",
+    "https://openalex.org/W4319871655",
+    "https://openalex.org/W4321781369",
+    "https://openalex.org/W4321787706",
+    "https://openalex.org/W4323363092",
+    "https://openalex.org/W4361286045",
+    "https://openalex.org/W4362505922",
+    "https://openalex.org/W4366245289",
+    "https://openalex.org/W4376115144",
+    "https://openalex.org/W4376880276",
+    "https://openalex.org/W4378190403",
+    "https://openalex.org/W4378514935",
+    "https://openalex.org/W4378894806",
+    "https://openalex.org/W4380135887",
+    "https://openalex.org/W4386850198"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 2200,
+      "currency": "CHF"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/digestate",
+      "display_name": "Digestate",
+      "score": 0.66689605
+    },
+    {
+      "id": "https://openalex.org/keywords/biogas",
+      "display_name": "Biogas",
+      "score": 0.63741636
+    },
+    {
+      "id": "https://openalex.org/keywords/carbon-dioxide-equivalent",
+      "display_name": "Carbon dioxide equivalent",
+      "score": 0.4730063
+    },
+    {
+      "id": "https://openalex.org/keywords/payback-period",
+      "display_name": "Payback period",
+      "score": 0.46147725
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41913313
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778926930",
+      "name": "Digestate",
+      "sameAs": "https://www.wikidata.org/wiki/Q900279"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C38304854",
+      "name": "Manure",
+      "sameAs": "https://www.wikidata.org/wiki/Q185716"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C75212476",
+      "name": "Biogas",
+      "sameAs": "https://www.wikidata.org/wiki/Q171076"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37621935",
+      "name": "Agricultural science",
+      "sameAs": "https://www.wikidata.org/wiki/Q3606845"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C84265765",
+      "name": "Subsidy",
+      "sameAs": "https://www.wikidata.org/wiki/Q193219"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C118518473",
+      "name": "Agriculture",
+      "sameAs": "https://www.wikidata.org/wiki/Q11451"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181622380",
+      "name": "Profit (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q26911"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105367107",
+      "name": "Carbon dioxide equivalent",
+      "sameAs": "https://www.wikidata.org/wiki/Q901028"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144553756",
+      "name": "Payback period",
+      "sameAs": "https://www.wikidata.org/wiki/Q15081665"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C548081761",
+      "name": "Waste management",
+      "sameAs": "https://www.wikidata.org/wiki/Q180388"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C530467964",
+      "name": "Carbon dioxide",
+      "sameAs": "https://www.wikidata.org/wiki/Q1997"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C6557445",
+      "name": "Agronomy",
+      "sameAs": "https://www.wikidata.org/wiki/Q173113"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C499616599",
+      "name": "Anaerobic digestion",
+      "sameAs": "https://www.wikidata.org/wiki/Q555853"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C516920438",
+      "name": "Methane",
+      "sameAs": "https://www.wikidata.org/wiki/Q37129"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C178790620",
+      "name": "Organic chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q11351"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    }
+  ],
+  "abstract": "The use of methane fermentation in mesophilic conditions for the energy use of cow manure and additional co-substrates from the farm can bring a small dairy farm (140 dairy cows) financial benefits of up to EUR 114,159 per year. Taking into account the need to pay for emissions calculated as carbon dioxide equivalent, this profit could be reduced to EUR 81,323 per year. With the traditional direct use of manure, this profit would drop by as much as 60% to the level of EUR 33,944 per year. Therefore, the introduction of fees for emissions may significantly burden current dairy farms. As has already been shown, just compacting and covering the manure (which costs approx. EUR 2000 per year for 140 cows) would give almost twice as much profit—EUR 64,509 per year. Although an investment in a small biogas plant with a cogeneration unit on a family dairy farm may have a payback period of less than 6.5 years and a return of capital employed of 16%, most small farms in the world will not be able to afford its construction without external subsidies. At the same time, it would make it possible to reduce emissions by almost 270 times—from 41,460 to 154 tons of CO2eq per year—and the possibility of preserving valuable nutrients and minerals and supporting soil properties in the digestate. Therefore, it seems necessary for Europe to introduce a support system for small- and medium-sized farms with this type of investment in the near future in a much larger form than it has been so far.",
+  "url": "https://doi.org/10.3390/en16186735",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.mdpi.com/1996-1073/16/18/6735/pdf?version=1695278508",
+    "encodingFormat": "text/html"
+  }
+}

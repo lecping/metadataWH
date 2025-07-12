@@ -1,0 +1,228 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4381197170",
+  "doi": "10.36887/2415-8453-2023-2-8",
+  "name": "INVESTMENT CLIMATE RESEARCH MODELS OF INDUSTRIAL PARKS OF UKRAINE",
+  "headline": "INVESTMENT CLIMATE RESEARCH MODELS OF INDUSTRIAL PARKS OF UKRAINE",
+  "datePublished": "2023-03-20",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Ukrainian Journal of Applied Economics and Technology",
+    "issn": "2415-8453",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5079502895",
+      "name": "Olena Serhiienko",
+      "givenName": "Olena",
+      "familyName": "Serhiienko",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I67256668",
+          "name": "National Technical University \"Kharkiv Polytechnic Institute\"",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-9796-9218"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5002042108",
+      "name": "Oleksandr Bilotserkivskyi",
+      "givenName": "Oleksandr",
+      "familyName": "Bilotserkivskyi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I67256668",
+          "name": "National Technical University \"Kharkiv Polytechnic Institute\"",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-4707-7964"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5091610651",
+      "name": "І. І. Соснов",
+      "givenName": "Ihor",
+      "familyName": "Sosnov",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I67256668",
+          "name": "National Technical University \"Kharkiv Polytechnic Institute\"",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-0027-5488"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2943741888",
+    "https://openalex.org/W2998570140",
+    "https://openalex.org/W3036487589",
+    "https://openalex.org/W4205351402",
+    "https://openalex.org/W4248969452"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.74756247
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5290039
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.42473027
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C31173074",
+      "name": "Attractiveness",
+      "sameAs": "https://www.wikidata.org/wiki/Q2632514"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C169549615",
+      "name": "Return on investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q939134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149782125",
+      "name": "Econometrics",
+      "sameAs": "https://www.wikidata.org/wiki/Q160039"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C11171543",
+      "name": "Psychoanalysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q41630"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    }
+  ],
+  "abstract": "The investment climate characterizes the object's attractiveness for a domestic or foreign investor. It is evaluated using various statistical analysis methods, but there has yet to be a universally accepted method of its evaluation now. Therefore, applying economic and mathematical modeling will allow for assessing the relationship between the economic development of regions and their investment climate. The purpose of this research is to apply economic and mathematical tools for the assessment and analysis of the investment climate of industrial parks of Ukraine within specific regions and industries, to forecast the level of capital investments in the regions, as well to evaluate the relationship between the economic development of the region and its investment climate to determine the investment attractiveness of the areas, to diagnose the factors that have the most significant influence on the volume of capital investments and the formation of the investment climate. State clusters were determined and interpreted based on the cluster analysis results. Based on quarterly data, capital investments in the regions were investigated with the trend and seasonal components for certain representatives of clusters and regions. Forecasts were built based on the decomposition models, the level of adequacy of which was confirmed by the indicator of the average percentage absolute error as a high level of reliability. Models for assessing the relationship between the economic development of the region and its investment climate were implemented, and it was determined that the formation of the investment climate, namely the indicator of the volume of capital investment, is most influenced by the volume of exports and retail trade. Three methodological approaches are proposed, such as: assessment of the scale (grouping) of industrial parks; forecast of the level of capital investments in the regions; assessment of the relationship between the economic development of the region and its investment climate to study the investment climate of industrial parks in Ukraine. These methodological approaches will help predict the level of capital investment in the regions where industrial parks are located, as well as assess the relationship between the economic development of the region and its investment climate. The study of economic-mathematical methods and models to evaluate the investment attractiveness of territories, in particular the investment climate, made it possible to create economic-mathematical models of the investment climate of industrial parks of Ukraine, which will allow to determine successful industrial parks, forecast the volume of investments in regions and the factors that most affect the volume capital investment and formation of the investment climate. Economic and mathematical models of the investment climate of industrial parks in Ukraine have been developed. They will allow the development of a strategy for the country's economic activity, contributing to its economic growth. Keywords: economic and mathematical modeling, investment climate, investment attractiveness, industrial park, capital investment, cluster analysis, trend equation, forecast.",
+  "url": "https://doi.org/10.36887/2415-8453-2023-2-8",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://economyandsociety.in.ua/journals/9_ukr/3.pdf",
+    "encodingFormat": "text/html"
+  }
+}

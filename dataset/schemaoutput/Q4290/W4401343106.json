@@ -1,0 +1,125 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4401343106",
+  "doi": "10.7454/cudj.v2i1.1018",
+  "name": "Analysis of Investment Interest of Jakarta’s Business Actors to Invest at the National Capital of Nusantara",
+  "headline": "Analysis of Investment Interest of Jakarta’s Business Actors to Invest at the National Capital of Nusantara",
+  "datePublished": "2024-07-25",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Deleted Journal",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1975597243",
+    "https://openalex.org/W2118901141",
+    "https://openalex.org/W2257024953",
+    "https://openalex.org/W2405729954",
+    "https://openalex.org/W2981673627",
+    "https://openalex.org/W2981762658",
+    "https://openalex.org/W3092493858",
+    "https://openalex.org/W3124747412"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.65508157
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.57801604
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5767692
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C178550888",
+      "name": "Business administration",
+      "sameAs": "https://www.wikidata.org/wiki/Q2043282"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Background: The existence of opportunities for business actors to invest must be balanced with incentive policies to provide an attraction for business actors to invest in the new national capital so that they can create new jobs so that economic recovery occurs while increasing Gross Regional Domestic Product (GRDP).",
+  "url": "https://doi.org/10.7454/cudj.v2i1.1018",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://scholarhub.ui.ac.id/cgi/viewcontent.cgi?article=1018&context=cudj",
+    "encodingFormat": "text/html"
+  }
+}

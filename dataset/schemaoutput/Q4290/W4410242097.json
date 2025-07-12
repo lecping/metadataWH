@@ -1,0 +1,261 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4410242097",
+  "doi": "10.3390/jrfm18050258",
+  "name": "How Do Segment Disclosure and Cost of Capital Impact the Investment Efficiency of Listed Firms in Nigeria?",
+  "headline": "How Do Segment Disclosure and Cost of Capital Impact the Investment Efficiency of Listed Firms in Nigeria?",
+  "datePublished": "2025-05-09",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of risk and financial management",
+    "issn": "1911-8066",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Multidisciplinary Digital Publishing Institute"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5117014894",
+      "name": "Dolapo Faith Sule",
+      "givenName": "Dolapo",
+      "familyName": "Sule",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I24027795",
+          "name": "University of Johannesburg",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ZA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-3836-5844"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5043389340",
+      "name": "Tankiso Moloi",
+      "givenName": "Tankiso",
+      "familyName": "Moloi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I24027795",
+          "name": "University of Johannesburg",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ZA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-5362-7099"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1593455549",
+    "https://openalex.org/W1958056289",
+    "https://openalex.org/W1964095394",
+    "https://openalex.org/W1979943913",
+    "https://openalex.org/W2005787864",
+    "https://openalex.org/W2036902197",
+    "https://openalex.org/W2057785092",
+    "https://openalex.org/W2078525030",
+    "https://openalex.org/W2090815169",
+    "https://openalex.org/W2106534870",
+    "https://openalex.org/W2111065252",
+    "https://openalex.org/W2113987915",
+    "https://openalex.org/W2123052292",
+    "https://openalex.org/W2154187126",
+    "https://openalex.org/W2155816345",
+    "https://openalex.org/W2314263430",
+    "https://openalex.org/W2323643523",
+    "https://openalex.org/W2401194503",
+    "https://openalex.org/W2528295441",
+    "https://openalex.org/W2531927438",
+    "https://openalex.org/W2544354007",
+    "https://openalex.org/W2620729319",
+    "https://openalex.org/W2737418382",
+    "https://openalex.org/W2752617332",
+    "https://openalex.org/W2768570145",
+    "https://openalex.org/W2897026277",
+    "https://openalex.org/W2900395867",
+    "https://openalex.org/W2905736916",
+    "https://openalex.org/W2913857623",
+    "https://openalex.org/W2934085106",
+    "https://openalex.org/W2953663447",
+    "https://openalex.org/W2966982532",
+    "https://openalex.org/W2970932027",
+    "https://openalex.org/W2998009666",
+    "https://openalex.org/W3011839911",
+    "https://openalex.org/W3021907864",
+    "https://openalex.org/W3034417501",
+    "https://openalex.org/W3092411349",
+    "https://openalex.org/W3121217178",
+    "https://openalex.org/W3121890251",
+    "https://openalex.org/W3122300128",
+    "https://openalex.org/W3122604999",
+    "https://openalex.org/W3122962530",
+    "https://openalex.org/W3123003703",
+    "https://openalex.org/W3123013680",
+    "https://openalex.org/W3123226114",
+    "https://openalex.org/W3123272563",
+    "https://openalex.org/W3124527940",
+    "https://openalex.org/W3125163224",
+    "https://openalex.org/W3125293776",
+    "https://openalex.org/W3125499115",
+    "https://openalex.org/W4224053177",
+    "https://openalex.org/W4289525877",
+    "https://openalex.org/W4313298038",
+    "https://openalex.org/W4318828102",
+    "https://openalex.org/W4379184323",
+    "https://openalex.org/W4385379523",
+    "https://openalex.org/W4385612835",
+    "https://openalex.org/W4387402593",
+    "https://openalex.org/W4388806513",
+    "https://openalex.org/W4390883221",
+    "https://openalex.org/W4391985261",
+    "https://openalex.org/W4394614880",
+    "https://openalex.org/W4400247818",
+    "https://openalex.org/W4402805285",
+    "https://openalex.org/W4405292328",
+    "https://openalex.org/W4405357981",
+    "https://openalex.org/W4409211283",
+    "https://openalex.org/W4410190116"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5860204
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.44036585
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.43249145
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C74734477",
+      "name": "Cost of capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q1479274"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121955636",
+      "name": "Accounting",
+      "sameAs": "https://www.wikidata.org/wiki/Q4116214"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C73283319",
+      "name": "Financial system",
+      "sameAs": "https://www.wikidata.org/wiki/Q1416617"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181622380",
+      "name": "Profit (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q26911"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The demand for improved segment disclosure is driven by the need to address investment inefficiencies and boost investors’ confidence in listed companies around the world. Transparency in corporate activities is essential for investors to determine the parameters of their stock return and investment efficiency across various segments of firms. Previous studies have primarily focused on a broader investment landscape in Nigeria, without paying adequate attention to the impacts of segment disclosure and cost of capital on the investment efficiency of listed firms. Against this backdrop, this study represents the first empirical research to examine the joint impact of segment disclosure and cost of capital on the investment efficiency of listed firms in Nigeria. Using a longitudinal research design, secondary data from 2015 to 2022 were extracted from the annual reports of 85 listed firms on the Nigerian Exchange Group (NGX). The data were analysed through descriptive and inferential statistical methods. Firms that reported their business or geographic segments were purposively selected for this study. The findings show that the cost of capital of the examined firms has a negative and significant impact on their investment efficiency (coefficient = −0.0268, p-value = 0.03079). On the other hand, the segment disclosure of the firms has a positive impact on their investment efficiency (coefficient = 0.0119, p-value = 0.0303). Lastly, total segment disclosure and cost of capital jointly have positive and significant effects (coefficient = 0.0192, p-value = 0.0030) on the investment efficiency of the firms. This study contributes to the growing research on segment disclosure by providing evidence that increased segment disclosure and a lower cost of capital can improve the investment efficiency of listed firms in Nigeria. Thus, this study recommends that the management of firms in Nigeria should disclose more segment information in their annual reports. This could consequently boost investors’ confidence in the reporting practices of firms, reduce the cost of capital of firms, and improve firms’ investment efficiency.",
+  "url": "https://doi.org/10.3390/jrfm18050258",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.3390/jrfm18050258",
+    "encodingFormat": "text/html"
+  }
+}

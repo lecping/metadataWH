@@ -1,0 +1,315 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4318256544",
+  "doi": "10.55003/cast.2022.04.23.014",
+  "name": "Economic Feasibility of Dimethyl Ether from Oil Palm Empty Fruit Bunch as a Substitute for LPG in Indonesia",
+  "headline": "Economic Feasibility of Dimethyl Ether from Oil Palm Empty Fruit Bunch as a Substitute for LPG in Indonesia",
+  "datePublished": "2022-10-29",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Current Applied Science and Technology",
+    "issn": "2586-9396",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Chiang Mai University"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5027551348",
+      "name": "Rudy Heryadi",
+      "givenName": "Rudy",
+      "familyName": "Heryadi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I147439693",
+          "name": "Soegijapranata Catholic University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-1163-2973"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5014464021",
+      "name": "Budi Widianarko",
+      "givenName": "Budi",
+      "familyName": "Widianarko",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I147439693",
+          "name": "Soegijapranata Catholic University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-5520-4882"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5062176429",
+      "name": "Angelina Ika Rahutami",
+      "givenName": "Angelina",
+      "familyName": "Rahutami",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I147439693",
+          "name": "Soegijapranata Catholic University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 2,
+  "citation": [
+    "https://openalex.org/W1984938508",
+    "https://openalex.org/W1999456103",
+    "https://openalex.org/W2013095040",
+    "https://openalex.org/W2049988609",
+    "https://openalex.org/W2062194121",
+    "https://openalex.org/W2082857679",
+    "https://openalex.org/W2089128746",
+    "https://openalex.org/W2135027620",
+    "https://openalex.org/W2144873509",
+    "https://openalex.org/W2164996924",
+    "https://openalex.org/W2495529634",
+    "https://openalex.org/W2903435264",
+    "https://openalex.org/W2951022392",
+    "https://openalex.org/W2952593075",
+    "https://openalex.org/W2980589942",
+    "https://openalex.org/W3020806487",
+    "https://openalex.org/W3118492336",
+    "https://openalex.org/W4200230535",
+    "https://openalex.org/W4210795948"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/dimethyl-ether",
+      "display_name": "Dimethyl ether",
+      "score": 0.7572371
+    },
+    {
+      "id": "https://openalex.org/keywords/payback-period",
+      "display_name": "Payback period",
+      "score": 0.5910775
+    },
+    {
+      "id": "https://openalex.org/keywords/liquefied-petroleum-gas",
+      "display_name": "Liquefied petroleum gas",
+      "score": 0.5909558
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5145018
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5072858
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-cost",
+      "display_name": "Capital cost",
+      "score": 0.47458553
+    },
+    {
+      "id": "https://openalex.org/keywords/economic-feasibility",
+      "display_name": "Economic feasibility",
+      "score": 0.44912434
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779300417",
+      "name": "Dimethyl ether",
+      "sameAs": "https://www.wikidata.org/wiki/Q408050"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C206139338",
+      "name": "Raw material",
+      "sameAs": "https://www.wikidata.org/wiki/Q192355"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144553756",
+      "name": "Payback period",
+      "sameAs": "https://www.wikidata.org/wiki/Q15081665"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C1787132",
+      "name": "Liquefied petroleum gas",
+      "sameAs": "https://www.wikidata.org/wiki/Q351609"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C157062255",
+      "name": "Capital cost",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035697"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2986190509",
+      "name": "Economic feasibility",
+      "sameAs": "https://www.wikidata.org/wiki/Q755009"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181230689",
+      "name": "Net present value",
+      "sameAs": "https://www.wikidata.org/wiki/Q192472"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2988237154",
+      "name": "Palm oil",
+      "sameAs": "https://www.wikidata.org/wiki/Q231458"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C528095902",
+      "name": "Pulp and paper industry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2283886"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C548081761",
+      "name": "Waste management",
+      "sameAs": "https://www.wikidata.org/wiki/Q180388"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37621935",
+      "name": "Agricultural science",
+      "sameAs": "https://www.wikidata.org/wiki/Q3606845"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779607525",
+      "name": "Methanol",
+      "sameAs": "https://www.wikidata.org/wiki/Q14982"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119599485",
+      "name": "Electrical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q43035"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C178790620",
+      "name": "Organic chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q11351"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    }
+  ],
+  "abstract": "Oil palm empty fruit bunch (OPEFB) can be utilized as a feedstock for dimethyl ether (DME) production through the gasification route. DME has similar characteristics to liquefied petroleum gas (LPG). Therefore, it can be used as a substitute for LPG. Some research has been conducted on DME as a substitute for LPG from various aspects. However, little research was focused on the economic study of OPEFB-based DME as an LPG substitute and its contribution towards saving the LPG import budget. This study aims to find DME plant feasibility, and to assess its contribution to the LPG import budget reduction, especially in the Kalimantan region. The DME price at the depot is calculated based on the ex-factory price of DME, transportation cost, and depot fee. The OPEFB-based DME plant capacity is 994 t day-1 OPEFB, which produces 192 t day-1 DME. From an economic perspective, the net present value (NPV), internal rate of return (IRR), and payback period (PP) are USD 93.1 million, 17%, and 10 years, respectively, based on 30 years of plant life and USD 185.4 million investment. Only 57% of the DME-LPG mix can be distributed to fulfill Kalimantan region demand per year, while the savings on the import budget is USD 5.81 million y-1. The OPEFB-based DME plant capacity and capital expenditure (CAPEX) are the most sensitive to perturbance, whereas OPEFB feed price is the least sensitive.",
+  "url": "https://doi.org/10.55003/cast.2022.04.23.014",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://li01.tci-thaijo.org/index.php/cast/article/download/255617/175839",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4401192059",
+  "doi": "10.24198/jaab.v6i2.45038",
+  "name": "Relationship between Ownership, Capital Structure, and Investment Opportunities with Dividend Policy: A study in Manufacturing Companies",
+  "headline": "Relationship between Ownership, Capital Structure, and Investment Opportunities with Dividend Policy: A study in Manufacturing Companies",
+  "datePublished": "2023-08-06",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Accounting Auditing and Business",
+    "issn": "2614-3844",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Padjadjaran University"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5106213758",
+      "name": "Windi Dwi Asriyani",
+      "givenName": "Windi",
+      "familyName": "Asriyani",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5035396062",
+      "name": "Prasojo Prasojo",
+      "givenName": "Prasojo",
+      "familyName": "Prasojo",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0001-8144-169X"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5273793
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.448431
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41213363
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C59399099",
+      "name": "Dividend policy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5284040"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149933338",
+      "name": "Capital structure",
+      "sameAs": "https://www.wikidata.org/wiki/Q950816"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C116168712",
+      "name": "Dividend",
+      "sameAs": "https://www.wikidata.org/wiki/Q181201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C120527767",
+      "name": "Debt",
+      "sameAs": "https://www.wikidata.org/wiki/Q3196867"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Dividend policy is the disagreeing desire of the company between managers and shareholders. The company retains cash to increase the company's growth; on the other hand, shareholders expect a reasonably high dividend. This study analyses the effect of managerial ownership, institutional ownership, capital structure, investment prospects, and sales growth on dividend policy. The type of data used in this research is secondary data from the 2017-2021 financial reports. The technique in this study uses panel data regression. Samples were taken using a purposive sampling technique of 71 companies listed on the Indonesia Stock Exchange (IDX). The results show that managerial ownership, institutional ownership, and sales growth do not affect dividend policy. Capital structure has a significant negative effect on dividend policy. Investment opportunities have a significant positive effect on dividend policy.",
+  "url": "https://doi.org/10.24198/jaab.v6i2.45038",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.24198/jaab.v6i2.45038",
+    "encodingFormat": "text/html"
+  }
+}

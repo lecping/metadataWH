@@ -1,0 +1,272 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4307368864",
+  "doi": "10.9707/2328-0824.1273",
+  "name": "Analysis of Trend and Pattern of Tourists’ Arrival: A Case Study of Desert Tourist Circuit, Rajasthan",
+  "headline": "Analysis of Trend and Pattern of Tourists’ Arrival: A Case Study of Desert Tourist Circuit, Rajasthan",
+  "datePublished": "2022-10-24",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Tourism Insights",
+    "issn": "2328-0824",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5024119395",
+      "name": "Sunil Manglaw",
+      "givenName": "Sunil",
+      "familyName": "Manglaw",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I178000100",
+          "name": "Kurukshetra University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5069142771",
+      "name": "Prof. S.P. Kaushik",
+      "givenName": "Prof.",
+      "familyName": "Kaushik",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I178000100",
+          "name": "Kurukshetra University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5005340919",
+      "name": "Manoj Khayalia",
+      "givenName": "Manoj",
+      "familyName": "Khayalia",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I178000100",
+          "name": "Kurukshetra University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2770642669",
+    "https://openalex.org/W2795622275",
+    "https://openalex.org/W2806686307",
+    "https://openalex.org/W2954742769",
+    "https://openalex.org/W2993731560",
+    "https://openalex.org/W3022167371",
+    "https://openalex.org/W3045203329",
+    "https://openalex.org/W3175566569"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/corporation",
+      "display_name": "Corporation",
+      "score": 0.59907496
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.54891413
+    },
+    {
+      "id": "https://openalex.org/keywords/desert",
+      "display_name": "Desert (philosophy)",
+      "score": 0.50243354
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.46109095
+    },
+    {
+      "id": "https://openalex.org/keywords/foreign-capital",
+      "display_name": "Foreign capital",
+      "score": 0.45467362
+    },
+    {
+      "id": "https://openalex.org/keywords/tourist-destinations",
+      "display_name": "Tourist destinations",
+      "score": 0.44819513
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4193795
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18918823",
+      "name": "Tourism",
+      "sameAs": "https://www.wikidata.org/wiki/Q49389"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776687071",
+      "name": "Destinations",
+      "sameAs": "https://www.wikidata.org/wiki/Q5265193"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348171",
+      "name": "Corporation",
+      "sameAs": "https://www.wikidata.org/wiki/Q167037"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776130869",
+      "name": "Desert (philosophy)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1361649"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136264566",
+      "name": "Economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q159810"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2983132609",
+      "name": "Foreign exchange",
+      "sameAs": "https://www.wikidata.org/wiki/Q66076"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2993879009",
+      "name": "Foreign capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q8137"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2992285014",
+      "name": "Tourist destinations",
+      "sameAs": "https://www.wikidata.org/wiki/Q570116"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26271046",
+      "name": "Economic geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q187097"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33842695",
+      "name": "Foreign direct investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q490513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    }
+  ],
+  "abstract": "Tourism is one of the fastest-growing industries in the world economy particularly in developing countries. It is an important tool for the development of destinations' economies and provides various socio-cultural and economic benefits such as employment generation, foreign capital exchange, infrastructure development, investment of capital, preservation of heritage sites, etc. Rajasthan is one of the most popular tourist destinations on the world's map due to its diverse socio-cultural landscape. The desert tourist circuit has immense potential for attracting a large number of domestic as well as foreign tourists. The main aim of this study is to examine the trend and pattern of tourist arrival in the desert tourist circuit. This study is based on the secondary data collected from the Rajasthan tourism development Corporation (RTDC), Jaipur. The annual growth rate and regression analysis have been calculated to achieve the study's objective.",
+  "url": "https://doi.org/10.9707/2328-0824.1273",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1273&context=jti",
+    "encodingFormat": "text/html"
+  }
+}

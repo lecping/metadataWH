@@ -1,0 +1,311 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4386616419",
+  "doi": "10.1111/jbfa.12714",
+  "name": "Fiscal monitoring and corporate investment",
+  "headline": "Fiscal monitoring and corporate investment",
+  "datePublished": "2023-09-11",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-nd",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Business Finance &amp Accounting",
+    "issn": "0306-686X",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Wiley"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5024467971",
+      "name": "Lucas Knust",
+      "givenName": "Lucas",
+      "familyName": "Knust",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5022516785",
+      "name": "David Oesch",
+      "givenName": "David",
+      "familyName": "Oesch",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I197141962",
+          "name": "Zurich University of Applied Sciences in Business Administration",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CH"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I202697423",
+          "name": "University of Zurich",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CH"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W1511665033",
+    "https://openalex.org/W1567773991",
+    "https://openalex.org/W1571088562",
+    "https://openalex.org/W1580107285",
+    "https://openalex.org/W1963080271",
+    "https://openalex.org/W1990553479",
+    "https://openalex.org/W1992283503",
+    "https://openalex.org/W2057811978",
+    "https://openalex.org/W2073179679",
+    "https://openalex.org/W2096684396",
+    "https://openalex.org/W2124115302",
+    "https://openalex.org/W2124273190",
+    "https://openalex.org/W2134472446",
+    "https://openalex.org/W2155767511",
+    "https://openalex.org/W2259758154",
+    "https://openalex.org/W2271674507",
+    "https://openalex.org/W2498079548",
+    "https://openalex.org/W2592997265",
+    "https://openalex.org/W2595121605",
+    "https://openalex.org/W2611913407",
+    "https://openalex.org/W2625464253",
+    "https://openalex.org/W2734380600",
+    "https://openalex.org/W2755041109",
+    "https://openalex.org/W2765870642",
+    "https://openalex.org/W2890531350",
+    "https://openalex.org/W2890683563",
+    "https://openalex.org/W2891796810",
+    "https://openalex.org/W2913344763",
+    "https://openalex.org/W2942870997",
+    "https://openalex.org/W2951991237",
+    "https://openalex.org/W2967516964",
+    "https://openalex.org/W3018229955",
+    "https://openalex.org/W3033797125",
+    "https://openalex.org/W3088916099",
+    "https://openalex.org/W3121239293",
+    "https://openalex.org/W3121485139",
+    "https://openalex.org/W3121584992",
+    "https://openalex.org/W3121642363",
+    "https://openalex.org/W3121749619",
+    "https://openalex.org/W3121757664",
+    "https://openalex.org/W3121759882",
+    "https://openalex.org/W3121786372",
+    "https://openalex.org/W3121917252",
+    "https://openalex.org/W3122310588",
+    "https://openalex.org/W3122324798",
+    "https://openalex.org/W3122551571",
+    "https://openalex.org/W3122594041",
+    "https://openalex.org/W3122647754",
+    "https://openalex.org/W3123075138",
+    "https://openalex.org/W3123276743",
+    "https://openalex.org/W3123455257",
+    "https://openalex.org/W3123753159",
+    "https://openalex.org/W3124337013",
+    "https://openalex.org/W3124356304",
+    "https://openalex.org/W3124568416",
+    "https://openalex.org/W3124651905",
+    "https://openalex.org/W3124846795",
+    "https://openalex.org/W3124862953",
+    "https://openalex.org/W3124919088",
+    "https://openalex.org/W3124996512",
+    "https://openalex.org/W3125065536",
+    "https://openalex.org/W3125068865",
+    "https://openalex.org/W3125217951",
+    "https://openalex.org/W3125479339",
+    "https://openalex.org/W3125842917",
+    "https://openalex.org/W3126064374",
+    "https://openalex.org/W3126146066",
+    "https://openalex.org/W3139222136",
+    "https://openalex.org/W3213922161",
+    "https://openalex.org/W4211116874",
+    "https://openalex.org/W4212961181",
+    "https://openalex.org/W4226104864",
+    "https://openalex.org/W4229737049",
+    "https://openalex.org/W4229967627",
+    "https://openalex.org/W4239467316",
+    "https://openalex.org/W4283387379",
+    "https://openalex.org/W767721387",
+    "https://openalex.org/W94208768"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 3450,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.72206026
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-expenditure",
+      "display_name": "Capital expenditure",
+      "score": 0.6587833
+    },
+    {
+      "id": "https://openalex.org/keywords/language-change",
+      "display_name": "Language Change",
+      "score": 0.5657899
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.51911783
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4505787
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C172497479",
+      "name": "Capital expenditure",
+      "sameAs": "https://www.wikidata.org/wiki/Q302208"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C120527767",
+      "name": "Debt",
+      "sameAs": "https://www.wikidata.org/wiki/Q3196867"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780027415",
+      "name": "Language change",
+      "sameAs": "https://www.wikidata.org/wiki/Q524648"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48103436",
+      "name": "State (computer science)",
+      "sameAs": "https://www.wikidata.org/wiki/Q599031"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C73283319",
+      "name": "Financial system",
+      "sameAs": "https://www.wikidata.org/wiki/Q1416617"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C142362112",
+      "name": "Art",
+      "sameAs": "https://www.wikidata.org/wiki/Q735"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C124952713",
+      "name": "Literature",
+      "sameAs": "https://www.wikidata.org/wiki/Q8242"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C11413529",
+      "name": "Algorithm",
+      "sameAs": "https://www.wikidata.org/wiki/Q8366"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "Abstract Does state fiscal monitoring of local governments impact firms? Exploiting the staggered adoption of state fiscal monitoring policies, our results show that state fiscal monitoring of local governments increases corporate investment. Affected firms increase their investment by increasing capital expenditures as well as research and development expenditures. Additional analyses reveal that firms fund this increase in investment by decreasing share repurchases and issuing debt. We also provide evidence that the increase in corporate investment is driven by a reduction in local corruption.",
+  "url": "https://doi.org/10.1111/jbfa.12714",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jbfa.12714",
+    "encodingFormat": "text/html"
+  }
+}

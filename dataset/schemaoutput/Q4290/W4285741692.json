@@ -1,0 +1,248 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4285741692",
+  "doi": "10.1177/23743735221102455",
+  "name": "The Emergency Department Patient Experience: In Their Own Words",
+  "headline": "The Emergency Department Patient Experience: In Their Own Words",
+  "datePublished": "2022-01-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Patient Experience",
+    "issn": "2374-3735",
+    "publisher": {
+      "@type": "Organization",
+      "name": "SAGE Publishing"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5006520758",
+      "name": "Ilya Aleksandrovskiy",
+      "givenName": "Ilya",
+      "familyName": "Aleksandrovskiy",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210137555",
+          "name": "Regional Medical Center",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I106165777",
+          "name": "University of Central Florida",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I94062374",
+          "name": "Florida College",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-7299-6471"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5069260976",
+      "name": "Latha Ganti",
+      "givenName": "Latha",
+      "familyName": "Ganti",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I106165777",
+          "name": "University of Central Florida",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I94062374",
+          "name": "Florida College",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210144857",
+          "name": "Provision Healthcare",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210137555",
+          "name": "Regional Medical Center",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-7717-3864"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5021378320",
+      "name": "Stefanie Simmons",
+      "givenName": "Stefanie",
+      "familyName": "Simmons",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210144857",
+          "name": "Provision Healthcare",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 5,
+  "citation": [
+    "https://openalex.org/W1593227499",
+    "https://openalex.org/W1976256107",
+    "https://openalex.org/W2059422712",
+    "https://openalex.org/W2078339519",
+    "https://openalex.org/W2091957046",
+    "https://openalex.org/W2099158621",
+    "https://openalex.org/W2418170938",
+    "https://openalex.org/W2498299989",
+    "https://openalex.org/W2599756317"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.6837112
+    },
+    {
+      "id": "https://openalex.org/keywords/patient-experience",
+      "display_name": "Patient Experience",
+      "score": 0.5812566
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27158222",
+      "name": "Generalizability theory",
+      "sameAs": "https://www.wikidata.org/wiki/Q5532422"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780724011",
+      "name": "Emergency department",
+      "sameAs": "https://www.wikidata.org/wiki/Q1295316"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27415008",
+      "name": "Psychological intervention",
+      "sameAs": "https://www.wikidata.org/wiki/Q7256382"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2777896191",
+      "name": "Patient experience",
+      "sameAs": "https://www.wikidata.org/wiki/Q22907655"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C160735492",
+      "name": "Health care",
+      "sameAs": "https://www.wikidata.org/wiki/Q31207"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C545542383",
+      "name": "Medical emergency",
+      "sameAs": "https://www.wikidata.org/wiki/Q2751242"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C71924100",
+      "name": "Medicine",
+      "sameAs": "https://www.wikidata.org/wiki/Q11190"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C159110408",
+      "name": "Nursing",
+      "sameAs": "https://www.wikidata.org/wiki/Q121176"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138496976",
+      "name": "Developmental psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q175002"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "In this paper, the authors review the verbatim comments from patients’ post-emergency department discharge survey results and highlight the impact that doctors and nurses have on the patient's experience. This paper also explores the benefits of delivering a positive experience on patients, clinicians, and healthcare systems. Many interventions that have worked are simple to implement and do not tend to require significant capital investment while having the potential of improving emergency department encounters for all those involved. There are always limitations, selection biases, and issues with generalizability in reviewing retrospective and subjective survey response data.",
+  "url": "https://doi.org/10.1177/23743735221102455",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://journals.sagepub.com/doi/pdf/10.1177/23743735221102455",
+    "encodingFormat": "text/html"
+  }
+}

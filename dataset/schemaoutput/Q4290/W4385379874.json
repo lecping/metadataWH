@@ -1,0 +1,302 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4385379874",
+  "doi": "10.1038/s41467-023-40302-0",
+  "name": "Near-term pathways for decarbonizing global concrete production",
+  "headline": "Near-term pathways for decarbonizing global concrete production",
+  "datePublished": "2023-07-29",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Nature Communications",
+    "issn": "2041-1723",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Nature Portfolio"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5015871285",
+      "name": "Josefine A. Olsson",
+      "givenName": "Josefine",
+      "familyName": "Olsson",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I84218800",
+          "name": "University of California, Davis",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-7192-6546"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5030953200",
+      "name": "Sabbie A. Miller",
+      "givenName": "Sabbie",
+      "familyName": "Miller",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I84218800",
+          "name": "University of California, Davis",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-6888-7312"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5038408849",
+      "name": "Mark Alexander",
+      "givenName": "Mark",
+      "familyName": "Alexander",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I157614274",
+          "name": "University of Cape Town",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ZA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-0986-3529"
+    }
+  ],
+  "citationCount": 62,
+  "citation": [
+    "https://openalex.org/W1986552847",
+    "https://openalex.org/W2031108637",
+    "https://openalex.org/W2075626440",
+    "https://openalex.org/W2084053701",
+    "https://openalex.org/W2137528038",
+    "https://openalex.org/W2143106913",
+    "https://openalex.org/W2156290728",
+    "https://openalex.org/W2162741650",
+    "https://openalex.org/W2282580165",
+    "https://openalex.org/W2426201011",
+    "https://openalex.org/W2460772050",
+    "https://openalex.org/W2549155768",
+    "https://openalex.org/W2589601299",
+    "https://openalex.org/W2729020886",
+    "https://openalex.org/W2737095381",
+    "https://openalex.org/W2769719797",
+    "https://openalex.org/W2773587158",
+    "https://openalex.org/W2793518878",
+    "https://openalex.org/W2804119344",
+    "https://openalex.org/W2808612305",
+    "https://openalex.org/W2809828967",
+    "https://openalex.org/W2811133697",
+    "https://openalex.org/W2901834204",
+    "https://openalex.org/W2921283133",
+    "https://openalex.org/W2971920947",
+    "https://openalex.org/W2973751162",
+    "https://openalex.org/W3045965639",
+    "https://openalex.org/W3047247751",
+    "https://openalex.org/W3088366250",
+    "https://openalex.org/W3111776343",
+    "https://openalex.org/W3120150215",
+    "https://openalex.org/W3158691883",
+    "https://openalex.org/W3159345348",
+    "https://openalex.org/W3177582097",
+    "https://openalex.org/W3208161541",
+    "https://openalex.org/W4230197301",
+    "https://openalex.org/W4281382652",
+    "https://openalex.org/W4281634923",
+    "https://openalex.org/W4298042776"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 3920,
+      "currency": "GBP"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.52195424
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.46742484
+    },
+    {
+      "id": "https://openalex.org/keywords/industrial-ecology",
+      "display_name": "Industrial Ecology",
+      "score": 0.44642708
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C47737302",
+      "name": "Greenhouse gas",
+      "sameAs": "https://www.wikidata.org/wiki/Q167336"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780598303",
+      "name": "Flexibility (engineering)",
+      "sameAs": "https://www.wikidata.org/wiki/Q65921492"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C523993062",
+      "name": "Cement",
+      "sameAs": "https://www.wikidata.org/wiki/Q45190"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C70401792",
+      "name": "Industrial ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q2323664"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C132651083",
+      "name": "Climate change",
+      "sameAs": "https://www.wikidata.org/wiki/Q7942"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134560507",
+      "name": "Environmental economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q753291"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C66204764",
+      "name": "Sustainability",
+      "sameAs": "https://www.wikidata.org/wiki/Q219416"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C187736073",
+      "name": "Management",
+      "sameAs": "https://www.wikidata.org/wiki/Q2920921"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    }
+  ],
+  "abstract": "Growing urban populations and deteriorating infrastructure are driving unprecedented demands for concrete, a material for which there is no alternative that can meet its functional capacity. The production of concrete, more particularly the hydraulic cement that glues the material together, is one of the world's largest sources of greenhouse gas (GHG) emissions. While this is a well-studied source of emissions, the consequences of efficient structural design decisions on mitigating these emissions are not yet well known. Here, we show that a combination of manufacturing and engineering decisions have the potential to reduce over 76% of the GHG emissions from cement and concrete production, equivalent to 3.6 Gt CO2-eq lower emissions in 2100. The studied methods similarly result in more efficient utilization of resources by lowering cement demand by up to 65%, leading to an expected reduction in all other environmental burdens. These findings show that the flexibility within current concrete design approaches can contribute to climate mitigation without requiring heavy capital investment in alternative manufacturing methods or alternative materials.",
+  "url": "https://doi.org/10.1038/s41467-023-40302-0",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.nature.com/articles/s41467-023-40302-0.pdf",
+    "encodingFormat": "text/html"
+  }
+}

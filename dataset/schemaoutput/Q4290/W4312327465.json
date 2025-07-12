@@ -1,0 +1,265 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4312327465",
+  "doi": "10.2139/ssrn.4289644",
+  "name": "Stranding Ahoy? Heterogeneous Transition Beliefs and Capital Investment Choices",
+  "headline": "Stranding Ahoy? Heterogeneous Transition Beliefs and Capital Investment Choices",
+  "datePublished": "2022-01-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "SSRN Electronic Journal",
+    "issn": "1556-5068",
+    "publisher": {
+      "@type": "Organization",
+      "name": "RELX Group (Netherlands)"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5034053778",
+      "name": "Louison Cahen-Fourot",
+      "givenName": "Louison",
+      "familyName": "Cahen-Fourot",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I107707843",
+          "name": "Roskilde University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "DK"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-2580-1982"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5080543399",
+      "name": "Emanuele Campiglio",
+      "givenName": "Emanuele",
+      "familyName": "Campiglio",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I909854389",
+          "name": "London School of Economics and Political Science",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I9360294",
+          "name": "University of Bologna",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IT"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210095222",
+          "name": "RFF-CMCC European Institute on Economics and the Environment",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IT"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-2790-5614"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5088703137",
+      "name": "Louis Daumas",
+      "givenName": "Louis",
+      "familyName": "Daumas",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210103046",
+          "name": "Centre international de recherche sur l’environnement et le développement",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "FR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-3239-8538"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5037851290",
+      "name": "Michael Miess",
+      "givenName": "Michael",
+      "familyName": "Miess",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I102248843",
+          "name": "Vienna University of Economics and Business",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AT"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-2564-3208"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5050380008",
+      "name": "Andrew Yardley",
+      "givenName": "Andrew",
+      "familyName": "Yardley",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210135023",
+          "name": "Offshore Renewable Energy Catapult",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.63722086
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5503985
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.52161825
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C194232998",
+      "name": "Transition (genetics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1606712"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C106159729",
+      "name": "Financial economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q2294553"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C55493867",
+      "name": "Biochemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q7094"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C104317684",
+      "name": "Gene",
+      "sameAs": "https://www.wikidata.org/wiki/Q7187"
+    }
+  ],
+  "abstract": "We study how conﬂicting beliefs on future transition dynamics interact with short- termist preferences in shaping investment decisions. We develop a simple model where ﬁrms choose between two technological options (high- and low-carbon) based on their expected proﬁtability over a ﬁnite planning horizon. Proﬁt expectations depend on beliefs about the speed of the transition and associated high-carbon capital stranding. Firms’ expectations are distributed around a central stranding projection, representing a dominant narrative, or ‘market norm’, with their dispersion increasing non-linearly over the planning horizon. We provide analytical and simulation-based insights on how belief dispersion aﬀects investment decisions and interacts with agents’ farsightedness. We show that ambitious central expectations can temper the eﬀect of belief heterogeneity and that the sensitivity of investment allocations to changes in belief dis- persion depends signiﬁcantly on the central expectation. Belief heterogeneity and the discount rate can have conﬂicting eﬀects. Finally, increasing agents’ farsightedness does not necessarily lead to more low-carbon investment in a situation of high heterogeneity.",
+  "url": "https://doi.org/10.2139/ssrn.4289644",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://cris.unibo.it/bitstream/11585/948400/3/1-s2.0-S016726812300389X-main.pdf",
+    "encodingFormat": "text/html"
+  }
+}

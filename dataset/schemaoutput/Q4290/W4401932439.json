@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4401932439",
+  "doi": "10.15294/pandecta.vol19i1.647",
+  "name": "Law Enforcement of Spatial Planning Violations to Support Investment Balance and Environmental Sustainability in the Special Capital Region of Jakarta",
+  "headline": "Law Enforcement of Spatial Planning Violations to Support Investment Balance and Environmental Sustainability in the Special Capital Region of Jakarta",
+  "datePublished": "2024-06-30",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-sa",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Pandecta Research Law Journal",
+    "issn": "1907-8919",
+    "publisher": {
+      "@type": "Organization",
+      "name": "State University of Semarang"
+    }
+  },
+  "author": [],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5341415
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4951693
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.46342006
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C168031717",
+      "name": "Balance (ability)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1530280"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779777834",
+      "name": "Enforcement",
+      "sameAs": "https://www.wikidata.org/wiki/Q4202277"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C66204764",
+      "name": "Sustainability",
+      "sameAs": "https://www.wikidata.org/wiki/Q219416"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C128069549",
+      "name": "Environmental law",
+      "sameAs": "https://www.wikidata.org/wiki/Q328798"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C71924100",
+      "name": "Medicine",
+      "sameAs": "https://www.wikidata.org/wiki/Q11190"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C99508421",
+      "name": "Physical medicine and rehabilitation",
+      "sameAs": "https://www.wikidata.org/wiki/Q2678675"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    }
+  ],
+  "url": "https://doi.org/10.15294/pandecta.vol19i1.647",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.15294/pandecta.vol19i1.647",
+    "encodingFormat": "text/html"
+  }
+}

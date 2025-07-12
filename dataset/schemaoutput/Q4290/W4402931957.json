@@ -1,0 +1,185 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4402931957",
+  "doi": "10.12695/ajtm.2024.17.2.5",
+  "name": "The Impact of Other Comprehensive Income Volatility, Research and Development Investment, and Earnings Management on Cost of Capital: The Moderating Role of Agency Cost",
+  "headline": "The Impact of Other Comprehensive Income Volatility, Research and Development Investment, and Earnings Management on Cost of Capital: The Moderating Role of Agency Cost",
+  "datePublished": "2024-01-01",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-sa",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "The Asian Journal of Technology Management (AJTM)",
+    "issn": "1978-6956",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Bandung Institute of Technology"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5113491724",
+      "name": "Sistya Rachmawati",
+      "givenName": "Sistya",
+      "familyName": "Rachmawati",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5107626232",
+      "name": "Inugrah Ratia Pratiwi",
+      "givenName": "Inugrah",
+      "familyName": "Pratiwi",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5083848500",
+      "name": "Etty Murwaningsari",
+      "givenName": "Etty",
+      "familyName": "Murwaningsari",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-9720-6392"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/agency-cost",
+      "display_name": "Agency cost",
+      "score": 0.6574334
+    },
+    {
+      "id": "https://openalex.org/keywords/earnings-management",
+      "display_name": "Earnings Management",
+      "score": 0.48201692
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.43500993
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C36673458",
+      "name": "Agency cost",
+      "sameAs": "https://www.wikidata.org/wiki/Q392896"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C91602232",
+      "name": "Volatility (finance)",
+      "sameAs": "https://www.wikidata.org/wiki/Q756115"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2781426361",
+      "name": "Earnings",
+      "sameAs": "https://www.wikidata.org/wiki/Q5326940"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C74734477",
+      "name": "Cost of capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q1479274"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2781009383",
+      "name": "Earnings management",
+      "sameAs": "https://www.wikidata.org/wiki/Q15995636"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C108170787",
+      "name": "Agency (philosophy)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3951828"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145236788",
+      "name": "Labour economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q28161"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39389867",
+      "name": "Corporate governance",
+      "sameAs": "https://www.wikidata.org/wiki/Q380767"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111472728",
+      "name": "Epistemology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9471"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C120757647",
+      "name": "Shareholder",
+      "sameAs": "https://www.wikidata.org/wiki/Q381136"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C29122968",
+      "name": "Incentive",
+      "sameAs": "https://www.wikidata.org/wiki/Q1414816"
+    }
+  ],
+  "abstract": "Abstract. In 2025, forecasts indicate that Asian companies, especially from China and India, will dominate the IPO market. Understanding global capital cost drivers is essential, particularly as energy sector costs increase. Research highlights that superior accounting information can narrow the investor-management gap, reducing equity and debt. This study investigates the impact of Other Comprehensive Income (OCI) volatility, Research and Development (R&amp;D) investment, and earnings management on cost of capital, considering the potential moderating effect of agency costs. The analysis includes 1,565 observations across 313 firms from 2018 to 2022, focusing on the energy sector in China, India, the United States, and Indonesia. The study uses panel data regression to examine the relationships between OCI volatility, R&amp;D investment, earnings management, and cost of capital, focusing on agency costs’ moderating role. Initial findings reveal that earnings management significantly and negatively influences cost of capital. Further, R&amp;D investments in China and Indonesia show a negative and significant impact on cost of capital, contrary to positive and significant findings in India and the United States. Companies are advised to sustain efficient, future-oriented project selections. Keywords: OCI Volatility, R&amp;D investment, earnings management, agency cost, cost of capital",
+  "url": "https://doi.org/10.12695/ajtm.2024.17.2.5",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.12695/ajtm.2024.17.2.5",
+    "encodingFormat": "text/html"
+  }
+}

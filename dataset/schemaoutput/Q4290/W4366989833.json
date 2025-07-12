@@ -1,0 +1,210 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4366989833",
+  "doi": "10.31276/vjst.65(4).06-10",
+  "name": "The situation and solutions to attract FDI into the processing and manufacturing industry toward the goal of sustainableeconomic development in Vietnam in the current period",
+  "headline": "The situation and solutions to attract FDI into the processing and manufacturing industry toward the goal of sustainableeconomic development in Vietnam in the current period",
+  "datePublished": "2023-04-24",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Ministry of Science and Technology Vietnam",
+    "issn": "1859-4794",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5110336364",
+      "name": "Thi Quynh Huong Nguyen",
+      "givenName": "Thi",
+      "familyName": "Nguyen",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210109591",
+          "name": "Thuongmai University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "VN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-1912-6917"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1593216120",
+    "https://openalex.org/W2108747612",
+    "https://openalex.org/W3123769408",
+    "https://openalex.org/W3123888140"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/manufacturing",
+      "display_name": "Manufacturing",
+      "score": 0.73264897
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4745986
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4640941
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.43622681
+    },
+    {
+      "id": "https://openalex.org/keywords/manufacturing-sector",
+      "display_name": "Manufacturing sector",
+      "score": 0.4308397
+    },
+    {
+      "id": "https://openalex.org/keywords/foreign-capital",
+      "display_name": "Foreign capital",
+      "score": 0.41867325
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33842695",
+      "name": "Foreign direct investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q490513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175700187",
+      "name": "Manufacturing",
+      "sameAs": "https://www.wikidata.org/wiki/Q187939"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C552854447",
+      "name": "Sustainable development",
+      "sameAs": "https://www.wikidata.org/wiki/Q131201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2988460067",
+      "name": "Manufacturing sector",
+      "sameAs": "https://www.wikidata.org/wiki/Q55639"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2993879009",
+      "name": "Foreign capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q8137"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18547055",
+      "name": "International economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q47417"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The processing and manufacturing industry is the leading industry in attracting foreign direct investment (FDI) in Vietnam, and at the same time is the growth engine for the development of the whole economy. However, the efficiency of attracting FDI capital for the processing and manufacturing industry has not absolutely achieved the expected results. Therefore, the role of FDI in the processing and manufacturing industry has not been fully demonstrated in economic development. Based on the statistical data, the author analyses and evaluates the current situation of attracting FDI into the processing and manufacturing industry in Vietnam for the period 2011-2021, thereby proposing solutions to promote FDI attraction in the processing and manufacturing industry toward the goal of sustainable economic development.",
+  "url": "https://doi.org/10.31276/vjst.65(4).06-10",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://b.vjst.vn/index.php/ban_b/article/download/2283/1301/6403",
+    "encodingFormat": "text/html"
+  }
+}

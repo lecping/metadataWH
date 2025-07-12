@@ -1,0 +1,165 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4401971465",
+  "doi": "10.26905/ap.v8i2.8637",
+  "name": "Effective Tax Rate Due to Investment Opportunity Set, Leverage, Capital Intensity, and Inventory in Mining Companies Listed on the IDX",
+  "headline": "Effective Tax Rate Due to Investment Opportunity Set, Leverage, Capital Intensity, and Inventory in Mining Companies Listed on the IDX",
+  "datePublished": "2022-09-30",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Jurnal Akuntansi dan Perpajakan",
+    "issn": "2338-6010",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Universitas Merdeka Malang"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5101790627",
+      "name": "Yanto Yanto",
+      "givenName": "Yanto",
+      "familyName": "Yanto",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-0607-724X"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 550000,
+      "currency": "IDR"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/leverage",
+      "display_name": "Leverage (statistics)",
+      "score": 0.7617075
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-intensity",
+      "display_name": "Capital intensity",
+      "score": 0.4969845
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.49058285
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.45498365
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C153083717",
+      "name": "Leverage (statistics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q6535263"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C143369678",
+      "name": "Capital intensity",
+      "sameAs": "https://www.wikidata.org/wiki/Q467212"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121955636",
+      "name": "Accounting",
+      "sameAs": "https://www.wikidata.org/wiki/Q4116214"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119857082",
+      "name": "Machine learning",
+      "sameAs": "https://www.wikidata.org/wiki/Q2539"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    }
+  ],
+  "abstract": "Tax savings can be done by avoiding taxes, because these actions are not prohibited, namely by taking advantage of the looseness of the rules on taxation. The purpose of this study is to analyze the Investment Opportunity Set (IOS), leverage, capital intensity, and inventory in influencing the Effective Tax Rate (ETR). The research was conducted for 3 years (2017 to 2019). The population is 150 mining companies listed on the Indonesia Stock Exchange (IDX), and the research sample is 95 companies, because the outliers for extreme data are 94 mining companies. Based on the results of the simultaneous test (F test), the Investment Opportunity Set (IOS), leverage, capital intensity, and inventory variables together have a significant effect on the Effective Tax Rate (ETR). The results of the partial test (t test) show that the Investment Opportunity Set (IOS) has a significant negative effect on the Effective Tax Rate (ETR), the leverage variable has a significant positive effect on the Effective Tax Rate (ETR), and the capital intensity variable, inventory intensity has no effect on the Effective Tax Rate (ETR).",
+  "url": "https://doi.org/10.26905/ap.v8i2.8637",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.26905/ap.v8i2.8637",
+    "encodingFormat": "text/html"
+  }
+}

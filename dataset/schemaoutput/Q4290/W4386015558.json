@@ -1,0 +1,225 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4386015558",
+  "doi": "10.54951/comsep.v3i2.305",
+  "name": "Pelatihan Sekolah Pasar Modal Syariah Untuk Berinvestasi Dimasa Pandemi Covid-19",
+  "headline": "Pelatihan Sekolah Pasar Modal Syariah Untuk Berinvestasi Dimasa Pandemi Covid-19",
+  "datePublished": "2022-06-30",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "COMSEP Jurnal Pengabdian Kepada Masyarakat",
+    "issn": "2746-5632",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5077333469",
+      "name": "Zaharman Zaharman",
+      "givenName": "Zaharman",
+      "familyName": "Zaharman",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210124786",
+          "name": "Universitas Lancang Kuning",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5026435287",
+      "name": "Sherly Novianti",
+      "givenName": "Sherly",
+      "familyName": "Novianti",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210124786",
+          "name": "Universitas Lancang Kuning",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5049538712",
+      "name": "Arini Arini",
+      "givenName": "Arini",
+      "familyName": "Arini",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210124786",
+          "name": "Universitas Lancang Kuning",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-9805-2866"
+    }
+  ],
+  "citationCount": 2,
+  "citation": [
+    "https://openalex.org/W2260071960",
+    "https://openalex.org/W2630687756",
+    "https://openalex.org/W3137711456"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.53347886
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4609815
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C3008058167",
+      "name": "Coronavirus disease 2019 (COVID-19)",
+      "sameAs": "https://www.wikidata.org/wiki/Q84263196"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780378061",
+      "name": "Service (business)",
+      "sameAs": "https://www.wikidata.org/wiki/Q25351891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780299701",
+      "name": "Stock market",
+      "sameAs": "https://www.wikidata.org/wiki/Q475000"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121955636",
+      "name": "Accounting",
+      "sameAs": "https://www.wikidata.org/wiki/Q4116214"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C178550888",
+      "name": "Business administration",
+      "sameAs": "https://www.wikidata.org/wiki/Q2043282"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C524204448",
+      "name": "Infectious disease (medical specialty)",
+      "sameAs": "https://www.wikidata.org/wiki/Q788926"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C71924100",
+      "name": "Medicine",
+      "sameAs": "https://www.wikidata.org/wiki/Q11190"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C151730666",
+      "name": "Paleontology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7205"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779134260",
+      "name": "Disease",
+      "sameAs": "https://www.wikidata.org/wiki/Q12136"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C142724271",
+      "name": "Pathology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7208"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780762169",
+      "name": "Horse",
+      "sameAs": "https://www.wikidata.org/wiki/Q5905368"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    }
+  ],
+  "abstract": "This Community Service activity aims to build investor spirit among millennials, especially in stock investment. Because there are still many who do not understand how to start investing, so our PKM team took the initiative to provide SPMS (Sharia Capital Market School) training. This community service activity method uses a direct practice method, namely by opening an account by providing material first. The hope from the implementation of this service is the growth of young investors who are smart in reading business opportunities in stock investment",
+  "url": "https://doi.org/10.54951/comsep.v3i2.305",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://jurnal.adai.or.id/index.php/comsep/article/download/305/232",
+    "encodingFormat": "text/html"
+  }
+}

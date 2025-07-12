@@ -1,0 +1,121 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4376478883",
+  "doi": "10.2139/ssrn.4444535",
+  "name": "Testing an Extended Knowledge-Capital Model of Foreign Direct Investment",
+  "headline": "Testing an Extended Knowledge-Capital Model of Foreign Direct Investment",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "SSRN Electronic Journal",
+    "issn": "1556-5068",
+    "publisher": {
+      "@type": "Organization",
+      "name": "RELX Group (Netherlands)"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5073684987",
+      "name": "Henk L.M. Kox",
+      "givenName": "Henk",
+      "familyName": "Kox",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0003-2893-1539"
+    }
+  ],
+  "citationCount": 2,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.43148127
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.42507237
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33842695",
+      "name": "Foreign direct investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q490513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The knowledge-capital model of foreign direct investment implies that countries with relatively large outward FDI stocks should also have a relative abundance of proprietary knowledge assets. Early versions of the knowledge-capital theory model these assets as if they were only the results of knowledge investments by private firms. We extend the theory by modelling the public-private interaction in knowledge development. This sheds light on the role of the origin country of multinationals. The paper extracts four testable predictions from the model. We to use the inter-country variation in national knowledge-creation systems and foreign-investment performance to test the model. After developing a new dataset that holds knowledge-creation indicators for about 200 countries over the period 2000-2020, we apply a range of non-parametric tests to test the model predictions. Our findings confirm the basic tenet of the knowledge-capital model and show the important role of public knowledge production for outward FDI.",
+  "url": "https://doi.org/10.2139/ssrn.4444535",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://mpra.ub.uni-muenchen.de/117266/1/Kox_EXTENDED_KC_OF_FDI_KVL_MPRA_MAY2023.pdf",
+    "encodingFormat": "text/html"
+  }
+}

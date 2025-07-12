@@ -1,0 +1,222 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4386371527",
+  "doi": "10.25726/u8593-3238-6217-t",
+  "name": "The state and level of development of human capital in the mining industry of Russia",
+  "headline": "The state and level of development of human capital in the mining industry of Russia",
+  "datePublished": "2023-06-15",
+  "copyrightYear": 2023,
+  "inLanguage": "ru",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Management of Education",
+    "issn": "2311-2174",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5056101578",
+      "name": "В.М. Заернюк",
+      "givenName": "В.М.",
+      "familyName": "Заернюк",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0003-3669-0907"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2951618053",
+    "https://openalex.org/W2953208288",
+    "https://openalex.org/W2953224030",
+    "https://openalex.org/W3016193925",
+    "https://openalex.org/W3041143531",
+    "https://openalex.org/W3176196771"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.61966795
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.47141027
+    },
+    {
+      "id": "https://openalex.org/keywords/mining-industry",
+      "display_name": "Mining Industry",
+      "score": 0.45328194
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41827893
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48103436",
+      "name": "State (computer science)",
+      "sameAs": "https://www.wikidata.org/wiki/Q599031"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779530757",
+      "name": "Quality (philosophy)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1207505"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2984157484",
+      "name": "Mining industry",
+      "sameAs": "https://www.wikidata.org/wiki/Q44497"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C74363100",
+      "name": "Economic system",
+      "sameAs": "https://www.wikidata.org/wiki/Q273005"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136264566",
+      "name": "Economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q159810"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C16674752",
+      "name": "Mining engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q1370637"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111472728",
+      "name": "Epistemology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9471"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C11413529",
+      "name": "Algorithm",
+      "sameAs": "https://www.wikidata.org/wiki/Q8366"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Отечественная система экономики в последние годы претерпела значительные структурные и содержательные реформы. В данной работе автор обосновывает необходимость гибкого подхода к управлению инвестициями при развитии человеческого капитала в горнодобывающей отрасли. Исследование проводилось на основе обобщения и систематизации статистических и аналитических данных Федеральной службы статистики, Университетской информационной системы Россия. Проведена оценка качественных и количественных статистических показателей, характеризующих состояние и уровень развития человеческого капитала горнодобывающей отрасли российской промышленно¬сти. Рассмотрены наиболее актуальные виды инвестиций в развитие человеческого капитала в горнодобывающей отрасли. Выявлены проблемные зоны развития человеческого капитала в горнодобывающей отрасли. Выявлены актуальные формы инвестирования в развитие человеческого капитала в горнодобывающей промышленности. Предлагается повысить качество подготовки кадров для горнодобывающей отрасли России, необходимых в новых социально-экономических условиях и требующих принятия инновационных решений. In recent years, the domestic economic system has undergone significant structural and substantive reforms. In this paper, the author substantiates the need for a flexible approach to investment management in the development of human capital in the mining industry. The study was conducted on the basis of generalization and systematization of statistical and analytical data of the Federal Statistics Service, the University Information System of Russia. An assessment of qualitative and quantitative statistical indicators characterizing the state and level of development of human capital in the mining industry of the Russian industry is carried out. The most relevant types of investments in the development of human capital in the mining industry are considered. The problem areas of human capital development in the mining industry are identified. The actual forms of investment in the development of human capital in the mining industry are revealed. It is proposed to improve the quality of training for the mining industry in Russia, which is necessary in the new socio-economic conditions and requires innovative solutions.",
+  "url": "https://doi.org/10.25726/u8593-3238-6217-t",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://emreview.ru/index.php/emr/article/download/948/756",
+    "encodingFormat": "text/html"
+  }
+}

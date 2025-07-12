@@ -1,0 +1,238 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4409790164",
+  "doi": "10.31435/ijite.1(49).2025.2980",
+  "name": "THE USE OF FUNDAMENTAL AND TECHNICAL ANALYSIS IN MAKING STOCK INVESTMENT DECISIONS IN THE INDONESIAN CAPITAL MARKET",
+  "headline": "THE USE OF FUNDAMENTAL AND TECHNICAL ANALYSIS IN MAKING STOCK INVESTMENT DECISIONS IN THE INDONESIAN CAPITAL MARKET",
+  "datePublished": "2025-03-30",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Innovative Technologies in Economy",
+    "issn": "2412-8368",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5001603119",
+      "name": "Meythi Meythi",
+      "givenName": "None",
+      "familyName": "Meythi",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-0262-0268"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5010466019",
+      "name": "Riki Martusa",
+      "givenName": "None",
+      "familyName": "Martusa",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-9779-5828"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5117306498",
+      "name": "Misma Adhytia Purwati",
+      "givenName": "None",
+      "familyName": "Purwati",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5117306499",
+      "name": "Felicia Aurelia",
+      "givenName": "None",
+      "familyName": "Aurelia",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2943560913",
+    "https://openalex.org/W4292261396",
+    "https://openalex.org/W4293359948",
+    "https://openalex.org/W4386930986",
+    "https://openalex.org/W4387505553",
+    "https://openalex.org/W4391536496",
+    "https://openalex.org/W4393339238",
+    "https://openalex.org/W4396590251",
+    "https://openalex.org/W4396978424",
+    "https://openalex.org/W4401241206",
+    "https://openalex.org/W4401278803",
+    "https://openalex.org/W4402486859"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 100,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/technical-analysis",
+      "display_name": "Technical analysis",
+      "score": 0.6978648
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.54136056
+    },
+    {
+      "id": "https://openalex.org/keywords/investment-decisions",
+      "display_name": "Investment Decisions",
+      "score": 0.4644665
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.46249795
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.41417858
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779207338",
+      "name": "Indonesian",
+      "sameAs": "https://www.wikidata.org/wiki/Q9240"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C117245426",
+      "name": "Technical analysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q235038"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780299701",
+      "name": "Stock market",
+      "sameAs": "https://www.wikidata.org/wiki/Q475000"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778865806",
+      "name": "Investment decisions",
+      "sameAs": "https://www.wikidata.org/wiki/Q6060850"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C106159729",
+      "name": "Financial economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q2294553"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779343474",
+      "name": "Context (archaeology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3109175"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C109574028",
+      "name": "Behavioral economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q647525"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The capital market is a vibrant and complex universal system of buying and selling shares of the world’s companies. In this case, it is very important that the investors adopt an appropriate strategy when it comes to the selection of stocks. The fundamental and technical analysis are the two most prevalent methodologies in this procedure. Therefore, it is important to understand the relation between the capital market and stocks and particularly the importance of conducting fundamental and technical analysis in relation to decision making in the capital market. With the help of such analysis, investors can analyze whether the current market price of a stock is justified or what to expect from the stock in the future. The second type of analysis focuses on the trends and patterns of stock prices generated over a period of time. Taking this into consideration, this paper examines the importance of using the fundamental and technical analysis when looking for stock opportunities in the capital market. In any case, this study provides a lot of useful information for investors who wish to discover better ways of investing such that they improve their stock trading overall returns.",
+  "url": "https://doi.org/10.31435/ijite.1(49).2025.2980",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.31435/ijite.1(49).2025.2980",
+    "encodingFormat": "text/html"
+  }
+}

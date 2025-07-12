@@ -1,0 +1,308 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4384935475",
+  "doi": "10.1093/oxfclm/kgad006",
+  "name": "What’s next after carbon accounting? Emissions liability management",
+  "headline": "What’s next after carbon accounting? Emissions liability management",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Oxford Open Climate Change",
+    "issn": "2634-4068",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Oxford University Press"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5054716715",
+      "name": "Marc Roston",
+      "givenName": "Marc",
+      "familyName": "Roston",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I97018004",
+          "name": "Stanford University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I1743320",
+          "name": "Palo Alto University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0009-0002-5863-1801"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5061911127",
+      "name": "Alicia Seiger",
+      "givenName": "Alicia",
+      "familyName": "Seiger",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I97018004",
+          "name": "Stanford University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5101460813",
+      "name": "Thomas Heller",
+      "givenName": "Thomas",
+      "familyName": "Heller",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I97018004",
+          "name": "Stanford University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-2004-2614"
+    }
+  ],
+  "citationCount": 7,
+  "citation": [
+    "https://openalex.org/W2149521176",
+    "https://openalex.org/W3143692441",
+    "https://openalex.org/W3211313683",
+    "https://openalex.org/W3217314592",
+    "https://openalex.org/W4206247845",
+    "https://openalex.org/W4249506992",
+    "https://openalex.org/W4289890869",
+    "https://openalex.org/W4293237144",
+    "https://openalex.org/W4301377693"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 1774,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.4969416
+    },
+    {
+      "id": "https://openalex.org/keywords/externality",
+      "display_name": "Externality",
+      "score": 0.4964326
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.48413238
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4412554
+    },
+    {
+      "id": "https://openalex.org/keywords/accounting-method",
+      "display_name": "Accounting method",
+      "score": 0.4167139
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C47737302",
+      "name": "Greenhouse gas",
+      "sameAs": "https://www.wikidata.org/wiki/Q167336"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2777834853",
+      "name": "Liability",
+      "sameAs": "https://www.wikidata.org/wiki/Q96776939"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C112758219",
+      "name": "Duration (music)",
+      "sameAs": "https://www.wikidata.org/wiki/Q16038819"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C16118543",
+      "name": "Externality",
+      "sameAs": "https://www.wikidata.org/wiki/Q275372"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C59427239",
+      "name": "Natural gas",
+      "sameAs": "https://www.wikidata.org/wiki/Q40858"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134560507",
+      "name": "Environmental economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q753291"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C182931732",
+      "name": "Accounting method",
+      "sameAs": "https://www.wikidata.org/wiki/Q339466"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121955636",
+      "name": "Accounting",
+      "sameAs": "https://www.wikidata.org/wiki/Q4116214"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C548081761",
+      "name": "Waste management",
+      "sameAs": "https://www.wikidata.org/wiki/Q180388"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C142362112",
+      "name": "Art",
+      "sameAs": "https://www.wikidata.org/wiki/Q735"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C124952713",
+      "name": "Literature",
+      "sameAs": "https://www.wikidata.org/wiki/Q8242"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    }
+  ],
+  "abstract": "Abstract We propose a method to internalize the externality of greenhouse gas emissions built on the foundation of greenhouse gas emissions accounting, whereby firms match long-duration emissions liabilities with duration-matched removal assets. This method drives a simple decision rule: only emit greenhouse gases if the value created exceeds the cost of reversing the emissions. This approach will drive capital allocation to enhance at-risk natural capital, expand investment in technology-based carbon dioxide removals and reductions, rationalize fraught carbon markets and provide auditable and transparent net zero claims and guidance for transition pathways.",
+  "url": "https://doi.org/10.1093/oxfclm/kgad006",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://academic.oup.com/oocc/advance-article-pdf/doi/10.1093/oxfclm/kgad006/50928072/kgad006.pdf",
+    "encodingFormat": "text/html"
+  }
+}

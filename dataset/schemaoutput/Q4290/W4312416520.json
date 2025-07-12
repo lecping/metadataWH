@@ -1,0 +1,242 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4312416520",
+  "doi": "10.57198/2583-4932.1194",
+  "name": "Impact of Growth and Development of Industrial Sector on the Economic Development of India",
+  "headline": "Impact of Growth and Development of Industrial Sector on the Economic Development of India",
+  "datePublished": "2022-04-26",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Deleted Journal",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5113683142",
+      "name": "Shailender Singh",
+      "givenName": "Shailender",
+      "familyName": "Singh",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I185052938",
+          "name": "Hemwati Nandan Bahuguna Garhwal University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5078797822",
+      "name": "Gajendra Singh",
+      "givenName": "Gajendra",
+      "familyName": "Singh",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I185052938",
+          "name": "Hemwati Nandan Bahuguna Garhwal University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-4708-0664"
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W2783020691",
+    "https://openalex.org/W363267288",
+    "https://openalex.org/W4205821043"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.53714263
+    },
+    {
+      "id": "https://openalex.org/keywords/industrial-production",
+      "display_name": "Industrial Production",
+      "score": 0.5186788
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.420413
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4186382
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18918823",
+      "name": "Tourism",
+      "sameAs": "https://www.wikidata.org/wiki/Q49389"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C82753439",
+      "name": "Industrial production",
+      "sameAs": "https://www.wikidata.org/wiki/Q1419090"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C169685871",
+      "name": "Secondary sector of the economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q55639"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778755073",
+      "name": "Scale (ratio)",
+      "sameAs": "https://www.wikidata.org/wiki/Q10858537"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C154193497",
+      "name": "Economic sector",
+      "sameAs": "https://www.wikidata.org/wiki/Q3958441"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105639569",
+      "name": "Economic policy",
+      "sameAs": "https://www.wikidata.org/wiki/Q582577"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136264566",
+      "name": "Economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q159810"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121332964",
+      "name": "Physics",
+      "sameAs": "https://www.wikidata.org/wiki/Q413"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C62520636",
+      "name": "Quantum mechanics",
+      "sameAs": "https://www.wikidata.org/wiki/Q944"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C165556158",
+      "name": "Keynesian economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q83937"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    }
+  ],
+  "abstract": "The industrial sector play's a significant role in boosting the overall economic growth of an economy. The small and medium scale industries set-up by the entrepreneurs in different states and Union Territories of India have contributed to the increased shares in the overall production, fixed investment, exports, employment and capacity utilization of SME's Units etc. The importance of industrial sector in providing large-scale employment is of paramount importance. The policy framework right from the First Plan has highlighted the need for the development of industrial sector keeping in view its strategic importance in the overall economic development of India. In this paper, the overall growth and performance of industrial sector has been examined in depth on the basis of the different parameters such as annual growth rates of industrial production, net capital stock in industry, industrial investment, highlights of some industries (automobiles, textiles, steel, cement, tourism, electronics&computer technology), so as to determine its impact on the overall economic development of India.",
+  "url": "https://doi.org/10.57198/2583-4932.1194",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://managementdynamics.researchcommons.org/cgi/viewcontent.cgi?article=1194&context=journal",
+    "encodingFormat": "text/html"
+  }
+}

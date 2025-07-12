@@ -1,0 +1,295 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4390034012",
+  "doi": "10.37376/sjuob.v35i1.3253",
+  "name": "An Assessment of Using Capital Budgeting and Risk Management in the Libyan Oil Sector",
+  "headline": "An Assessment of Using Capital Budgeting and Risk Management in the Libyan Oil Sector",
+  "datePublished": "2022-06-05",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-nd",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "The Scientific Journal of University of Benghazi",
+    "issn": "2790-1629",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5093546449",
+      "name": "Nasef M. Saad Abdelgader",
+      "givenName": "Nasef",
+      "familyName": "Abdelgader",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I31439502",
+          "name": "University of Benghazi",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "LY"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1492296215",
+    "https://openalex.org/W1501492535",
+    "https://openalex.org/W1966540714",
+    "https://openalex.org/W1977869999",
+    "https://openalex.org/W1987928530",
+    "https://openalex.org/W2004397129",
+    "https://openalex.org/W2015637388",
+    "https://openalex.org/W2051945908",
+    "https://openalex.org/W2055800514",
+    "https://openalex.org/W2056316738",
+    "https://openalex.org/W2057836150",
+    "https://openalex.org/W2059701762",
+    "https://openalex.org/W2107518718",
+    "https://openalex.org/W2124183708",
+    "https://openalex.org/W2160445639",
+    "https://openalex.org/W2160867884",
+    "https://openalex.org/W2168551099",
+    "https://openalex.org/W2180341274",
+    "https://openalex.org/W2188341000",
+    "https://openalex.org/W2300564070",
+    "https://openalex.org/W2338315881",
+    "https://openalex.org/W2796145826",
+    "https://openalex.org/W4241143175",
+    "https://openalex.org/W4244298139",
+    "https://openalex.org/W577934742"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-budgeting",
+      "display_name": "Capital Budgeting",
+      "score": 0.8538681
+    },
+    {
+      "id": "https://openalex.org/keywords/payback-period",
+      "display_name": "Payback period",
+      "score": 0.6832038
+    },
+    {
+      "id": "https://openalex.org/keywords/discounted-cash-flow",
+      "display_name": "Discounted cash flow",
+      "score": 0.5320127
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5223385
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.47828302
+    },
+    {
+      "id": "https://openalex.org/keywords/present-value",
+      "display_name": "Present value",
+      "score": 0.47771072
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.46934116
+    },
+    {
+      "id": "https://openalex.org/keywords/rate-of-return",
+      "display_name": "Rate of return",
+      "score": 0.41717988
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C57918260",
+      "name": "Capital budgeting",
+      "sameAs": "https://www.wikidata.org/wiki/Q1354666"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C163428354",
+      "name": "Cash flow",
+      "sameAs": "https://www.wikidata.org/wiki/Q1047513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144553756",
+      "name": "Payback period",
+      "sameAs": "https://www.wikidata.org/wiki/Q15081665"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181230689",
+      "name": "Net present value",
+      "sameAs": "https://www.wikidata.org/wiki/Q192472"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2781014177",
+      "name": "Discounted cash flow",
+      "sameAs": "https://www.wikidata.org/wiki/Q455422"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37917861",
+      "name": "Internal rate of return",
+      "sameAs": "https://www.wikidata.org/wiki/Q507477"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C6927289",
+      "name": "Present value",
+      "sameAs": "https://www.wikidata.org/wiki/Q1100466"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162118730",
+      "name": "Actuarial science",
+      "sameAs": "https://www.wikidata.org/wiki/Q1128453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C171884676",
+      "name": "Return on capital employed",
+      "sameAs": "https://www.wikidata.org/wiki/Q1755687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C57495647",
+      "name": "Economic capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q295385"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86637286",
+      "name": "Rate of return",
+      "sameAs": "https://www.wikidata.org/wiki/Q7317264"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C44750222",
+      "name": "Financial capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q1897397"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C58202505",
+      "name": "Capital formation",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035700"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21425071",
+      "name": "Project appraisal",
+      "sameAs": "https://www.wikidata.org/wiki/Q7249389"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    }
+  ],
+  "abstract": "This study has the objective of assessing the significance of capital budgeting as a tool for planning and controlling oil projects in Libya. The initial results indicate that as much as 90% of the surveyed Libyan oil companies have a clear policy to distinguish between current and capital expenditures, and 81% have sufficient information for capital budgeting. The survey results also indicate that most companies have a proper accounting system with sufficient human capital. As much as 90% of companies use Net Present Value, 74% use Internal Rate of Return, and 45% use Payback Period as criteria for evaluating investment proposals. As for the risk, companies were found to be taking into account the risk factor by applying an adjusted discount rate. However, they lack in using advanced models for risk analysis such as sensitive analysis and simulation which are of value in determining the feasibility of projects and risk analysis. Also, the study demonstrated the existence of a significant relationship between applying quantitative methods like the cash flow discount methods (DCF) and risk analysis tools with persons’ qualification level and their experience which is an important indicator that should be given more attention from the administration in this sector.",
+  "url": "https://doi.org/10.37376/sjuob.v35i1.3253",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://journals.uob.edu.ly/sjuob/article/download/3253/2805",
+    "encodingFormat": "text/html"
+  }
+}

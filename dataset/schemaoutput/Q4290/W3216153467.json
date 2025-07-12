@@ -1,0 +1,290 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W3216153467",
+  "doi": "10.1088/1742-6596/2096/1/012161",
+  "name": "Determination of the Average Specific Capital Consumptions of CCPP with Gas Turbine of 30-125 MW and Put into Operation at TPPs of the Russian Federation from 2015 to the First Quarter of 2021",
+  "headline": "Determination of the Average Specific Capital Consumptions of CCPP with Gas Turbine of 30-125 MW and Put into Operation at TPPs of the Russian Federation from 2015 to the First Quarter of 2021",
+  "datePublished": "2021-11-01",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Physics Conference Series",
+    "issn": "1742-6588",
+    "publisher": {
+      "@type": "Organization",
+      "name": "IOP Publishing"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5077026324",
+      "name": "Е. Л. Степанова",
+      "givenName": "E",
+      "familyName": "Stepanova",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210114158",
+          "name": "Melentiev Energy Systems Institute",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210122217",
+          "name": "Irkutsk National Research Technical University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-2726-5397"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5064067906",
+      "name": "Svetlana Sushko",
+      "givenName": "S",
+      "familyName": "Sushko",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210122217",
+          "name": "Irkutsk National Research Technical University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-9474-2069"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5061366062",
+      "name": "А. П. Овчинников",
+      "givenName": "A",
+      "familyName": "Ovchinnikov",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210114158",
+          "name": "Melentiev Energy Systems Institute",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-9506-9267"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2018495262",
+    "https://openalex.org/W2040559834",
+    "https://openalex.org/W2057677977",
+    "https://openalex.org/W2401459159",
+    "https://openalex.org/W2953194027"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.49569285
+    },
+    {
+      "id": "https://openalex.org/keywords/quarter",
+      "display_name": "Quarter (Canadian coin)",
+      "score": 0.47889128
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4627713
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-cost",
+      "display_name": "Capital cost",
+      "score": 0.4270238
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2987684023",
+      "name": "Gas turbines",
+      "sameAs": "https://www.wikidata.org/wiki/Q193470"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C3019953208",
+      "name": "Russian federation",
+      "sameAs": "https://www.wikidata.org/wiki/Q159"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C206658404",
+      "name": "Electricity",
+      "sameAs": "https://www.wikidata.org/wiki/Q12725"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C85079727",
+      "name": "Quarter (Canadian coin)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3560114"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C110910425",
+      "name": "Combined cycle",
+      "sameAs": "https://www.wikidata.org/wiki/Q900729"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778449969",
+      "name": "Turbine",
+      "sameAs": "https://www.wikidata.org/wiki/Q130760"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C423512",
+      "name": "Electricity generation",
+      "sameAs": "https://www.wikidata.org/wiki/Q383973"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C157062255",
+      "name": "Capital cost",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035697"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40293303",
+      "name": "Electric power",
+      "sameAs": "https://www.wikidata.org/wiki/Q27137"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21547014",
+      "name": "Operations management",
+      "sameAs": "https://www.wikidata.org/wiki/Q1423657"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C163258240",
+      "name": "Power (physics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q25342"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119599485",
+      "name": "Electrical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q43035"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78519656",
+      "name": "Mechanical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q101333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121332964",
+      "name": "Physics",
+      "sameAs": "https://www.wikidata.org/wiki/Q413"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105639569",
+      "name": "Economic policy",
+      "sameAs": "https://www.wikidata.org/wiki/Q582577"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C62520636",
+      "name": "Quantum mechanics",
+      "sameAs": "https://www.wikidata.org/wiki/Q944"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    }
+  ],
+  "abstract": "Abstract Research was carried out on the volume of gas turbine commissioning in the range of unit capacities of 30–125 MW at TPPs of the Russian Federation operating as part of a CCPP in the period from 2015 to the first quarter of 2021. The purpose of the research was to determine the average specific capital investment in construction and the average specific fuel consumption for the supply of electricity and heat for the CCPP introduced over the years in the united energy systems of the Russian Federation. Gas turbines are classified by electrical capacity into three groups: from 100 to 125 MW, from 60 to 99 MW and from 30 to 59 MW. An assessment of the quantitative distribution of gas turbines over the interconnected energy systems of the Russian Federation has been carried out. The results of the comparison of the quantitative commissioning of gas turbines are shown in the period from 2010 to the economic crisis of 2014 and in the period from 2015 to the present. A preliminary estimate of the increase in average specific capital investments in the construction of CCPP, which included gas turbines of the same electric power, was made for these periods.",
+  "url": "https://doi.org/10.1088/1742-6596/2096/1/012161",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1088/1742-6596/2096/1/012161",
+    "encodingFormat": "text/html"
+  }
+}

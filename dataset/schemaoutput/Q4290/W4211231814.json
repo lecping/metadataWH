@@ -1,0 +1,175 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4211231814",
+  "doi": "10.2478/9788366675827-087",
+  "name": "The Effect of Minimum Investment Capital, Perceived Return, and Education on Students' Interest in Stock Investment",
+  "headline": "The Effect of Minimum Investment Capital, Perceived Return, and Education on Students' Interest in Stock Investment",
+  "datePublished": "2022-01-28",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-nd",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Sciendo eBooks",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": "Sciendo"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5086072410",
+      "name": "Wirawan Widjanarko",
+      "givenName": "Wirawan",
+      "familyName": "Widjanarko",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5031995628",
+      "name": "Ya Didik Cahyanto",
+      "givenName": "Ya",
+      "familyName": "Cahyanto",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 1,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/stock",
+      "display_name": "Stock (firearms)",
+      "score": 0.5600393
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5480689
+    },
+    {
+      "id": "https://openalex.org/keywords/return-of-capital",
+      "display_name": "Return of capital",
+      "score": 0.51036876
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.504993
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C169549615",
+      "name": "Return on investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q939134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204036174",
+      "name": "Stock (firearms)",
+      "sameAs": "https://www.wikidata.org/wiki/Q909380"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C57693453",
+      "name": "Return of capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q7317193"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26584437",
+      "name": "Investment performance",
+      "sameAs": "https://www.wikidata.org/wiki/Q6060874"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181622380",
+      "name": "Profit (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q26911"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    }
+  ],
+  "abstract": "1st WoW-SAIPIS 2021 is an article writing workshop centered on social sciences and education, open and welcoming contributions from various disciplines and approaches that meet at intersections. We are interested in scholarship that crosses disciplinary lines and speaks to readers from a variety of theoretical and methodological perspectives. In other words, 1st WoW-SAIPIS 2021 will be a forum for scholars as they speak to a wider audience of our many sub-fields and specialties, rather than a location for narrower conversations that are more appropriate in more specialized conferences. We suggest the following broad areas of research: Social Sciences and Laws History and Cultural Studies Interdisciplinary Studies Moral and Humanities Policy, Politics, and Communication Education The proceedings represent the latest in research, development, deployment and projects on a range of topics presented at the International Conference of Social Science and Education. The papers published under each conference are sorted according to the themes and topics defined under each event. Papers are published according to the events at which they were presented by the authors. They can be searched by theme,",
+  "url": "https://doi.org/10.2478/9788366675827-087",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.2478/9788366675827-087",
+    "encodingFormat": "text/html"
+  }
+}

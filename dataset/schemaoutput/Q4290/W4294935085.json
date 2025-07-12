@@ -1,0 +1,323 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4294935085",
+  "doi": "10.3390/infrastructures7090118",
+  "name": "Correlation Analysis between Roadway Networks and Economic Ranking—Case Study: Municipalities and Departments of Colombia",
+  "headline": "Correlation Analysis between Roadway Networks and Economic Ranking—Case Study: Municipalities and Departments of Colombia",
+  "datePublished": "2022-09-07",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Infrastructures",
+    "issn": "2412-3811",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Multidisciplinary Digital Publishing Institute"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5037894180",
+      "name": "Carlos Felipe Urazán-Bonells",
+      "givenName": "Carlos",
+      "familyName": "Urazán-Bonells",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I84724731",
+          "name": "University of La Salle",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CO"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5083141544",
+      "name": "María Alejandra Caicedo Londoño",
+      "givenName": "Maria",
+      "familyName": "Caicedo-Londoño",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I84724731",
+          "name": "University of La Salle",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CO"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-5458-3913"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5004021252",
+      "name": "Hugo Alexánder Rondón Quintana",
+      "givenName": "Hugo",
+      "familyName": "Rondón-Quintana",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I332011152",
+          "name": "District University of Bogotá",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CO"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-2946-9411"
+    }
+  ],
+  "citationCount": 2,
+  "citation": [
+    "https://openalex.org/W2071776146",
+    "https://openalex.org/W2595390076",
+    "https://openalex.org/W2739743549",
+    "https://openalex.org/W2751824650",
+    "https://openalex.org/W2799954869",
+    "https://openalex.org/W2806176719",
+    "https://openalex.org/W2888134539",
+    "https://openalex.org/W3080734864",
+    "https://openalex.org/W3088271351",
+    "https://openalex.org/W3123354536",
+    "https://openalex.org/W3157817089",
+    "https://openalex.org/W3164832117",
+    "https://openalex.org/W3189633508",
+    "https://openalex.org/W4200354373",
+    "https://openalex.org/W898156948"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 1600,
+      "currency": "CHF"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.573437
+    },
+    {
+      "id": "https://openalex.org/keywords/agribusiness",
+      "display_name": "Agribusiness",
+      "score": 0.4933075
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4839909
+    },
+    {
+      "id": "https://openalex.org/keywords/positive-correlation",
+      "display_name": "Positive correlation",
+      "score": 0.44137132
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-city",
+      "display_name": "Capital city",
+      "score": 0.42171532
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C189430467",
+      "name": "Ranking (information retrieval)",
+      "sameAs": "https://www.wikidata.org/wiki/Q7293293"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C114350782",
+      "name": "Gross domestic product",
+      "sameAs": "https://www.wikidata.org/wiki/Q12638"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C1670747",
+      "name": "Agribusiness",
+      "sameAs": "https://www.wikidata.org/wiki/Q396622"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C182365436",
+      "name": "Variable (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q50701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2986115478",
+      "name": "Positive correlation",
+      "sameAs": "https://www.wikidata.org/wiki/Q186290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2994052530",
+      "name": "Capital city",
+      "sameAs": "https://www.wikidata.org/wiki/Q5119"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C22212356",
+      "name": "Transport engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q775325"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149782125",
+      "name": "Econometrics",
+      "sameAs": "https://www.wikidata.org/wiki/Q160039"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105795698",
+      "name": "Statistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q12483"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26271046",
+      "name": "Economic geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q187097"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C118518473",
+      "name": "Agriculture",
+      "sameAs": "https://www.wikidata.org/wiki/Q11451"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134306372",
+      "name": "Mathematical analysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q7754"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119857082",
+      "name": "Machine learning",
+      "sameAs": "https://www.wikidata.org/wiki/Q2539"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C71924100",
+      "name": "Medicine",
+      "sameAs": "https://www.wikidata.org/wiki/Q11190"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C126322002",
+      "name": "Internal medicine",
+      "sameAs": "https://www.wikidata.org/wiki/Q11180"
+    }
+  ],
+  "abstract": "It is generally assumed that there is a statistically valid correlation between the length of a roadway network, in addition to other factors such as its classification and/or average travel speed, and economic indicators such as Gross Domestic Product (GDP) and the Municipal Relative Weight (MRW), considering that the roadway network and transport development generate economic development in a region. This study reports the results of correlating several variables which are economic indicators of roadway networks, both at a municipal and a departmental level, in Colombia; it was concluded that at the level of municipalities, there is no valid correlation between MRW, as a dependent variable, and the average travel speed and the sum of the length (in kilometers) of the roadways that connect villages, as independent variables. There was a correlation with neither the MRW as an independent variable nor the traveling distance and time for each municipality concerning the capital city of each respective department. Finally, it was found that the department agribusiness GDP was associated with the length of the tertiary roadway network and with the primary network, with an R2 of 0.7. This study concludes that activities in rural zones are the ones that generate the greatest impact on roadway investment within a region.",
+  "url": "https://doi.org/10.3390/infrastructures7090118",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.mdpi.com/2412-3811/7/9/118/pdf?version=1662548318",
+    "encodingFormat": "text/html"
+  }
+}

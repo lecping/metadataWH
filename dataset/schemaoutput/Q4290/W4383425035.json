@@ -1,0 +1,251 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4383425035",
+  "doi": "10.31558/2307-2318.2023.1.10",
+  "name": "Оцінювання потенціалу та перспективи розвитку високо- і середньо-високотехнологічних видів промислової діяльності України",
+  "headline": "Оцінювання потенціалу та перспективи розвитку високо- і середньо-високотехнологічних видів промислової діяльності України",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Економіка і організація управління",
+    "issn": "2307-2318",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Vasyl' Stus Donetsk National Uniersity"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5026004596",
+      "name": "В. І. Миценко",
+      "givenName": "В.",
+      "familyName": "Миценко",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1493898287",
+    "https://openalex.org/W3133620119",
+    "https://openalex.org/W4246202615"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.63527304
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.53327143
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.44461563
+    },
+    {
+      "id": "https://openalex.org/keywords/value",
+      "display_name": "Value (mathematics)",
+      "score": 0.42998445
+    },
+    {
+      "id": "https://openalex.org/keywords/industrial-production",
+      "display_name": "Industrial Production",
+      "score": 0.4274336
+    },
+    {
+      "id": "https://openalex.org/keywords/national-economy",
+      "display_name": "National economy",
+      "score": 0.41226184
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-good",
+      "display_name": "Capital good",
+      "score": 0.41109216
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C53844881",
+      "name": "Modernization theory",
+      "sameAs": "https://www.wikidata.org/wiki/Q856122"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204983608",
+      "name": "Productivity",
+      "sameAs": "https://www.wikidata.org/wiki/Q2111958"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C54750564",
+      "name": "Commerce",
+      "sameAs": "https://www.wikidata.org/wiki/Q26643"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776291640",
+      "name": "Value (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2912517"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C82753439",
+      "name": "Industrial production",
+      "sameAs": "https://www.wikidata.org/wiki/Q1419090"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2989282585",
+      "name": "National economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q6456916"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C118661131",
+      "name": "Capital good",
+      "sameAs": "https://www.wikidata.org/wiki/Q1671781"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C74363100",
+      "name": "Economic system",
+      "sameAs": "https://www.wikidata.org/wiki/Q273005"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136264566",
+      "name": "Economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q159810"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C187452473",
+      "name": "Goods and services",
+      "sameAs": "https://www.wikidata.org/wiki/Q2897903"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119857082",
+      "name": "Machine learning",
+      "sameAs": "https://www.wikidata.org/wiki/Q2539"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C165556158",
+      "name": "Keynesian economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q83937"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    }
+  ],
+  "abstract": "The main ideas about modern technological innovations, the Fourth Industrial Revolution, global value chains, and the role of high-technology and medium-high-technology types of industrial activities in the process of technological transformation of the world economy are highlighted. An assessment of the potential and prospects for development of high-technology and medium-high-technology types of industrial activities in Ukraine are completed from the standpoint of the relationship between investment activity and the level of production as a prerequisite for increasing the technological level of the national economy and its integration into global value chains on a more profitable basis in modern and post-war conditions. Based on the analysis of the level of expenses that enterprises invest in the modernization and acquisition of tangible and intangible assets, it is concluded that the production and technological potential of high- and medium-high-tech branches of the industry in the pre-war period was increased, and it was found that their priority is capital investment in machines and equipment, and capital investments into intangible assets are financed according to the residual principle. It is determined that the manufacturers of pharmaceutical products and preparations, motor vehicles, trailers and semi-trailers, and other vehicles have the highest production productivity, which indicates the competitiveness of the products manufactured by them and their importance for the national industrial sector.",
+  "url": "https://doi.org/10.31558/2307-2318.2023.1.10",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://journals.donnu.edu.ua/index.php/eou/article/download/13892/13789",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4388589634",
+  "doi": "10.17762/jaz.v44i4.1735",
+  "name": "Goat Livestock Business Potential Viewed from Population and Production in Indonesia",
+  "headline": "Goat Livestock Business Potential Viewed from Population and Production in Indonesia",
+  "datePublished": "2023-11-11",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal Of Advanced Zoology",
+    "issn": "0253-7214",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5010200107",
+      "name": "Baharuddin Baharuddin",
+      "givenName": "None",
+      "familyName": "Baharuddin",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-7079-5748"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5042481194",
+      "name": "Andi Tenri Fitriyah",
+      "givenName": "None",
+      "familyName": "Fitriyah",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5032854801",
+      "name": "Aylee Christine Alamsyah Sheyoputri",
+      "givenName": "None",
+      "familyName": "Sheyoputri",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-7169-2636"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5087671911",
+      "name": "Sulfiana Sulfiana",
+      "givenName": "None",
+      "familyName": "Sulfiana",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210165272",
+          "name": "Universitas Islam Makassar",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2170529034",
+    "https://openalex.org/W2460653190",
+    "https://openalex.org/W2752753576",
+    "https://openalex.org/W2911609292",
+    "https://openalex.org/W3192493143"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.57798743
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5151947
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4993348
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C112964050",
+      "name": "Livestock",
+      "sameAs": "https://www.wikidata.org/wiki/Q103459"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C118518473",
+      "name": "Agriculture",
+      "sameAs": "https://www.wikidata.org/wiki/Q11451"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2908647359",
+      "name": "Population",
+      "sameAs": "https://www.wikidata.org/wiki/Q2625603"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C101433766",
+      "name": "Maturity (psychological)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3543263"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37621935",
+      "name": "Agricultural science",
+      "sameAs": "https://www.wikidata.org/wiki/Q3606845"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138496976",
+      "name": "Developmental psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q175002"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149923435",
+      "name": "Demography",
+      "sameAs": "https://www.wikidata.org/wiki/Q37732"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C97137747",
+      "name": "Forestry",
+      "sameAs": "https://www.wikidata.org/wiki/Q38112"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    }
+  ],
+  "abstract": "Judging from the development aspect, the goat livestock business is very potential, easy to cultivate, both daily and commercially. Goats have several advantages and economic potential, their bodies are relatively small, they reach maturity quickly, and they are easy to maintain. Goat farming business is very easy, does not require large areas of land, relatively small business capital investment, easy to market and business capital rotates quickly.This paper aimed to determine the potential for goat farming in terms of the population and production of goats in Indonesia. This paper examines quantitative data from the last 5 years. The results show that the demand for goat meat in Indonesia is quite high because goats are one of the most consumed livestock by the people of Indonesia, the high level of demand is inseparable from the function of goat farming.",
+  "url": "https://doi.org/10.17762/jaz.v44i4.1735",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "http://www.jazindia.com/index.php/jaz/article/download/1735/1298",
+    "encodingFormat": "text/html"
+  }
+}

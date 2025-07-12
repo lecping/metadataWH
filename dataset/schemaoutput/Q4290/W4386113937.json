@@ -1,0 +1,169 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4386113937",
+  "doi": "10.48550/arxiv.2308.11032",
+  "name": "AI For Fraud Awareness",
+  "headline": "AI For Fraud Awareness",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "arXiv (Cornell University)",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": "Cornell University"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5010528386",
+      "name": "Prabh Simran Singh Baweja",
+      "givenName": "Baweja,",
+      "familyName": "Singh",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5076498926",
+      "name": "Orathai Sangpetch",
+      "givenName": "Sangpetch,",
+      "familyName": "Orathai",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0001-8417-825X"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5074244000",
+      "name": "Akkarit Sangpetch",
+      "givenName": "Sangpetch,",
+      "familyName": "Akkarit",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0003-4698-9160"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6352421
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.48975515
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C36503486",
+      "name": "Domain (mathematical analysis)",
+      "sameAs": "https://www.wikidata.org/wiki/Q11235244"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779304628",
+      "name": "Face (sociological concept)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3503480"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C108827166",
+      "name": "Internet privacy",
+      "sameAs": "https://www.wikidata.org/wiki/Q175975"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C38652104",
+      "name": "Computer security",
+      "sameAs": "https://www.wikidata.org/wiki/Q3510521"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134306372",
+      "name": "Mathematical analysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q7754"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C36289849",
+      "name": "Social science",
+      "sameAs": "https://www.wikidata.org/wiki/Q34749"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "In today's world, with the rise of numerous social platforms, it has become relatively easy for anyone to spread false information and lure people into traps. Fraudulent schemes and traps are growing rapidly in the investment world. Due to this, countries and individuals face huge financial risks. We present an awareness system with the use of machine learning and gamification techniques to educate the people about investment scams and traps. Our system applies machine learning techniques to provide a personalized learning experience to the user. The system chooses distinct game-design elements and scams from the knowledge pool crafted by domain experts for each individual. The objective of the research project is to reduce inequalities in all countries by educating investors via Active Learning. Our goal is to assist the regulators in assuring a conducive environment for a fair, efficient, and inclusive capital market. In the paper, we discuss the impact of the problem, provide implementation details, and showcase the potentiality of the system through preliminary experiments and results.",
+  "url": "https://arxiv.org/abs/2308.11032",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://arxiv.org/abs/2308.11032",
+    "encodingFormat": "text/html"
+  }
+}

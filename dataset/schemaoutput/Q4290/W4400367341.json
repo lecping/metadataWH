@@ -1,0 +1,175 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4400367341",
+  "doi": "10.22617/brf240345-2",
+  "name": "Integrating Natural Capital Valuation into Policy and Investment Decisions",
+  "headline": "Integrating Natural Capital Valuation into Policy and Investment Decisions",
+  "datePublished": "2024-07-01",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "ADB briefs",
+    "issn": "2071-7202",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5034101542",
+      "name": "Le Lan",
+      "givenName": "Le",
+      "familyName": "Lan",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5016194053",
+      "name": "Silvia Cardascia",
+      "givenName": "Silvia",
+      "familyName": "Cardascia",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100618859",
+      "name": "Christian Fischer",
+      "givenName": "Christian",
+      "familyName": "Fischer",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-5016-3962"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5009874735",
+      "name": "Au Shion Yee",
+      "givenName": "Au",
+      "familyName": "Yee",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5020135044",
+      "name": "Thomas Panella",
+      "givenName": "Thomas",
+      "familyName": "Panella",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.54807097
+    },
+    {
+      "id": "https://openalex.org/keywords/natural-capital",
+      "display_name": "Natural Capital",
+      "score": 0.46095777
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-budgeting",
+      "display_name": "Capital Budgeting",
+      "score": 0.43639523
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C186027771",
+      "name": "Valuation (finance)",
+      "sameAs": "https://www.wikidata.org/wiki/Q4008379"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162012527",
+      "name": "Natural capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q1540268"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C57918260",
+      "name": "Capital budgeting",
+      "sameAs": "https://www.wikidata.org/wiki/Q1354666"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C110872660",
+      "name": "Ecosystem",
+      "sameAs": "https://www.wikidata.org/wiki/Q37813"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21425071",
+      "name": "Project appraisal",
+      "sameAs": "https://www.wikidata.org/wiki/Q7249389"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C58941895",
+      "name": "Ecosystem services",
+      "sameAs": "https://www.wikidata.org/wiki/Q295865"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    }
+  ],
+  "url": "https://doi.org/10.22617/brf240345-2",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.adb.org/sites/default/files/publication/979081/adb-brief-305-national-capital-valuation-lessons-prc.pdf",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4408206272",
+  "doi": "10.15604/ejbm.2024.12.0304.003",
+  "name": "INVESTMENT DECISION FACTORS OF BUSINESS ANGELS IN JAPANESE REGIONAL STARTUPS: THE INFLUENCE OF GROWTH STRATEGIES AND SOCIAL CAPITAL ON INVESTMENT BEHAVIOR",
+  "headline": "INVESTMENT DECISION FACTORS OF BUSINESS ANGELS IN JAPANESE REGIONAL STARTUPS: THE INFLUENCE OF GROWTH STRATEGIES AND SOCIAL CAPITAL ON INVESTMENT BEHAVIOR",
+  "datePublished": "2025-01-01",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Eurasian Journal of Business and Management",
+    "issn": "2148-0206",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Eurasian Publications"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5110466818",
+      "name": "T. Shimizu",
+      "givenName": "Toshifumi",
+      "familyName": "Shimizu",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5101871110",
+      "name": "Takeshi Ishihara",
+      "givenName": "Toshihiko",
+      "familyName": "Ishihara",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0003-3672-4804"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.72251457
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5333887
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4665216
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C68062652",
+      "name": "Social capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q214693"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C36289849",
+      "name": "Social science",
+      "sameAs": "https://www.wikidata.org/wiki/Q34749"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This study aims to address the funding disparities faced by regional startups in Japan by conducting a multifaceted analysis of business angel investment behavior. The focus is on examining how growth strategies and social capital influence BA investment decisions, while highlighting the differences in the fundraising environment between Tokyo and regional areas. Initially, a topic model analysis was conducted on company data collected from press releases and startup databases, revealing distinct investment themes by region. In Tokyo, investments are predominantly directed towards AI and platform-based ventures, whereas regional areas demonstrate a strong focus on sectors like agriculture and healthcare. Furthermore, a sequential pattern analysis was employed to examine the impact of different investor combinations on fundraising outcomes, uncovering unique investment patterns in regional areas that support local growth. This research offers new insights into how region-specific investment behaviors and networks can contribute to bridging the equity gap. The findings provide practical implications for fostering regional economic revitalization by leveraging localized investment strategies and social capital.",
+  "url": "https://doi.org/10.15604/ejbm.2024.12.0304.003",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.15604/ejbm.2024.12.0304.003",
+    "encodingFormat": "text/html"
+  }
+}

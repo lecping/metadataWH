@@ -1,0 +1,267 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4386986591",
+  "doi": "10.1016/j.heliyon.2023.e20272",
+  "name": "Federal government tax independence, statutory quota and capital investment",
+  "headline": "Federal government tax independence, statutory quota and capital investment",
+  "datePublished": "2023-09-23",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-nd",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Heliyon",
+    "issn": "2405-8440",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Elsevier BV"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5005184680",
+      "name": "Cordelia Onyinyechi Omodero",
+      "givenName": "Cordelia",
+      "familyName": "Omodero",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I186771145",
+          "name": "Covenant University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NG"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-8758-9756"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5112619591",
+      "name": "Philip O. Alege",
+      "givenName": "Philip",
+      "familyName": "Alege",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I186771145",
+          "name": "Covenant University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NG"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W1272069308",
+    "https://openalex.org/W1523160167",
+    "https://openalex.org/W1534798215",
+    "https://openalex.org/W1966910378",
+    "https://openalex.org/W1999257582",
+    "https://openalex.org/W2008498630",
+    "https://openalex.org/W2013964819",
+    "https://openalex.org/W2097599886",
+    "https://openalex.org/W2144380346",
+    "https://openalex.org/W2574833660",
+    "https://openalex.org/W2789716423",
+    "https://openalex.org/W2809851252",
+    "https://openalex.org/W2888587397",
+    "https://openalex.org/W2889570543",
+    "https://openalex.org/W2937005791",
+    "https://openalex.org/W2964808659",
+    "https://openalex.org/W2965245334",
+    "https://openalex.org/W2966442780",
+    "https://openalex.org/W2975893550",
+    "https://openalex.org/W3083955517",
+    "https://openalex.org/W3093163836",
+    "https://openalex.org/W3095493092",
+    "https://openalex.org/W3107804000",
+    "https://openalex.org/W3119078187",
+    "https://openalex.org/W3123800853",
+    "https://openalex.org/W3134688426",
+    "https://openalex.org/W3160465448",
+    "https://openalex.org/W3169015579",
+    "https://openalex.org/W3193890372",
+    "https://openalex.org/W4253609702",
+    "https://openalex.org/W4306878543"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 1750,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/independence",
+      "display_name": "Independence",
+      "score": 0.68371797
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.50395316
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4924072
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.4363422
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C158129432",
+      "name": "Statutory law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7766927"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C35651441",
+      "name": "Independence (probability theory)",
+      "sameAs": "https://www.wikidata.org/wiki/Q625303"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778137410",
+      "name": "Government (linguistics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2732820"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C514942387",
+      "name": "Tax avoidance",
+      "sameAs": "https://www.wikidata.org/wiki/Q329303"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105639569",
+      "name": "Economic policy",
+      "sameAs": "https://www.wikidata.org/wiki/Q582577"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C551662922",
+      "name": "Tax reform",
+      "sameAs": "https://www.wikidata.org/wiki/Q2346630"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C100001284",
+      "name": "Public economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q2248246"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105795698",
+      "name": "Statistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q12483"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "The enquiry arose from the necessity for a reevaluation of Nigeria's budgetary system. The current fiscal structure does not appear to be fair enough to foster social development in all of its ramifications. As a result, there is a void in infrastructure development in favor of citizens. The current study investigates the effect of federal government tax autonomy and statutory income on capital investment. The analysis spans the years 1990–2021 and using the ARDL, ECM and compound relapse method, revealing that the federal government's exclusive tax revenues have a large and beneficial influence on capital investment. The statutory allocation to the federal government, in divergence, has an insubstantial destructive impression on capital project spending. These findings suggest that statutory revenue at the federal level has little effect on capital project funding. There is also an existence of a long run relationship between federal government capital investment and the classes of earning applied in this investigation. The policy implication is that if the government does not expand its earning capacity, in the near future, the statutory income will be incapacitated in outlaying capital projects necessary to expand the economy. Study recommends outsourcing of more revenue avenues including foreign direct investment avenues.Study noveltyThe study's originality is that it employs ARDL approaches to give an unbiased justification for the government's growth of income sources. Above all, this is a pioneering work that expressly highlights the efficacy, or lack thereof, of the federal government's tax autonomy, therefore demonstrating the short and long term link between capital outlay on infrastructure and independent proceeds of the central administration.",
+  "url": "https://doi.org/10.1016/j.heliyon.2023.e20272",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.cell.com/article/S2405844023074807/pdf",
+    "encodingFormat": "text/html"
+  }
+}

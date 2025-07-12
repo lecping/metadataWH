@@ -1,0 +1,294 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4214674771",
+  "doi": "10.31686/ijier.vol10.iss2.3662",
+  "name": "Technical and economic feasibility study for offshore transshipment operation",
+  "headline": "Technical and economic feasibility study for offshore transshipment operation",
+  "datePublished": "2022-02-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Deleted Journal",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5068284075",
+      "name": "Andrey Felipe Lima e Lima",
+      "givenName": "Andrey",
+      "familyName": "Lima",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I59606676",
+          "name": "Universidade Federal do Pará",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "BR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-7135-6440"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5001069522",
+      "name": "Pedro Lameira",
+      "givenName": "Pedro",
+      "familyName": "Lameira",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I59606676",
+          "name": "Universidade Federal do Pará",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "BR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-8038-8276"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5009442349",
+      "name": "Emannuel Sant Thiago Pereira Loureiro",
+      "givenName": "Emannuel",
+      "familyName": "Loureiro",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I59606676",
+          "name": "Universidade Federal do Pará",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "BR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-1159-7282"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5038819934",
+      "name": "Rodrigo Pereira Guerreiro",
+      "givenName": "Rodrigo",
+      "familyName": "Guerreiro",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I59606676",
+          "name": "Universidade Federal do Pará",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "BR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-0141-3806"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5076029268",
+      "name": "Marcus Pinto da Costa da Rocha",
+      "givenName": "Marcus",
+      "familyName": "Rocha",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I59606676",
+          "name": "Universidade Federal do Pará",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "BR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-1849-1982"
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W2101872335",
+    "https://openalex.org/W2532672211",
+    "https://openalex.org/W2774158222",
+    "https://openalex.org/W2998861897",
+    "https://openalex.org/W3035638146"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/transshipment",
+      "display_name": "Transshipment (information security)",
+      "score": 0.9118417
+    },
+    {
+      "id": "https://openalex.org/keywords/port",
+      "display_name": "Port (circuit theory)",
+      "score": 0.72098625
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6324098
+    },
+    {
+      "id": "https://openalex.org/keywords/payback-period",
+      "display_name": "Payback period",
+      "score": 0.6320546
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41935858
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776234997",
+      "name": "Transshipment (information security)",
+      "sameAs": "https://www.wikidata.org/wiki/Q17134191"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C32802771",
+      "name": "Port (circuit theory)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2443617"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144553756",
+      "name": "Payback period",
+      "sameAs": "https://www.wikidata.org/wiki/Q15081665"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162284963",
+      "name": "Submarine pipeline",
+      "sameAs": "https://www.wikidata.org/wiki/Q17106102"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18762648",
+      "name": "Work (physics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q42213"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181230689",
+      "name": "Net present value",
+      "sameAs": "https://www.wikidata.org/wiki/Q192472"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C42475967",
+      "name": "Operations research",
+      "sameAs": "https://www.wikidata.org/wiki/Q194292"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21547014",
+      "name": "Operations management",
+      "sameAs": "https://www.wikidata.org/wiki/Q1423657"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78519656",
+      "name": "Mechanical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q101333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119599485",
+      "name": "Electrical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q43035"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C187320778",
+      "name": "Geotechnical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q1349130"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Intercontinental cargo transport is carried out mainly through the waterway modal, increasing the number of vessels and the deadweight of ships. This means that onshore ports cannot stand the cargo demands and, to make them competitive in this reality, a very high investment is needed, and their expansion can produce serious environmental impact. Thus, it is necessary to search for alternatives that facilitate the flow of vessels in the regional and world scenario. Hence, the present work conducts a technical and economic feasibility study of a direct offshore transshipment operation of solid bulk cargo of vegetable origin at the Organized Port of Vila do Conde, in Brazil, using the Net Present Value (NPV) methods, Internal Rate of Return (IRR) and Payback. In the study, three scenarios were considered, each of which had its particularity related to the operating life and the amount of cargo handled. Therefore, it was noted that offshore transshipment is more viable in two scenarios – the project's useful life is up to 14 years, so that the investment of capital in an onshore installation is more viable. Furthermore, it was found that, only in the worst-case scenario, offshore transshipment overlapped the other activity in any period of its useful life.",
+  "url": "https://doi.org/10.31686/ijier.vol10.iss2.3662",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://scholarsjournal.net/index.php/ijier/article/download/3662/2453",
+    "encodingFormat": "text/html"
+  }
+}

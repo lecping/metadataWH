@@ -1,0 +1,276 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4367675828",
+  "doi": "10.1080/1331677x.2023.2170904",
+  "name": "Sustainable financial system and capital investment: a novel perspective of US economy",
+  "headline": "Sustainable financial system and capital investment: a novel perspective of US economy",
+  "datePublished": "2023-05-02",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Economic Research-Ekonomska Istraživanja",
+    "issn": "1331-677X",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Taylor & Francis"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5039378892",
+      "name": "Queling Zeng",
+      "givenName": "Queling",
+      "familyName": "Zeng",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210100872",
+          "name": "Guangzhou Academy of Special Equipment Inspection and Testing",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5072586710",
+      "name": "Rong Zhou",
+      "givenName": "Rong",
+      "familyName": "Zhou",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210120302",
+          "name": "Shunde Polytechnic",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100414978",
+      "name": "Zheng Li",
+      "givenName": "Li",
+      "familyName": "Zheng",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I16609230",
+          "name": "Hunan University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-1518-5605"
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W1975994995",
+    "https://openalex.org/W1994045802",
+    "https://openalex.org/W1995945562",
+    "https://openalex.org/W2004927935",
+    "https://openalex.org/W2034707435",
+    "https://openalex.org/W2110603299",
+    "https://openalex.org/W2122108576",
+    "https://openalex.org/W2124265708",
+    "https://openalex.org/W2126610602",
+    "https://openalex.org/W2149254892",
+    "https://openalex.org/W2150560679",
+    "https://openalex.org/W2169405235",
+    "https://openalex.org/W2346259346",
+    "https://openalex.org/W2610214524",
+    "https://openalex.org/W2765818854",
+    "https://openalex.org/W2788227409",
+    "https://openalex.org/W2789121125",
+    "https://openalex.org/W2790934805",
+    "https://openalex.org/W2794440112",
+    "https://openalex.org/W2885949863",
+    "https://openalex.org/W2888554396",
+    "https://openalex.org/W2901482418",
+    "https://openalex.org/W2906202305",
+    "https://openalex.org/W2946984469",
+    "https://openalex.org/W2958328877",
+    "https://openalex.org/W2977868462",
+    "https://openalex.org/W3095280593",
+    "https://openalex.org/W3123051130",
+    "https://openalex.org/W3125524400",
+    "https://openalex.org/W3126116109",
+    "https://openalex.org/W3129232614",
+    "https://openalex.org/W3133448060",
+    "https://openalex.org/W3164341086",
+    "https://openalex.org/W3200531228",
+    "https://openalex.org/W3210533859",
+    "https://openalex.org/W3211149807",
+    "https://openalex.org/W3217457548",
+    "https://openalex.org/W4200406462",
+    "https://openalex.org/W4205699489",
+    "https://openalex.org/W4213204890",
+    "https://openalex.org/W4220802244",
+    "https://openalex.org/W4220944981",
+    "https://openalex.org/W4221036820",
+    "https://openalex.org/W4223563386",
+    "https://openalex.org/W4226213726",
+    "https://openalex.org/W4241653265",
+    "https://openalex.org/W4281387884",
+    "https://openalex.org/W4288075290",
+    "https://openalex.org/W4293235428",
+    "https://openalex.org/W4310260851",
+    "https://openalex.org/W563879934"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 770,
+      "currency": "GBP"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.51906043
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5073957
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.46858355
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C12713177",
+      "name": "Perspective (graphical)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1900281"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C44750222",
+      "name": "Financial capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q1897397"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C73283319",
+      "name": "Financial system",
+      "sameAs": "https://www.wikidata.org/wiki/Q1416617"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C154945302",
+      "name": "Artificial intelligence",
+      "sameAs": "https://www.wikidata.org/wiki/Q11660"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "Nonetheless, the risk factors such as economic risk, political risk, and financial risk have their respective pros and cons in various economic and financial investigations. Yet, the influence of these risk factors on sustainable venture capital is hardly studied in the existing literature. In this sense, the present research tends to investigate the influence of these risks on sustainable venture capital while considering the role of human capital in the US economy. This study uses novel time series approaches using quarterly data from 2006Q1 to 2020Q4. The estimated results validated each variable's stationarity and cointegration between the study variables. The asymmetric data distribution leads to the employment of a novel method of moment quantile regression, which illustrates the positive association between economic risk, political risk, human capital, and sustainable venture capital. On the contrary, financial risk is found adversely affecting the sustainable venture capital in the country. The robustness of the model is examined by employing the bootstrap quantile regression. This study suggests minimizing economic, political, and financial risks and increasing investment in human capital to encourage sustainable venture capital.",
+  "url": "https://doi.org/10.1080/1331677x.2023.2170904",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.tandfonline.com/doi/pdf/10.1080/1331677X.2023.2170904?needAccess=true&role=button",
+    "encodingFormat": "text/html"
+  }
+}

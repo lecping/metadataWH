@@ -1,0 +1,319 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4319442181",
+  "doi": "10.3389/fenvs.2023.1092712",
+  "name": "Empirical study on green development of marine economy driven by marine scientific and technological innovation and its influencing factors",
+  "headline": "Empirical study on green development of marine economy driven by marine scientific and technological innovation and its influencing factors",
+  "datePublished": "2023-02-07",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Frontiers in Environmental Science",
+    "issn": "2296-665X",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Frontiers Media"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5101944375",
+      "name": "Fan Wu",
+      "givenName": "Fan",
+      "familyName": "Wu",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210126913",
+          "name": "Shandong Academy of Social Sciences",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0009-0007-3495-3685"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5030287181",
+      "name": "Fengxiang Cui",
+      "givenName": "Fengxiang",
+      "familyName": "Cui",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210126913",
+          "name": "Shandong Academy of Social Sciences",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5071128160",
+      "name": "Tao Liu",
+      "givenName": "Tao",
+      "familyName": "Liu",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I80143920",
+          "name": "Shandong University of Science and Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-5212-2806"
+    }
+  ],
+  "citationCount": 12,
+  "citation": [
+    "https://openalex.org/W2033834012",
+    "https://openalex.org/W2128131424",
+    "https://openalex.org/W3082619813",
+    "https://openalex.org/W3193170978",
+    "https://openalex.org/W4309210395",
+    "https://openalex.org/W4394865460"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 2490,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6038527
+    },
+    {
+      "id": "https://openalex.org/keywords/marine-industry",
+      "display_name": "Marine industry",
+      "score": 0.5325218
+    },
+    {
+      "id": "https://openalex.org/keywords/exclusive-economic-zone",
+      "display_name": "Exclusive economic zone",
+      "score": 0.51013666
+    },
+    {
+      "id": "https://openalex.org/keywords/yangtze-river",
+      "display_name": "Yangtze river",
+      "score": 0.5023711
+    },
+    {
+      "id": "https://openalex.org/keywords/marine-technology",
+      "display_name": "Marine technology",
+      "score": 0.43237045
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.42331252
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778137410",
+      "name": "Government (linguistics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2732820"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2994072054",
+      "name": "Marine industry",
+      "sameAs": "https://www.wikidata.org/wiki/Q155930"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C113513581",
+      "name": "Exclusive economic zone",
+      "sameAs": "https://www.wikidata.org/wiki/Q202008"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C3018003528",
+      "name": "Yangtze river",
+      "sameAs": "https://www.wikidata.org/wiki/Q5413"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C22372391",
+      "name": "Marine technology",
+      "sameAs": "https://www.wikidata.org/wiki/Q6764311"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C6422946",
+      "name": "Panel data",
+      "sameAs": "https://www.wikidata.org/wiki/Q857354"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136264566",
+      "name": "Economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q159810"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C74363100",
+      "name": "Economic system",
+      "sameAs": "https://www.wikidata.org/wiki/Q273005"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26271046",
+      "name": "Economic geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q187097"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C191935318",
+      "name": "China",
+      "sameAs": "https://www.wikidata.org/wiki/Q148"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C505870484",
+      "name": "Fishery",
+      "sameAs": "https://www.wikidata.org/wiki/Q180538"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111368507",
+      "name": "Oceanography",
+      "sameAs": "https://www.wikidata.org/wiki/Q43518"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127313418",
+      "name": "Geology",
+      "sameAs": "https://www.wikidata.org/wiki/Q1069"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149782125",
+      "name": "Econometrics",
+      "sameAs": "https://www.wikidata.org/wiki/Q160039"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    }
+  ],
+  "abstract": "In this study, the green development of marine economy driven by marine scientific and technological innovation is empirically studied and the influencing factors are analyzed. The results show that the development of marine science and technology is significantly positively correlated with the green development of marine economy as a whole, and each input variable has a promoting effect on economic development, but with varied degree of effect. The analysis on the growth models of “Circum-Bohai Sea Economic Zone,” “Yangtze River Delta Economic Zone” and “Pearl River Delta Economic Zone” shows that at present, science and technology in each marine economic zone play an obvious role in promoting economic development, and each input variable plays a different role in promoting the green development of regional marine economy. With the help of threshold panel model, the influences of five factors, namely opening to the outside world, government investment, financial development, human capital and technology investment, on the green development of marine economy driven by marine scientific and technological innovation are investigated, and it is concluded that all kinds of external influencing factors will interfere with the role of marine scientific and technological innovation and achieve the effect of promoting or restricting it.",
+  "url": "https://doi.org/10.3389/fenvs.2023.1092712",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.frontiersin.org/articles/10.3389/fenvs.2023.1092712/pdf",
+    "encodingFormat": "text/html"
+  }
+}

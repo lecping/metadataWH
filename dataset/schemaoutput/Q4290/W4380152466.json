@@ -1,0 +1,271 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4380152466",
+  "doi": "10.33140/pcii.06.02.12",
+  "name": "Economic Analysis of Flare gas recovery system in a Refinery plant in Nigeria",
+  "headline": "Economic Analysis of Flare gas recovery system in a Refinery plant in Nigeria",
+  "datePublished": "2023-04-30",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Petroleum and Chemical Industry International",
+    "issn": "2639-7536",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5094570833",
+      "name": "Yusuf Olawale",
+      "givenName": "Yusuf",
+      "familyName": "Olawale",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I100116408",
+          "name": "University of Port Harcourt",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NG"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1571691451",
+    "https://openalex.org/W2026901131",
+    "https://openalex.org/W2127991843",
+    "https://openalex.org/W2774945533",
+    "https://openalex.org/W2883547809",
+    "https://openalex.org/W4382774766"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/refinery",
+      "display_name": "Refinery",
+      "score": 0.8636689
+    },
+    {
+      "id": "https://openalex.org/keywords/payback-period",
+      "display_name": "Payback period",
+      "score": 0.8080617
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-cost",
+      "display_name": "Capital cost",
+      "score": 0.65473735
+    },
+    {
+      "id": "https://openalex.org/keywords/flare",
+      "display_name": "Flare",
+      "score": 0.44986463
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4497478
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.4187719
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105168734",
+      "name": "Refinery",
+      "sameAs": "https://www.wikidata.org/wiki/Q1867977"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144553756",
+      "name": "Payback period",
+      "sameAs": "https://www.wikidata.org/wiki/Q15081665"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C157062255",
+      "name": "Capital cost",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035697"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C47737302",
+      "name": "Greenhouse gas",
+      "sameAs": "https://www.wikidata.org/wiki/Q167336"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C20309002",
+      "name": "Oil refinery",
+      "sameAs": "https://www.wikidata.org/wiki/Q12353044"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C548081761",
+      "name": "Waste management",
+      "sameAs": "https://www.wikidata.org/wiki/Q180388"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C129361004",
+      "name": "Profitability index",
+      "sameAs": "https://www.wikidata.org/wiki/Q2470236"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C195487862",
+      "name": "Revenue",
+      "sameAs": "https://www.wikidata.org/wiki/Q850210"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779588948",
+      "name": "Flare",
+      "sameAs": "https://www.wikidata.org/wiki/Q628261"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C68189081",
+      "name": "Fossil fuel",
+      "sameAs": "https://www.wikidata.org/wiki/Q12748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C169549615",
+      "name": "Return on investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q939134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181622380",
+      "name": "Profit (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q26911"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C87717796",
+      "name": "Environmental engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q146326"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119599485",
+      "name": "Electrical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q43035"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C146978453",
+      "name": "Aerospace engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q3798668"
+    }
+  ],
+  "abstract": "The emission of greenhouse gases like methane and carbondioxide during gas flaring in the oil and gas refineries is of immense concern in mitigation of climate change. As a result of this, flare gas recovery system is encouraged through various policies to be installed in oil and gas refineries. The current work is on the economics analysis of flare gas recovery system in a refinery plant in Nigeria to determine the prospect and feasibility of installation and operation. The simulation of the system was carried out using Unisim Design 471 software, and the economic analysis conducted manually. The result of the cost estimation and profitability analysis show total purchased equipment cost ($52,327,866), total capital investment ($549,088,158), annual total production costs ($204,681,762), profit after tax ($2,007,068,515), rate of return (365.50 %) and payback time (3.28 months). Based on the result, the flare gas recovery system has a great prospect and feasibility, its installation and operation could help to minimize the greenhouse gases emission, energy consumption, create employment and increase the revenue generation of the refinery.",
+  "url": "https://doi.org/10.33140/pcii.06.02.12",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.33140/pcii.06.02.12",
+    "encodingFormat": "text/html"
+  }
+}

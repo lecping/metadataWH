@@ -1,0 +1,244 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4317854682",
+  "doi": "10.5171/2022.275437",
+  "name": "Level of Financial Education among University Students of Business: A Study in the Peruvian Scenario",
+  "headline": "Level of Financial Education among University Students of Business: A Study in the Peruvian Scenario",
+  "datePublished": "2022-11-21",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "IBIMA Business Review",
+    "issn": "1947-3788",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5043463336",
+      "name": "Franklin Córdova-Buiza",
+      "givenName": "Franklin",
+      "familyName": "CORDOVA-BUIZA",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210165210",
+          "name": "Universidad Continental",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PE"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-7623-7472"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5019531758",
+      "name": "Jennyfer TAPARA-SINTI",
+      "givenName": "Jennyfer",
+      "familyName": "TAPARA-SINTI",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I42923333",
+          "name": "Private University of the North",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PE"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5029346318",
+      "name": "Nancy Eresbita GALLARDO-TELLO",
+      "givenName": "Nancy",
+      "familyName": "GALLARDO-TELLO",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I42923333",
+          "name": "Private University of the North",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PE"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5039305121",
+      "name": "Daniel Amadeo Robles-Fabián",
+      "givenName": "Daniel",
+      "familyName": "ROBLES-FABIAN",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210165210",
+          "name": "Universidad Continental",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PE"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-1975-4406"
+    }
+  ],
+  "citationCount": 4,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6572585
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.44045094
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.43900126
+    },
+    {
+      "id": "https://openalex.org/keywords/private-capital",
+      "display_name": "Private capital",
+      "score": 0.41423666
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C120912362",
+      "name": "Higher education",
+      "sameAs": "https://www.wikidata.org/wiki/Q136822"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C68062652",
+      "name": "Social capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q214693"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2993232446",
+      "name": "Private capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q8137"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C36289849",
+      "name": "Social science",
+      "sameAs": "https://www.wikidata.org/wiki/Q34749"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33842695",
+      "name": "Foreign direct investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q490513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    }
+  ],
+  "abstract": "Financial education can help reduce social exclusion and develop people economically. Knowing basic financial concepts allows people to make appropriate savings, expenses, and investment decisions. The objective of this research is to measure the level of financial education of students of a private university in Lima, the capital of Peru, who have already received formal instruction in finance-related topics.",
+  "url": "https://doi.org/10.5171/2022.275437",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.5171/2022.275437",
+    "encodingFormat": "text/html"
+  }
+}

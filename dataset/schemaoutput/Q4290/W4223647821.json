@@ -1,0 +1,400 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4223647821",
+  "doi": "10.1016/j.isci.2022.104237",
+  "name": "The role of carbon capture, utilization, and storage for economic pathways that limit global warming to below 1.5°C",
+  "headline": "The role of carbon capture, utilization, and storage for economic pathways that limit global warming to below 1.5°C",
+  "datePublished": "2022-04-12",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "iScience",
+    "issn": "2589-0042",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Cell Press"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5004058924",
+      "name": "Jenny G. Vitillo",
+      "givenName": "Jenny",
+      "familyName": "Vitillo",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210155898",
+          "name": "National Interuniversity Consortium of Materials Science and Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IT"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I115752224",
+          "name": "University of Insubria",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IT"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-6213-2039"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5005365119",
+      "name": "Matthew D. Eisaman",
+      "givenName": "Matthew",
+      "familyName": "Eisaman",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I59553526",
+          "name": "Stony Brook University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-3814-6430"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5053785468",
+      "name": "Edda S. Aradóttir",
+      "givenName": "Edda",
+      "familyName": "Aradóttir",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5004729419",
+      "name": "Fabrizio Passarini",
+      "givenName": "Fabrizio",
+      "familyName": "Passarini",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I9360294",
+          "name": "University of Bologna",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IT"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-9870-9258"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100453461",
+      "name": "Tao Wang",
+      "givenName": "Tao",
+      "familyName": "Wang",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I76130692",
+          "name": "Zhejiang University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-0535-7821"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5009748744",
+      "name": "Stafford W. Sheehan",
+      "givenName": "Stafford",
+      "familyName": "Sheehan",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0003-0432-9260"
+    }
+  ],
+  "citationCount": 43,
+  "citation": [
+    "https://openalex.org/W1976484111",
+    "https://openalex.org/W1992193293",
+    "https://openalex.org/W1998990180",
+    "https://openalex.org/W2007438218",
+    "https://openalex.org/W2031852950",
+    "https://openalex.org/W2034499692",
+    "https://openalex.org/W2062665233",
+    "https://openalex.org/W2076949647",
+    "https://openalex.org/W2111768800",
+    "https://openalex.org/W2120834437",
+    "https://openalex.org/W2125053394",
+    "https://openalex.org/W2199304650",
+    "https://openalex.org/W2257522626",
+    "https://openalex.org/W2259812487",
+    "https://openalex.org/W2288792212",
+    "https://openalex.org/W2410390527",
+    "https://openalex.org/W2413603785",
+    "https://openalex.org/W2419142277",
+    "https://openalex.org/W2477148507",
+    "https://openalex.org/W2508859475",
+    "https://openalex.org/W2530597942",
+    "https://openalex.org/W2737580431",
+    "https://openalex.org/W2763426002",
+    "https://openalex.org/W2770742786",
+    "https://openalex.org/W2789842767",
+    "https://openalex.org/W2804738491",
+    "https://openalex.org/W2806520197",
+    "https://openalex.org/W2806810493",
+    "https://openalex.org/W2889872645",
+    "https://openalex.org/W2892330472",
+    "https://openalex.org/W2892805921",
+    "https://openalex.org/W2898002860",
+    "https://openalex.org/W2898228558",
+    "https://openalex.org/W2906652464",
+    "https://openalex.org/W2917284153",
+    "https://openalex.org/W2920313185",
+    "https://openalex.org/W2944901237",
+    "https://openalex.org/W2962798233",
+    "https://openalex.org/W2973496675",
+    "https://openalex.org/W2977916821",
+    "https://openalex.org/W2988278250",
+    "https://openalex.org/W2992843173",
+    "https://openalex.org/W2998909275",
+    "https://openalex.org/W3002016767",
+    "https://openalex.org/W3004068387",
+    "https://openalex.org/W3006605985",
+    "https://openalex.org/W3011961036",
+    "https://openalex.org/W3012936813",
+    "https://openalex.org/W3012938095",
+    "https://openalex.org/W3020961372",
+    "https://openalex.org/W3044744859",
+    "https://openalex.org/W3094112275",
+    "https://openalex.org/W3109346230",
+    "https://openalex.org/W3129961625",
+    "https://openalex.org/W3135804961",
+    "https://openalex.org/W3137007811",
+    "https://openalex.org/W3157138328",
+    "https://openalex.org/W3174977513",
+    "https://openalex.org/W3203807150",
+    "https://openalex.org/W4214639826",
+    "https://openalex.org/W4220669893",
+    "https://openalex.org/W596638807"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 3000,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6061773
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5004289
+    },
+    {
+      "id": "https://openalex.org/keywords/margin",
+      "display_name": "Margin (machine learning)",
+      "score": 0.48399234
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778379663",
+      "name": "Carbon capture and storage (timeline)",
+      "sameAs": "https://www.wikidata.org/wiki/Q5037942"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C115343472",
+      "name": "Global warming",
+      "sameAs": "https://www.wikidata.org/wiki/Q7942"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C132651083",
+      "name": "Climate change",
+      "sameAs": "https://www.wikidata.org/wiki/Q7942"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C509746633",
+      "name": "Climate change mitigation",
+      "sameAs": "https://www.wikidata.org/wiki/Q898653"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C151201525",
+      "name": "Limit (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q177239"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C774472",
+      "name": "Margin (machine learning)",
+      "sameAs": "https://www.wikidata.org/wiki/Q6760393"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134560507",
+      "name": "Environmental economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q753291"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C22884784",
+      "name": "Carbon sequestration",
+      "sameAs": "https://www.wikidata.org/wiki/Q15305550"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C530467964",
+      "name": "Carbon dioxide",
+      "sameAs": "https://www.wikidata.org/wiki/Q1997"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134306372",
+      "name": "Mathematical analysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q7754"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119857082",
+      "name": "Machine learning",
+      "sameAs": "https://www.wikidata.org/wiki/Q2539"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C178790620",
+      "name": "Organic chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q11351"
+    }
+  ],
+  "abstract": "The 2021 Intergovernmental Panel on Climate Change (IPCC) report, for the first time, stated that CO2 removal will be necessary to meet our climate goals. However, there is a cost to accomplish CO2 removal or mitigation that varies by source. Accordingly, a sensible strategy to prevent climate change begins by mitigating emission sources requiring the least energy and capital investment per ton of CO2, such as new emitters and long-term stationary sources. The production of CO2-derived products should also start by favoring processes that bring to market high-value products with sufficient margin to tolerate a higher cost of goods.",
+  "url": "https://doi.org/10.1016/j.isci.2022.104237",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.cell.com/article/S2589004222005077/pdf",
+    "encodingFormat": "text/html"
+  }
+}

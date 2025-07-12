@@ -1,0 +1,278 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4410373032",
+  "doi": "10.21511/pmf.14(2).2025.03",
+  "name": "The impact of corporate social responsibility, budget surplus, and investment cash flow on capital expenditure budgeting of Indonesian city governments",
+  "headline": "The impact of corporate social responsibility, budget surplus, and investment cash flow on capital expenditure budgeting of Indonesian city governments",
+  "datePublished": "2025-05-14",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Public and Municipal Finance",
+    "issn": "2222-1867",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Business Perspectives"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5001428685",
+      "name": "Haryanto Haryanto",
+      "givenName": "None",
+      "familyName": "Haryanto",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I11855966",
+          "name": "Diponegoro University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-3964-3076"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100778192",
+      "name": "Faisal Faisal",
+      "givenName": "None",
+      "familyName": "Faisal",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I11855966",
+          "name": "Diponegoro University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-4847-0306"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5081238113",
+      "name": "Agung Juliarto",
+      "givenName": "Agung",
+      "familyName": "Juliarto",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I11855966",
+          "name": "Diponegoro University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-6666-2814"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5067721009",
+      "name": "Wahyu Meiranto",
+      "givenName": "Wahyu",
+      "familyName": "Meiranto",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I11855966",
+          "name": "Diponegoro University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0009-0004-7594-429X"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2013860961",
+    "https://openalex.org/W2068703184",
+    "https://openalex.org/W2131317164",
+    "https://openalex.org/W3005588846",
+    "https://openalex.org/W3018896404",
+    "https://openalex.org/W3094545347",
+    "https://openalex.org/W3149241035",
+    "https://openalex.org/W4206183595",
+    "https://openalex.org/W4220942947",
+    "https://openalex.org/W4226285064",
+    "https://openalex.org/W4230523681",
+    "https://openalex.org/W4313424982",
+    "https://openalex.org/W4396717533",
+    "https://openalex.org/W4401926768",
+    "https://openalex.org/W4405410098",
+    "https://openalex.org/W4405548289"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 695,
+      "currency": "EUR"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-expenditure",
+      "display_name": "Capital expenditure",
+      "score": 0.69114447
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-budgeting",
+      "display_name": "Capital Budgeting",
+      "score": 0.5594668
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5168553
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4706841
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4671359
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779207338",
+      "name": "Indonesian",
+      "sameAs": "https://www.wikidata.org/wiki/Q9240"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C172497479",
+      "name": "Capital expenditure",
+      "sameAs": "https://www.wikidata.org/wiki/Q302208"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C163428354",
+      "name": "Cash flow",
+      "sameAs": "https://www.wikidata.org/wiki/Q1047513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C57918260",
+      "name": "Capital budgeting",
+      "sameAs": "https://www.wikidata.org/wiki/Q1354666"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121955636",
+      "name": "Accounting",
+      "sameAs": "https://www.wikidata.org/wiki/Q4116214"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21425071",
+      "name": "Project appraisal",
+      "sameAs": "https://www.wikidata.org/wiki/Q7249389"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "This study aims to examine the impact of corporate social responsibility, budget surplus, and investment cash flow on capital expenditure budgeting within city government clusters in Indonesia. The population includes city governments recorded in the Ministry of Home Affairs. The samples were taken from data on corporate social responsibility and budget surplus, as well as investment cash flow for the fiscal year 2023 and capital expenditure budget for 2024 in 81 city governments in Indonesia. Empirical findings indicate that corporate social responsibility negatively affects capital expenditure budgeting across all city government clusters. The impact of budget surplus varies. On the one side, budget surplus has a positive effect on capital expenditure budgeting in Cluster A (highest) and a negative impact on capital expenditure budgeting in Cluster C (lowest). Conversely, in Cluster B (middle), budget surplus does not affect capital expenditure budgeting. Similarly, investment cash flow positively affects capital expenditure budgeting in Cluster A and negatively affects capital expenditure budgeting in Cluster C. Meanwhile, in Cluster B, investment cash flow does not affect capital expenditure budgeting.",
+  "url": "https://doi.org/10.21511/pmf.14(2).2025.03",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.21511/pmf.14(2).2025.03",
+    "encodingFormat": "text/html"
+  }
+}

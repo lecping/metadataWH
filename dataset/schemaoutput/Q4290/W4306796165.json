@@ -1,0 +1,274 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4306796165",
+  "doi": "10.4324/9781003327141-3",
+  "name": "Evaluating the employability paradox: When does organizational investment in human capital pay off?",
+  "headline": "Evaluating the employability paradox: When does organizational investment in human capital pay off?",
+  "datePublished": "2022-10-19",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Routledge eBooks",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": "Informa"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5033952408",
+      "name": "Ricardo Rodrigues",
+      "givenName": "Ricardo",
+      "familyName": "Rodrigues",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210119896",
+          "name": "King's College School",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I183935753",
+          "name": "King's College London",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2801402261",
+          "name": "Kingston College",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-4796-2509"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5065470849",
+      "name": "Christina L. Butler",
+      "givenName": "Christina",
+      "familyName": "Butler",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2801402261",
+          "name": "Kingston College",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210119896",
+          "name": "King's College School",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I183935753",
+          "name": "King's College London",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-9049-1023"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5091214938",
+      "name": "David Guest",
+      "givenName": "David",
+      "familyName": "Guest",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2801402261",
+          "name": "Kingston College",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210119896",
+          "name": "King's College School",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I183935753",
+          "name": "King's College London",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-0457-6077"
+    }
+  ],
+  "citationCount": 4,
+  "citation": [
+    "https://openalex.org/W1560066322",
+    "https://openalex.org/W1653399285",
+    "https://openalex.org/W1955248847",
+    "https://openalex.org/W1965777175",
+    "https://openalex.org/W1973411060",
+    "https://openalex.org/W1980655943",
+    "https://openalex.org/W1992352639",
+    "https://openalex.org/W1997018345",
+    "https://openalex.org/W1998057346",
+    "https://openalex.org/W2008203611",
+    "https://openalex.org/W2026643265",
+    "https://openalex.org/W2037108890",
+    "https://openalex.org/W2078723535",
+    "https://openalex.org/W2079684777",
+    "https://openalex.org/W2086936633",
+    "https://openalex.org/W2090445646",
+    "https://openalex.org/W2106096361",
+    "https://openalex.org/W2111283202",
+    "https://openalex.org/W2112256230",
+    "https://openalex.org/W2124596021",
+    "https://openalex.org/W2137094861",
+    "https://openalex.org/W2171216914",
+    "https://openalex.org/W2221368007",
+    "https://openalex.org/W2346559758",
+    "https://openalex.org/W2565537703",
+    "https://openalex.org/W2580080876",
+    "https://openalex.org/W3122423332",
+    "https://openalex.org/W4211150306",
+    "https://openalex.org/W4211252142",
+    "https://openalex.org/W4242646988",
+    "https://openalex.org/W4248090503",
+    "https://openalex.org/W4291214035",
+    "https://openalex.org/W4388148992"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/employability",
+      "display_name": "Employability",
+      "score": 0.77637535
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6169108
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.48112884
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15302153",
+      "name": "Employability",
+      "sameAs": "https://www.wikidata.org/wiki/Q470863"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145236788",
+      "name": "Labour economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q28161"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The paper explores the notion of the employability paradox which notes that while organizations investing in the career and competency development of their workforce can benefit from higher performance, they also risk losing more employable staff to competitors.Building on contributions from social exchange theory and signalling theory we develop a model exploring the circumstances under which investment in career development benefits employees and organizations.We test our model in a longitudinal study following graduates entering the labour market.Our results show that when organizations signal that they care about employees by investing in their career development and individuals are receptive to such signals and proactively seek to manage their careers, investment in career development has a positive impact on organizational commitment and intention to stay with one's employer.Our findings indicate that the idea of the employability paradox is simplistic and lacks theoretical and empirical support.",
+  "url": "https://doi.org/10.4324/9781003327141-3",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://eprints.kingston.ac.uk/id/eprint/44649/6/Butler-C-44649-AAM-1.pdf",
+    "encodingFormat": "text/html"
+  }
+}

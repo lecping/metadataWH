@@ -1,0 +1,291 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4401066764",
+  "doi": "10.1002/mde.4334",
+  "name": "Self‐directed productivity investment on the job",
+  "headline": "Self‐directed productivity investment on the job",
+  "datePublished": "2024-07-29",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-nd",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Managerial and Decision Economics",
+    "issn": "0143-6570",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Wiley"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5029649758",
+      "name": "Anthony M. Marino",
+      "givenName": "Anthony",
+      "familyName": "Marino",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I1174212",
+          "name": "University of Southern California",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-8079-0027"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1519206531",
+    "https://openalex.org/W1532007180",
+    "https://openalex.org/W1569395131",
+    "https://openalex.org/W1571602712",
+    "https://openalex.org/W1971310904",
+    "https://openalex.org/W1974291345",
+    "https://openalex.org/W2045950706",
+    "https://openalex.org/W2077677144",
+    "https://openalex.org/W2091391576",
+    "https://openalex.org/W2092193112",
+    "https://openalex.org/W2127647992",
+    "https://openalex.org/W2149902237",
+    "https://openalex.org/W2165308966",
+    "https://openalex.org/W2206652426",
+    "https://openalex.org/W2510559492",
+    "https://openalex.org/W2619021946",
+    "https://openalex.org/W2735950226",
+    "https://openalex.org/W2799300424",
+    "https://openalex.org/W2901664924",
+    "https://openalex.org/W3021641065",
+    "https://openalex.org/W3121239793",
+    "https://openalex.org/W3125497254",
+    "https://openalex.org/W3193367104",
+    "https://openalex.org/W4313367621"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 2830,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/human-multitasking",
+      "display_name": "Human multitasking",
+      "score": 0.77018064
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.667475
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.44268498
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204983608",
+      "name": "Productivity",
+      "sameAs": "https://www.wikidata.org/wiki/Q2111958"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C107418235",
+      "name": "Human multitasking",
+      "sameAs": "https://www.wikidata.org/wiki/Q1520565"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C108170787",
+      "name": "Agency (philosophy)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3951828"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C200707436",
+      "name": "Principal–agent problem",
+      "sameAs": "https://www.wikidata.org/wiki/Q1053211"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145097563",
+      "name": "Payment",
+      "sameAs": "https://www.wikidata.org/wiki/Q1148747"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18762648",
+      "name": "Work (physics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q42213"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144559511",
+      "name": "Principal (computer security)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2986279"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C98045186",
+      "name": "Process (computing)",
+      "sameAs": "https://www.wikidata.org/wiki/Q205663"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145236788",
+      "name": "Labour economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q28161"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39389867",
+      "name": "Corporate governance",
+      "sameAs": "https://www.wikidata.org/wiki/Q380767"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78519656",
+      "name": "Mechanical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q101333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111472728",
+      "name": "Epistemology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9471"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C180747234",
+      "name": "Cognitive psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23373"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111919701",
+      "name": "Operating system",
+      "sameAs": "https://www.wikidata.org/wiki/Q9135"
+    }
+  ],
+  "abstract": "Abstract This paper considers a hidden action agency model in which an agent can be incentivized to simultaneously work and exert effort to invest in human capital or process innovation so as to increase productivity in a future period. We characterize the conditions under which the principal would and would not want to incentivize such multitasking and the conditions under which the agent would want to participate. The firm's support for investment is contingent on the agent's outside market option not being too high, and sufficient conditions for a separate contingent payment for productivity increase are presented.",
+  "url": "https://doi.org/10.1002/mde.4334",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mde.4334",
+    "encodingFormat": "text/html"
+  }
+}

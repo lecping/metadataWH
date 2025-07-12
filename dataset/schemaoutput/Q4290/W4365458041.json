@@ -1,0 +1,344 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4365458041",
+  "doi": "10.1016/j.ijhydene.2023.03.320",
+  "name": "Green hydrogen potential in tropical countries: The colombian case",
+  "headline": "Green hydrogen potential in tropical countries: The colombian case",
+  "datePublished": "2023-04-13",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-nd",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Hydrogen Energy",
+    "issn": "0360-3199",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Elsevier BV"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5039168970",
+      "name": "David Rodríguez-Fontalvo",
+      "givenName": "David",
+      "familyName": "Rodríguez-Fontalvo",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I157650460",
+          "name": "Universidad de La Sabana",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CO"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5023659591",
+      "name": "Eliana Quiroga",
+      "givenName": "Eliana",
+      "familyName": "Quiroga",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I157650460",
+          "name": "Universidad de La Sabana",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CO"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-9578-2935"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5026341130",
+      "name": "Nelly M. Cantillo",
+      "givenName": "Nelly",
+      "familyName": "Cantillo",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I157650460",
+          "name": "Universidad de La Sabana",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CO"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-9616-4135"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5070356031",
+      "name": "Néstor Sánchez",
+      "givenName": "Néstor",
+      "familyName": "Sánchez",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I157650460",
+          "name": "Universidad de La Sabana",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CO"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-8356-2161"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5020307314",
+      "name": "Manuel Figueredo",
+      "givenName": "Manuel",
+      "familyName": "Figueredo",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I157650460",
+          "name": "Universidad de La Sabana",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CO"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-9644-8034"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5039058136",
+      "name": "Martha Cobo",
+      "givenName": "Martha",
+      "familyName": "Cobo",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I157650460",
+          "name": "Universidad de La Sabana",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CO"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-7084-0580"
+    }
+  ],
+  "citationCount": 19,
+  "citation": [
+    "https://openalex.org/W2005676459",
+    "https://openalex.org/W2046092538",
+    "https://openalex.org/W2090611652",
+    "https://openalex.org/W2095318701",
+    "https://openalex.org/W2218425170",
+    "https://openalex.org/W2289362220",
+    "https://openalex.org/W2308482533",
+    "https://openalex.org/W2792217604",
+    "https://openalex.org/W2800474427",
+    "https://openalex.org/W2802141022",
+    "https://openalex.org/W2941705808",
+    "https://openalex.org/W2950660653",
+    "https://openalex.org/W2962679926",
+    "https://openalex.org/W2982505434",
+    "https://openalex.org/W2996642876",
+    "https://openalex.org/W3014053855",
+    "https://openalex.org/W3091445190",
+    "https://openalex.org/W3108394868",
+    "https://openalex.org/W3117833075",
+    "https://openalex.org/W3123766826",
+    "https://openalex.org/W3134965550",
+    "https://openalex.org/W3169583966",
+    "https://openalex.org/W3171790610",
+    "https://openalex.org/W3175111312",
+    "https://openalex.org/W3199037076",
+    "https://openalex.org/W3216158476",
+    "https://openalex.org/W4206473563",
+    "https://openalex.org/W4211171139",
+    "https://openalex.org/W4211189371",
+    "https://openalex.org/W4220827331",
+    "https://openalex.org/W4240135777",
+    "https://openalex.org/W4281386599",
+    "https://openalex.org/W4282929499",
+    "https://openalex.org/W4284697972",
+    "https://openalex.org/W4284993343",
+    "https://openalex.org/W4285403866",
+    "https://openalex.org/W4293161995",
+    "https://openalex.org/W4295350347",
+    "https://openalex.org/W4296178896",
+    "https://openalex.org/W4296652980",
+    "https://openalex.org/W4296653002",
+    "https://openalex.org/W4298148505",
+    "https://openalex.org/W4307818364",
+    "https://openalex.org/W4308570973",
+    "https://openalex.org/W4308710275",
+    "https://openalex.org/W4310816021",
+    "https://openalex.org/W4311257214",
+    "https://openalex.org/W4315703079",
+    "https://openalex.org/W763597904"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 3400,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.54624224
+    },
+    {
+      "id": "https://openalex.org/keywords/timeline",
+      "display_name": "Time line",
+      "score": 0.4797648
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41105223
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C188573790",
+      "name": "Renewable energy",
+      "sameAs": "https://www.wikidata.org/wiki/Q12705"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C115540264",
+      "name": "Biomass (ecology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2945560"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C22884784",
+      "name": "Carbon sequestration",
+      "sameAs": "https://www.wikidata.org/wiki/Q15305550"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C4438859",
+      "name": "Timeline",
+      "sameAs": "https://www.wikidata.org/wiki/Q186117"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C526734887",
+      "name": "Environmental protection",
+      "sameAs": "https://www.wikidata.org/wiki/Q832237"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C530467964",
+      "name": "Carbon dioxide",
+      "sameAs": "https://www.wikidata.org/wiki/Q1997"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    }
+  ],
+  "abstract": "Tropical countries can approach their natural resources to produce low-carbon H2 from solar, wind, hydro, and biomass resources to satisfy their domestic demand and to export it. To do so, Colombia published the National Hydrogen Roadmap, in which green H2 was prioritized. This study estimates Colombia's potential to produce green H2 and a timeline of scenarios displaying the required installed capacity, capital investment, and environmental analysis related to water utilization and CO2 capture. Accordingly, Colombia can produce H2 at a rate of 9 Mt/a by 2050 by installing 121 GW renewables while processing 303 Mt/a of residual biomass. In this scenario, Colombia's share of the H2 international market can reach 1.2%, with a cumulative investment of over 244 billion USD by 2050. This study provides insights into potential global resources for low-carbon H2 generation.",
+  "url": "https://doi.org/10.1016/j.ijhydene.2023.03.320",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1016/j.ijhydene.2023.03.320",
+    "encodingFormat": "text/html"
+  }
+}

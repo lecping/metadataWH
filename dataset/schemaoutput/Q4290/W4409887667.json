@@ -1,0 +1,310 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4409887667",
+  "doi": "10.22495/cbsrv6i2art12",
+  "name": "Financial impact on capital return of wind energy production strategy",
+  "headline": "Financial impact on capital return of wind energy production strategy",
+  "datePublished": "2025-01-01",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Corporate and Business Strategy Review",
+    "issn": "2708-4965",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5078232220",
+      "name": "Shaqir Rexhepi",
+      "givenName": "Shaqir",
+      "familyName": "Rexhepi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I273442994",
+          "name": "Aleksandër Moisiu University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AL"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-7023-5142"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5039989176",
+      "name": "Rexhep Shaqiri",
+      "givenName": "Rexhep",
+      "familyName": "Shaqiri",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210086961",
+          "name": "University for Business and Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "XK"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-1754-4237"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5039872561",
+      "name": "Rovena Vangjel",
+      "givenName": "Rovena",
+      "familyName": "Vangjel",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I273442994",
+          "name": "Aleksandër Moisiu University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AL"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-9150-2019"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5008903235",
+      "name": "Vezir Rexhepi",
+      "givenName": "Vezir",
+      "familyName": "Rexhepi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I78768387",
+          "name": "University of Prishtina",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "XK"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-3975-6927"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5018856396",
+      "name": "Gjelosh Vataj",
+      "givenName": "Gjelosh",
+      "familyName": "Vataj",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210086961",
+          "name": "University for Business and Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "XK"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0009-0008-2685-1352"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1516200583",
+    "https://openalex.org/W1864047636",
+    "https://openalex.org/W1966227494",
+    "https://openalex.org/W1967253391",
+    "https://openalex.org/W2016907626",
+    "https://openalex.org/W2017949333",
+    "https://openalex.org/W2050554588",
+    "https://openalex.org/W2065347345",
+    "https://openalex.org/W2071846965",
+    "https://openalex.org/W2127625390",
+    "https://openalex.org/W2158119364",
+    "https://openalex.org/W2276325972",
+    "https://openalex.org/W2791238298",
+    "https://openalex.org/W2807679767",
+    "https://openalex.org/W2956477319",
+    "https://openalex.org/W2980056407",
+    "https://openalex.org/W3133876219",
+    "https://openalex.org/W3198943041",
+    "https://openalex.org/W4225718867",
+    "https://openalex.org/W4226374856",
+    "https://openalex.org/W4293879976",
+    "https://openalex.org/W4309912641",
+    "https://openalex.org/W4315606556",
+    "https://openalex.org/W4361292800",
+    "https://openalex.org/W4362471835",
+    "https://openalex.org/W4387628079",
+    "https://openalex.org/W4391247352",
+    "https://openalex.org/W4391276804",
+    "https://openalex.org/W4396656803",
+    "https://openalex.org/W4407579320"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6219231
+    },
+    {
+      "id": "https://openalex.org/keywords/return-on-capital",
+      "display_name": "Return on capital",
+      "score": 0.42384177
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41741413
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C169549615",
+      "name": "Return on investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q939134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C195487862",
+      "name": "Revenue",
+      "sameAs": "https://www.wikidata.org/wiki/Q850210"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78600449",
+      "name": "Wind power",
+      "sameAs": "https://www.wikidata.org/wiki/Q43302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40113805",
+      "name": "Return on capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q245930"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C44750222",
+      "name": "Financial capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q1897397"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C58202505",
+      "name": "Capital formation",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035700"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119599485",
+      "name": "Electrical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q43035"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    }
+  ],
+  "abstract": "This paper evaluates the financial feasibility of the wind energy production project at the Kitka Substation (SS Kitka), focusing on its technical and economic aspects, return on capital investment, and broader environmental and social implications. The study’s findings indicate that for the period of January to June 2022, the project generated total revenues of €3,749,466.11, while operating expenses amounted to €1,780,000. With a total investment of €48,000,000, the capital return for this period was calculated at €1,969,466.11. The analysis of wind energy production data from January to August 2022 recorded a total output of 56,562.25 MWh. Moreover, the project contributed €10,160,047 in revenue to the Kosovo government through wind-generated energy from the SS Kitka facility. Based on financial projections, the annual return on investment (ROI) for the capital invested is estimated at €3,938,932.22. Consequently, the full recovery of the initial €48 million investment is projected to be achieved within 12 years. These findings underscore the long-term financial viability of the SS Kitka wind energy project, reinforcing its role in promoting sustainable energy development and economic growth.",
+  "url": "https://doi.org/10.22495/cbsrv6i2art12",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.22495/cbsrv6i2art12",
+    "encodingFormat": "text/html"
+  }
+}

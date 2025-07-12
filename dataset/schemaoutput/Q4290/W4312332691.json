@@ -1,0 +1,361 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4312332691",
+  "doi": "10.1063/5.0119935",
+  "name": "Centralized lubrication system for casting complexes",
+  "headline": "Centralized lubrication system for casting complexes",
+  "datePublished": "2022-01-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "AIP conference proceedings",
+    "issn": "0094-243X",
+    "publisher": {
+      "@type": "Organization",
+      "name": "American Institute of Physics"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5083351585",
+      "name": "A. V. Nefedov",
+      "givenName": "Andrey",
+      "familyName": "Nefedov",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I12003341",
+          "name": "National University of Science and Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5032173438",
+      "name": "E. G. Novikov",
+      "givenName": "Evgeny",
+      "familyName": "Novikov",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I12003341",
+          "name": "National University of Science and Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5026861376",
+      "name": "N. A. Chichenev",
+      "givenName": "Nikolay",
+      "familyName": "Chichenev",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I12003341",
+          "name": "National University of Science and Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-9019-4675"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5000356274",
+      "name": "A. O. Karfidov",
+      "givenName": "Alexej",
+      "familyName": "Karfidov",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I12003341",
+          "name": "National University of Science and Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-2602-4970"
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W2003240793",
+    "https://openalex.org/W2073708556",
+    "https://openalex.org/W2469903503",
+    "https://openalex.org/W2484758759",
+    "https://openalex.org/W2768515913",
+    "https://openalex.org/W2790915894",
+    "https://openalex.org/W2897459336",
+    "https://openalex.org/W2898814504",
+    "https://openalex.org/W2901875190",
+    "https://openalex.org/W2934045355",
+    "https://openalex.org/W3042689826",
+    "https://openalex.org/W3096003697",
+    "https://openalex.org/W3125213474",
+    "https://openalex.org/W3131003560",
+    "https://openalex.org/W3132227903",
+    "https://openalex.org/W3133426927",
+    "https://openalex.org/W3135123703",
+    "https://openalex.org/W3142374094",
+    "https://openalex.org/W3151312962",
+    "https://openalex.org/W3163060632",
+    "https://openalex.org/W3183535313",
+    "https://openalex.org/W3184762016",
+    "https://openalex.org/W3191077245",
+    "https://openalex.org/W3193707849",
+    "https://openalex.org/W3195717710",
+    "https://openalex.org/W3197386963",
+    "https://openalex.org/W4210785098"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/foundry",
+      "display_name": "Foundry",
+      "score": 0.78003466
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.54950887
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.48729718
+    },
+    {
+      "id": "https://openalex.org/keywords/payback-period",
+      "display_name": "Payback period",
+      "score": 0.46872747
+    },
+    {
+      "id": "https://openalex.org/keywords/investment-casting",
+      "display_name": "Investment casting",
+      "score": 0.46269757
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2781087836",
+      "name": "Foundry",
+      "sameAs": "https://www.wikidata.org/wiki/Q13883136"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780874159",
+      "name": "Lubricant",
+      "sameAs": "https://www.wikidata.org/wiki/Q323840"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C184608416",
+      "name": "Lubrication",
+      "sameAs": "https://www.wikidata.org/wiki/Q1455803"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C16635281",
+      "name": "Casting",
+      "sameAs": "https://www.wikidata.org/wiki/Q496098"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C43214815",
+      "name": "Reliability (semiconductor)",
+      "sameAs": "https://www.wikidata.org/wiki/Q7310987"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C19474535",
+      "name": "Welding",
+      "sameAs": "https://www.wikidata.org/wiki/Q131172"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144553756",
+      "name": "Payback period",
+      "sameAs": "https://www.wikidata.org/wiki/Q15081665"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778086310",
+      "name": "Investment casting",
+      "sameAs": "https://www.wikidata.org/wiki/Q11559461"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C117671659",
+      "name": "Manufacturing engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11049265"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C172707124",
+      "name": "Actuator",
+      "sameAs": "https://www.wikidata.org/wiki/Q423488"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C171146098",
+      "name": "Automotive engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q124192"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21880701",
+      "name": "Process engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q2144042"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78519656",
+      "name": "Mechanical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q101333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C192562407",
+      "name": "Materials science",
+      "sameAs": "https://www.wikidata.org/wiki/Q228736"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C191897082",
+      "name": "Metallurgy",
+      "sameAs": "https://www.wikidata.org/wiki/Q11467"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C159985019",
+      "name": "Composite material",
+      "sameAs": "https://www.wikidata.org/wiki/Q181790"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780566776",
+      "name": "Mold",
+      "sameAs": "https://www.wikidata.org/wiki/Q159341"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119599485",
+      "name": "Electrical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q43035"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C163258240",
+      "name": "Power (physics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q25342"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121332964",
+      "name": "Physics",
+      "sameAs": "https://www.wikidata.org/wiki/Q413"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C62520636",
+      "name": "Quantum mechanics",
+      "sameAs": "https://www.wikidata.org/wiki/Q944"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    }
+  ],
+  "abstract": "To improve the operational reliability and ease of maintenance of foundry complexes, Rifar CJSC offers an individual supply of release lubricant for molds of foundry complexes to the centralized feeding system. A hydraulic circuit has been developed, the volume and design of a hydraulic tank for a concentrate made of sheet steel by welding has been determined. As a result of the development of a centralized separation lubricant supply system for molds of foundry complexes, it was possible to simplify the lubrication supply scheme, reduce fuel costs and reduce the complexity of maintenance. Replacing the individual supply of release lubricant to molds of foundry complexes with a centralized feed system increases the reliability of the supply of release lubricant to molds of foundry complexes. Calculations show that the implementation of design solutions does not require large capital expenditures, and as a result of the implementation of the proposed measures, the cost of production will decrease by 0.02%, the payback period of the proposed investment project does not exceed 1 month.",
+  "url": "https://doi.org/10.1063/5.0119935",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://aip.scitation.org/doi/pdf/10.1063/5.0119935",
+    "encodingFormat": "text/html"
+  }
+}

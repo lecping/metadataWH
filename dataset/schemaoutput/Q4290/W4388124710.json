@@ -1,0 +1,236 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4388124710",
+  "doi": "10.21203/rs.3.rs-3481167/v1",
+  "name": "Economic Design of Water Distribution Networks",
+  "headline": "Economic Design of Water Distribution Networks",
+  "datePublished": "2023-11-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Research Square (Research Square)",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": "Research Square (United States)"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5093158389",
+      "name": "ayatallah Shrief",
+      "givenName": "ayatallah",
+      "familyName": "Shrief",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I107720978",
+          "name": "Ain Shams University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "EG"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5093158390",
+      "name": "AlaaEldin AlaaEldin Hisham",
+      "givenName": "AlaaEldin",
+      "familyName": "Hisham",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I107720978",
+          "name": "Ain Shams University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "EG"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5002213524",
+      "name": "Mohamed Hassan Abdel Razik",
+      "givenName": "Mohamed",
+      "familyName": "Razik",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I107720978",
+          "name": "Ain Shams University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "EG"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5046498243",
+      "name": "Hossam Mostafa Hussien",
+      "givenName": "Hossam",
+      "familyName": "Hussien",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I107720978",
+          "name": "Ain Shams University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "EG"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2025410291",
+    "https://openalex.org/W2073172192",
+    "https://openalex.org/W2077005348",
+    "https://openalex.org/W2127444813",
+    "https://openalex.org/W2550117085",
+    "https://openalex.org/W2605534862",
+    "https://openalex.org/W2742369705",
+    "https://openalex.org/W3008481528",
+    "https://openalex.org/W624611124"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-cost",
+      "display_name": "Capital cost",
+      "score": 0.62628466
+    },
+    {
+      "id": "https://openalex.org/keywords/nominal-pipe-size",
+      "display_name": "Nominal Pipe Size",
+      "score": 0.51388526
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4929211
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C157062255",
+      "name": "Capital cost",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035697"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C182299520",
+      "name": "Total cost",
+      "sameAs": "https://www.wikidata.org/wiki/Q1289588"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C183418187",
+      "name": "Nominal Pipe Size",
+      "sameAs": "https://www.wikidata.org/wiki/Q1931528"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C43521106",
+      "name": "Pipeline (software)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2165493"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C126255220",
+      "name": "Mathematical optimization",
+      "sameAs": "https://www.wikidata.org/wiki/Q141495"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C110121322",
+      "name": "Distribution (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q865811"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C192562407",
+      "name": "Materials science",
+      "sameAs": "https://www.wikidata.org/wiki/Q228736"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78519656",
+      "name": "Mechanical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q101333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134306372",
+      "name": "Mathematical analysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q7754"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C159985019",
+      "name": "Composite material",
+      "sameAs": "https://www.wikidata.org/wiki/Q181790"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    }
+  ],
+  "abstract": "Abstract Water Distribution Networks represent a major economic investment of the total cost of water supply systems. Pipe cost optimization is usually considered as a prime objective. However, minimizing the capital cost of the pipeline alone may result in increasing the cost of pumping, so the balance between pipe cost and pumping cost is a vital issue. In this study, an empirical model is formulated to select the economic pipe diameter based on capital and operation costs. A new Diameter Optimization Ratio DOR is developed to evaluate the economic optimality, which equals to 1.0 at optimal design, when rate of increase/decrease of pipe cost equals rate of decrease/increase of pumping cost. A new mathematical models are developed to calculate optimum diameter, velocity, hydraulic gradient slope for a given flow rate under given cost data assumptions. Optimum diameter does not depend on pipe length. After applying the mathematical model on this case study, the economic optimality indicator can be raised from 57.2–90.6%, and the total cost decreased by 38.8% by selecting optimum pipe diameter. After applying the mathematical model on this case study, the economic optimality indicator can be raised from 57.2–93.6%, and the total cost decreased by 36.4% by selecting optimum pipe diameter. A new Cost Optimality Factor R for each pipe and for the whole network can be defined. A case study is considered to illustrate the application of proposed methodology.",
+  "url": "https://doi.org/10.21203/rs.3.rs-3481167/v1",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.researchsquare.com/article/rs-3481167/latest.pdf",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4403943825",
+  "doi": "10.4018/ijkm.358010",
+  "name": "Study on the Interactive Effect Between Public Library Construction and Human Capital Investment Efficiency",
+  "headline": "Study on the Interactive Effect Between Public Library Construction and Human Capital Investment Efficiency",
+  "datePublished": "2024-10-31",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Knowledge Management",
+    "issn": "1548-0658",
+    "publisher": {
+      "@type": "Organization",
+      "name": "IGI Global"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5010725385",
+      "name": "Jiacheng Gao",
+      "givenName": "Jiacheng",
+      "familyName": "Gao",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I291386647",
+          "name": "Belarusian State University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "BY"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-2087-2212"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5073219407",
+      "name": "Yue Liu",
+      "givenName": "Yue",
+      "familyName": "Liu",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I45812101",
+          "name": "Belarusian National Technical University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "BY"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-9330-8861"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5114475890",
+      "name": "Lining Tian",
+      "givenName": "Lining",
+      "familyName": "Tian",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I45812101",
+          "name": "Belarusian National Technical University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "BY"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0009-0004-5732-2788"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6553649
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.43327743
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.42917305
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2994464924",
+      "name": "Public investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q1929688"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C142362112",
+      "name": "Art",
+      "sameAs": "https://www.wikidata.org/wiki/Q735"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C153349607",
+      "name": "Visual arts",
+      "sameAs": "https://www.wikidata.org/wiki/Q36649"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This paper measures the public library construction (PLC) level and the human capital investment (HCI) efficiency of 31 provinces in China from 2011 to 2021, tests the linkage effect and coupling coordination between PLC and HCI. The results show that: 1) the PLC level and the HCI efficiency of China shows a trend of rapid increase and fluctuating decrease respectively during this period, but the gap between regions is obvious. Both the PLC level and the HCI efficiency in the eastern region are obviously better than those in the central region and the western region. 2) There is not only a positive linkage effect between PLC and HCI efficiency, which promotes each other, but also the level of collaborative development between PLC and HCI efficiency shows a steady upward trend, with the coupling level reaching level 6, which is about to enter the primary coordination state, but there are obvious regional differences.",
+  "url": "https://doi.org/10.4018/ijkm.358010",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.igi-global.com/ViewTitle.aspx?TitleId=358010&isxn=9798369324608",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4377943310",
+  "doi": "10.54691/fhss.v3i5.5030",
+  "name": "Study on the Protection and Development of the Anhui Section of the Huai River Basin from the Perspective of Ecotourism",
+  "headline": "Study on the Protection and Development of the Anhui Section of the Huai River Basin from the Perspective of Ecotourism",
+  "datePublished": "2023-05-23",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Frontiers in Humanities and Social Sciences",
+    "issn": "2710-0170",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5102515719",
+      "name": "Yueyue Rong",
+      "givenName": "Yueyue",
+      "familyName": "Rong",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I188935350",
+          "name": "Anhui University of Finance and Economics",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5047214315",
+      "name": "Jian Yang",
+      "givenName": "Jian",
+      "familyName": "Yang",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I188935350",
+          "name": "Anhui University of Finance and Economics",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-4445-6953"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/intangible-cultural-heritage",
+      "display_name": "Intangible cultural heritage",
+      "score": 0.6214749
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.48182455
+    },
+    {
+      "id": "https://openalex.org/keywords/section",
+      "display_name": "Section (typography)",
+      "score": 0.4170962
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.41348478
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18918823",
+      "name": "Tourism",
+      "sameAs": "https://www.wikidata.org/wiki/Q49389"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C151807755",
+      "name": "Ecotourism",
+      "sameAs": "https://www.wikidata.org/wiki/Q187449"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779460620",
+      "name": "Intangible cultural heritage",
+      "sameAs": "https://www.wikidata.org/wiki/Q59544"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779343474",
+      "name": "Context (archaeology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3109175"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C29122968",
+      "name": "Incentive",
+      "sameAs": "https://www.wikidata.org/wiki/Q1414816"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C60671577",
+      "name": "Cultural heritage",
+      "sameAs": "https://www.wikidata.org/wiki/Q210272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C12713177",
+      "name": "Perspective (graphical)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1900281"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C552854447",
+      "name": "Sustainable development",
+      "sameAs": "https://www.wikidata.org/wiki/Q131201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780129039",
+      "name": "Section (typography)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1931107"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C91375879",
+      "name": "Environmental planning",
+      "sameAs": "https://www.wikidata.org/wiki/Q15473274"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C107826830",
+      "name": "Environmental resource management",
+      "sameAs": "https://www.wikidata.org/wiki/Q929380"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C154945302",
+      "name": "Artificial intelligence",
+      "sameAs": "https://www.wikidata.org/wiki/Q11660"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C112698675",
+      "name": "Advertising",
+      "sameAs": "https://www.wikidata.org/wiki/Q37038"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    }
+  ],
+  "abstract": "The essence of ecotourism is to cultivate an ecological culture, attach importance to sightseeing and experience, and advocate Green leisure tourism. In this context, it is necessary to protect and develop intangible cultural heritage resources. However, the development of intangible cultural tourism faces many difficulties. Take the Anhui section of the Huai River River basin as an example, the traditional management model, non-heritage innovation development and eco-tourism development do not adapt to the impact of science and technology, creative forms lack of innovation and other difficulties. Therefore, strengthening the integration of resources, establishing incentive policies, optimizing the allocation of resources, increasing capital investment and paying attention to the protection and training of talents are the specific paths for the development of Intangible Cultural Heritage Cultural Tourism.",
+  "url": "https://doi.org/10.54691/fhss.v3i5.5030",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://bcpublication.org/index.php/FHSS/article/download/5030/4893",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4403713686",
+  "doi": "10.59141/japendi.v5i10.5698",
+  "name": "Linen Rental Laundry Human Capital Plan with Rfid Technology in PT. Think Clean Laundry",
+  "headline": "Linen Rental Laundry Human Capital Plan with Rfid Technology in PT. Think Clean Laundry",
+  "datePublished": "2024-10-25",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-sa",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Jurnal Pendidikan Indonesia",
+    "issn": "2745-7141",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5114389251",
+      "name": "Wenny Virtadaniati",
+      "givenName": "Wenny",
+      "familyName": "Virtadaniati",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210096641",
+          "name": "Universitas Esa Unggul",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5079482309",
+      "name": "Rhian Indradewa",
+      "givenName": "Rhian",
+      "familyName": "Indradewa",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210096641",
+          "name": "Universitas Esa Unggul",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-9093-2690"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5065164555",
+      "name": "Sukmo Hadi Nugroho",
+      "givenName": "Sukmo",
+      "familyName": "Nugroho",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210096641",
+          "name": "Universitas Esa Unggul",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-4055-0173"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5081074032",
+      "name": "Muhammad Dhafi Iskandar",
+      "givenName": "Muhammad",
+      "familyName": "Iskandar",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210096641",
+          "name": "Universitas Esa Unggul",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/laundry",
+      "display_name": "Laundry",
+      "score": 0.98435175
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5321908
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.49515954
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778585658",
+      "name": "Laundry",
+      "sameAs": "https://www.wikidata.org/wiki/Q852100"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C85502023",
+      "name": "Renting",
+      "sameAs": "https://www.wikidata.org/wiki/Q157171"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776505523",
+      "name": "Plan (archaeology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q4785468"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C548081761",
+      "name": "Waste management",
+      "sameAs": "https://www.wikidata.org/wiki/Q180388"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C142362112",
+      "name": "Art",
+      "sameAs": "https://www.wikidata.org/wiki/Q735"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C147176958",
+      "name": "Civil engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q77590"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C153349607",
+      "name": "Visual arts",
+      "sameAs": "https://www.wikidata.org/wiki/Q36649"
+    }
+  ],
+  "abstract": "in the laundry industry has become an effective solution to address current challenges. The implementation of RFID in the Linen Rental system can enhance inventory management efficiency and minimize errors in record-keeping. PT. Think Clean Laundry is a service provider of RFID Laundry and Linen Rental, offering laundry and linen rental services for hospitals, hotels, manufacturing, and transportation, supported by adequate technology and resources. The company is located at Jl. Kawasan Industri Bekasi Fajar Blok D18 Mekar Wangi MM2100 Industrial Town, Mekar Wangi, Cikarang Barat, Kab. Bekasi, West Java. Human capital refers to the knowledge and research discussing the role and contribution of human resources in the context of business and management. Human capital encompasses the knowledge, skills, experience, and abilities possessed by individuals within an organization. Planning Human Capital to ensure the success of the Linen Rental Laundry business using RFID technology at PT. Think Clean Laundry plays a crucial role in attracting and selecting the right employees, ensuring that the team has the skills and attitudes that align with the company’s needs.",
+  "url": "https://doi.org/10.59141/japendi.v5i10.5698",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://japendi.publikasiindonesia.id/index.php/japendi/article/download/5698/1397",
+    "encodingFormat": "text/html"
+  }
+}

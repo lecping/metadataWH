@@ -1,0 +1,247 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4392445676",
+  "doi": "10.34069/ai/2023.72.12.21",
+  "name": "Security of human capital: negative factors, health care, problems of investment and loss in modern conditions of digitization",
+  "headline": "Security of human capital: negative factors, health care, problems of investment and loss in modern conditions of digitization",
+  "datePublished": "2023-12-30",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Revista Amazonia Investiga",
+    "issn": "2322-6307",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5001094390",
+      "name": "Stepan Melnyk",
+      "givenName": "Stepan",
+      "familyName": "Melnyk",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210113019",
+          "name": "Lviv State University of Internal Affairs",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I36730113",
+          "name": "Ukrainian Academy of Printing",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I200280692",
+          "name": "Lviv University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-3782-5973"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5084915739",
+      "name": "Zoryana Ravlinko",
+      "givenName": "Zoryana",
+      "familyName": "Ravlinko",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210113019",
+          "name": "Lviv State University of Internal Affairs",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-8380-6912"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5069984030",
+      "name": "Софія Білоус",
+      "givenName": "Sofiia",
+      "familyName": "Bilous",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I200280692",
+          "name": "Lviv University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-3651-6490"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5081248739",
+      "name": "Ihor Berest",
+      "givenName": "Ihor",
+      "familyName": "Berest",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I36730113",
+          "name": "Ukrainian Academy of Printing",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-6141-4678"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5086662836",
+      "name": "Vasyl Kokhan",
+      "givenName": "Vasyl",
+      "familyName": "Kokhan",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0001-8909-811X"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2122088182",
+    "https://openalex.org/W2581935435",
+    "https://openalex.org/W2737055596",
+    "https://openalex.org/W2760825020",
+    "https://openalex.org/W2966636652",
+    "https://openalex.org/W2967822601",
+    "https://openalex.org/W3005440445",
+    "https://openalex.org/W3015221784",
+    "https://openalex.org/W3091212809",
+    "https://openalex.org/W3110769458",
+    "https://openalex.org/W3122812546",
+    "https://openalex.org/W4220876724",
+    "https://openalex.org/W4294225690",
+    "https://openalex.org/W4320916959"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/digitization",
+      "display_name": "Digitization",
+      "score": 0.81558144
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.62539786
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4179592
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779308522",
+      "name": "Digitization",
+      "sameAs": "https://www.wikidata.org/wiki/Q843958"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C76155785",
+      "name": "Telecommunications",
+      "sameAs": "https://www.wikidata.org/wiki/Q418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The main purpose of the article is to identify key factors influencing the safety and health of human capital in open socio-economic systems in the digital era. To achieve this goal, the task was determined to carry out factor modeling. The object of the study is human capital, its security system and investment in its healthcare. The research methodology involves the use of modern modeling methods to prioritize the action of certain impact factors. As a result of the study, key factors influencing the health and safety of human capital in Ukraine were identified. The innovativeness of the results obtained is revealed through the presentation of the author's approach to modeling the ordering of the action of certain factors. A model for counteracting the negative influence of these factors is proposed. The study is limited by not taking into account all possible influencing factors. Prospects for further research include covering broader aspects of the topic and taking into account the entire EU market.",
+  "url": "https://doi.org/10.34069/ai/2023.72.12.21",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.34069/ai/2023.72.12.21",
+    "encodingFormat": "text/html"
+  }
+}

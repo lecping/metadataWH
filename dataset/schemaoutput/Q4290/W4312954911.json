@@ -1,0 +1,150 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4312954911",
+  "doi": "10.52859/jam.v1i1.209",
+  "name": "SOSIALISASI INVESTASI EMAS DI USIA EMAS GUNA MEWUJUDKAN MASYARAKAT YANG SADAR BERINVESTASI",
+  "headline": "SOSIALISASI INVESTASI EMAS DI USIA EMAS GUNA MEWUJUDKAN MASYARAKAT YANG SADAR BERINVESTASI",
+  "datePublished": "2022-04-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Jurnal Abdi Mandala",
+    "issn": "2830-5663",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5070703111",
+      "name": "Andres Dharma Nurhalim",
+      "givenName": "Andres",
+      "familyName": "Nurhalim",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210116728",
+          "name": "Universitas Patria Artha",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100343012",
+      "name": "Sutrisno Sutrisno",
+      "givenName": "Sutrisno",
+      "familyName": "Sutrisno",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210116728",
+          "name": "Universitas Patria Artha",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W2118124668"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.72561765
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.6237865
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780378061",
+      "name": "Service (business)",
+      "sameAs": "https://www.wikidata.org/wiki/Q25351891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    }
+  ],
+  "abstract": "This community service aims to provide insight and knowledge to the community and STIE Wiyatamandala students about Gold Investment. So far, many people in general do not know about gold investment. People generally think that gold investment requires a lot of capital and is not affordable, even though the solution for investing today is to invest in precious metals with mini gold. With an affordable price, only tens of thousands of rupiah can be invested, this can also be done by students. Based on the results of the activities that have been carried out, the community and students of STIE Wiyatamandala seemed very enthusiastic in following every material presented.",
+  "url": "https://doi.org/10.52859/jam.v1i1.209",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://wiyatamandala.e-journal.id/JAM/article/download/209/158",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4225844317",
+  "doi": "10.31891/2307-5732-2021-303-6-124-127",
+  "name": "JUSTIFICATION OF A RATIONAL METHOD FOR RESTORING AGRICULTURAL EQUIPMENT PARTS",
+  "headline": "JUSTIFICATION OF A RATIONAL METHOD FOR RESTORING AGRICULTURAL EQUIPMENT PARTS",
+  "datePublished": "2021-12-01",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Herald of Khmelnytskyi National University Technical sciences",
+    "issn": "2307-5732",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5058192592",
+      "name": "B. BRATSLAVETS",
+      "givenName": "B.",
+      "familyName": "BRATSLAVETS",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210148800",
+          "name": "Vinnytsia National Agrarian University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.47353312
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.45512837
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C98045186",
+      "name": "Process (computing)",
+      "sameAs": "https://www.wikidata.org/wiki/Q205663"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C112930515",
+      "name": "Risk analysis (engineering)",
+      "sameAs": "https://www.wikidata.org/wiki/Q4389547"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778738651",
+      "name": "Novelty",
+      "sameAs": "https://www.wikidata.org/wiki/Q16546687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21547014",
+      "name": "Operations management",
+      "sameAs": "https://www.wikidata.org/wiki/Q1423657"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27206212",
+      "name": "Theology",
+      "sameAs": "https://www.wikidata.org/wiki/Q34178"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111919701",
+      "name": "Operating system",
+      "sameAs": "https://www.wikidata.org/wiki/Q9135"
+    }
+  ],
+  "abstract": "The article proposes a way to optimize the technological process of updating parts according to the energy criterion. The rational development of technological processes for the restoration of specific parts of agricultural machinery is mainly determined by the choice of a method that ensures the greatest durability of the part at the lowest cost of their restoration. Currently, repair companies have a significant number of ways to restore parts used to eliminate various defects – (wear, mechanical damage, cracks, etc.). Rationale for choosing the best way to restore a part or group of parts in a set of technical, economic and organizational issues. For different types of recovery methods, such as surfacing and iron, when capital investment is significantly different, the technical and economic criteria should be determined through the above costs. However, even in this case, in practice, as a rule, many factors are not taken into account. To restore the same part, several methods are suitable, often unequal in their technical and economic indicators. Thus, to assess the renewal of a specific part in a specific production environment, they are refined. The energy criterion is especially important to use when decisions are made about the development of a new production, the construction of a plant or a large workshop for the restoration of parts. This is due to the fact that today the main parameter is the cost of restoring parts or costs, which in practice are largely influenced by prices, and real production costs, the novelty of the technological process, all energy costs, including , living labor for the production of products (energy criterion).",
+  "url": "https://doi.org/10.31891/2307-5732-2021-303-6-124-127",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "http://journals.khnu.km.ua/vestnik/wp-content/uploads/2022/03/vknu-ts-2021-n6-303-124-127.pdf",
+    "encodingFormat": "text/html"
+  }
+}

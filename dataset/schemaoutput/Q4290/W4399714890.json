@@ -1,0 +1,194 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4399714890",
+  "doi": "10.36325/ghjec.v20i1.15773",
+  "name": "Elite human capital investment in enhancing the digital workplace Exploratory study in a sample of private schools / Najaf",
+  "headline": "Elite human capital investment in enhancing the digital workplace Exploratory study in a sample of private schools / Najaf",
+  "datePublished": "2024-03-30",
+  "copyrightYear": 2024,
+  "inLanguage": "ar",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Al-Ghary Journal of Economic and Administrative Sciences",
+    "issn": "1994-0947",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5063660797",
+      "name": "علي رزاق العابدي",
+      "givenName": "علي",
+      "familyName": "العابدي",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5027238090",
+      "name": "منتظر جاسم محمد العرباوي",
+      "givenName": "منتظر",
+      "familyName": "العرباوي",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2010730510",
+    "https://openalex.org/W2027148879",
+    "https://openalex.org/W2044902387",
+    "https://openalex.org/W2058809031",
+    "https://openalex.org/W2129203575",
+    "https://openalex.org/W2152441174",
+    "https://openalex.org/W2400601620",
+    "https://openalex.org/W2897091209",
+    "https://openalex.org/W2911477051",
+    "https://openalex.org/W3141626626",
+    "https://openalex.org/W3171279158",
+    "https://openalex.org/W4206116036",
+    "https://openalex.org/W4294376338"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/exploratory-research",
+      "display_name": "Exploratory research",
+      "score": 0.7391796
+    },
+    {
+      "id": "https://openalex.org/keywords/sample",
+      "display_name": "Sample (material)",
+      "score": 0.7264144
+    },
+    {
+      "id": "https://openalex.org/keywords/elite",
+      "display_name": "Elite",
+      "score": 0.70044774
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.67884254
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4757994
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C85973986",
+      "name": "Exploratory research",
+      "sameAs": "https://www.wikidata.org/wiki/Q1091731"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C198531522",
+      "name": "Sample (material)",
+      "sameAs": "https://www.wikidata.org/wiki/Q485146"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2775987171",
+      "name": "Elite",
+      "sameAs": "https://www.wikidata.org/wiki/Q192797"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C36289849",
+      "name": "Social science",
+      "sameAs": "https://www.wikidata.org/wiki/Q34749"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C43617362",
+      "name": "Chromatography",
+      "sameAs": "https://www.wikidata.org/wiki/Q170050"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "يهدف البحث الى التحقق من طبيعة العلاقة بين رأس المال البشري النخبوي ومكان العمل الرقمي، اذ ركز البحث على عينة من الملاك المتقدم في المدارس الاهلية. وتنبع الأهمية الرئيسة للبحث من ندرة الدراسات التي حاولت توضيح طبيعة العلاقة بين المتغيرات قيد البحث، فقد تمت صياغة مشكله البحث بالآتي: \"يتأثر مكان العمل الرقمي بشكل مباشر بمستوى رأس المال البشري النخبوي المدارس الاهلية قيد البحث. وبهدف جمع البيانات واستكمالاً لمتطلبات البحث، المنهج الوصفي الاستطلاعي، وتم توزيع (280) استمارة استبيان بصورة مباشرة على المجتمع المستهدف والمتمثل الملاك المتقدم في المدراس الاهلية في مدينة النجف الاشرف؛ وقد تم استرجاع (265) استبانة، وكانت عدد الاستبانات الصالحة للتحليل الإحصائي (242) استبانة، أي بمعدل استجابة (%86). وفي الجانب النظري أظهرت الادبيات ذات الصلة وجود فجوة معرفية حول طبيعة العلاقة بين متغيرات البحث الحالية رأس المال البشري النخبوي ومكان العمل الرقمي في المدارس الاهلية عينة البحث، اما الجانب العملي اظهرت النتائج التي تم التوصل اليها وجود علاقة تأثير لمتغير راس المال البشري النخبوي في متغير مكان العمل الرقمي في المدارس الاهلية عينة البحث.",
+  "url": "https://doi.org/10.36325/ghjec.v20i1.15773",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://journal.uokufa.edu.iq/index.php/ghjec/article/download/15773/12730",
+    "encodingFormat": "text/html"
+  }
+}

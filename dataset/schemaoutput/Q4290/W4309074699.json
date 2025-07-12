@@ -1,0 +1,264 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4309074699",
+  "doi": "10.1080/1331677x.2022.2142632",
+  "name": "The growth impact of infrastructure capital investment: the role of regional innovation capacity—evidence from China",
+  "headline": "The growth impact of infrastructure capital investment: the role of regional innovation capacity—evidence from China",
+  "datePublished": "2022-11-12",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Economic Research-Ekonomska Istraživanja",
+    "issn": "1331-677X",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Taylor & Francis"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100428910",
+      "name": "Pengfei Guo",
+      "givenName": "Pengfei",
+      "familyName": "Guo",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I145581781",
+          "name": "Chongqing Technology and Business University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-3186-4624"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5018500421",
+      "name": "Xinyun Hu",
+      "givenName": "Xinyun",
+      "familyName": "Hu",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I145581781",
+          "name": "Chongqing Technology and Business University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-0265-0299"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5077528082",
+      "name": "Shikuan Zhao",
+      "givenName": "Shikuan",
+      "familyName": "Zhao",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I158842170",
+          "name": "Chongqing University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-7766-7071"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5070300501",
+      "name": "Mingming Li",
+      "givenName": "Mingming",
+      "familyName": "Li",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-4681-358X"
+    }
+  ],
+  "citationCount": 4,
+  "citation": [
+    "https://openalex.org/W1802127909",
+    "https://openalex.org/W1971383683",
+    "https://openalex.org/W1989535774",
+    "https://openalex.org/W2002569379",
+    "https://openalex.org/W2038685992",
+    "https://openalex.org/W2038738762",
+    "https://openalex.org/W2048498261",
+    "https://openalex.org/W2061503597",
+    "https://openalex.org/W2067082711",
+    "https://openalex.org/W2123954937",
+    "https://openalex.org/W2124514830",
+    "https://openalex.org/W2131788519",
+    "https://openalex.org/W2147081279",
+    "https://openalex.org/W2160822197",
+    "https://openalex.org/W2162484441",
+    "https://openalex.org/W2172070297",
+    "https://openalex.org/W238774546",
+    "https://openalex.org/W2415055958",
+    "https://openalex.org/W2556228407",
+    "https://openalex.org/W2745812780",
+    "https://openalex.org/W2756034008",
+    "https://openalex.org/W2756116341",
+    "https://openalex.org/W2779899253",
+    "https://openalex.org/W2800327305",
+    "https://openalex.org/W2804312441",
+    "https://openalex.org/W2897292739",
+    "https://openalex.org/W2907917103",
+    "https://openalex.org/W2908603417",
+    "https://openalex.org/W2920605242",
+    "https://openalex.org/W2922756721",
+    "https://openalex.org/W2971461624",
+    "https://openalex.org/W2972088833",
+    "https://openalex.org/W2995601876",
+    "https://openalex.org/W3021822145",
+    "https://openalex.org/W3023360591",
+    "https://openalex.org/W3030669109",
+    "https://openalex.org/W3112235549",
+    "https://openalex.org/W3122611856",
+    "https://openalex.org/W3122866839",
+    "https://openalex.org/W3123137296",
+    "https://openalex.org/W3124380383",
+    "https://openalex.org/W3124755901",
+    "https://openalex.org/W3126058457",
+    "https://openalex.org/W3131792213",
+    "https://openalex.org/W3136898584",
+    "https://openalex.org/W3184603450",
+    "https://openalex.org/W3211596454",
+    "https://openalex.org/W4220929149",
+    "https://openalex.org/W4234662945",
+    "https://openalex.org/W4242999886",
+    "https://openalex.org/W4285138968",
+    "https://openalex.org/W4292811746"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 770,
+      "currency": "GBP"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.61093915
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.46881557
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.44596213
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C191935318",
+      "name": "China",
+      "sameAs": "https://www.wikidata.org/wiki/Q148"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26271046",
+      "name": "Economic geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q187097"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "To verify the impact mechanism between infrastructure capital investment and regional economic growth in China, this study first estimates production capital stocks of the infrastructure by Perpetual Inventory Method (PIM) based on a balanced panel dataset for 31 Chinese provinces, autonomous regions and municipalities covering 1993–2017, then analyses the important mediating role of regional innovation capacity in the relationship between infrastructure capital investment and regional economic growth in China. The empirical results indicate that infrastructure capital investment can effectively promote economic growth in China. Furthermore, through analysing the mediating impact mechanism, the infrastructure capital investment can indirectly affect regional economic growth through the regional innovation capacity. When fully considering the potential heterogeneity, the mediating effect of developed regions is more significant than that of underdeveloped regions, and such a mediating effect is increasing with deepening industrialization. Therefore, a harmonious relationship between infrastructure capital investment and economic growth can be achieved if policymakers attempt to arouse the positive mediating role of regional innovation capacity when formulating relevant policies.",
+  "url": "https://doi.org/10.1080/1331677x.2022.2142632",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1080/1331677x.2022.2142632",
+    "encodingFormat": "text/html"
+  }
+}

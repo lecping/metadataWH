@@ -1,0 +1,199 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4394064243",
+  "doi": "10.7176/rjfa/15-3-03",
+  "name": "Firm Performance Responsiveness to Accounting Receivable and Working Capital Investment Policy",
+  "headline": "Firm Performance Responsiveness to Accounting Receivable and Working Capital Investment Policy",
+  "datePublished": "2024-03-01",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Research Journal of Finance and Accounting",
+    "issn": "2222-1697",
+    "publisher": {
+      "@type": "Organization",
+      "name": "IISTE"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5114144641",
+      "name": "Muhsin Mohammed",
+      "givenName": "Muhsin",
+      "familyName": "Mohammed",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4387153630",
+          "name": "Local Government Training Institute",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": null
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210111891",
+          "name": "Ministry of Education and Vocation Training",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "TZ"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1503136792",
+    "https://openalex.org/W1533045695",
+    "https://openalex.org/W1555516861",
+    "https://openalex.org/W1896205720",
+    "https://openalex.org/W1966015119",
+    "https://openalex.org/W1982799606",
+    "https://openalex.org/W2024013872",
+    "https://openalex.org/W2026020477",
+    "https://openalex.org/W2035652639",
+    "https://openalex.org/W2077552463",
+    "https://openalex.org/W2139657438",
+    "https://openalex.org/W2169731065",
+    "https://openalex.org/W2184186373",
+    "https://openalex.org/W2184831396",
+    "https://openalex.org/W2292296201",
+    "https://openalex.org/W2328413054",
+    "https://openalex.org/W2489179993",
+    "https://openalex.org/W2612400065",
+    "https://openalex.org/W2704229913",
+    "https://openalex.org/W2745004648",
+    "https://openalex.org/W2783600915",
+    "https://openalex.org/W2789910169",
+    "https://openalex.org/W2941852315",
+    "https://openalex.org/W2990634740",
+    "https://openalex.org/W3141036717",
+    "https://openalex.org/W4237863929",
+    "https://openalex.org/W4245991815",
+    "https://openalex.org/W4255141141",
+    "https://openalex.org/W4300009529",
+    "https://openalex.org/W656471287"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/accounts-receivable",
+      "display_name": "Accounts receivable",
+      "score": 0.9145288
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5323622
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.51718295
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.47526306
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C202451310",
+      "name": "Accounts receivable",
+      "sameAs": "https://www.wikidata.org/wiki/Q328554"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C60679458",
+      "name": "Working capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q823288"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121955636",
+      "name": "Accounting",
+      "sameAs": "https://www.wikidata.org/wiki/Q4116214"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "The performance of a business is closely tied to its success, which is influenced by corporate strategy and goal achievement. Effective management of accounts receivable and proper implementation of working capital investment policy are the critical factor in this success, as it directly impacts objectives twin of the firms. However, previous research has primarily focused on the relationship between accounts receivable and firm performance in developed economies, neglecting developing economies. To address this gap, the study examined how accounts receivable management and working capital investment policy affect the performance of 30 Tanzanian firms from 2011 to 2022, with a focus on liquidity and profitability. We conducted panel data analysis, considering variables such as average collection period, working capital investment policy, firm size, debt ratio, and business growth.The findings indicate a significant negative relationship between the independent variable (average collection period) and the control variable (debt ratio) with firm profitability. Conversely, there is a significant positive relationship between the independent variable (working capital investment policy) and firm profitability.Furthermore, the independent variables (average collection period and working capital investment policy) show a significant positive relationship with firm liquidity, while the control variables (firm size and business growth) also exhibit a significant positive relationship. However, the control variable (debt ratio) demonstrates a significant negative relationship with liquidity.In terms of specific sectors, the study results reveal conflicting findings, with inconsistent significant results observed within individual sectors. Therefore, financial managers should consider the levels of accounts receivable and industry-specific dynamics when making decisions regarding accounts receivable and working capital investment policy to achieve optimal outcomes. Keywords: Accounts Receivable, Working Capital Investment Policy, Firms, Performance, Profitability, Liquidity. DOI: 10.7176/RJFA/15-3-03 Publication date: March 31 st 2024",
+  "url": "https://doi.org/10.7176/rjfa/15-3-03",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://iiste.org/Journals/index.php/RJFA/article/download/62251/64276",
+    "encodingFormat": "text/html"
+  }
+}

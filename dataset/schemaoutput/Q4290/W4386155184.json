@@ -1,0 +1,274 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4386155184",
+  "doi": "10.7163/eu21.2022.42.5",
+  "name": "Offshore wind energy potential in Europe: a forecast of installed capacities and costs",
+  "headline": "Offshore wind energy potential in Europe: a forecast of installed capacities and costs",
+  "datePublished": "2022-01-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Europa XXI",
+    "issn": "1429-7132",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5064496291",
+      "name": "Tomasz Laskowicz",
+      "givenName": "Tomasz",
+      "familyName": "Laskowicz",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I40413290",
+          "name": "University of Gdańsk",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PL"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-2028-7291"
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W1996005477",
+    "https://openalex.org/W2014677458",
+    "https://openalex.org/W2030603043",
+    "https://openalex.org/W2056663805",
+    "https://openalex.org/W2276325972",
+    "https://openalex.org/W2332699522",
+    "https://openalex.org/W2498829949",
+    "https://openalex.org/W2576503865",
+    "https://openalex.org/W2586481491",
+    "https://openalex.org/W2589098878",
+    "https://openalex.org/W2738992034",
+    "https://openalex.org/W2749519793",
+    "https://openalex.org/W2766052963",
+    "https://openalex.org/W2795693453",
+    "https://openalex.org/W2883021221",
+    "https://openalex.org/W2899446710",
+    "https://openalex.org/W2907759873",
+    "https://openalex.org/W2918617728",
+    "https://openalex.org/W2952816169",
+    "https://openalex.org/W2999439375",
+    "https://openalex.org/W3007379896",
+    "https://openalex.org/W3007896190",
+    "https://openalex.org/W3010604722",
+    "https://openalex.org/W3013965975",
+    "https://openalex.org/W3026032858",
+    "https://openalex.org/W3031778393",
+    "https://openalex.org/W3034467175",
+    "https://openalex.org/W3045730620",
+    "https://openalex.org/W3108314321",
+    "https://openalex.org/W3110946927",
+    "https://openalex.org/W3139824478",
+    "https://openalex.org/W3140699518",
+    "https://openalex.org/W3167425155",
+    "https://openalex.org/W3168700598",
+    "https://openalex.org/W3172497035",
+    "https://openalex.org/W3185245288",
+    "https://openalex.org/W3204710799",
+    "https://openalex.org/W3216636910",
+    "https://openalex.org/W4214937941",
+    "https://openalex.org/W4221010682",
+    "https://openalex.org/W4225894142",
+    "https://openalex.org/W4296155146",
+    "https://openalex.org/W4304783358",
+    "https://openalex.org/W4306695694",
+    "https://openalex.org/W4309119268",
+    "https://openalex.org/W4311376918",
+    "https://openalex.org/W4362579817",
+    "https://openalex.org/W648258679"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5137273
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-cost",
+      "display_name": "Capital cost",
+      "score": 0.49415138
+    },
+    {
+      "id": "https://openalex.org/keywords/energy-independence",
+      "display_name": "Energy Independence",
+      "score": 0.43700284
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41454864
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C8735168",
+      "name": "Offshore wind power",
+      "sameAs": "https://www.wikidata.org/wiki/Q61637704"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78600449",
+      "name": "Wind power",
+      "sameAs": "https://www.wikidata.org/wiki/Q43302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C206658404",
+      "name": "Electricity",
+      "sameAs": "https://www.wikidata.org/wiki/Q12725"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162284963",
+      "name": "Submarine pipeline",
+      "sameAs": "https://www.wikidata.org/wiki/Q17106102"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C157062255",
+      "name": "Capital cost",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035697"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C47737302",
+      "name": "Greenhouse gas",
+      "sameAs": "https://www.wikidata.org/wiki/Q167336"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779990392",
+      "name": "Energy independence",
+      "sameAs": "https://www.wikidata.org/wiki/Q5377164"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C188573790",
+      "name": "Renewable energy",
+      "sameAs": "https://www.wikidata.org/wiki/Q12705"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134560507",
+      "name": "Environmental economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q753291"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199104240",
+      "name": "Marine engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q118291"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111368507",
+      "name": "Oceanography",
+      "sameAs": "https://www.wikidata.org/wiki/Q43518"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119599485",
+      "name": "Electrical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q43035"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C187320778",
+      "name": "Geotechnical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q1349130"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127313418",
+      "name": "Geology",
+      "sameAs": "https://www.wikidata.org/wiki/Q1069"
+    }
+  ],
+  "abstract": "Offshore wind installation targets of EU Member States were considered. The analysis of the national plans showed that EU target can be exceeded, provided the appropriate resources are committed: offshore space, capital and supply chain. Spatial plans were analyzed and the need for the number of installed turbines was determined. The capital needs to cover the costs of investment outlays were analyzed. A projection for the number of wind turbines installed in Europe up to 2030 was presented. The analysis identified how the resources committed to the targets will contribute to: the generation of electricity, the reduction in greenhouse gas emissions and contribution to improving Europe’s energy independence.",
+  "url": "https://doi.org/10.7163/eu21.2022.42.5",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "http://rcin.org.pl/igipz/Content/239224/WA51_275638_r2022-t42_EuropaXXI-Laskowicz.pdf",
+    "encodingFormat": "text/html"
+  }
+}

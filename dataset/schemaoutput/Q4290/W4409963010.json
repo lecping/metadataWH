@@ -1,0 +1,236 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4409963010",
+  "doi": "10.1257/aer.20231067",
+  "name": "Changing Tracks: Human Capital Investment after Loss of Ability",
+  "headline": "Changing Tracks: Human Capital Investment after Loss of Ability",
+  "datePublished": "2025-05-01",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "American Economic Review",
+    "issn": "0002-8282",
+    "publisher": {
+      "@type": "Organization",
+      "name": "American Economic Association"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5011024451",
+      "name": "Anders Humlum",
+      "givenName": "Anders",
+      "familyName": "Humlum",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I40347166",
+          "name": "University of Chicago",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5011061725",
+      "name": "Jakob Roland Munch",
+      "givenName": "Jakob",
+      "familyName": "Munch",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I124055696",
+          "name": "University of Copenhagen",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "DK"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-4387-1039"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5117387114",
+      "name": "Pernille Plato",
+      "givenName": "Pernille",
+      "familyName": "Plato",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I124055696",
+          "name": "University of Copenhagen",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "DK"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1513281941",
+    "https://openalex.org/W1555034039",
+    "https://openalex.org/W1818154544",
+    "https://openalex.org/W1846764279",
+    "https://openalex.org/W184731416",
+    "https://openalex.org/W1964352664",
+    "https://openalex.org/W2023379380",
+    "https://openalex.org/W2033119605",
+    "https://openalex.org/W2061717712",
+    "https://openalex.org/W2073338958",
+    "https://openalex.org/W2106568107",
+    "https://openalex.org/W2107623883",
+    "https://openalex.org/W2117681872",
+    "https://openalex.org/W2124456619",
+    "https://openalex.org/W2242330994",
+    "https://openalex.org/W2251574710",
+    "https://openalex.org/W2337357996",
+    "https://openalex.org/W2495947150",
+    "https://openalex.org/W2580895602",
+    "https://openalex.org/W2770250470",
+    "https://openalex.org/W2790011940",
+    "https://openalex.org/W2792051344",
+    "https://openalex.org/W2795887868",
+    "https://openalex.org/W2800019038",
+    "https://openalex.org/W2891587646",
+    "https://openalex.org/W2892380133",
+    "https://openalex.org/W2990010517",
+    "https://openalex.org/W3021959460",
+    "https://openalex.org/W3022363015",
+    "https://openalex.org/W3022790766",
+    "https://openalex.org/W3121219797",
+    "https://openalex.org/W3121349088",
+    "https://openalex.org/W3121415235",
+    "https://openalex.org/W3122794199",
+    "https://openalex.org/W3140498024",
+    "https://openalex.org/W3144816871",
+    "https://openalex.org/W4211211350",
+    "https://openalex.org/W4213183334",
+    "https://openalex.org/W4288074092"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.583891
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.44571897
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.43716496
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145236788",
+      "name": "Labour economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q28161"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "We provide the first evidence on how workers invest in human capital after losing ability. Using quasi-random work accidents in Danish administrative data, we find that workers enroll in bachelor’s programs after physical injuries, pursuing degrees that build on their past training and experience. Exploiting institutional differences in the stackability of degrees, we find that higher education moves injured workers from disability benefits to full-time employment, earning 25 percent more than before injury. Reskilling subsidies for injured workers pay for themselves four times over, and current rates of reskilling are substantially below the social optimum, especially for middle-aged workers. (JEL I26, J14, J24, J62)",
+  "url": "https://doi.org/10.1257/aer.20231067",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.econstor.eu/bitstream/10419/272619/1/dp15992.pdf",
+    "encodingFormat": "text/html"
+  }
+}

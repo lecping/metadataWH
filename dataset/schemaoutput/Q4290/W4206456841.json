@@ -1,0 +1,209 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4206456841",
+  "doi": "10.18006/2021.9(6).894.900",
+  "name": "FACTORS THAT SUPPORT THE DEVELOPMENT OF FUR FARMS: THE CASE STUDY OF GREECE",
+  "headline": "FACTORS THAT SUPPORT THE DEVELOPMENT OF FUR FARMS: THE CASE STUDY OF GREECE",
+  "datePublished": "2021-12-30",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Experimental Biology and Agricultural Sciences",
+    "issn": "2320-8694",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5050986978",
+      "name": "Nikolaos Semos",
+      "givenName": "Nikolaos",
+      "familyName": "Semos",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5042846082",
+      "name": "Vasilios Dotas",
+      "givenName": "Vasilios",
+      "familyName": "Dotas",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5089674402",
+      "name": "Stamatis Aggelopoulos",
+      "givenName": "Stamatis",
+      "familyName": "Aggelopoulos",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I183898223",
+          "name": "International Hellenic University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GR"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1990268528",
+    "https://openalex.org/W2007711178",
+    "https://openalex.org/W2019029952",
+    "https://openalex.org/W2063551052",
+    "https://openalex.org/W2067351926",
+    "https://openalex.org/W2090938098",
+    "https://openalex.org/W2135994493",
+    "https://openalex.org/W2153603688",
+    "https://openalex.org/W2159547242",
+    "https://openalex.org/W2241406477",
+    "https://openalex.org/W2957624139",
+    "https://openalex.org/W3000375426",
+    "https://openalex.org/W3085225895",
+    "https://openalex.org/W4298078043",
+    "https://openalex.org/W4376562462"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5962554
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.50728244
+    },
+    {
+      "id": "https://openalex.org/keywords/fur-trade",
+      "display_name": "Fur trade",
+      "score": 0.4314375
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C129361004",
+      "name": "Profitability index",
+      "sameAs": "https://www.wikidata.org/wiki/Q2470236"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C530175646",
+      "name": "Clothing",
+      "sameAs": "https://www.wikidata.org/wiki/Q11460"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33842695",
+      "name": "Foreign direct investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q490513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C3020404949",
+      "name": "Fur trade",
+      "sameAs": "https://www.wikidata.org/wiki/Q878138"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C155202549",
+      "name": "International trade",
+      "sameAs": "https://www.wikidata.org/wiki/Q178803"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    }
+  ],
+  "abstract": "This study aims to discuss the key factors that can contribute to the development of the fur industry in Greece. The industry consists of two sub-sectors i.e. production and processing of fur skins (raw material), and the production of fur garments. The profitability of fur-bearing farms, considered from the perspective of investment and further international fur trade, and both these were examined in this study because these two sub-sectors are closely linked. The results obtained from the analysis of the two fur production sub-sectors showed that the investment of capital in the industry can expect positive returns while at the same time creating well-paid jobs. Although not presenting a comparative advantage, but the foreign trade of fur garments produced in the region can gain competitiveness if some of the strategies used by Greek fur companies are adjusted. Results of the current study can be concluded that despite the weaknesses that emerge from the results of this study, both sub-sectors of the fur industry can make a significant contribution to the development of the local community of Western Macedonia.",
+  "url": "https://doi.org/10.18006/2021.9(6).894.900",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://jebas.org/ojs/index.php/jebas/article/download/151/142",
+    "encodingFormat": "text/html"
+  }
+}

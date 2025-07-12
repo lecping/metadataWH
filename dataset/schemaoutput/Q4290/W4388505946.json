@@ -1,0 +1,289 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4388505946",
+  "doi": "10.21077/ijf.2022.69.1.105125-15",
+  "name": "Techno-economic evaluation of marine fishing operations in Andhra Pradesh, southern India",
+  "headline": "Techno-economic evaluation of marine fishing operations in Andhra Pradesh, southern India",
+  "datePublished": "2022-03-31",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Indian Journal of Fisheries",
+    "issn": "0970-6011",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Indian Council of Agricultural Research"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5052949710",
+      "name": "S. S. Raju",
+      "givenName": "S.",
+      "familyName": "Raju",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I899802",
+          "name": "Central Marine Fisheries Research Institute",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5050299959",
+      "name": "Shubhadeep Ghosh",
+      "givenName": "Shubhadeep",
+      "familyName": "Ghosh",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I899802",
+          "name": "Central Marine Fisheries Research Institute",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5109846927",
+      "name": "Shyam S. Salim",
+      "givenName": "Shyam",
+      "familyName": "Salim",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I899802",
+          "name": "Central Marine Fisheries Research Institute",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5041823951",
+      "name": "Phalguni Pattnaik",
+      "givenName": "Phalguni",
+      "familyName": "Pattnaik",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I899802",
+          "name": "Central Marine Fisheries Research Institute",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5032401379",
+      "name": "M Muktha",
+      "givenName": "M.",
+      "familyName": "Muktha",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I899802",
+          "name": "Central Marine Fisheries Research Institute",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-9800-0433"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5053465469",
+      "name": "R Narayanakumar",
+      "givenName": "R.",
+      "familyName": "Narayanakumar",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I899802",
+          "name": "Central Marine Fisheries Research Institute",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 4,
+  "citation": [
+    "https://openalex.org/W146910360",
+    "https://openalex.org/W2136509928",
+    "https://openalex.org/W2227871073",
+    "https://openalex.org/W2272110361",
+    "https://openalex.org/W2802954717",
+    "https://openalex.org/W3211425692",
+    "https://openalex.org/W4230983411",
+    "https://openalex.org/W64691137"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/lakh",
+      "display_name": "Lakh",
+      "score": 0.61424303
+    },
+    {
+      "id": "https://openalex.org/keywords/operational-costs",
+      "display_name": "Operational costs",
+      "score": 0.49098662
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4149153
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C514101110",
+      "name": "Fishing",
+      "sameAs": "https://www.wikidata.org/wiki/Q14373"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780179797",
+      "name": "Crew",
+      "sameAs": "https://www.wikidata.org/wiki/Q345844"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C82896369",
+      "name": "Lakh",
+      "sameAs": "https://www.wikidata.org/wiki/Q949243"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204983608",
+      "name": "Productivity",
+      "sameAs": "https://www.wikidata.org/wiki/Q2111958"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C505870484",
+      "name": "Fishery",
+      "sameAs": "https://www.wikidata.org/wiki/Q180538"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2986883954",
+      "name": "Operational costs",
+      "sameAs": "https://www.wikidata.org/wiki/Q1362005"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181622380",
+      "name": "Profit (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q26911"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21547014",
+      "name": "Operations management",
+      "sameAs": "https://www.wikidata.org/wiki/Q1423657"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C118518473",
+      "name": "Agriculture",
+      "sameAs": "https://www.wikidata.org/wiki/Q11451"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    }
+  ],
+  "abstract": "The marine fish landings in Andhra Pradesh during 2020 was estimated at 1.95 lakh t, contributing 7.2% of the total marine fish landings in the country. The techno-economic evaluation of different fishing methods in Andhra Pradesh was carried out for assessing the economic efficiency. The boat and net combinations throughout the year have seen spectacular changes because of enormous expense on fishing, time taken for fishing and prefunding of activities and support. Fuel accounted for the major share (75.8%) in operational costs of mechanised crafts. In motorised crafts, the contribution of fuel to operational costs ranged from 11.9 to 33.2%. Crew wages, which formed only 12.8% of the operational costs in mechanised crafts, contributed the major share (67.8 to 84.2%) in motorised crafts. In non-motorised crafts, almost the entire operational cost was towards crew wages. Net Profit Margin and Return on Investment was 35.2 and 2.16% for mechanised fishing operations, 37.5 to 44.3% and 0.91 to 2.77 for motorised fishing operations and 40.7 to 44.7% and 3.78 to 5.17 for non-motorised fishing operations, indicating non-motorised fishing operations to be the most economically efficient method. Capital productivity and Input-Output Ratio was 0.6 and 0.5 for mechanised fishing operations, 0.54 to 0.60 and 0.09 to 0.19 for motorised fishing operations and 0.54 to 0.59 and close to nil for non-motorised fishing operations. The Gross Value Added (GVA) of all fishing operations worked out to about 50% of the Gross Revenue, which is a significant contribution to the economy. The major fishery resources landed in various fishing operations were penaeid shrimps, sardines, Indian mackerel, ribbonfishes, catfishes, carangids and anchovies. In fishing tasks, the expanded expense of fishing per trip, the diminished landings and ensuing decrease in the gross returns per trip have been cited by the fishers as significant factors influencing the financial returns from various fishing methods.Keywords: Capital productivity, Costs, Gross value added, Input-output ratio, Labour productivity, Returns",
+  "url": "https://doi.org/10.21077/ijf.2022.69.1.105125-15",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://epubs.icar.org.in/index.php/IJF/article/download/105125/46776",
+    "encodingFormat": "text/html"
+  }
+}

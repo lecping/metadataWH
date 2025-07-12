@@ -1,0 +1,329 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4387941055",
+  "doi": "10.1016/j.techsoc.2023.102404",
+  "name": "Remote experiments for STEM education and engagement in rural schools: The case of project R3",
+  "headline": "Remote experiments for STEM education and engagement in rural schools: The case of project R3",
+  "datePublished": "2023-10-25",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Technology in Society",
+    "issn": "0160-791X",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Elsevier BV"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5066148647",
+      "name": "Diego Casado–Mansilla",
+      "givenName": "Diego",
+      "familyName": "Casado-Mansilla",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I136040515",
+          "name": "Universidad de Deusto",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ES"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-1070-7494"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5016172935",
+      "name": "Javier Garcia-Zúbia",
+      "givenName": "Javier",
+      "familyName": "García-Zubia",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I136040515",
+          "name": "Universidad de Deusto",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ES"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-4462-8487"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5086017008",
+      "name": "Jordi Cuadros",
+      "givenName": "Jordi",
+      "familyName": "Cuadros",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I5593406",
+          "name": "Universitat Ramon Llull",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ES"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-6513-9140"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5074749667",
+      "name": "Vanessa Serrano",
+      "givenName": "Vanessa",
+      "familyName": "Serrano",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I5593406",
+          "name": "Universitat Ramon Llull",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ES"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-6572-0680"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5040704061",
+      "name": "Daniela Fadda",
+      "givenName": "Daniela",
+      "familyName": "Fadda",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I172446870",
+          "name": "University of Cagliari",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IT"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-9560-088X"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5036712321",
+      "name": "Verónica Canivell",
+      "givenName": "y",
+      "familyName": "Canivell",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I136040515",
+          "name": "Universidad de Deusto",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ES"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-7618-5801"
+    }
+  ],
+  "citationCount": 3,
+  "citation": [
+    "https://openalex.org/W2025691702",
+    "https://openalex.org/W2039705957",
+    "https://openalex.org/W2039984069",
+    "https://openalex.org/W2053931373",
+    "https://openalex.org/W2089993681",
+    "https://openalex.org/W2090834622",
+    "https://openalex.org/W2308784110",
+    "https://openalex.org/W2528580741",
+    "https://openalex.org/W3046618955",
+    "https://openalex.org/W3149603904",
+    "https://openalex.org/W4235402669",
+    "https://openalex.org/W4281746278",
+    "https://openalex.org/W4295346354",
+    "https://openalex.org/W4383621816",
+    "https://openalex.org/W4385301209",
+    "https://openalex.org/W4386987471"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 2970,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/economic-shortage",
+      "display_name": "Economic shortage",
+      "score": 0.66912055
+    },
+    {
+      "id": "https://openalex.org/keywords/demographics",
+      "display_name": "Demographics",
+      "score": 0.60539263
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5871735
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.46461737
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776650193",
+      "name": "Obstacle",
+      "sameAs": "https://www.wikidata.org/wiki/Q264661"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C194051981",
+      "name": "Economic shortage",
+      "sameAs": "https://www.wikidata.org/wiki/Q1337691"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780084366",
+      "name": "Demographics",
+      "sameAs": "https://www.wikidata.org/wiki/Q37732"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C129047720",
+      "name": "Rural area",
+      "sameAs": "https://www.wikidata.org/wiki/Q175185"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145420912",
+      "name": "Mathematics education",
+      "sameAs": "https://www.wikidata.org/wiki/Q853077"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39549134",
+      "name": "Public relations",
+      "sameAs": "https://www.wikidata.org/wiki/Q133080"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149923435",
+      "name": "Demography",
+      "sameAs": "https://www.wikidata.org/wiki/Q37732"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778137410",
+      "name": "Government (linguistics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2732820"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    }
+  ],
+  "abstract": "Rural schools tend not to have enough laboratory and experimentation equipment, which can be an obstacle that hinders student learning in Science, Technology, Engineering, and Mathematics (STEM) areas. Moreover, this loss of competencies can reduce their employment opportunities while society itself is deprived of that human capital. Remote laboratories have emerged as a way of countering the effects of insufficient investment in equipment or the inability to acquire the latter. By way of example, the goal of Project R3, which is presented in this article, is to reduce the absence or shortage of laboratories in the rural world via the use of remote experimentation. Specifically, this article presents the experience, the results, and the main conclusions of Project R3 during its first year of life. It is worth noting that Project R3 has been deployed not only in rural but also in urban environments, making it possible to compare learning results and satisfaction levels for students in both spheres and identify those experiments that provide the best learning experience and are most popular among pupils and teachers. The main objective is that from the local analysis (the Project has only been conducted in Spain) it might be possible to draw conclusions of a global nature that might be extrapolated to other countries in the European Union with similar socio-demographics. Initial results are in the direction of certifying that student achievement and satisfaction are higher in rural than in urban environments.",
+  "url": "https://doi.org/10.1016/j.techsoc.2023.102404",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1016/j.techsoc.2023.102404",
+    "encodingFormat": "text/html"
+  }
+}

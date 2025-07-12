@@ -1,0 +1,244 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4304163513",
+  "doi": "10.22270/jddt.v12i5.5646",
+  "name": "A Review on Hot Melt Extrusion Coupled Novel Drug Delivery Systems",
+  "headline": "A Review on Hot Melt Extrusion Coupled Novel Drug Delivery Systems",
+  "datePublished": "2022-09-15",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Drug Delivery and Therapeutics",
+    "issn": "2250-1177",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Society of Pharmaceutical Tecnocrats"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5082040979",
+      "name": "Madhukiran Parvathaneni",
+      "givenName": "Madhukiran",
+      "familyName": "Parvathaneni",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0003-2747-4882"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5049893634",
+      "name": "Heera Battu",
+      "givenName": "Battu",
+      "familyName": "Heera",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I247375439",
+          "name": "Adikavi Nannaya University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-6538-0364"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5056331650",
+      "name": "Beeravelli Sudhakar",
+      "givenName": "Sudhakar",
+      "familyName": "Beeravelli",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I100887729",
+          "name": "Andhra University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-6565-0472"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1505181639",
+    "https://openalex.org/W1788952634",
+    "https://openalex.org/W1964896591",
+    "https://openalex.org/W1982614387",
+    "https://openalex.org/W1983162648",
+    "https://openalex.org/W1983439306",
+    "https://openalex.org/W1989518584",
+    "https://openalex.org/W1990551300",
+    "https://openalex.org/W1992614313",
+    "https://openalex.org/W1998830453",
+    "https://openalex.org/W2004195339",
+    "https://openalex.org/W2011068615",
+    "https://openalex.org/W2020701688",
+    "https://openalex.org/W2022288348",
+    "https://openalex.org/W2029591858",
+    "https://openalex.org/W2036682479",
+    "https://openalex.org/W2037409426",
+    "https://openalex.org/W2041016731",
+    "https://openalex.org/W2044903986",
+    "https://openalex.org/W2051249358",
+    "https://openalex.org/W2051658115",
+    "https://openalex.org/W2066927092",
+    "https://openalex.org/W2072363808",
+    "https://openalex.org/W2119847082",
+    "https://openalex.org/W2120007372",
+    "https://openalex.org/W2120826143",
+    "https://openalex.org/W2132534186",
+    "https://openalex.org/W2175414779",
+    "https://openalex.org/W2196602798",
+    "https://openalex.org/W2287081951",
+    "https://openalex.org/W2339649458",
+    "https://openalex.org/W2555090309",
+    "https://openalex.org/W2599276599",
+    "https://openalex.org/W2603828035",
+    "https://openalex.org/W2609940039",
+    "https://openalex.org/W2789307127",
+    "https://openalex.org/W2894326173",
+    "https://openalex.org/W2895084573",
+    "https://openalex.org/W2896399282",
+    "https://openalex.org/W2898464641",
+    "https://openalex.org/W2899198905",
+    "https://openalex.org/W2910570196",
+    "https://openalex.org/W2911072924",
+    "https://openalex.org/W2965914903",
+    "https://openalex.org/W2967109198",
+    "https://openalex.org/W3003231037",
+    "https://openalex.org/W3010889147",
+    "https://openalex.org/W3011205582",
+    "https://openalex.org/W3032960484",
+    "https://openalex.org/W3036803938",
+    "https://openalex.org/W3041694776",
+    "https://openalex.org/W3046206047",
+    "https://openalex.org/W3055098033",
+    "https://openalex.org/W3080603312",
+    "https://openalex.org/W3080856888",
+    "https://openalex.org/W3083375162",
+    "https://openalex.org/W3087310382",
+    "https://openalex.org/W3109975779",
+    "https://openalex.org/W3110093260",
+    "https://openalex.org/W3111730576",
+    "https://openalex.org/W3121328134",
+    "https://openalex.org/W3129373790",
+    "https://openalex.org/W3135972252",
+    "https://openalex.org/W3137465867",
+    "https://openalex.org/W3150114612",
+    "https://openalex.org/W3156060878",
+    "https://openalex.org/W3166055424",
+    "https://openalex.org/W3166056832",
+    "https://openalex.org/W3170638641",
+    "https://openalex.org/W3175536598",
+    "https://openalex.org/W3196168773",
+    "https://openalex.org/W4200300817",
+    "https://openalex.org/W4207021177",
+    "https://openalex.org/W4213255074",
+    "https://openalex.org/W4244340342",
+    "https://openalex.org/W4285607001",
+    "https://openalex.org/W4286268023"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.664219
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779820397",
+      "name": "Drug delivery",
+      "sameAs": "https://www.wikidata.org/wiki/Q1392806"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778958987",
+      "name": "Extrusion",
+      "sameAs": "https://www.wikidata.org/wiki/Q139143"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C98045186",
+      "name": "Process (computing)",
+      "sameAs": "https://www.wikidata.org/wiki/Q205663"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C171250308",
+      "name": "Nanotechnology",
+      "sameAs": "https://www.wikidata.org/wiki/Q11468"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21880701",
+      "name": "Process engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q2144042"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C192562407",
+      "name": "Materials science",
+      "sameAs": "https://www.wikidata.org/wiki/Q228736"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C191897082",
+      "name": "Metallurgy",
+      "sameAs": "https://www.wikidata.org/wiki/Q11467"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111919701",
+      "name": "Operating system",
+      "sameAs": "https://www.wikidata.org/wiki/Q9135"
+    }
+  ],
+  "abstract": "The utilization of hot melt extrusion (HME) technology for new applications is increasing in recent years, as evidenced by the many published reports in the last five years. Because of its process automation and low-cost scale-up qualities, which decrease labor expenses and capital investment. HME has emerged as an essential technology for drug delivery applications in pharmaceutical research and manufacture. The novel application of the HME process provides a promising alternate approach in the formulation of novel drug delivery systems. The present review discusses the importance of HME in the development of novel drug delivery systems with the review of relevant case studies.&#x0D; Keywords: hot melt extrusion, novel drug delivery, pharmaceutical research",
+  "url": "https://doi.org/10.22270/jddt.v12i5.5646",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://jddtonline.info/index.php/jddt/article/download/5646/4953",
+    "encodingFormat": "text/html"
+  }
+}

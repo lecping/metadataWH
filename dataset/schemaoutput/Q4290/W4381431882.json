@@ -1,0 +1,262 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4381431882",
+  "doi": "10.1080/09712119.2023.2225586",
+  "name": "Willingness to buy animal welfare products: a study on the conflict between moral attitudes and perceived higher prices",
+  "headline": "Willingness to buy animal welfare products: a study on the conflict between moral attitudes and perceived higher prices",
+  "datePublished": "2023-06-20",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Applied Animal Research",
+    "issn": "0971-2119",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Taylor & Francis"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5009625276",
+      "name": "Jhong-Min Yang",
+      "givenName": "Jhong-Min",
+      "familyName": "Yang",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I130510345",
+          "name": "Dayeh University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "TW"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-4921-4232"
+    }
+  ],
+  "citationCount": 4,
+  "citation": [
+    "https://openalex.org/W1520690333",
+    "https://openalex.org/W1557728212",
+    "https://openalex.org/W1560460460",
+    "https://openalex.org/W1587265432",
+    "https://openalex.org/W1810780103",
+    "https://openalex.org/W1816720378",
+    "https://openalex.org/W1817827583",
+    "https://openalex.org/W1894769224",
+    "https://openalex.org/W1954045752",
+    "https://openalex.org/W1967348363",
+    "https://openalex.org/W1994778237",
+    "https://openalex.org/W2022127722",
+    "https://openalex.org/W2025498818",
+    "https://openalex.org/W2030172204",
+    "https://openalex.org/W2069935217",
+    "https://openalex.org/W2085876742",
+    "https://openalex.org/W2087102771",
+    "https://openalex.org/W2095648703",
+    "https://openalex.org/W2102277915",
+    "https://openalex.org/W2109960384",
+    "https://openalex.org/W2115531756",
+    "https://openalex.org/W2117401803",
+    "https://openalex.org/W2119432837",
+    "https://openalex.org/W2120626252",
+    "https://openalex.org/W2138957358",
+    "https://openalex.org/W2150045357",
+    "https://openalex.org/W2179969054",
+    "https://openalex.org/W2264020427",
+    "https://openalex.org/W2300351410",
+    "https://openalex.org/W2343390994",
+    "https://openalex.org/W258222003",
+    "https://openalex.org/W2613754990",
+    "https://openalex.org/W2746237720",
+    "https://openalex.org/W2800538128",
+    "https://openalex.org/W2807787267",
+    "https://openalex.org/W2810554270",
+    "https://openalex.org/W2885733355",
+    "https://openalex.org/W3009941357",
+    "https://openalex.org/W3094449817",
+    "https://openalex.org/W3125325392",
+    "https://openalex.org/W3125923573",
+    "https://openalex.org/W31705864",
+    "https://openalex.org/W4235678817",
+    "https://openalex.org/W4307989445"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 1250,
+      "currency": "GBP"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/animal-husbandry",
+      "display_name": "Animal Husbandry",
+      "score": 0.75638884
+    },
+    {
+      "id": "https://openalex.org/keywords/affect",
+      "display_name": "Affect",
+      "score": 0.7126964
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.52992886
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.44296545
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C523966790",
+      "name": "Animal welfare",
+      "sameAs": "https://www.wikidata.org/wiki/Q459426"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C61968832",
+      "name": "Animal husbandry",
+      "sameAs": "https://www.wikidata.org/wiki/Q80962"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776035688",
+      "name": "Affect (linguistics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1606558"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2777364431",
+      "name": "Willingness to pay",
+      "sameAs": "https://www.wikidata.org/wiki/Q140813"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C100243477",
+      "name": "Welfare",
+      "sameAs": "https://www.wikidata.org/wiki/Q12002092"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C100001284",
+      "name": "Public economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q2248246"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C118518473",
+      "name": "Agriculture",
+      "sameAs": "https://www.wikidata.org/wiki/Q11451"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C46312422",
+      "name": "Communication",
+      "sameAs": "https://www.wikidata.org/wiki/Q11024"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    }
+  ],
+  "abstract": "The willingness of consumers to buy animal welfare products is an important support for the transformation of animal husbandry to animal welfare. However, animal welfare farming often means a considerable capital investment, which often increases the likelihood of price increases for the products. The main purpose of this study is to assist in the marketing of animal welfare products through the research results and then promote the transformation of animal husbandry to animal welfare-friendly agriculture. The analysis results showed that consumers' moral attitudes towards animal products significantly affect perceived higher prices and buying willingness, while perceived higher prices negatively affect buying willingness. Still, fortunately, the negative impact is not significant. Based on the findings, a discussion of academic and managerial implications is provided at the end of this article.",
+  "url": "https://doi.org/10.1080/09712119.2023.2225586",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.tandfonline.com/doi/pdf/10.1080/09712119.2023.2225586?needAccess=true&role=button",
+    "encodingFormat": "text/html"
+  }
+}

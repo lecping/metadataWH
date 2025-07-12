@@ -1,0 +1,258 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W3037194036",
+  "doi": "10.1111/twec.13267",
+  "name": "Explaining the global landscape of foreign direct investment: Knowledge capital, gravity, and the role of culture and institutions",
+  "headline": "Explaining the global landscape of foreign direct investment: Knowledge capital, gravity, and the role of culture and institutions",
+  "datePublished": "2022-03-20",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "World Economy",
+    "issn": "0378-5920",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Wiley"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5077312735",
+      "name": "Sophie Therese Schneider",
+      "givenName": "Sophie",
+      "familyName": "Schneider",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I110079840",
+          "name": "University of Hohenheim",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "DE"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5030623128",
+      "name": "Konstantin M. Wacker",
+      "givenName": "Konstantin",
+      "familyName": "Wacker",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I169381384",
+          "name": "University of Groningen",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NL"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-1923-0386"
+    }
+  ],
+  "citationCount": 7,
+  "citation": [
+    "https://openalex.org/W1527139717",
+    "https://openalex.org/W1577690552",
+    "https://openalex.org/W1703954365",
+    "https://openalex.org/W1761886555",
+    "https://openalex.org/W1986054349",
+    "https://openalex.org/W1989580044",
+    "https://openalex.org/W1992524498",
+    "https://openalex.org/W2004213287",
+    "https://openalex.org/W2030438002",
+    "https://openalex.org/W2085670729",
+    "https://openalex.org/W2099167504",
+    "https://openalex.org/W2104607820",
+    "https://openalex.org/W2115643478",
+    "https://openalex.org/W2123629945",
+    "https://openalex.org/W2126230473",
+    "https://openalex.org/W2140918013",
+    "https://openalex.org/W2142242390",
+    "https://openalex.org/W2150885843",
+    "https://openalex.org/W2153823324",
+    "https://openalex.org/W2154626811",
+    "https://openalex.org/W2154921830",
+    "https://openalex.org/W2156335902",
+    "https://openalex.org/W2157259619",
+    "https://openalex.org/W2161041152",
+    "https://openalex.org/W2164765235",
+    "https://openalex.org/W2172099087",
+    "https://openalex.org/W2280064568",
+    "https://openalex.org/W2505288911",
+    "https://openalex.org/W2528654245",
+    "https://openalex.org/W2559865855",
+    "https://openalex.org/W2575891446",
+    "https://openalex.org/W2734746435",
+    "https://openalex.org/W2751164801",
+    "https://openalex.org/W2791546167",
+    "https://openalex.org/W2899233549",
+    "https://openalex.org/W2908872566",
+    "https://openalex.org/W2955623872",
+    "https://openalex.org/W2967573944",
+    "https://openalex.org/W2991333677",
+    "https://openalex.org/W3014036974",
+    "https://openalex.org/W3021497778",
+    "https://openalex.org/W3024596104",
+    "https://openalex.org/W3111071654",
+    "https://openalex.org/W3121190329",
+    "https://openalex.org/W3121316404",
+    "https://openalex.org/W3121461680",
+    "https://openalex.org/W3121965524",
+    "https://openalex.org/W3122041757",
+    "https://openalex.org/W3122443392",
+    "https://openalex.org/W3122455058",
+    "https://openalex.org/W3123073660",
+    "https://openalex.org/W3123566018",
+    "https://openalex.org/W3124659961",
+    "https://openalex.org/W3124949184",
+    "https://openalex.org/W3124985739",
+    "https://openalex.org/W3125070378",
+    "https://openalex.org/W3125442684",
+    "https://openalex.org/W3143311134",
+    "https://openalex.org/W3149415482",
+    "https://openalex.org/W4251751395",
+    "https://openalex.org/W4254468157"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.54899675
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.51415634
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4602048
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33842695",
+      "name": "Foreign direct investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q490513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C67674302",
+      "name": "Organizational culture",
+      "sameAs": "https://www.wikidata.org/wiki/Q730573"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C87889798",
+      "name": "Gravity model of trade",
+      "sameAs": "https://www.wikidata.org/wiki/Q1543986"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26271046",
+      "name": "Economic geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q187097"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C74363100",
+      "name": "Economic system",
+      "sameAs": "https://www.wikidata.org/wiki/Q273005"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C155202549",
+      "name": "International trade",
+      "sameAs": "https://www.wikidata.org/wiki/Q178803"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C187736073",
+      "name": "Management",
+      "sameAs": "https://www.wikidata.org/wiki/Q2920921"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    }
+  ],
+  "abstract": "Abstract In this paper, we empirically re‐assess the question which theoretical motives and empirical models are most suitable to explain global patterns of foreign direct investment (FDI). Compared with previous studies, we use bilateral FDI positions with a much more comprehensive coverage of emerging and developing economies, the IMF's Coordinated Direct Investment Statistics. We apply cross‐validation to assess the performance of the gravity model and the knowledge capital (KK) model and add cultural, institutional and financial factors, as suggested by different theories on FDI determinants. We find the gravity model to achieve the best theory‐consistent out‐of‐sample prediction, particularly when parameter heterogeneity of South and North FDI is allowed for. Controlling for surrounding market potential is important to recover the horizontal effect of the gravity model. Our finding that the gravity model for FDI performs well but requires some degree of parameter heterogeneity and the inclusion of surrounding market potential provides a clear baseline for future empirical studies of FDI determinants. Inclusion of institutional, cultural or financial factors seems less relevant and does not improve the model performance distinctly, although results for those variables are mostly in line with theoretical predictions.",
+  "url": "https://doi.org/10.1111/twec.13267",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://pure.rug.nl/ws/files/248359930/World_Economy_2022_Schneider_Explaining_the_global_landscape_of_foreign_direct_investment_Knowledge_capital_gravity.pdf",
+    "encodingFormat": "text/html"
+  }
+}

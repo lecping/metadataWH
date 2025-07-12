@@ -1,0 +1,265 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4390639066",
+  "doi": "10.56201/ijefm.v8.no8.2023.pg35.56",
+  "name": "Capital Flight and Unemployment in Nigeria",
+  "headline": "Capital Flight and Unemployment in Nigeria",
+  "datePublished": "2024-01-06",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "INTERNATIONAL JOURNAL OF ECONOMICS AND FINANCIAL MANAGEMENT",
+    "issn": "2545-5966",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5057324765",
+      "name": "Emmanuel Uzoma Makwe",
+      "givenName": "Emmanuel",
+      "familyName": "Makwe",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I100116408",
+          "name": "University of Port Harcourt",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NG"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5093664660",
+      "name": "Godwin Simeon Anigboro",
+      "givenName": "Godwin",
+      "familyName": "Anigboro",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I100116408",
+          "name": "University of Port Harcourt",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NG"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1520033009",
+    "https://openalex.org/W1524035180",
+    "https://openalex.org/W1538086662",
+    "https://openalex.org/W1564073799",
+    "https://openalex.org/W1590924308",
+    "https://openalex.org/W1591558704",
+    "https://openalex.org/W2022837310",
+    "https://openalex.org/W2073141209",
+    "https://openalex.org/W2093270800",
+    "https://openalex.org/W2103959500",
+    "https://openalex.org/W2128651478",
+    "https://openalex.org/W2163854734",
+    "https://openalex.org/W2167846607",
+    "https://openalex.org/W2183979347",
+    "https://openalex.org/W2186367889",
+    "https://openalex.org/W2257506323",
+    "https://openalex.org/W2287689916",
+    "https://openalex.org/W2504261255",
+    "https://openalex.org/W2531630154",
+    "https://openalex.org/W2552204331",
+    "https://openalex.org/W2561045125",
+    "https://openalex.org/W2574976772",
+    "https://openalex.org/W2601089654",
+    "https://openalex.org/W2774399011",
+    "https://openalex.org/W2781863536",
+    "https://openalex.org/W2792891530",
+    "https://openalex.org/W2793666949",
+    "https://openalex.org/W2922032335",
+    "https://openalex.org/W2992192303",
+    "https://openalex.org/W3123180626",
+    "https://openalex.org/W3172980298",
+    "https://openalex.org/W4230230885",
+    "https://openalex.org/W4241946070",
+    "https://openalex.org/W4249349320",
+    "https://openalex.org/W4253640679"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/unit-root-test",
+      "display_name": "Unit root test",
+      "score": 0.6523567
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.44221658
+    },
+    {
+      "id": "https://openalex.org/keywords/distributed-lag",
+      "display_name": "Distributed lag",
+      "score": 0.4271393
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.4256761
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.42038906
+    },
+    {
+      "id": "https://openalex.org/keywords/variables",
+      "display_name": "Variables",
+      "score": 0.4105691
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144341231",
+      "name": "Unit root test",
+      "sameAs": "https://www.wikidata.org/wiki/Q7887151"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778126366",
+      "name": "Unemployment",
+      "sameAs": "https://www.wikidata.org/wiki/Q41171"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C120527767",
+      "name": "Debt",
+      "sameAs": "https://www.wikidata.org/wiki/Q3196867"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C44171179",
+      "name": "External debt",
+      "sameAs": "https://www.wikidata.org/wiki/Q461319"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C159009313",
+      "name": "Distributed lag",
+      "sameAs": "https://www.wikidata.org/wiki/Q5283159"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149782125",
+      "name": "Econometrics",
+      "sameAs": "https://www.wikidata.org/wiki/Q160039"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27574286",
+      "name": "Variables",
+      "sameAs": "https://www.wikidata.org/wiki/Q320723"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105795698",
+      "name": "Statistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q12483"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145162277",
+      "name": "Cointegration",
+      "sameAs": "https://www.wikidata.org/wiki/Q1751675"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This study examined Capital Flight and unemployment rate in Nigeria. Capital Flight was proxied by foreign direct investment outflows, external debt servicing, external reserves and capital and financial account deficits. Hypotheses that guided the study were formulated in line with the study objectives and relevant literature were reviewed and evaluated. Relevant data were extracted from the annual Statistical Bulletin and other issues, of the Central Bank of Nigeria. Unit root test was conducted using Augmented Dickey Fuller method which revealed that the variables were integrated at level and first difference necessitating the use of autoregressive distributive lag/bond test to explore the long run relationship existing among the variables in the model and the result showed that the variables in the model were co- integrated thus we proceeded in evaluating the long run as well as the co-integrating form in the model. From the result of the various tests, it was revealed that while some of the outcomes conformed to apriori expectations, others did not. Based on the findings from the analysis, the study recommended amongst others, that external debt acquired should be judiciously used for infrastructural development that would encourage investments which would ultimately bring about economic development as well as reducing the rate of unemployment in Nigeria.",
+  "url": "https://doi.org/10.56201/ijefm.v8.no8.2023.pg35.56",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.iiardjournals.org/get/IJEFM/VOL. 8 NO. 8 2023/Capital Flight And Unemployment 35-56.pdf",
+    "encodingFormat": "text/html"
+  }
+}

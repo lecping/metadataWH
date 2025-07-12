@@ -1,0 +1,334 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4200425288",
+  "doi": "10.33423/jaf.v21i5.4828",
+  "name": "Determinants of Bankruptcy: Evidence From Financially Distressed Firms",
+  "headline": "Determinants of Bankruptcy: Evidence From Financially Distressed Firms",
+  "datePublished": "2021-12-26",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Accounting and Finance",
+    "issn": "2158-3625",
+    "publisher": {
+      "@type": "Organization",
+      "name": "North American Business Press"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5041279183",
+      "name": "Sheng Yi",
+      "givenName": "Sheng",
+      "familyName": "Yi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I290598920",
+          "name": "California State University, Dominguez Hills",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-6300-1620"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5026305145",
+      "name": "Xiaojie Christine Sun",
+      "givenName": "Xiaojie",
+      "familyName": "Sun",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I27825529",
+          "name": "California State University Los Angeles",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-7261-2856"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100555361",
+      "name": "Zenghui Liu",
+      "givenName": "Zenghui",
+      "familyName": "Liu",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I52669646",
+          "name": "Western Washington University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-7631-7819"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W128542693",
+    "https://openalex.org/W1483090342",
+    "https://openalex.org/W1964382689",
+    "https://openalex.org/W1974121818",
+    "https://openalex.org/W1979738372",
+    "https://openalex.org/W1979927021",
+    "https://openalex.org/W1986077126",
+    "https://openalex.org/W1992673151",
+    "https://openalex.org/W2000578291",
+    "https://openalex.org/W2006680549",
+    "https://openalex.org/W2013579522",
+    "https://openalex.org/W2014418460",
+    "https://openalex.org/W2033400055",
+    "https://openalex.org/W2048801439",
+    "https://openalex.org/W2080213483",
+    "https://openalex.org/W2094324262",
+    "https://openalex.org/W2096862200",
+    "https://openalex.org/W2098711136",
+    "https://openalex.org/W2134019707",
+    "https://openalex.org/W2135241016",
+    "https://openalex.org/W2149726133",
+    "https://openalex.org/W2185536101",
+    "https://openalex.org/W2194838326",
+    "https://openalex.org/W2199678859",
+    "https://openalex.org/W2316428165",
+    "https://openalex.org/W2605507309",
+    "https://openalex.org/W2606072608",
+    "https://openalex.org/W2606074960",
+    "https://openalex.org/W2606942326",
+    "https://openalex.org/W2607024653",
+    "https://openalex.org/W2769182388",
+    "https://openalex.org/W2780107952",
+    "https://openalex.org/W2793281799",
+    "https://openalex.org/W2897254877",
+    "https://openalex.org/W2950213734",
+    "https://openalex.org/W3023421147",
+    "https://openalex.org/W3121592550",
+    "https://openalex.org/W3121671386",
+    "https://openalex.org/W3122327981",
+    "https://openalex.org/W3122610520",
+    "https://openalex.org/W3122632517",
+    "https://openalex.org/W3122908417",
+    "https://openalex.org/W3123413558",
+    "https://openalex.org/W3123445050",
+    "https://openalex.org/W3123446927",
+    "https://openalex.org/W3123504461",
+    "https://openalex.org/W3123863222",
+    "https://openalex.org/W3124191372",
+    "https://openalex.org/W3124240175",
+    "https://openalex.org/W3124559386",
+    "https://openalex.org/W3125256921",
+    "https://openalex.org/W3125594958",
+    "https://openalex.org/W3125615571",
+    "https://openalex.org/W3125672744",
+    "https://openalex.org/W3125686936",
+    "https://openalex.org/W3125775546",
+    "https://openalex.org/W3125967361",
+    "https://openalex.org/W3147421935",
+    "https://openalex.org/W3194630916",
+    "https://openalex.org/W33514326",
+    "https://openalex.org/W4230474071",
+    "https://openalex.org/W4244168700"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-expenditure",
+      "display_name": "Capital expenditure",
+      "score": 0.67495835
+    },
+    {
+      "id": "https://openalex.org/keywords/financial-distress",
+      "display_name": "Financial Distress",
+      "score": 0.5519365
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5141285
+    },
+    {
+      "id": "https://openalex.org/keywords/empirical-evidence",
+      "display_name": "Empirical evidence",
+      "score": 0.51150596
+    },
+    {
+      "id": "https://openalex.org/keywords/investment-decisions",
+      "display_name": "Investment Decisions",
+      "score": 0.4661174
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.44339496
+    },
+    {
+      "id": "https://openalex.org/keywords/empirical-research",
+      "display_name": "Empirical Research",
+      "score": 0.42085993
+    },
+    {
+      "id": "https://openalex.org/keywords/credit-rating",
+      "display_name": "Credit rating",
+      "score": 0.4143984
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C504631918",
+      "name": "Bankruptcy",
+      "sameAs": "https://www.wikidata.org/wiki/Q152074"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C172497479",
+      "name": "Capital expenditure",
+      "sameAs": "https://www.wikidata.org/wiki/Q302208"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2984760201",
+      "name": "Financial distress",
+      "sameAs": "https://www.wikidata.org/wiki/Q1785212"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166052673",
+      "name": "Empirical evidence",
+      "sameAs": "https://www.wikidata.org/wiki/Q83021"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778865806",
+      "name": "Investment decisions",
+      "sameAs": "https://www.wikidata.org/wiki/Q6060850"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C100521375",
+      "name": "Competence (human resources)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2015382"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C120936955",
+      "name": "Empirical research",
+      "sameAs": "https://www.wikidata.org/wiki/Q2155640"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205208723",
+      "name": "Credit rating",
+      "sameAs": "https://www.wikidata.org/wiki/Q372765"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121955636",
+      "name": "Accounting",
+      "sameAs": "https://www.wikidata.org/wiki/Q4116214"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C73283319",
+      "name": "Financial system",
+      "sameAs": "https://www.wikidata.org/wiki/Q1416617"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C109574028",
+      "name": "Behavioral economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q647525"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111472728",
+      "name": "Epistemology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9471"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C187736073",
+      "name": "Management",
+      "sameAs": "https://www.wikidata.org/wiki/Q2920921"
+    }
+  ],
+  "abstract": "This study examines whether and how external monitoring, managerial ability, and investment decisions impact a financially distressed firm’s probability of future bankruptcy. We find that a financially distressed firm with higher institutional ownership or higher managerial ability is less likely to file for bankruptcy. Additionally, a financially distressed firm’s non-capital expenditure investment is negatively associated with its probability of bankruptcy. This study provides empirical evidence that external monitoring, competence of management, and non-capital expenditure investment should be considered when predicting bankruptcy among financially distressed firms. Our results are of particular interest to managers, lenders, financial institutions, and credit rating agencies.",
+  "url": "https://doi.org/10.33423/jaf.v21i5.4828",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://articlegateway.com/index.php/JAF/article/download/4828/4602",
+    "encodingFormat": "text/html"
+  }
+}

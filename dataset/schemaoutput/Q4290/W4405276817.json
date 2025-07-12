@@ -1,0 +1,188 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4405276817",
+  "doi": "10.36096/ijbes.v6i5.662",
+  "name": "The role of human capital investment in economic growth: a study of South Africa",
+  "headline": "The role of human capital investment in economic growth: a study of South Africa",
+  "datePublished": "2024-12-11",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Business Ecosystem and Strategy (2687-2293)",
+    "issn": "2687-2293",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5115047910",
+      "name": "Hummerly Dhobha",
+      "givenName": "Hummerly",
+      "familyName": "Dhobha",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I177181097",
+          "name": "Durban University of Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ZA"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5059787567",
+      "name": "Elvis Madondo",
+      "givenName": "Elvis",
+      "familyName": "Madondo",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I24027795",
+          "name": "University of Johannesburg",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ZA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-6263-1604"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1479922966",
+    "https://openalex.org/W1886646561",
+    "https://openalex.org/W2036839135",
+    "https://openalex.org/W2108429438",
+    "https://openalex.org/W2345160265",
+    "https://openalex.org/W2464604391",
+    "https://openalex.org/W2966518477",
+    "https://openalex.org/W3097264952",
+    "https://openalex.org/W3124250752",
+    "https://openalex.org/W3137160526",
+    "https://openalex.org/W4230257754",
+    "https://openalex.org/W4230476887",
+    "https://openalex.org/W4285488853",
+    "https://openalex.org/W4390939391",
+    "https://openalex.org/W911526302"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6486976
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-accumulation",
+      "display_name": "Capital Accumulation",
+      "score": 0.44393986
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.43319193
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C81751973",
+      "name": "Capital accumulation",
+      "sameAs": "https://www.wikidata.org/wiki/Q420062"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C47768531",
+      "name": "Development economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q1127188"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26271046",
+      "name": "Economic geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q187097"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C74363100",
+      "name": "Economic system",
+      "sameAs": "https://www.wikidata.org/wiki/Q273005"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This research examines the correlation between human capital and economic growth in South Africa. Human capital is represented by Government Expenditure on Health (GEH), Government Expenditure on Education (GEE), and Secondary School Enrolment (SER). Notwithstanding substantial investments in these domains, South Africa has enduring economic difficulties, prompting apprehensions regarding the efficacy of existing human capital policies. This research aims to evaluate the influence of differences in GEH, GEE, and SER on economic productivity, consequently guiding policy decisions. We utilised a quantitative methodology employing annual time series data obtained from the World Bank and the South African Reserve Bank. The analysis incorporated unit root tests (ADF) to determine data stationarity and Johansen cointegration tests to examine long-term correlations among the variables. The data indicate that GEH positively influences economic productivity, suggesting a correlation between increased health spending and elevated GDP. Conversely, SER exhibits a negative correlation with economic growth, indicating that merely augmenting enrolment numbers does not yield enhanced economic results. While Foreign Direct Investment (FDI) has a favourable correlation with economic growth, it is statistically insignificant. The report advocates for South Africa to prioritise educational quality over enrolment figures and to ensure continuous investment in healthcare services. Furthermore, subsequent research ought to investigate the ramifications of human capital within particular sectors, such as tourism, to yield focused policy recommendations for fostering economic growth.",
+  "url": "https://doi.org/10.36096/ijbes.v6i5.662",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.36096/ijbes.v6i5.662",
+    "encodingFormat": "text/html"
+  }
+}

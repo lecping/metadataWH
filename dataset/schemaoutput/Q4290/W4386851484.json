@@ -1,0 +1,248 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4386851484",
+  "doi": "10.46647/ijetms.2023.v07i05.027",
+  "name": "Foreign Direct Investment in Vietnam: A Comparison of Forecasting Performance",
+  "headline": "Foreign Direct Investment in Vietnam: A Comparison of Forecasting Performance",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Engineering Technology and Management Sciences",
+    "issn": "2581-4621",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5042141088",
+      "name": "Minh Ly Duc",
+      "givenName": "None",
+      "familyName": "Duc",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210123993",
+          "name": "Van Lang University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "VN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-0200-7153"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5113003739",
+      "name": "Dong Phan Tan",
+      "givenName": "None",
+      "familyName": "Tan",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210148201",
+          "name": "Ho Chi Minh City University of Technology and Education",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "VN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5054882120",
+      "name": "Thu Nguyen Anh",
+      "givenName": "None",
+      "familyName": "Anh",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0003-2108-0006"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5092900285",
+      "name": "Ngoc Hoang Thi",
+      "givenName": "None",
+      "familyName": "Mai",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5092900286",
+      "name": "My Pham Ngoc Tra",
+      "givenName": "None",
+      "familyName": "Tra",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5092900287",
+      "name": "Nhi Nguyen Thi Tuyet",
+      "givenName": "None",
+      "familyName": "Tuyet",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1978784367",
+    "https://openalex.org/W2035296818",
+    "https://openalex.org/W2036716975",
+    "https://openalex.org/W2092708541",
+    "https://openalex.org/W2605413550",
+    "https://openalex.org/W3188797779",
+    "https://openalex.org/W3195125505"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/box–jenkins",
+      "display_name": "Box–Jenkins",
+      "score": 0.51270664
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.47571832
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4704843
+    },
+    {
+      "id": "https://openalex.org/keywords/moving-average",
+      "display_name": "Moving average",
+      "score": 0.41365385
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C24338571",
+      "name": "Autoregressive integrated moving average",
+      "sameAs": "https://www.wikidata.org/wiki/Q2566298"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33842695",
+      "name": "Foreign direct investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q490513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C151406439",
+      "name": "Time series",
+      "sameAs": "https://www.wikidata.org/wiki/Q186588"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149782125",
+      "name": "Econometrics",
+      "sameAs": "https://www.wikidata.org/wiki/Q160039"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C82257358",
+      "name": "Box–Jenkins",
+      "sameAs": "https://www.wikidata.org/wiki/Q895497"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C150217764",
+      "name": "Mean absolute percentage error",
+      "sameAs": "https://www.wikidata.org/wiki/Q6803607"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175706884",
+      "name": "Moving average",
+      "sameAs": "https://www.wikidata.org/wiki/Q1130194"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139945424",
+      "name": "Mean squared error",
+      "sameAs": "https://www.wikidata.org/wiki/Q1940696"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105795698",
+      "name": "Statistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q12483"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "In recent years, FDI has made a significant contribution to the economic development of Vietnam, especially in the manufacturing and processing sectors. To forecast the FDI inflow into Vietnam in the future, a research team used indicators such as the number of investment projects, the total registered capital, and the total implemented capital. These indicators were collected from the General Statistics Office to forecast the level of FDI attraction in Vietnam in the coming years. This study includes annual data on the number of FDI investment projects in Vietnam collected from 2000 to 2022. The forecasting methods used in this study include the Autoregressive Integrated Moving Average (ARIMA) model, additive time series forecasting, Holt-Winters forecasting, and linear regression forecasting using Mini-tab 18.0 software. After analyzing the data on the number of FDI investment projects in Vietnam from 2000 to 2023, the research team collected results and compared the accuracy of the forecasting models based on three metrics calculated from the forecasting models, which are MAPE, MAD, and MSE. The comparison of the metrics showed that the Time Series method is the most suitable forecasting method with the lowest MAPE and MAD values compared to the other three models, while the MSE value of the Time Series model is only higher than the ARIMA model and still lower than the other two models. With the comparison results of the forecasting models, the study found a suitable forecasting model for each time cycle.",
+  "url": "https://doi.org/10.46647/ijetms.2023.v07i05.027",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://ijetms.in/Vol-7-issue-5/Vol-7-Issue-5-27.pdf",
+    "encodingFormat": "text/html"
+  }
+}

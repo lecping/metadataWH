@@ -1,0 +1,205 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4389938214",
+  "doi": "10.32782/2523-4803/73-3-2",
+  "name": "THE PROBLEM OF ENSURING A HIGH LEVEL OF INVESTMENT ATTRACTIVENESS IN THE REGIONS OF UKRAINE: PRACTICAL RECOMMENDATIONS",
+  "headline": "THE PROBLEM OF ENSURING A HIGH LEVEL OF INVESTMENT ATTRACTIVENESS IN THE REGIONS OF UKRAINE: PRACTICAL RECOMMENDATIONS",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Scientific Notes of Taurida National V I Vernadsky University Series Economy and Management",
+    "issn": "2523-4803",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5049301347",
+      "name": "О. П. Атамас",
+      "givenName": "Oleksandr",
+      "familyName": "Аtamas",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3019264281",
+          "name": "Dnipro State Agrarian and Economic University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2912101916",
+    "https://openalex.org/W3036211160",
+    "https://openalex.org/W3091168554"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.75857925
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5948087
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4225284
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C31173074",
+      "name": "Attractiveness",
+      "sameAs": "https://www.wikidata.org/wiki/Q2632514"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779343474",
+      "name": "Context (archaeology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3109175"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C110121322",
+      "name": "Distribution (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q865811"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2988954192",
+      "name": "Regional development",
+      "sameAs": "https://www.wikidata.org/wiki/Q482379"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C74363100",
+      "name": "Economic system",
+      "sameAs": "https://www.wikidata.org/wiki/Q273005"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C148383697",
+      "name": "Regional science",
+      "sameAs": "https://www.wikidata.org/wiki/Q1781695"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26271046",
+      "name": "Economic geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q187097"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134306372",
+      "name": "Mathematical analysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q7754"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C11171543",
+      "name": "Psychoanalysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q41630"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The article examines the peculiarities of ensuring the investment development of the regions of Ukraine, characterizes a complex of problematic aspects of this topic. The materials of the scientific research analyzed the amount of capital investments in the economy of Ukraine in the period from 2010 to 2020 as a whole and by region. In the context of the research, the existence of significant territorial differentiations between the regions of Ukraine during the specified period from 2010 to 2020 was revealed. This problem leads to an erroneous, insufficient distribution of investment capital between projects in different regions of the state, and, therefore, makes their implementation difficult or impossible over a certain period of time. The article separately analyzes the volume of capital investments by regions of Ukraine in 2022, determines the volume of capital investments by types of economic activity by region of Ukraine in 2022. A dot diagram of the volume of capital investments by types of economic activity in the Dnipropetrovsk region in 2022 is separately analyzed and illustrated. In the materials of the scientific research, a complex of appropriate measures in the direction of attracting investment capital and increasing the level of investment attractiveness of the regions of Ukraine is defined in detail, the key problems of effective investment development of the regions of Ukraine in the long term are identified, namely: development of investment passports and their placement on community websites; development by communities of spatial planning schemes of their own territory; development of regional programs for the development of investment activity with the involvement of business and the public; cooperation with international organizations involved in supporting investment attraction processes; development of regional investment programs, formation and implementation of regional development budgets; state infrastructure support: development of logistics infrastructure, financing of investments and innovations from the state budget, etc. The main research methods used in the research were general economic and special scientific methods, including the abstract method, analysis and synthesis, as well as the statistical method.",
+  "url": "https://doi.org/10.32782/2523-4803/73-3-2",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.32782/2523-4803/73-3-2",
+    "encodingFormat": "text/html"
+  }
+}

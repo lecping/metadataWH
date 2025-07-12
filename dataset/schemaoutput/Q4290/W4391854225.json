@@ -1,0 +1,185 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4391854225",
+  "doi": "10.34293/commerce.v12i1.7034",
+  "name": "Unveiling Investment Horizons: Exploring Financial Avenues and Household Investor Sentiments in Odisha’s Capital",
+  "headline": "Unveiling Investment Horizons: Exploring Financial Avenues and Household Investor Sentiments in Odisha’s Capital",
+  "datePublished": "2024-01-01",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "ComFin Research",
+    "issn": "2582-6190",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5059910577",
+      "name": "A. Sahoo",
+      "givenName": "Aditya",
+      "familyName": "Sahoo",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I6013171",
+          "name": "Ravenshaw University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-3505-5741"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W161650071",
+    "https://openalex.org/W1885457456",
+    "https://openalex.org/W2256855381",
+    "https://openalex.org/W2296462074",
+    "https://openalex.org/W3004939589",
+    "https://openalex.org/W3110549805",
+    "https://openalex.org/W81984782"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/new-horizons",
+      "display_name": "New horizons",
+      "score": 0.7095316
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.6560706
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6372462
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.631185
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2992257854",
+      "name": "New horizons",
+      "sameAs": "https://www.wikidata.org/wiki/Q48461"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C73283319",
+      "name": "Financial system",
+      "sameAs": "https://www.wikidata.org/wiki/Q1416617"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C106159729",
+      "name": "Financial economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q2294553"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C146978453",
+      "name": "Aerospace engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q3798668"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C29829512",
+      "name": "Spacecraft",
+      "sameAs": "https://www.wikidata.org/wiki/Q40218"
+    }
+  ],
+  "abstract": "The purpose of this study is to find out how household investors think about various financial avenues for investing by stimulating their opinions. Additionally, an effort was made to offer to the government an appropriate mechanism for implementing the plans more effectively and to the maximum satisfaction of individuals investing in a financial instrument. The study investigates the household investor’s perception of various financial avenues available for investment in the capital of Odisha. In this study, the primary data was collected using a structured questionnaire from a sample of 255 which was issued to the respondents of the total population and collected 231 responses finally, only 200 samples are considered for analysis, and the balance of 31 was not considered due to incomplete response. It is found that household investors are more inclined to government securities than other financial avenues for investment as the p-value of all the component are less than 0.05 level. Household investors are still inclined towards low-risk financial avenues as they were found to be risk-averse. They still prefer to stay on the safe side of the investment. However, the government should take more steps for simplifying the rules and regulations for investment in government securities.",
+  "url": "https://doi.org/10.34293/commerce.v12i1.7034",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://shanlaxjournals.in/journals/index.php/commerce/article/download/7034/6371",
+    "encodingFormat": "text/html"
+  }
+}

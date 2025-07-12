@@ -1,0 +1,192 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4390833373",
+  "doi": "10.48550/arxiv.2401.05760",
+  "name": "Follow The Money: Exploring the Key Factors Influencing Investment in African Startups",
+  "headline": "Follow The Money: Exploring the Key Factors Influencing Investment in African Startups",
+  "datePublished": "2024-01-01",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-sa",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "arXiv (Cornell University)",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": "Cornell University"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5093713900",
+      "name": "Khalil Liouane",
+      "givenName": "Liouane,",
+      "familyName": "Khalil",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.72836715
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.427678
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.41434032
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C110121322",
+      "name": "Distribution (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q865811"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2781316041",
+      "name": "Diversity (politics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1230584"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26517878",
+      "name": "Key (lock)",
+      "sameAs": "https://www.wikidata.org/wiki/Q228039"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134306372",
+      "name": "Mathematical analysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q7754"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    }
+  ],
+  "abstract": "The African continent has witnessed a notable surge in entrepreneurial activity, with the number of startups and investments made in the ecosystem growing significantly in recent years. Against this backdrop, this paper presents an in-depth analysis of the critical key factors influencing funding amounts in African startup deals. A comprehensive analysis of 2,521 startup investment deals, spanning from January 2019 to March 2023, was conducted using a combination of statistical and several machine learning techniques. The results of this study highlight a significant gender diversity gap, the importance of professional experience, and the impact of founders' academic backgrounds. The study reveals that human capital, a diversified sector approach, and cross-border collaboration strategies are crucial for a robust startup ecosystem. Additionally, we identified the potential positive impact of 'Y combinators' for African startups, the implications of exit strategies on deal amounts, and the heterogeneity as well as the incongruity of investment rounds across the continent. In light of these findings, we propose an assortment of policy recommendations aimed at fostering a propitious milieu for African entrepreneurial ventures, promoting equitable investment distribution, and enhancing cross-border collaboration. By providing a rigorous empirical analysis, this study not only contributes to the existing body of literature but also lays the foundation for future research aimed at promoting investment and catalyzing socio-economic development throughout the African continent.",
+  "url": "https://arxiv.org/abs/2401.05760",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://arxiv.org/abs/2401.05760",
+    "encodingFormat": "text/html"
+  }
+}

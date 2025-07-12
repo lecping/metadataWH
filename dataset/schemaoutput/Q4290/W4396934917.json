@@ -1,0 +1,220 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4396934917",
+  "doi": "10.38124/ijisrt/ijisrt24apr2453",
+  "name": "Economic Analysis of High-Speed Railways: A Holistic Methodological Approach",
+  "headline": "Economic Analysis of High-Speed Railways: A Holistic Methodological Approach",
+  "datePublished": "2024-05-15",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Innovative Science and Research Technology (IJISRT)",
+    "issn": "2456-2165",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5098491912",
+      "name": "Beyhan Kiliç",
+      "givenName": "Beyhan",
+      "familyName": "Kiliç",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W1596934804",
+    "https://openalex.org/W1974456265",
+    "https://openalex.org/W1999575944",
+    "https://openalex.org/W2038620196",
+    "https://openalex.org/W2043993649",
+    "https://openalex.org/W2062814872",
+    "https://openalex.org/W2085517098",
+    "https://openalex.org/W2116815286",
+    "https://openalex.org/W2347151640",
+    "https://openalex.org/W2610377886",
+    "https://openalex.org/W2893572253",
+    "https://openalex.org/W2909259461",
+    "https://openalex.org/W2954773075",
+    "https://openalex.org/W2964923315",
+    "https://openalex.org/W2972522246",
+    "https://openalex.org/W3128422975",
+    "https://openalex.org/W3208210946",
+    "https://openalex.org/W4251366547"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.71229786
+    },
+    {
+      "id": "https://openalex.org/keywords/economic-analysis",
+      "display_name": "Economic Analysis",
+      "score": 0.62355375
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5688928
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-cost",
+      "display_name": "Capital cost",
+      "score": 0.44170523
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.43222395
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779343474",
+      "name": "Context (archaeology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3109175"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C22212356",
+      "name": "Transport engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q775325"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985697011",
+      "name": "Economic analysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127454912",
+      "name": "Cost–benefit analysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q942582"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C157062255",
+      "name": "Capital cost",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035697"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C112930515",
+      "name": "Risk analysis (engineering)",
+      "sameAs": "https://www.wikidata.org/wiki/Q4389547"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119599485",
+      "name": "Electrical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q43035"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    }
+  ],
+  "abstract": "The most controversial issue regarding a high- speed railway investment is the huge capital cost, and the main question is whether its benefits will be worth the huge investment costs. High-speed railways have long planning processes and face great risks. Therefore, a holistic approach has been required under conditions of uncertainty. The purpose of this paper is to unify the methods for determining the huge rail investment costs. This paper investigated the economic analysis of high- speed railways as a part of a new silk iron road corridor, in terms of both passenger and freight railway transport between Europe and Asia. In this context, a benefit-cost evaluation of the Ankara-Sivas high-speed railway as a part of the backbone railway line of Turkey's Edirne- Kars high-speed railway corridor has been carried out. A holistic methodological method is presented for evaluating the benefit-cost analysis of both high-speed and freight railways. The economic analysis results show that in cross-continental countries, network effects must be taken into consideration when evaluating the high- speed railway's benefit-cost analysis.",
+  "url": "https://doi.org/10.38124/ijisrt/ijisrt24apr2453",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.38124/ijisrt/ijisrt24apr2453",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4311788821",
+  "doi": "10.3390/jmse10121991",
+  "name": "Investigation of the Viability of Unmanned Autonomous Container Ships under Different Carbon Pricing Scenarios",
+  "headline": "Investigation of the Viability of Unmanned Autonomous Container Ships under Different Carbon Pricing Scenarios",
+  "datePublished": "2022-12-14",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Marine Science and Engineering",
+    "issn": "2077-1312",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Multidisciplinary Digital Publishing Institute"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5058726472",
+      "name": "Ivana Jovanović",
+      "givenName": "Ivana",
+      "familyName": "Jovanović",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I181343428",
+          "name": "University of Zagreb",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "HR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-7029-2526"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5008111327",
+      "name": "Maja Perčić",
+      "givenName": "Maja",
+      "familyName": "Perčić",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I181343428",
+          "name": "University of Zagreb",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "HR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-6558-8939"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5013825052",
+      "name": "Marija Koričan",
+      "givenName": "Marija",
+      "familyName": "Koričan",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I181343428",
+          "name": "University of Zagreb",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "HR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-7480-7411"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5014618735",
+      "name": "Nikola Vladimir",
+      "givenName": "Nikola",
+      "familyName": "Vladimir",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I181343428",
+          "name": "University of Zagreb",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "HR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-9164-1361"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5045754045",
+      "name": "Ailong Fan",
+      "givenName": "Ailong",
+      "familyName": "Fan",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I196699116",
+          "name": "Wuhan University of Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-6296-9819"
+    }
+  ],
+  "citationCount": 18,
+  "citation": [
+    "https://openalex.org/W1733751234",
+    "https://openalex.org/W1995698309",
+    "https://openalex.org/W2022741538",
+    "https://openalex.org/W2081457533",
+    "https://openalex.org/W2092845185",
+    "https://openalex.org/W2116367453",
+    "https://openalex.org/W2268421516",
+    "https://openalex.org/W2345644119",
+    "https://openalex.org/W2489790232",
+    "https://openalex.org/W2528968655",
+    "https://openalex.org/W2598925596",
+    "https://openalex.org/W2614019404",
+    "https://openalex.org/W2727188090",
+    "https://openalex.org/W2738994154",
+    "https://openalex.org/W2765849518",
+    "https://openalex.org/W2771345852",
+    "https://openalex.org/W2791537138",
+    "https://openalex.org/W2805747776",
+    "https://openalex.org/W2886210152",
+    "https://openalex.org/W2900567290",
+    "https://openalex.org/W2902694777",
+    "https://openalex.org/W2903557538",
+    "https://openalex.org/W2910458317",
+    "https://openalex.org/W2981257758",
+    "https://openalex.org/W2988434897",
+    "https://openalex.org/W2999533154",
+    "https://openalex.org/W3000414227",
+    "https://openalex.org/W3009841136",
+    "https://openalex.org/W3011596198",
+    "https://openalex.org/W3011748485",
+    "https://openalex.org/W3035195549",
+    "https://openalex.org/W3036372032",
+    "https://openalex.org/W3037675128",
+    "https://openalex.org/W3039056032",
+    "https://openalex.org/W3039677821",
+    "https://openalex.org/W3044806866",
+    "https://openalex.org/W3081267256",
+    "https://openalex.org/W3110883534",
+    "https://openalex.org/W3125596014",
+    "https://openalex.org/W3160378365",
+    "https://openalex.org/W3185777893",
+    "https://openalex.org/W3186275540",
+    "https://openalex.org/W3187936759",
+    "https://openalex.org/W4210610766",
+    "https://openalex.org/W4281253687",
+    "https://openalex.org/W4282943542",
+    "https://openalex.org/W4297541611",
+    "https://openalex.org/W4297982205",
+    "https://openalex.org/W4306765000",
+    "https://openalex.org/W4385872635"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 2000,
+      "currency": "CHF"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5515244
+    },
+    {
+      "id": "https://openalex.org/keywords/operational-costs",
+      "display_name": "Operational costs",
+      "score": 0.5410996
+    },
+    {
+      "id": "https://openalex.org/keywords/operating-cost",
+      "display_name": "Operating cost",
+      "score": 0.52524257
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.50943905
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-cost",
+      "display_name": "Capital cost",
+      "score": 0.48968318
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C129361004",
+      "name": "Profitability index",
+      "sameAs": "https://www.wikidata.org/wiki/Q2470236"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780179797",
+      "name": "Crew",
+      "sameAs": "https://www.wikidata.org/wiki/Q345844"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2781018962",
+      "name": "Container (type theory)",
+      "sameAs": "https://www.wikidata.org/wiki/Q5164884"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2986883954",
+      "name": "Operational costs",
+      "sameAs": "https://www.wikidata.org/wiki/Q1362005"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2777347956",
+      "name": "Operating cost",
+      "sameAs": "https://www.wikidata.org/wiki/Q1362005"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C157062255",
+      "name": "Capital cost",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035697"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134560507",
+      "name": "Environmental economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q753291"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C42475967",
+      "name": "Operations research",
+      "sameAs": "https://www.wikidata.org/wiki/Q194292"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C178802073",
+      "name": "Aeronautics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8421"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78519656",
+      "name": "Mechanical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q101333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121955636",
+      "name": "Accounting",
+      "sameAs": "https://www.wikidata.org/wiki/Q4116214"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    }
+  ],
+  "abstract": "Autonomous and unmanned shipping are currently trending research topics within the maritime sector, with the promise of a reduction in operating costs and an increase in safety. Although they bring higher investment costs, due to the long lifetime of ships, autonomous ships are expected to bring savings during ship exploitation. This paper aims to analyze capital and operating costs of five different sizes and route length container ships (conventional ships), and under a set of assumptions analyze the same costs for equivalent autonomous ships. A ship cost model is formed, where the typical cost scheme (investment and exploitation costs) is extended by the potential carbon pricing. Carbon pricing is taken into account due to the fact that the design procedure for autonomous and unmanned ships requires the employment of a next-generation regulatory framework. All results indicate the significant economic benefit of autonomous ships over conventional ones. Sensitivity analysis reveals that fuel and emission costs have a great influence on the overall profitability of autonomous vehicles. Although the literature review indicates that reduced operating costs due to crew removal will bring savings for autonomous shipping, results show that savings due reduced operating costs is minor.",
+  "url": "https://doi.org/10.3390/jmse10121991",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.mdpi.com/2077-1312/10/12/1991/pdf?version=1671528974",
+    "encodingFormat": "text/html"
+  }
+}

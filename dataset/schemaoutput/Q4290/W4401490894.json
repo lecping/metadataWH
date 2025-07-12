@@ -1,0 +1,175 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4401490894",
+  "doi": "10.47747/ijfr.v5i2.1961",
+  "name": "Effect of Investment Motivation and Knowledge on Student Investment Interest in the Capital Market",
+  "headline": "Effect of Investment Motivation and Knowledge on Student Investment Interest in the Capital Market",
+  "datePublished": "2024-06-30",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Finance Research",
+    "issn": "2746-136X",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5065914276",
+      "name": "Rabin Ibnu Zainal",
+      "givenName": "Rabin",
+      "familyName": "Zainal",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-7261-5931"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5106389379",
+      "name": "Okta Lianda",
+      "givenName": "Okta",
+      "familyName": "Lianda",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5053029109",
+      "name": "Santi Oktavianti",
+      "givenName": "Santi",
+      "familyName": "Oktavianti",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5083411400",
+      "name": "Teuku Muhammad Haqiqi",
+      "givenName": "Teuku",
+      "familyName": "Haqiqi",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0009-0005-6602-1431"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6812167
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.49265176
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.43897942
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C169549615",
+      "name": "Return on investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q939134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "This research, with practical implications for the field of finance and economics, aims to determine the influence of investment motivation and knowledge on student investment interest in the capital market. The population in the study was 565 students from the Faculty of Economics, Universitas Sumatera Selatan, with samples taken using the Slovin formula, so 85 respondents were involved in this research. The data collected used a questionnaire, and this research technique used a purposive sampling technique. This research used Multiple linear regression analysis to analyze data. The findings of this research show that partial investment motivation and interest have a positive and significant influence. There is a positive and significant influence between investment knowledge partially on investment interest, and there is motivation and investment knowledge simultaneously on investment interest",
+  "url": "https://doi.org/10.47747/ijfr.v5i2.1961",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.47747/ijfr.v5i2.1961",
+    "encodingFormat": "text/html"
+  }
+}

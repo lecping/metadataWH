@@ -1,0 +1,175 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4389848316",
+  "doi": "10.46609/ijsser.2023.v08i11.012",
+  "name": "AN EXPLORATORY INSIGHT ON THE MARKETING STRATEGY OF COMPANIES LIKE PVR AND WIKIPEDIA TO REMAIN PROFITABLE ENTITIES UNDER ADVERSE WORLD CONDITIONS",
+  "headline": "AN EXPLORATORY INSIGHT ON THE MARKETING STRATEGY OF COMPANIES LIKE PVR AND WIKIPEDIA TO REMAIN PROFITABLE ENTITIES UNDER ADVERSE WORLD CONDITIONS",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Social Science and Economic Research",
+    "issn": "2455-8834",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5101280622",
+      "name": "Sarah Ghosh",
+      "givenName": "Sarah",
+      "familyName": "Ghosh",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210147799",
+          "name": "Millennium Engineering and Integration (United States)",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2041311710",
+    "https://openalex.org/W2796382033",
+    "https://openalex.org/W3048514746",
+    "https://openalex.org/W4311527724"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6608479
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.555211
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5546205
+    },
+    {
+      "id": "https://openalex.org/keywords/exploratory-research",
+      "display_name": "Exploratory research",
+      "score": 0.54809934
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C85973986",
+      "name": "Exploratory research",
+      "sameAs": "https://www.wikidata.org/wiki/Q1091731"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C54750564",
+      "name": "Commerce",
+      "sameAs": "https://www.wikidata.org/wiki/Q26643"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C19165224",
+      "name": "Anthropology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23404"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "The research has indicated that two different business entities have survived various external economic conditions due to their innovativeness, and diverse methods of ensuring continuous capital investment in their various ventures. One is completely dependent on big capital investment, while the other is surviving on small voluntary donations.",
+  "url": "https://doi.org/10.46609/ijsser.2023.v08i11.012",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.46609/ijsser.2023.v08i11.012",
+    "encodingFormat": "text/html"
+  }
+}

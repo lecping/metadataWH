@@ -1,0 +1,145 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4399178504",
+  "doi": "10.47604/jpid.2587",
+  "name": "Education Investment and Human Capital Development in India",
+  "headline": "Education Investment and Human Capital Development in India",
+  "datePublished": "2024-05-30",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International journal of law and policy",
+    "issn": "2520-5188",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5004791967",
+      "name": "Rahul Mehta",
+      "givenName": "Rahul",
+      "familyName": "Mehta",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I169877490",
+          "name": "University of Mumbai",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-3855-8539"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1660023155",
+    "https://openalex.org/W1965278510",
+    "https://openalex.org/W2048500668",
+    "https://openalex.org/W2161606698",
+    "https://openalex.org/W2796050217",
+    "https://openalex.org/W3024596104",
+    "https://openalex.org/W3123282572",
+    "https://openalex.org/W3144178633",
+    "https://openalex.org/W4205104104",
+    "https://openalex.org/W4242594275",
+    "https://openalex.org/W4299658147",
+    "https://openalex.org/W4302451102"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6243168
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.44871643
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Purpose: The aim of the study was to analyze the education investment and human capital development in India. Methodology: This study adopted a desk methodology. A desk study research design is commonly known as secondary data collection. This is basically collecting data from existing resources preferably because of its low cost advantage as compared to a field research. Our current study looked into already published studies and reports as the data was easily accessed through online journals and libraries. Findings: Investments in education have boosted human capital development in India, with rising enrollment rates and literacy levels. Challenges like regional disparities and education quality persist, requiring reforms in curriculum, teacher training, and technology integration. Enhancing education quality is vital for India to leverage its demographic dividend for sustainable economic growth. Unique Contribution to Theory, Practice and Policy: Human capital theory, social capital theory &amp; institutional theory may be used to anchor future studies on analyze the education investment and human capital development in India. Invest in comprehensive teacher training programs and professional development opportunities to enhance the quality of teaching and learning in schools. Prioritize education expenditure and allocate a higher proportion of the national budget towards education to ensure adequate funding for infrastructure development, teacher recruitment, student scholarships, and educational initiatives.",
+  "url": "https://doi.org/10.47604/jpid.2587",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.iprjb.org/journals/index.php/JPID/article/download/2587/3013",
+    "encodingFormat": "text/html"
+  }
+}

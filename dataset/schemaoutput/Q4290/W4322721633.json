@@ -1,0 +1,245 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4322721633",
+  "doi": "10.1071/ma23014",
+  "name": "Restoring Australia’s long-term innovation requires investment in basic research",
+  "headline": "Restoring Australia’s long-term innovation requires investment in basic research",
+  "datePublished": "2023-03-02",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-nd",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Microbiology Australia",
+    "issn": "1324-4272",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CSIRO Publishing"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5083309721",
+      "name": "Rosemary S. Harrison",
+      "givenName": "Rosemary",
+      "familyName": "Harrison",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5031219203",
+      "name": "Ross Barnard",
+      "givenName": "Ross",
+      "familyName": "Barnard",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I165143802",
+          "name": "The University of Queensland",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-5685-4828"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5018519477",
+      "name": "Lisette Pregelj",
+      "givenName": "Lisette",
+      "familyName": "Pregelj",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I165143802",
+          "name": "The University of Queensland",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-3236-7926"
+    }
+  ],
+  "citationCount": 2,
+  "citation": [
+    "https://openalex.org/W2802711913",
+    "https://openalex.org/W3009999522",
+    "https://openalex.org/W3035425386",
+    "https://openalex.org/W3161184342"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.73927736
+    },
+    {
+      "id": "https://openalex.org/keywords/basic-research",
+      "display_name": "Basic Research",
+      "score": 0.61434203
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5642577
+    },
+    {
+      "id": "https://openalex.org/keywords/transformative-learning",
+      "display_name": "Transformative Learning",
+      "score": 0.51885664
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4878359
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C61797465",
+      "name": "Term (time)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1188986"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21279758",
+      "name": "Venture capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q219409"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2986762682",
+      "name": "Basic research",
+      "sameAs": "https://www.wikidata.org/wiki/Q964754"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C70587473",
+      "name": "Transformative learning",
+      "sameAs": "https://www.wikidata.org/wiki/Q7834111"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C19417346",
+      "name": "Pedagogy",
+      "sameAs": "https://www.wikidata.org/wiki/Q7922"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121332964",
+      "name": "Physics",
+      "sameAs": "https://www.wikidata.org/wiki/Q413"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C62520636",
+      "name": "Quantum mechanics",
+      "sameAs": "https://www.wikidata.org/wiki/Q944"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C161191863",
+      "name": "Library science",
+      "sameAs": "https://www.wikidata.org/wiki/Q199655"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "It is well established that basic research underpins long-term innovation outputs such as transformative drugs and medical devices. However, Australia may be hobbling its long-term innovation capabilities by decreasing investment in basic research. Although there has been recent growth in our local venture capital and biopharmaceutical business sectors (that typically fund applied research and experimental development), both are comparatively undersized. Initiatives are needed to ensure long-term commitment to basic research at globally competitive levels and to ensure that long-term innovation capabilities are supported.",
+  "url": "https://doi.org/10.1071/ma23014",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.publish.csiro.au/ma/pdf/MA23014",
+    "encodingFormat": "text/html"
+  }
+}

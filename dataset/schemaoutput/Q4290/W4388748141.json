@@ -1,0 +1,209 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4388748141",
+  "doi": "10.48550/arxiv.2311.08834",
+  "name": "A* search algorithm for an optimal investment problem in vehicle-sharing systems",
+  "headline": "A* search algorithm for an optimal investment problem in vehicle-sharing systems",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "arXiv (Cornell University)",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": "Cornell University"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100579492",
+      "name": "Ba Luat Le",
+      "givenName": "Le,",
+      "familyName": "Luat",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5067111168",
+      "name": "Layla Martin",
+      "givenName": "Martin,",
+      "familyName": "Layla",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0003-4580-9498"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5059391208",
+      "name": "Emrah Demir",
+      "givenName": "Demir,",
+      "familyName": "Emrah",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-4726-2556"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5056704094",
+      "name": "Duc Minh Vu",
+      "givenName": "Vu,",
+      "familyName": "Minh",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0001-5882-3868"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.49108863
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C173870130",
+      "name": "Dijkstra's algorithm",
+      "sameAs": "https://www.wikidata.org/wiki/Q8548"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C129361004",
+      "name": "Profitability index",
+      "sameAs": "https://www.wikidata.org/wiki/Q2470236"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C126255220",
+      "name": "Mathematical optimization",
+      "sameAs": "https://www.wikidata.org/wiki/Q141495"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175859090",
+      "name": "Travelling salesman problem",
+      "sameAs": "https://www.wikidata.org/wiki/Q322212"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C177264268",
+      "name": "Set (abstract data type)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1514741"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181622380",
+      "name": "Profit (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q26911"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779343474",
+      "name": "Context (archaeology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3109175"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C42475967",
+      "name": "Operations research",
+      "sameAs": "https://www.wikidata.org/wiki/Q194292"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C11413529",
+      "name": "Algorithm",
+      "sameAs": "https://www.wikidata.org/wiki/Q8366"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C22590252",
+      "name": "Shortest path problem",
+      "sameAs": "https://www.wikidata.org/wiki/Q1058754"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C80444323",
+      "name": "Theoretical computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q2878974"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C132525143",
+      "name": "Graph",
+      "sameAs": "https://www.wikidata.org/wiki/Q141488"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C151730666",
+      "name": "Paleontology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7205"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199360897",
+      "name": "Programming language",
+      "sameAs": "https://www.wikidata.org/wiki/Q9143"
+    }
+  ],
+  "abstract": "We study an optimal investment problem that arises in the context of the vehicle-sharing system. Given a set of locations to build stations, we need to determine i) the sequence of stations to be built and the number of vehicles to acquire in order to obtain the target state where all stations are built, and ii) the number of vehicles to acquire and their allocation in order to maximize the total profit returned by operating the system when some or all stations are open. The profitability associated with operating open stations, measured over a specific time period, is represented as a linear optimization problem applied to a collection of open stations. With operating capital, the owner of the system can open new stations. This property introduces a set-dependent aspect to the duration required for opening a new station, and the optimal investment problem can be viewed as a variant of the Traveling Salesman Problem (TSP) with set-dependent cost. We propose an A* search algorithm to address this particular variant of the TSP. Computational experiments highlight the benefits of the proposed algorithm in comparison to the widely recognized Dijkstra algorithm and propose future research to explore new possibilities and applications for both exact and approximate A* algorithms.",
+  "url": "https://arxiv.org/abs/2311.08834",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://arxiv.org/abs/2311.08834",
+    "encodingFormat": "text/html"
+  }
+}

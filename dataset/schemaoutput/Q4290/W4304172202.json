@@ -1,0 +1,297 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4304172202",
+  "doi": "10.3390/su141912621",
+  "name": "Examining the Correlation among Economic Development, Foreign Direct Investment, and CO2 Emissions by Utilizing the VECM Model—Empirical Study in Vietnam",
+  "headline": "Examining the Correlation among Economic Development, Foreign Direct Investment, and CO2 Emissions by Utilizing the VECM Model—Empirical Study in Vietnam",
+  "datePublished": "2022-10-04",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Sustainability",
+    "issn": "2071-1050",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Multidisciplinary Digital Publishing Institute"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5035688937",
+      "name": "Trang Mai Tran",
+      "givenName": "Trang",
+      "familyName": "Tran",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2802852271",
+          "name": "Vietnam Academy of Social Sciences",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "VN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-8088-4795"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5002456861",
+      "name": "Thảo Hương Phan",
+      "givenName": "Thao",
+      "familyName": "Phan",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210109591",
+          "name": "Thuongmai University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "VN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5061866028",
+      "name": "Viet Thao Tran",
+      "givenName": "Thao",
+      "familyName": "Tran",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210109591",
+          "name": "Thuongmai University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "VN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-4616-3393"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5002569511",
+      "name": "Anh Tram Thi Le",
+      "givenName": "Anh",
+      "familyName": "Le",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210109591",
+          "name": "Thuongmai University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "VN"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 8,
+  "citation": [
+    "https://openalex.org/W1433468479",
+    "https://openalex.org/W1500340012",
+    "https://openalex.org/W1968303011",
+    "https://openalex.org/W1973097238",
+    "https://openalex.org/W1973496073",
+    "https://openalex.org/W1991909506",
+    "https://openalex.org/W2038952091",
+    "https://openalex.org/W2045568435",
+    "https://openalex.org/W2062468605",
+    "https://openalex.org/W2063735176",
+    "https://openalex.org/W2066343737",
+    "https://openalex.org/W2102931550",
+    "https://openalex.org/W2153002593",
+    "https://openalex.org/W2314890846",
+    "https://openalex.org/W2396354510",
+    "https://openalex.org/W2510299707",
+    "https://openalex.org/W2591603125",
+    "https://openalex.org/W2762888725",
+    "https://openalex.org/W2802982948",
+    "https://openalex.org/W2884719476",
+    "https://openalex.org/W2946088572",
+    "https://openalex.org/W3080835456",
+    "https://openalex.org/W4200621994",
+    "https://openalex.org/W4210958517",
+    "https://openalex.org/W4239455462",
+    "https://openalex.org/W4241456557"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 2200,
+      "currency": "CHF"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5219792
+    },
+    {
+      "id": "https://openalex.org/keywords/empirical-research",
+      "display_name": "Empirical Research",
+      "score": 0.46581817
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.43991065
+    },
+    {
+      "id": "https://openalex.org/keywords/positive-correlation",
+      "display_name": "Positive correlation",
+      "score": 0.4306963
+    },
+    {
+      "id": "https://openalex.org/keywords/foreign-capital",
+      "display_name": "Foreign capital",
+      "score": 0.42857343
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33842695",
+      "name": "Foreign direct investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q490513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134024062",
+      "name": "Error correction model",
+      "sameAs": "https://www.wikidata.org/wiki/Q1401229"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C120936955",
+      "name": "Empirical research",
+      "sameAs": "https://www.wikidata.org/wiki/Q2155640"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2986115478",
+      "name": "Positive correlation",
+      "sameAs": "https://www.wikidata.org/wiki/Q186290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2993879009",
+      "name": "Foreign capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q8137"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18547055",
+      "name": "International economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q47417"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149782125",
+      "name": "Econometrics",
+      "sameAs": "https://www.wikidata.org/wiki/Q160039"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145162277",
+      "name": "Cointegration",
+      "sameAs": "https://www.wikidata.org/wiki/Q1751675"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C71924100",
+      "name": "Medicine",
+      "sameAs": "https://www.wikidata.org/wiki/Q11190"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C126322002",
+      "name": "Internal medicine",
+      "sameAs": "https://www.wikidata.org/wiki/Q11180"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111472728",
+      "name": "Epistemology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9471"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "From 1990 to 2019, Vietnam entered a period of economic growth, attracting foreign investment. However, during this period, CO2 emissions also increased significantly. This paper will examine the short- and long-term relations of Vietnam’s relationship among FDI, economic growth, and CO2 emissions based on the data on CO2, GDP, and FDI of Vietnam in 1990–2019. This article uses the VECM model to test the effect among variables. Research results identify an impact and causal correlation among CO2 emissions and economic growth and foreign direct investment in Vietnam. Research results show a long-term relationship between CO2 emissions, GDP, and FDI. The authors did not find a short-run relationship between the above variables. Assessing impacts of CO2 emissions on economic growth and foreign direct investment will help policymakers make reasonable policies to balance the increase in foreign investment capital and economic growth and reduce CO2 to achieve the commitment in COP26.",
+  "url": "https://doi.org/10.3390/su141912621",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.mdpi.com/2071-1050/14/19/12621/pdf?version=1665221759",
+    "encodingFormat": "text/html"
+  }
+}

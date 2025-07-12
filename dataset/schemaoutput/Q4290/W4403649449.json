@@ -1,0 +1,190 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4403649449",
+  "doi": "10.37634/efp.2024.9.9",
+  "name": "Statistical assessment of direct investment (equity capital instruments) in the economy of the Dnipropetrovsk area",
+  "headline": "Statistical assessment of direct investment (equity capital instruments) in the economy of the Dnipropetrovsk area",
+  "datePublished": "2024-09-30",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Economics Finances Law",
+    "issn": "2409-1944",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5107494697",
+      "name": "Mariia Turiianska",
+      "givenName": "Mariia",
+      "familyName": "TURIIANSKA",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210091281",
+          "name": "Kyiv International University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W3144496552"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/equity",
+      "display_name": "Equity",
+      "score": 0.5907571
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.55096084
+    },
+    {
+      "id": "https://openalex.org/keywords/equity-capital",
+      "display_name": "Equity capital",
+      "score": 0.49175718
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.4572974
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199728807",
+      "name": "Equity (law)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2578557"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2993628901",
+      "name": "Equity capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q827451"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33842695",
+      "name": "Foreign direct investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q490513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C202093079",
+      "name": "Private equity firm",
+      "sameAs": "https://www.wikidata.org/wiki/Q5418962"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136264566",
+      "name": "Economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q159810"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C74363100",
+      "name": "Economic system",
+      "sameAs": "https://www.wikidata.org/wiki/Q273005"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26271046",
+      "name": "Economic geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q187097"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C71110296",
+      "name": "Private equity",
+      "sameAs": "https://www.wikidata.org/wiki/Q476115"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C143910263",
+      "name": "Capital market",
+      "sameAs": "https://www.wikidata.org/wiki/Q750458"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Introduction. The statistics above prove that the Dnipropetrovsk area in terms of the volume of attracted foreign direct investment is confidently ranked 1st among the regions of Ukraine in 2024. The purpose of the paper is to build a model of statistical assessment of direct investment (tools of participation in capital) in the economy of Dnipropetrovsk area. Results. The shortcomings that create significant problems of formation of information and analytical support of existing models of analysis of investment cooperation between countries are identified. Adaptive forecasting based on the method of exponential smoothing. The essence of this method is that each element (level) of the time row is smoothed with a weighted average, and its weight decreases as the end of the row is removed. The forecast of direct investment (instruments of participation in capital) of EU countries in the economy of Dnipropetrovsk area by 2028 was built. Based on statistical analysis for the period 2015-2023. The forecast of direct investment (instruments of participation in capital, by types of economic activity) of EU countries in the economy of Dnipropetrovsk area by 2028. On the basis of statistical analysis for the period 2021-2023. It is emphasized that in 2021. Three industries (education (P); art, sports, entertainment and rest (R); providing other services (S)) are not made public in order to ensure compliance with the requirements of the Law of Ukraine \"On Official Statistics\" on the confidentiality of statistical information. Conclusion. According to the analysis, six key consequences and risks of war in Ukraine are separated when attracting foreign direct investment. As a prospect of further research in the subject area is to build a gravitational model of direct investment relationship between the economy of Dnipropetrovsk area and EU countries, for example by the following factors: GDP per capita of the country; geographical distance between Ukraine and donor countries; The population of the country. This will identify problematic issues in forming a foreign investment stimulating policy. The possibility of constructing a gravity model of foreign direct investment for Dnipropetrovsk area has been grown.",
+  "url": "https://doi.org/10.37634/efp.2024.9.9",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.37634/efp.2024.9.9",
+    "encodingFormat": "text/html"
+  }
+}

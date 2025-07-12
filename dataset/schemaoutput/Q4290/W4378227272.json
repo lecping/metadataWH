@@ -1,0 +1,339 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4378227272",
+  "doi": "10.3390/su15118518",
+  "name": "Environmental Regulation and Corporate Environmental Performance: Evidence from Chinese Carbon Emission Trading Pilot",
+  "headline": "Environmental Regulation and Corporate Environmental Performance: Evidence from Chinese Carbon Emission Trading Pilot",
+  "datePublished": "2023-05-24",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Sustainability",
+    "issn": "2071-1050",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Multidisciplinary Digital Publishing Institute"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5101643320",
+      "name": "Lei Zheng",
+      "givenName": "Lei",
+      "familyName": "Zheng",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I21193070",
+          "name": "Beijing Jiaotong University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I180203408",
+          "name": "Yokohama National University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "JP"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-6583-8320"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5069174193",
+      "name": "Akira Omori",
+      "givenName": "Akira",
+      "familyName": "Omori",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I180203408",
+          "name": "Yokohama National University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "JP"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-1741-3325"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5102851363",
+      "name": "Jin Cao",
+      "givenName": "Jin",
+      "familyName": "Cao",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I180203408",
+          "name": "Yokohama National University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "JP"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-2008-2755"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5110719504",
+      "name": "Xuemeng Guo",
+      "givenName": "Xuemeng",
+      "familyName": "Guo",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I21193070",
+          "name": "Beijing Jiaotong University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 6,
+  "citation": [
+    "https://openalex.org/W1965278510",
+    "https://openalex.org/W1994041879",
+    "https://openalex.org/W2032393291",
+    "https://openalex.org/W2064792932",
+    "https://openalex.org/W2090841340",
+    "https://openalex.org/W2119106412",
+    "https://openalex.org/W2128681262",
+    "https://openalex.org/W2162870068",
+    "https://openalex.org/W2185032033",
+    "https://openalex.org/W2194496320",
+    "https://openalex.org/W2811101446",
+    "https://openalex.org/W3014509841",
+    "https://openalex.org/W3020698913",
+    "https://openalex.org/W3021625863",
+    "https://openalex.org/W3024602720",
+    "https://openalex.org/W3027810688",
+    "https://openalex.org/W3042547262",
+    "https://openalex.org/W3048334682",
+    "https://openalex.org/W3121598448",
+    "https://openalex.org/W3124864501",
+    "https://openalex.org/W3125894407",
+    "https://openalex.org/W3158363590",
+    "https://openalex.org/W3201974507",
+    "https://openalex.org/W3208390859",
+    "https://openalex.org/W3214038351",
+    "https://openalex.org/W4200452078",
+    "https://openalex.org/W4210289283",
+    "https://openalex.org/W4212894450",
+    "https://openalex.org/W4221021959",
+    "https://openalex.org/W4221092777",
+    "https://openalex.org/W4225162783",
+    "https://openalex.org/W4225283900",
+    "https://openalex.org/W4280514151",
+    "https://openalex.org/W4280609650",
+    "https://openalex.org/W4281698496",
+    "https://openalex.org/W4284963287",
+    "https://openalex.org/W4284963799",
+    "https://openalex.org/W4284989126",
+    "https://openalex.org/W4286255264",
+    "https://openalex.org/W4292325087",
+    "https://openalex.org/W4292811746",
+    "https://openalex.org/W4293087254",
+    "https://openalex.org/W4308945327",
+    "https://openalex.org/W4309484480",
+    "https://openalex.org/W4310014119",
+    "https://openalex.org/W4310244175",
+    "https://openalex.org/W4311771904",
+    "https://openalex.org/W4313256647",
+    "https://openalex.org/W4362722222",
+    "https://openalex.org/W4375861047"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 2200,
+      "currency": "CHF"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/robustness",
+      "display_name": "Robustness",
+      "score": 0.58597577
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-quality",
+      "display_name": "Environmental Quality",
+      "score": 0.42346245
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4122665
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C63479239",
+      "name": "Robustness (evolution)",
+      "sameAs": "https://www.wikidata.org/wiki/Q7353546"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C100405246",
+      "name": "Emissions trading",
+      "sameAs": "https://www.wikidata.org/wiki/Q8348417"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985274072",
+      "name": "Environmental regulation",
+      "sameAs": "https://www.wikidata.org/wiki/Q328798"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C143910263",
+      "name": "Capital market",
+      "sameAs": "https://www.wikidata.org/wiki/Q750458"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C70798638",
+      "name": "Environmental quality",
+      "sameAs": "https://www.wikidata.org/wiki/Q4575211"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C12713177",
+      "name": "Perspective (graphical)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1900281"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121955636",
+      "name": "Accounting",
+      "sameAs": "https://www.wikidata.org/wiki/Q4116214"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134560507",
+      "name": "Environmental economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q753291"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C47737302",
+      "name": "Greenhouse gas",
+      "sameAs": "https://www.wikidata.org/wiki/Q167336"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C55493867",
+      "name": "Biochemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q7094"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C104317684",
+      "name": "Gene",
+      "sameAs": "https://www.wikidata.org/wiki/Q7187"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C154945302",
+      "name": "Artificial intelligence",
+      "sameAs": "https://www.wikidata.org/wiki/Q11660"
+    }
+  ],
+  "abstract": "Using archival data of the Chinese A-share listed companies from 2011 to 2019, this article empirically examines the effectiveness of the Chinese carbon emission trading pilot, from the perspective of market-ranked corporate environmental performance. The main findings demonstrate that compared with companies not selected in the pilot, regulated enterprises tend to create a better environmental performance after the implementation of the pilot. Second, regarding the two possible influential channels, the lowering production level channel is empirically supported, while the increasing green investment channel lacks salient explanatory power. Finally, greater environmental pressures and better internal control quality present synergistic effects in amplifying the positive connection between the pilot and corporate environmental performance. Our conclusions remain valid under various robustness test methods. Potential related directions for future research are also identified and suggested in this article. Overall, using the Chinese carbon emission trading pilot as a research setting, our study provides additional evidence on whether and how environmental regulations affect corporate environmental performance ranked by capital market participants.",
+  "url": "https://doi.org/10.3390/su15118518",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.mdpi.com/2071-1050/15/11/8518/pdf?version=1684930385",
+    "encodingFormat": "text/html"
+  }
+}

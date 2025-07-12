@@ -1,0 +1,391 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4293045069",
+  "doi": "10.1016/j.eswa.2022.118568",
+  "name": "OCI-CBR: A hybrid model for decision support in preference-aware investment scenarios",
+  "headline": "OCI-CBR: A hybrid model for decision support in preference-aware investment scenarios",
+  "datePublished": "2022-08-25",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-nd",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Expert Systems with Applications",
+    "issn": "0957-4174",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Elsevier BV"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5062400250",
+      "name": "María E. Pérez-Pons",
+      "givenName": "María",
+      "familyName": "Pérez-Pons",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I184999862",
+          "name": "Universidad de Salamanca",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ES"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-2194-572X"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5027576482",
+      "name": "Javier Parra-Domínguez",
+      "givenName": "Javier",
+      "familyName": "Parra-Dominguez",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4387154232",
+          "name": "AIR Institute",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": null
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I184999862",
+          "name": "Universidad de Salamanca",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ES"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-1088-9152"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5082305379",
+      "name": "Guillermo Hernández",
+      "givenName": "Guillermo",
+      "familyName": "Hernández",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4387154232",
+          "name": "AIR Institute",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": null
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I184999862",
+          "name": "Universidad de Salamanca",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ES"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-7481-5961"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5086609415",
+      "name": "Isabelle Bichindaritz",
+      "givenName": "Isabelle",
+      "familyName": "Bichindaritz",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I43742981",
+          "name": "State University of New York at Oswego",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-1712-490X"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5070935465",
+      "name": "Juan M. Corchado",
+      "givenName": "Juan",
+      "familyName": "Corchado",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I226432",
+          "name": "Universiti Malaysia Kelantan",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "MY"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4387154232",
+          "name": "AIR Institute",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": null
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I184999862",
+          "name": "Universidad de Salamanca",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ES"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I72375662",
+          "name": "Osaka Institute of Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "JP"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-2829-1829"
+    }
+  ],
+  "citationCount": 8,
+  "citation": [
+    "https://openalex.org/W1878729023",
+    "https://openalex.org/W1970770845",
+    "https://openalex.org/W1971141266",
+    "https://openalex.org/W1973029482",
+    "https://openalex.org/W1973234953",
+    "https://openalex.org/W1975859492",
+    "https://openalex.org/W1976495470",
+    "https://openalex.org/W1987779043",
+    "https://openalex.org/W1989190853",
+    "https://openalex.org/W1995458822",
+    "https://openalex.org/W1998619990",
+    "https://openalex.org/W1999867457",
+    "https://openalex.org/W2010916425",
+    "https://openalex.org/W2014793832",
+    "https://openalex.org/W2031209284",
+    "https://openalex.org/W2033859762",
+    "https://openalex.org/W2043322541",
+    "https://openalex.org/W2054905425",
+    "https://openalex.org/W2065659482",
+    "https://openalex.org/W2078808258",
+    "https://openalex.org/W2099378469",
+    "https://openalex.org/W2104697321",
+    "https://openalex.org/W2109004600",
+    "https://openalex.org/W2111323372",
+    "https://openalex.org/W2121439896",
+    "https://openalex.org/W2126385963",
+    "https://openalex.org/W2134591266",
+    "https://openalex.org/W2217531446",
+    "https://openalex.org/W2531218477",
+    "https://openalex.org/W2586165309",
+    "https://openalex.org/W2592928143",
+    "https://openalex.org/W2773560310",
+    "https://openalex.org/W2792052757",
+    "https://openalex.org/W292488259",
+    "https://openalex.org/W2936639569",
+    "https://openalex.org/W2945456879",
+    "https://openalex.org/W2971165473",
+    "https://openalex.org/W3121406782",
+    "https://openalex.org/W3121428923",
+    "https://openalex.org/W3121491467",
+    "https://openalex.org/W3122873328",
+    "https://openalex.org/W3123208163",
+    "https://openalex.org/W3123693131",
+    "https://openalex.org/W3125429822",
+    "https://openalex.org/W3154042406"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 3220,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5773201
+    },
+    {
+      "id": "https://openalex.org/keywords/investment-decisions",
+      "display_name": "Investment Decisions",
+      "score": 0.48266414
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.47276384
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C20162079",
+      "name": "Case-based reasoning",
+      "sameAs": "https://www.wikidata.org/wiki/Q1151406"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136197465",
+      "name": "Variety (cybernetics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1729295"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C186027771",
+      "name": "Valuation (finance)",
+      "sameAs": "https://www.wikidata.org/wiki/Q4008379"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C206588197",
+      "name": "Reuse",
+      "sameAs": "https://www.wikidata.org/wiki/Q846574"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2781249084",
+      "name": "Preference",
+      "sameAs": "https://www.wikidata.org/wiki/Q908656"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C107327155",
+      "name": "Decision support system",
+      "sameAs": "https://www.wikidata.org/wiki/Q330268"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778865806",
+      "name": "Investment decisions",
+      "sameAs": "https://www.wikidata.org/wiki/Q6060850"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C557471498",
+      "name": "Recommender system",
+      "sameAs": "https://www.wikidata.org/wiki/Q554950"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C42475967",
+      "name": "Operations research",
+      "sameAs": "https://www.wikidata.org/wiki/Q194292"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C154945302",
+      "name": "Artificial intelligence",
+      "sameAs": "https://www.wikidata.org/wiki/Q11660"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119857082",
+      "name": "Machine learning",
+      "sameAs": "https://www.wikidata.org/wiki/Q2539"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C109574028",
+      "name": "Behavioral economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q647525"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C548081761",
+      "name": "Waste management",
+      "sameAs": "https://www.wikidata.org/wiki/Q180388"
+    }
+  ],
+  "abstract": "This article proposes an adaptable hybrid model for recommending effective investments in different scenarios. Currently, a wide variety of methodologies are used for company valuation, especially those that take into account financial statements. However, for private held companies, there is no method that would be capable of predicting, with full certainty, the future success of an investment. The Optimal Capital Investment Case-Base Reasoning (OCI-CBR) consists of a case-based reasoning system that uses a classification algorithm to prune the case base according to a projected increase in certain company attributes. Once the cases have been pruned and the case is fed with the most profitable investment opportunities, the case-based reasoning system recommends optimal investments to potential investors. The complete model is conceived as an intelligent hybrid model that optimizes the case base by employing different algorithms for data retrieval and reuse. The system makes recommendations based on the investor's preferences and the investment decisions of other investors with similar profiles or interests.",
+  "url": "https://doi.org/10.1016/j.eswa.2022.118568",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1016/j.eswa.2022.118568",
+    "encodingFormat": "text/html"
+  }
+}

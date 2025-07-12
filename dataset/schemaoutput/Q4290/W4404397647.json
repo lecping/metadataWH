@@ -1,0 +1,138 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4404397647",
+  "doi": "10.36713/epra18975",
+  "name": "THE IMPACT OF HUMAN CAPITAL INVESTMENT ON FIRM’S PERFORMANCE: INSIGHTS FROM THE LITERATURE",
+  "headline": "THE IMPACT OF HUMAN CAPITAL INVESTMENT ON FIRM’S PERFORMANCE: INSIGHTS FROM THE LITERATURE",
+  "datePublished": "2024-11-15",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "EPRA International Journal of Economics Business and Management Studies",
+    "issn": "2347-4378",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5114655881",
+      "name": "Mr. Arun R. Bhosale",
+      "givenName": "None",
+      "familyName": "Bhosale",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I110083240",
+          "name": "Karnatak University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5114655882",
+      "name": "Dr.A. N. Tamragundi",
+      "givenName": "None",
+      "familyName": "Tamragundi",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5654419
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41939783
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "With growing globalisation, competition in the market, and oversaturation of human resources, human capital is gaining more importance. Global North countries and emerging nations prioritise the development of human capital to accelerate economic growth through the necessary allocation of time and resources. The development of human capital is one of the key strategies for leading the global market. The idea of human capital was traced in the 18th century by Adam Smith and he suggested that improving human capital through training and education leads to more profitable enterprises. The concept of human capital (HC) was coined by Theodore Schultz, who defined human capital as “skills, knowledge, and similar attributes that affect particular human capabilities to do productive work.\" HC directly impacts on productivity, innovation, and overall competitiveness. The efficient management of HC has become a key determinant of a company's ability to adapt, grow, and maintain a sustainable competitive advantage in the dynamic business environment. So far, firms need to invest in the development of human capital. Investments made in the improvement of skills, knowledge, and education of human resources can enhance firm performance. In this context, many studies have taken place. The current study reviews the literature available from India and outside India on the same perception. Through examining the current literature, researchers can find further scope for research in the area and enhance our understanding of the concept. KEYWORDS: Human capital investment, skill, knowledge, firm performance, global review, further scope",
+  "url": "https://doi.org/10.36713/epra18975",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.36713/epra18975",
+    "encodingFormat": "text/html"
+  }
+}

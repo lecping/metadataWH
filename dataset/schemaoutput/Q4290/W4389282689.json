@@ -1,0 +1,225 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4389282689",
+  "doi": "10.36962/ecs105/8-10/2023-53",
+  "name": "The Role of Government in Solving Socio-Economic and Ecological Problems",
+  "headline": "The Role of Government in Solving Socio-Economic and Ecological Problems",
+  "datePublished": "2023-11-02",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Economics",
+    "issn": "2587-4713",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5073111762",
+      "name": "Revaz Shengelia",
+      "givenName": "Revaz",
+      "familyName": "Shengelia",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-9404-1473"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5000741395",
+      "name": "Zhuzhuna Tsiklauri-Shengelia",
+      "givenName": "Zhuzhuna",
+      "familyName": "Tsiklauri-Shengelia",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-1381-6573"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5056317585",
+      "name": "Natia Shengelia Natia Shengelia",
+      "givenName": "Natia",
+      "familyName": "Shengelia",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/obsolescence",
+      "display_name": "Obsolescence",
+      "score": 0.88017094
+    },
+    {
+      "id": "https://openalex.org/keywords/dialectic",
+      "display_name": "Dialectic",
+      "score": 0.5730175
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.552804
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.46093503
+    },
+    {
+      "id": "https://openalex.org/keywords/georgian",
+      "display_name": "Georgian",
+      "score": 0.44502354
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.44089496
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C30795975",
+      "name": "Obsolescence",
+      "sameAs": "https://www.wikidata.org/wiki/Q282744"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C13184196",
+      "name": "Dialectic",
+      "sameAs": "https://www.wikidata.org/wiki/Q9453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778137410",
+      "name": "Government (linguistics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2732820"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780964034",
+      "name": "Georgian",
+      "sameAs": "https://www.wikidata.org/wiki/Q8108"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C74363100",
+      "name": "Economic system",
+      "sameAs": "https://www.wikidata.org/wiki/Q273005"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111472728",
+      "name": "Epistemology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9471"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    }
+  ],
+  "abstract": "In the article there is discussed the dialectic connection between ecology and economics, the role of state in solving ecological problems, there are also characterized some unfavorable conditions existing in the Georgian economy and the ways of its improvement. Additionally, the objective existence of one of the main hindering factors for economic growth and development- the morally outdated scientific and technical knowledge (S&amp;TK) is highlighted; The role of employees from the field of education to improve the unfavorable situation in the economy and further progress of the country is presented. Moreover, much attention is paid to the sharp features of accumulation and usage of scientific-technical knowledge and physical capital in view of obsolescence. Hence the extremely large role of scientific-technical knowledge for economic growth and development is shown. Keywords: socioeconomics, physical investment, ecology, moral obsolescence, economic development.",
+  "url": "https://doi.org/10.36962/ecs105/8-10/2023-53",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://zenodo.org/records/10252225/files/EKONOMIKA%20-%208-10-2023%20A5.pdf",
+    "encodingFormat": "text/html"
+  }
+}

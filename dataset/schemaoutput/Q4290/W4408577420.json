@@ -1,0 +1,127 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4408577420",
+  "doi": "10.32782/2708-0366/2024.22.22",
+  "name": "MAIN ASPECTS OF THE INVESTMENT POTENTIAL OF HUMAN CAPITAL",
+  "headline": "MAIN ASPECTS OF THE INVESTMENT POTENTIAL OF HUMAN CAPITAL",
+  "datePublished": "2025-02-14",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Таврійський науковий вісник Серія Економіка",
+    "issn": "2708-0366",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5023698681",
+      "name": "І.М. Дебела",
+      "givenName": "І.М.",
+      "familyName": "Дебела",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0001-7990-4202"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2206038601",
+    "https://openalex.org/W2951913885",
+    "https://openalex.org/W3021622307",
+    "https://openalex.org/W3089662210",
+    "https://openalex.org/W4220885471",
+    "https://openalex.org/W4288988728",
+    "https://openalex.org/W4379794623",
+    "https://openalex.org/W4382985064",
+    "https://openalex.org/W4388525868",
+    "https://openalex.org/W4399129064",
+    "https://openalex.org/W4399209829"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.58416116
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.43153015
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    }
+  ],
+  "abstract": "Modern theories of management interpret human capital as the driving force of economic growth. The development of human capital increases the size of the internal resource, which determines the competitiveness of the organization and ensures sustainable economic growth in the strategic perspective. The assessment of the potential of human capital should be considered as a process of analyzing and measuring the effectiveness of investment infusions with a long payback period. However, there is a problem of choosing a complex criterion - an identifier of the effectiveness of the investment potential of human capital. Methods for assessing the effectiveness of investment projects should be adapted to non-material, qualitative indicators, stochastic parameters related to various aspects of human capital. The purpose of the work is to study the key aspects of human capital as an internal investment resource, the process of movement of the organization's cash flows in the direction of increasing productivity, creativity and competitiveness in a strategic perspective.",
+  "url": "https://doi.org/10.32782/2708-0366/2024.22.22",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.32782/2708-0366/2024.22.22",
+    "encodingFormat": "text/html"
+  }
+}

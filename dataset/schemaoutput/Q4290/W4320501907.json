@@ -1,0 +1,261 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4320501907",
+  "doi": "10.2991/978-94-6463-056-5_25",
+  "name": "Research on the Investment Decision Model of Power Grid Enterprises Based on Neural Network Method",
+  "headline": "Research on the Investment Decision Model of Power Grid Enterprises Based on Neural Network Method",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Atlantis Highlights in Computer Sciences/Atlantis highlights in computer sciences",
+    "issn": "2589-4900",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Atlantis Press"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100712863",
+      "name": "Chaoyang Li",
+      "givenName": "Chaoyang",
+      "familyName": "Li",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0001-7422-8110"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5000001822",
+      "name": "Guangchao Qian",
+      "givenName": "Guangchao",
+      "familyName": "Qian",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100427529",
+      "name": "Lei Shi",
+      "givenName": "Lei",
+      "familyName": "Shi",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0003-1287-017X"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5051732177",
+      "name": "Yi Qin Gao",
+      "givenName": "Yi",
+      "familyName": "Gao",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-4309-9376"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100633735",
+      "name": "Yongli Wang",
+      "givenName": "Yongli",
+      "familyName": "Wang",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I153473198",
+          "name": "North China Electric Power University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-2219-067X"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100770274",
+      "name": "Bo Yuan",
+      "givenName": "Bo",
+      "familyName": "Yuan",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I153473198",
+          "name": "North China Electric Power University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-6359-4051"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W3017053553",
+    "https://openalex.org/W3025484060",
+    "https://openalex.org/W4300017134"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.65823555
+    },
+    {
+      "id": "https://openalex.org/keywords/power-grid",
+      "display_name": "Power grid",
+      "score": 0.57674056
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5618215
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C187691185",
+      "name": "Grid",
+      "sameAs": "https://www.wikidata.org/wiki/Q2020720"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50644808",
+      "name": "Artificial neural network",
+      "sameAs": "https://www.wikidata.org/wiki/Q192776"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2983254600",
+      "name": "Power grid",
+      "sameAs": "https://www.wikidata.org/wiki/Q1096907"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779343474",
+      "name": "Context (archaeology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3109175"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C163258240",
+      "name": "Power (physics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q25342"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134560507",
+      "name": "Environmental economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q753291"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C154945302",
+      "name": "Artificial intelligence",
+      "sameAs": "https://www.wikidata.org/wiki/Q11660"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121332964",
+      "name": "Physics",
+      "sameAs": "https://www.wikidata.org/wiki/Q413"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C62520636",
+      "name": "Quantum mechanics",
+      "sameAs": "https://www.wikidata.org/wiki/Q944"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C151730666",
+      "name": "Paleontology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7205"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2524010",
+      "name": "Geometry",
+      "sameAs": "https://www.wikidata.org/wiki/Q8087"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    }
+  ],
+  "abstract": "In the context of \"new infrastructure\", in order to enable power grid enterprises to better make investment decisions, this paper proposes a model based on neural network method, which can effectively improve the economic, social and environmental protection benefits of power grid enterprises' investment and encourage power grid enterprises to invest.Based on the consideration of investment capital and output requirements, the grid investment decision model is solved by neural network method to greatly improves the accuracy of the results.The simulation analysis through calculation examples shows that the method can quickly and effectively give quantitative evaluation results for different strategic objectives.",
+  "url": "https://doi.org/10.2991/978-94-6463-056-5_25",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.atlantis-press.com/article/125981660.pdf",
+    "encodingFormat": "text/html"
+  }
+}

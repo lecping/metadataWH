@@ -1,0 +1,265 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W3192784806",
+  "doi": "10.1111/jofi.13231",
+  "name": "Rents and Intangible Capital: A Q+ Framework",
+  "headline": "Rents and Intangible Capital: A Q+ Framework",
+  "datePublished": "2023-04-24",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "The Journal of Finance",
+    "issn": "0022-1082",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Wiley"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5002462799",
+      "name": "Nicolas Crouzet",
+      "givenName": "NICOLAS",
+      "familyName": "CROUZET",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0009-0005-1797-0315"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5035668806",
+      "name": "Janice Eberly",
+      "givenName": "JANICE",
+      "familyName": "EBERLY",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 37,
+  "citation": [
+    "https://openalex.org/W1607369751",
+    "https://openalex.org/W1861498838",
+    "https://openalex.org/W1977240483",
+    "https://openalex.org/W1985107799",
+    "https://openalex.org/W1994191026",
+    "https://openalex.org/W1994997270",
+    "https://openalex.org/W2009236937",
+    "https://openalex.org/W2016097698",
+    "https://openalex.org/W2059912207",
+    "https://openalex.org/W2072799098",
+    "https://openalex.org/W2072806856",
+    "https://openalex.org/W2119742456",
+    "https://openalex.org/W2157959022",
+    "https://openalex.org/W2160078990",
+    "https://openalex.org/W2253916252",
+    "https://openalex.org/W2611356021",
+    "https://openalex.org/W2614268140",
+    "https://openalex.org/W2738454884",
+    "https://openalex.org/W2750722266",
+    "https://openalex.org/W2773681258",
+    "https://openalex.org/W2782784536",
+    "https://openalex.org/W2783523703",
+    "https://openalex.org/W2795153782",
+    "https://openalex.org/W2800921101",
+    "https://openalex.org/W2804680275",
+    "https://openalex.org/W2807495660",
+    "https://openalex.org/W2901241304",
+    "https://openalex.org/W2961794391",
+    "https://openalex.org/W2964383261",
+    "https://openalex.org/W2992318823",
+    "https://openalex.org/W2994219315",
+    "https://openalex.org/W3005839772",
+    "https://openalex.org/W3021945653",
+    "https://openalex.org/W3022404876",
+    "https://openalex.org/W3111390502",
+    "https://openalex.org/W3121139706",
+    "https://openalex.org/W3121216672",
+    "https://openalex.org/W3121606885",
+    "https://openalex.org/W3121847382",
+    "https://openalex.org/W3122681564",
+    "https://openalex.org/W3122837699",
+    "https://openalex.org/W3123123939",
+    "https://openalex.org/W3123548941",
+    "https://openalex.org/W3123932338",
+    "https://openalex.org/W3124738573",
+    "https://openalex.org/W3125011891",
+    "https://openalex.org/W3125411807",
+    "https://openalex.org/W3125928871",
+    "https://openalex.org/W4235254670",
+    "https://openalex.org/W4239962755",
+    "https://openalex.org/W4240641419",
+    "https://openalex.org/W4241092550",
+    "https://openalex.org/W4242541877",
+    "https://openalex.org/W4254459128",
+    "https://openalex.org/W4293020912"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/economic-rent",
+      "display_name": "Economic rent",
+      "score": 0.96020335
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6747323
+    },
+    {
+      "id": "https://openalex.org/keywords/value",
+      "display_name": "Value (mathematics)",
+      "score": 0.512953
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.48182192
+    },
+    {
+      "id": "https://openalex.org/keywords/physical-capital",
+      "display_name": "Physical capital",
+      "score": 0.43591183
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.423625
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C106866004",
+      "name": "Economic rent",
+      "sameAs": "https://www.wikidata.org/wiki/Q264259"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776291640",
+      "name": "Value (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2912517"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C527412718",
+      "name": "Interpretation (philosophy)",
+      "sameAs": "https://www.wikidata.org/wiki/Q855395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C9127897",
+      "name": "Physical capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q990550"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199360897",
+      "name": "Programming language",
+      "sameAs": "https://www.wikidata.org/wiki/Q9143"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119857082",
+      "name": "Machine learning",
+      "sameAs": "https://www.wikidata.org/wiki/Q2539"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "In recent years, U.S. investment has been lackluster, despite rising valuations. Key explanations include growing rents and growing intangibles. We propose and estimate a framework to quantify their roles. The gap between valuations—reflected in average Q—and investment—reflected in marginal q—can be decomposed into three terms: the value of installed intangibles; rents generated by physical capital; and an interaction term, measuring rents generated by intangibles. The intangible related terms contribute significantly to the gap, particularly in fast-growing sectors. Our findings suggest care in a pure-rents interpretation, given the rising role of intangibles.",
+  "url": "https://doi.org/10.1111/jofi.13231",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1111/jofi.13231",
+    "encodingFormat": "text/html"
+  }
+}

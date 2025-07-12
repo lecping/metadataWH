@@ -1,0 +1,302 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4283792535",
+  "doi": "10.31075/pis.68.02.06",
+  "name": "Comparison of fast bus and light rail transport based on SWOT analysis",
+  "headline": "Comparison of fast bus and light rail transport based on SWOT analysis",
+  "datePublished": "2022-07-04",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Put i saobraćaj",
+    "issn": "0478-9733",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5070343235",
+      "name": "Pavle Pitka",
+      "givenName": "Pavle",
+      "familyName": "Pitka",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I170726198",
+          "name": "University of Novi Sad",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RS"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-6389-1195"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5018235966",
+      "name": "Milan Lazarević",
+      "givenName": "Milan",
+      "familyName": "Lazarević",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I170726198",
+          "name": "University of Novi Sad",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RS"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5072750761",
+      "name": "Tatjana Kovačević",
+      "givenName": "Tatjana",
+      "familyName": "Kovačević",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I170726198",
+          "name": "University of Novi Sad",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RS"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-9072-4699"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5079428194",
+      "name": "Andrijana Jović",
+      "givenName": "Andrijana",
+      "familyName": "Jović",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I170726198",
+          "name": "University of Novi Sad",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RS"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-9272-2649"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5005627951",
+      "name": "Milena Ninović",
+      "givenName": "Milena",
+      "familyName": "Ninović",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I170726198",
+          "name": "University of Novi Sad",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RS"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-5873-2330"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1562891728",
+    "https://openalex.org/W1676979370",
+    "https://openalex.org/W1850027260",
+    "https://openalex.org/W1999691329",
+    "https://openalex.org/W2088381317",
+    "https://openalex.org/W2112834178",
+    "https://openalex.org/W2143009081",
+    "https://openalex.org/W2998507830",
+    "https://openalex.org/W3137121208"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/swot-analysis",
+      "display_name": "SWOT Analysis",
+      "score": 0.9255742
+    },
+    {
+      "id": "https://openalex.org/keywords/bus-rapid-transit",
+      "display_name": "Bus rapid transit",
+      "score": 0.7262749
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.65384406
+    },
+    {
+      "id": "https://openalex.org/keywords/light-rail-transit",
+      "display_name": "Light rail transit",
+      "score": 0.57640016
+    },
+    {
+      "id": "https://openalex.org/keywords/passenger-transport",
+      "display_name": "Passenger transport",
+      "score": 0.57038295
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.561903
+    },
+    {
+      "id": "https://openalex.org/keywords/rail-transit",
+      "display_name": "Rail transit",
+      "score": 0.45910195
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119059837",
+      "name": "SWOT analysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q175096"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C539828613",
+      "name": "Public transport",
+      "sameAs": "https://www.wikidata.org/wiki/Q178512"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779697334",
+      "name": "Bus rapid transit",
+      "sameAs": "https://www.wikidata.org/wiki/Q2878855"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C22212356",
+      "name": "Transport engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q775325"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2984150052",
+      "name": "Light rail transit",
+      "sameAs": "https://www.wikidata.org/wiki/Q1268865"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C3018364605",
+      "name": "Passenger transport",
+      "sameAs": "https://www.wikidata.org/wiki/Q7590"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2992701429",
+      "name": "Rail transit",
+      "sameAs": "https://www.wikidata.org/wiki/Q3491904"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779530757",
+      "name": "Quality (philosophy)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1207505"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134560507",
+      "name": "Environmental economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q753291"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111472728",
+      "name": "Epistemology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9471"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    }
+  ],
+  "abstract": "The rapid expansion of urban areas requires the application of more capacious technologies of public passenger transport. New public transport technologies should provide satisfactory transport characteristics with acceptable capital investment and a short implementation period. Two basic public passenger transport technologies that can provide good transport quality with reasonable investment are Bus rapid transit (BRT) and Light rail transit (LRT). The characteristics of these public transport subsystems largely depend on the implemented technological elements. Within this paper, a comparison of BRT and LRT will be performed based on SWOT analysis, so that city administrations can make appropriate strategic decisions when choosing technology.",
+  "url": "https://doi.org/10.31075/pis.68.02.06",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://putisaobracaj.rs/index.php/PiS/article/download/234/180",
+    "encodingFormat": "text/html"
+  }
+}

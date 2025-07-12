@@ -1,0 +1,354 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W3208633023",
+  "doi": "10.1016/j.ajsl.2021.09.002",
+  "name": "Analyzing the evolution of concentration within containerized transport chains through a circuitist approach: The role of innovations in accelerating the circuits of liner and container terminal operators",
+  "headline": "Analyzing the evolution of concentration within containerized transport chains through a circuitist approach: The role of innovations in accelerating the circuits of liner and container terminal operators",
+  "datePublished": "2021-11-01",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-nd",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "The Asian Journal of Shipping and Logistics",
+    "issn": "2092-5212",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Elsevier BV"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5053487296",
+      "name": "Theodore Stylıadıs",
+      "givenName": "Theodore",
+      "familyName": "Styliadis",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I154757721",
+          "name": "University of Piraeus",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-9534-6642"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5074800141",
+      "name": "Constantınos Chlomoudıs",
+      "givenName": "Constantinos",
+      "familyName": "Chlomoudis",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I154757721",
+          "name": "University of Piraeus",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-4812-5331"
+    }
+  ],
+  "citationCount": 9,
+  "citation": [
+    "https://openalex.org/W1579803630",
+    "https://openalex.org/W1592173174",
+    "https://openalex.org/W174756677",
+    "https://openalex.org/W1973996080",
+    "https://openalex.org/W1989551104",
+    "https://openalex.org/W1996537770",
+    "https://openalex.org/W1997885649",
+    "https://openalex.org/W1998000223",
+    "https://openalex.org/W2032252851",
+    "https://openalex.org/W2036573203",
+    "https://openalex.org/W2045107981",
+    "https://openalex.org/W2046283891",
+    "https://openalex.org/W2049886976",
+    "https://openalex.org/W2057300506",
+    "https://openalex.org/W2086499064",
+    "https://openalex.org/W2094378968",
+    "https://openalex.org/W2112113213",
+    "https://openalex.org/W2149905500",
+    "https://openalex.org/W2178985634",
+    "https://openalex.org/W2294488785",
+    "https://openalex.org/W2496980027",
+    "https://openalex.org/W2561183422",
+    "https://openalex.org/W2565833203",
+    "https://openalex.org/W2605625963",
+    "https://openalex.org/W2793127253",
+    "https://openalex.org/W3081997005",
+    "https://openalex.org/W3121335657",
+    "https://openalex.org/W4234567797",
+    "https://openalex.org/W4236515469",
+    "https://openalex.org/W4246301113",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W4299313888",
+    "https://openalex.org/W4301031038",
+    "https://openalex.org/W565637161"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 1350,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/circulation",
+      "display_name": "Circulation (fluid dynamics)",
+      "score": 0.6402959
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.61005265
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5115548
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.465849
+    },
+    {
+      "id": "https://openalex.org/keywords/pace",
+      "display_name": "Pace",
+      "score": 0.46292615
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779343474",
+      "name": "Context (archaeology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3109175"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C11111821",
+      "name": "Circulation (fluid dynamics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q205880"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C108713360",
+      "name": "Supply chain",
+      "sameAs": "https://www.wikidata.org/wiki/Q1824206"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779664074",
+      "name": "Terminal (telecommunication)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3518405"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C98045186",
+      "name": "Process (computing)",
+      "sameAs": "https://www.wikidata.org/wiki/Q205663"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C59659247",
+      "name": "Reproduction",
+      "sameAs": "https://www.wikidata.org/wiki/Q11990"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2781018962",
+      "name": "Container (type theory)",
+      "sameAs": "https://www.wikidata.org/wiki/Q5164884"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2777526511",
+      "name": "Pace",
+      "sameAs": "https://www.wikidata.org/wiki/Q691543"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134146338",
+      "name": "Electronic circuit",
+      "sameAs": "https://www.wikidata.org/wiki/Q1815901"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C76155785",
+      "name": "Telecommunications",
+      "sameAs": "https://www.wikidata.org/wiki/Q418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119599485",
+      "name": "Electrical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q43035"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C57879066",
+      "name": "Mechanics",
+      "sameAs": "https://www.wikidata.org/wiki/Q41217"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78519656",
+      "name": "Mechanical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q101333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121332964",
+      "name": "Physics",
+      "sameAs": "https://www.wikidata.org/wiki/Q413"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127313418",
+      "name": "Geology",
+      "sameAs": "https://www.wikidata.org/wiki/Q1069"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111919701",
+      "name": "Operating system",
+      "sameAs": "https://www.wikidata.org/wiki/Q9135"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C151730666",
+      "name": "Paleontology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7205"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C1276947",
+      "name": "Astronomy",
+      "sameAs": "https://www.wikidata.org/wiki/Q333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    }
+  ],
+  "abstract": "Within the context of a geographically integrated capitalist economy, containerized transport networks act as the cogwheel of the global market, undertaking the circulation of commodities. While transport chains become the media of industrial circulation facilitating the augmented reproduction of industrial capital, transport is in itself a distinct sphere of investment, which ultimately opts to ensure its self-expansion. By employing Marx's circuit formula M−C−M′, we investigate how the pace of reproduction of transport capital affects the evolution of concentration process in containerized supply chains within the context of contemporary capitalist development. Additionally, by adjusting the circuit for the case of liner shipping and terminal operators, the impact of transport innovations in the attached media functions of transport actors and hence in the velocity of their circuits, is examined. Analysis indicates that innovations, act as catalysts in accelerating the circuits of transport actors, reinforcing the concentration process within the sphere of circulation.",
+  "url": "https://doi.org/10.1016/j.ajsl.2021.09.002",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1016/j.ajsl.2021.09.002",
+    "encodingFormat": "text/html"
+  }
+}

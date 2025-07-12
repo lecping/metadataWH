@@ -1,0 +1,294 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4205937169",
+  "doi": "10.1155/2022/8576365",
+  "name": "[Retracted] Development Level Evaluation of Water Ecological Civilization in Yangtze River Economic Belt",
+  "headline": "[Retracted] Development Level Evaluation of Water Ecological Civilization in Yangtze River Economic Belt",
+  "datePublished": "2022-01-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Discrete Dynamics in Nature and Society",
+    "issn": "1026-0226",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Hindawi Publishing Corporation"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100406581",
+      "name": "Qi Qi",
+      "givenName": "Qi",
+      "familyName": "Qi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I152031979",
+          "name": "Nanjing Normal University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I163340411",
+          "name": "Hohai University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-7974-9609"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5064118394",
+      "name": "Shengbang Song",
+      "givenName": "Shengbang",
+      "familyName": "Song",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I2801072212",
+          "name": "The Mount",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I134626604",
+          "name": "Jiujiang University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-9934-7172"
+    }
+  ],
+  "citationCount": 7,
+  "citation": [
+    "https://openalex.org/W2078271249",
+    "https://openalex.org/W2105078771",
+    "https://openalex.org/W2166885747",
+    "https://openalex.org/W2382356784",
+    "https://openalex.org/W2394293616",
+    "https://openalex.org/W2562215801",
+    "https://openalex.org/W2748553861",
+    "https://openalex.org/W2912756275",
+    "https://openalex.org/W3007293553",
+    "https://openalex.org/W3165654264"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 2300,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/ecological-civilization",
+      "display_name": "Ecological civilization",
+      "score": 0.73181987
+    },
+    {
+      "id": "https://openalex.org/keywords/yangtze-river",
+      "display_name": "Yangtze river",
+      "score": 0.56804657
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.48101646
+    },
+    {
+      "id": "https://openalex.org/keywords/sample",
+      "display_name": "Sample (material)",
+      "score": 0.42662764
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41860616
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776209781",
+      "name": "Ecological civilization",
+      "sameAs": "https://www.wikidata.org/wiki/Q28224085"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C3018003528",
+      "name": "Yangtze river",
+      "sameAs": "https://www.wikidata.org/wiki/Q5413"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2777382242",
+      "name": "Index (typography)",
+      "sameAs": "https://www.wikidata.org/wiki/Q6017816"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C153823671",
+      "name": "Water resources",
+      "sameAs": "https://www.wikidata.org/wiki/Q1049799"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C1284942",
+      "name": "Water level",
+      "sameAs": "https://www.wikidata.org/wiki/Q1929501"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C198531522",
+      "name": "Sample (material)",
+      "sameAs": "https://www.wikidata.org/wiki/Q485146"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C107826830",
+      "name": "Environmental resource management",
+      "sameAs": "https://www.wikidata.org/wiki/Q929380"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C524765639",
+      "name": "Water resource management",
+      "sameAs": "https://www.wikidata.org/wiki/Q1501619"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C191935318",
+      "name": "China",
+      "sameAs": "https://www.wikidata.org/wiki/Q148"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C58640448",
+      "name": "Cartography",
+      "sameAs": "https://www.wikidata.org/wiki/Q42515"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C43617362",
+      "name": "Chromatography",
+      "sameAs": "https://www.wikidata.org/wiki/Q170050"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136764020",
+      "name": "World Wide Web",
+      "sameAs": "https://www.wikidata.org/wiki/Q466"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    }
+  ],
+  "abstract": "Water ecological civilization (WEC) is a key component and basic guarantee of ecological civilization. This paper sets up an evaluation index system (EIS) for WEC development (WECD) level, which covers such three dimensions as social economic development, control over total water resources and water utilization efficiency, and synthetic environmental governance and adopts set pair analysis (SPA) to measure and analyze the WECD level in Yangtze River Economic Belt (YREB) from 2010 to 2019. The results show that (1) the score of each subsystem in YREB WECD grew continuously in the sample period and poised to increase in future, (2) in general, YREB WECD level steadily increased to a relatively high level, and (3) the good development trend of YREB WECD is inseparable from the fact that YREB stepped up its efforts in capital investment, water utilization, and water environment protection and recovery. Finally, pertinent measures were put forward to further improve the YREB WECD level.",
+  "url": "https://doi.org/10.1155/2022/8576365",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://downloads.hindawi.com/journals/ddns/2022/8576365.pdf",
+    "encodingFormat": "text/html"
+  }
+}

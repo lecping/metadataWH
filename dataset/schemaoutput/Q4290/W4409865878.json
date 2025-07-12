@@ -1,0 +1,187 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4409865878",
+  "doi": "10.14414/jebav.v27i3.4703",
+  "name": "Unlocking the Investment Mindset: Exploring the Determinants of Capital Market Participation Among Gen Z",
+  "headline": "Unlocking the Investment Mindset: Exploring the Determinants of Capital Market Participation Among Gen Z",
+  "datePublished": "2025-04-28",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-sa",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Economics Business and Accountancy Ventura",
+    "issn": "2087-3735",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Pusat Penelitian dan Pengabdian Masyarakat Sekolah Tinggi Ilmu Ekonomi (PPPM STIE)"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5115670479",
+      "name": "Pandef Rudianto",
+      "givenName": "Pandef",
+      "familyName": "Rudianto",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5000855992",
+      "name": "Darmono Darmono",
+      "givenName": "Darmono",
+      "familyName": "Darmono",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5117352472",
+      "name": "Raudhotul Jannah",
+      "givenName": "Raudhotul",
+      "familyName": "Jannah",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100723234",
+      "name": "Suwarno Suwarno",
+      "givenName": "Suwarno",
+      "familyName": "Suwarno",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5117352473",
+      "name": "Irma Masfia",
+      "givenName": "Irma",
+      "familyName": "Masfia",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/mindset",
+      "display_name": "Mindset",
+      "score": 0.93248045
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.6601086
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.63912475
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4355313
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778491294",
+      "name": "Mindset",
+      "sameAs": "https://www.wikidata.org/wiki/Q1339824"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C154945302",
+      "name": "Artificial intelligence",
+      "sameAs": "https://www.wikidata.org/wiki/Q11660"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The Indonesian capital markets have undergone a notable transformation, shifting from a savings-oriented society to one that is increasingly investment-oriented. This shift is particularly evident among Generation Z, who now constitute the majority of investors. In the Berau Regency of East Kalimantan Province, there has been a significant rise in individual stock ownership, reflecting a growing investment interest, especially among younger demographics. This study, conducted using Structural Equation Modeling (SEM) analysis with SmartPLS, examined 203 participants from the Generation Z population in Berau Regency. The findings indicate that financial literacy—encompassing knowledge of personal finance, savings, loans, insurance, and investment—along with financial behavior, plays a critical role in shaping an individual's investment preferences. Additionally, investment expertise was found to be advantageous for investors. However, minimum capital requirements and return on investment were not significant factors influencing investment preferences. In contrast, risk perception positively impacted investment preferences, with considerations spanning financial, social, performance, time, and psychological factors. These results provide valuable insights into the factors influencing investment interest in the capital market, particularly among young investors. To enhance the objectivity and applicability of future research, it is recommended to account for respondents' characteristics, geographical conditions, and more representative samples, as these factors may yield different outcomes.",
+  "url": "https://doi.org/10.14414/jebav.v27i3.4703",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.14414/jebav.v27i3.4703",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4399407363",
+  "doi": "10.1155/2024/7017592",
+  "name": "Coordinated Development of Digital Construction and Human Capital Investment Efficiency: Measurement and Testing",
+  "headline": "Coordinated Development of Digital Construction and Human Capital Investment Efficiency: Measurement and Testing",
+  "datePublished": "2024-01-01",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Mathematical Problems in Engineering",
+    "issn": "1024-123X",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Hindawi Publishing Corporation"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5010725385",
+      "name": "Jiacheng Gao",
+      "givenName": "Jiacheng",
+      "familyName": "Gao",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0003-2087-2212"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5045640977",
+      "name": "P. Judy Li",
+      "givenName": "Ping",
+      "familyName": "Li",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0009-0003-5213-5695"
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W1413198135",
+    "https://openalex.org/W1821977771",
+    "https://openalex.org/W2086529657",
+    "https://openalex.org/W2109144159",
+    "https://openalex.org/W2116719293",
+    "https://openalex.org/W2161115428",
+    "https://openalex.org/W2740218199",
+    "https://openalex.org/W2891235235",
+    "https://openalex.org/W3124447566",
+    "https://openalex.org/W3124626047",
+    "https://openalex.org/W3208938235",
+    "https://openalex.org/W4281716582",
+    "https://openalex.org/W4292641834",
+    "https://openalex.org/W4323662745",
+    "https://openalex.org/W4381550561"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 2400,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6622346
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5193109
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.42579293
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776542497",
+      "name": "Development (topology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q5266672"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134306372",
+      "name": "Mathematical analysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q7754"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The improvement of the digital construction level is the material and technological foundation to build a strong network and digital country, and the efficiency of human capital investment is a key factor affecting the sustainable development of the digital economy. In order to ensure the efficient development of digital construction and human capital investment efficiency and to test whether digital construction can effectively promote the improvement of human capital investment efficiency and narrow the regional human capital investment efficiency gap, we used a coupling coordination model to examine the consistency between the level of digital construction and the efficiency of human capital investment. The purpose and findings of the paper are as follows. The research results indicated that the efficiency of digital construction and human capital investment in central and western regions is stronger than that in the eastern region. The coupling level of the above two aspects is relatively low, and there are significant differences among different regions. Based on the research results, it is proposed that the government should guide the optimization of human capital investment structure, and enterprises should lead the improvement of human capital investment efficiency. In addition, the government should promote digital infrastructure guided by technology integration, and the enterprises should expand digital applications in intelligent scenarios. Furthermore, to improve the coordination level of digital construction and the human capital investment, could take measures by coordinating digital construction and interoperability and sharing human capital.",
+  "url": "https://doi.org/10.1155/2024/7017592",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1155/2024/7017592",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4393186731",
+  "doi": "10.47065/jtear.v3i4.635",
+  "name": "The Potential of The Islamic Capital Market (ICM) as an Investment Model for the Baitul Mal",
+  "headline": "The Potential of The Islamic Capital Market (ICM) as an Investment Model for the Baitul Mal",
+  "datePublished": "2023-06-30",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Trends Economics and Accounting Research",
+    "issn": "2745-7710",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5008821964",
+      "name": "Sari Yulis Terfiadi",
+      "givenName": "None",
+      "familyName": "Terfiadi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3130850664",
+          "name": "Malikussaleh University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5038327706",
+      "name": "Muhammad Jais",
+      "givenName": "None",
+      "familyName": "Jais",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3130850664",
+          "name": "Malikussaleh University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5037299099",
+      "name": "Sayed Mahdi",
+      "givenName": "None",
+      "familyName": "Mahdi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210139827",
+          "name": "International Shariʽah Research Academy for Islamic Finance",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "MY"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5070828178",
+      "name": "Ratna Husein",
+      "givenName": "None",
+      "familyName": "Husein",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3130850664",
+          "name": "Malikussaleh University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2910845773",
+    "https://openalex.org/W3082474848",
+    "https://openalex.org/W3086799921",
+    "https://openalex.org/W3108977495",
+    "https://openalex.org/W3110589298",
+    "https://openalex.org/W3134702700",
+    "https://openalex.org/W3195169358",
+    "https://openalex.org/W3207439460",
+    "https://openalex.org/W4205541959",
+    "https://openalex.org/W4254449596",
+    "https://openalex.org/W4283170389",
+    "https://openalex.org/W4293250633",
+    "https://openalex.org/W4379210067",
+    "https://openalex.org/W4385608083",
+    "https://openalex.org/W4392836612"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.58686304
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.500607
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C4445939",
+      "name": "Islam",
+      "sameAs": "https://www.wikidata.org/wiki/Q432"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C178550888",
+      "name": "Business administration",
+      "sameAs": "https://www.wikidata.org/wiki/Q2043282"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C167562979",
+      "name": "Classical economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q271857"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27206212",
+      "name": "Theology",
+      "sameAs": "https://www.wikidata.org/wiki/Q34178"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The mandate for investment in the Sharia Capital Market sector is clearly stated in the Aceh Governor Regulation No.8 of 2022 concerning the Management of Zakat and Infaq. the investment of infaq funds is carried out by the BMA Secretariat in the form and sector of shares, Sukuk, waqf empowerment, economic businesses, health, sharia deposits, education, and other investments. With the total BMA infaq funds from 2017 - 2022 around 153 billion, it provides an opportunity to invest in the Islamic financial market sector and provide benefits for the development of infaq funds aimed at the benefit of the economy. In this study, a qualitative method with a descriptive phenomenological approach was carried out. The sample was selected purposively, the informants of the research were investment practitioners, BMA commissioners, sharia supervisory boards, Islamic economics and Islamic banking academics, the government, the national committee for Islamic economics and finance (KNEK), and mustahik. The results of this study concluded that the sharia-based capital market provides a variety of sharia investment products that Baitul Mal Aceh can choose as a medium for investing infaq funds, namely sharia stocks, sukuk, and sharia mutual funds. Investment business models in Islamic financial markets can be done by considering risks carefully, and prudently choosing Islamic investment products that are low-risk and consistent returns.",
+  "url": "https://doi.org/10.47065/jtear.v3i4.635",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://journal.fkpt.org/index.php/jtear/article/download/635/431",
+    "encodingFormat": "text/html"
+  }
+}

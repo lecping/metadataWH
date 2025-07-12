@@ -1,0 +1,328 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4392590595",
+  "doi": "10.37394/23207.2024.21.61",
+  "name": "Government Investment and Capital Participation to State-Owned Enterprises in Indonesia to Mitigate The Impact of The COVID-19 Pandemic: Is It Effective?",
+  "headline": "Government Investment and Capital Participation to State-Owned Enterprises in Indonesia to Mitigate The Impact of The COVID-19 Pandemic: Is It Effective?",
+  "datePublished": "2024-03-08",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "WSEAS TRANSACTIONS ON BUSINESS AND ECONOMICS",
+    "issn": "1109-9526",
+    "publisher": {
+      "@type": "Organization",
+      "name": "World Scientific and Engineering Academy and Society"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5114133889",
+      "name": "Amdi Veri Darma",
+      "givenName": "Amdi",
+      "familyName": "Darma",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210158908",
+          "name": "Universitas Pembangunan Nasional Veteran Jakarta",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3130997290",
+          "name": "University of Pembangunan Nasional Veteran Jawa Timur",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210156102",
+          "name": "Universitas Pembangunan Nasional Veteran Yogyakarta",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5043745425",
+      "name": "Ni Putu Wiwin Setyari",
+      "givenName": "Ni",
+      "familyName": "Setyari",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I126826664",
+          "name": "Udayana University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-3418-0815"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5038260946",
+      "name": "Eka Ardhani Sisdyani",
+      "givenName": "Eka",
+      "familyName": "Sisdyani",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I126826664",
+          "name": "Udayana University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-6467-0543"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5060372483",
+      "name": "Ni Made Dwi Ratnadi",
+      "givenName": "Ni",
+      "familyName": "Ratnadi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I126826664",
+          "name": "Udayana University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-2658-9063"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W3150400444",
+    "https://openalex.org/W3170882263",
+    "https://openalex.org/W4224135975",
+    "https://openalex.org/W4310841096",
+    "https://openalex.org/W4313189792"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/pandemic",
+      "display_name": "Pandemic",
+      "score": 0.79451656
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.63179684
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.53439516
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.53077734
+    },
+    {
+      "id": "https://openalex.org/keywords/2019-20-coronavirus-outbreak",
+      "display_name": "2019-20 coronavirus outbreak",
+      "score": 0.48380774
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C89623803",
+      "name": "Pandemic",
+      "sameAs": "https://www.wikidata.org/wiki/Q12184"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C3008058167",
+      "name": "Coronavirus disease 2019 (COVID-19)",
+      "sameAs": "https://www.wikidata.org/wiki/Q84263196"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778137410",
+      "name": "Government (linguistics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2732820"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48103436",
+      "name": "State (computer science)",
+      "sameAs": "https://www.wikidata.org/wiki/Q599031"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C3006700255",
+      "name": "2019-20 coronavirus outbreak",
+      "sameAs": "https://www.wikidata.org/wiki/Q81068910"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C3007834351",
+      "name": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+      "sameAs": "https://www.wikidata.org/wiki/Q82069695"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C159047783",
+      "name": "Virology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7215"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C71924100",
+      "name": "Medicine",
+      "sameAs": "https://www.wikidata.org/wiki/Q11190"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C116675565",
+      "name": "Outbreak",
+      "sameAs": "https://www.wikidata.org/wiki/Q3241045"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C11413529",
+      "name": "Algorithm",
+      "sameAs": "https://www.wikidata.org/wiki/Q8366"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C142724271",
+      "name": "Pathology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7208"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779134260",
+      "name": "Disease",
+      "sameAs": "https://www.wikidata.org/wiki/Q12136"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C524204448",
+      "name": "Infectious disease (medical specialty)",
+      "sameAs": "https://www.wikidata.org/wiki/Q788926"
+    }
+  ],
+  "abstract": "The National Economic Recovery (PEN) Program is set by the government of Indonesia comprehensively regarding the handling of the devastating impact of COVID-19. The target recipients of the PEN program are classified into two, namely: the first group, State-Owned Enterprises (SOEs), and the second group are non-SOEs business units, where for SOEs this is done in the form of State Capital Participation (PMN) and Government Investment (IP). This research aims to analyze the impact of the PEN program on SOE performance. The analysis results show that the PEN Program has a positive impact on SOEs, as seen from SOEs ROA. The PEN program that has been running has not been able to improve significantly. However, it can be said that the PEN Program has been able to protect the operations of SOE recipients of the PEN program. In addition, the PEN Program has had an impact on achieving positive EAT growth in almost all recipient SOESs. The PEN program for SOEs needs to be re-evaluated, especially for SOEs that had the potential to perform poorly before the pandemic.",
+  "url": "https://doi.org/10.37394/23207.2024.21.61",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.37394/23207.2024.21.61",
+    "encodingFormat": "text/html"
+  }
+}

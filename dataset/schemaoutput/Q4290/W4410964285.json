@@ -1,0 +1,205 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4410964285",
+  "doi": "10.1590/1984-6398202544947",
+  "name": "Student Capital in L2 Learning Investment Among Undergraduate Students",
+  "headline": "Student Capital in L2 Learning Investment Among Undergraduate Students",
+  "datePublished": "2025-01-01",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Revista Brasileira de Lingüística Aplicada",
+    "issn": "1676-0786",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Federal University of Minas Gerais"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5079162486",
+      "name": "Paula Andrea Echeverri-Sucerquia",
+      "givenName": "Paula",
+      "familyName": "Echeverri-Sucerquia",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I35961687",
+          "name": "Universidad de Antioquia",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CO"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-0660-1363"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5019837768",
+      "name": "Sol Mery Álvarez-Argaez",
+      "givenName": "Sol",
+      "familyName": "Álvarez-Argaez",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I35961687",
+          "name": "Universidad de Antioquia",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CO"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-3607-6026"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5009674099",
+      "name": "John Steven Gómez-Giraldo",
+      "givenName": "John",
+      "familyName": "Gómez-Giraldo",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I35961687",
+          "name": "Universidad de Antioquia",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CO"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-8325-0352"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1968420080",
+    "https://openalex.org/W1995814878",
+    "https://openalex.org/W2044074199",
+    "https://openalex.org/W2139930309",
+    "https://openalex.org/W236006419",
+    "https://openalex.org/W2547796762",
+    "https://openalex.org/W2663585187",
+    "https://openalex.org/W2888003499",
+    "https://openalex.org/W2908038043",
+    "https://openalex.org/W2950177886",
+    "https://openalex.org/W2980431089",
+    "https://openalex.org/W3004301038",
+    "https://openalex.org/W3035936760",
+    "https://openalex.org/W3136225501",
+    "https://openalex.org/W3216396701",
+    "https://openalex.org/W4239633564",
+    "https://openalex.org/W4385450643"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6255594
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.52809304
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5019648
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145420912",
+      "name": "Mathematics education",
+      "sameAs": "https://www.wikidata.org/wiki/Q853077"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C142362112",
+      "name": "Art",
+      "sameAs": "https://www.wikidata.org/wiki/Q735"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C153349607",
+      "name": "Visual arts",
+      "sameAs": "https://www.wikidata.org/wiki/Q36649"
+    }
+  ],
+  "abstract": "Abstract: This paper reports on a quantitative study about students’ investment in additional language (L2) learning at a Colombian public university. Based on Darvin and Norton’s investment model, where ideological, capital, and identity factors influence L2 learner commitment to their learning process, the study aimed at exploring the relationship between students’ symbolic and economic capital and their investment in L2 learning. Data about students’ investment were collected through a survey, while information related to their capital was taken from institutional academic databases. Results indicate that a dependency relationship between students’ symbolic and economic capital and their investment in L2 learning can be established quantitatively, and that results are consistent across the participants using different measures of capital.",
+  "url": "https://doi.org/10.1590/1984-6398202544947",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1590/1984-6398202544947",
+    "encodingFormat": "text/html"
+  }
+}

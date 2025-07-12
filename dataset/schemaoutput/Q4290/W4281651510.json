@@ -1,0 +1,261 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4281651510",
+  "doi": "10.18280/ijsdp.170327",
+  "name": "Attracting Investment Capital to Help Develop the Economy of Countries in General and Attractive Localities in Particular",
+  "headline": "Attracting Investment Capital to Help Develop the Economy of Countries in General and Attractive Localities in Particular",
+  "datePublished": "2022-06-02",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Sustainable Development and Planning",
+    "issn": "1743-7601",
+    "publisher": {
+      "@type": "Organization",
+      "name": "International Information and Engineering Technology Association"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5103630169",
+      "name": "Nga Pham",
+      "givenName": "Nga",
+      "familyName": "Pham",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210115718",
+          "name": "Thai Nguyen University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "VN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5065031193",
+      "name": "Huong Thi Pham",
+      "givenName": "Huong",
+      "familyName": "Pham",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210115718",
+          "name": "Thai Nguyen University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "VN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-1525-7998"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1160471575",
+    "https://openalex.org/W2040059307",
+    "https://openalex.org/W2042626601",
+    "https://openalex.org/W2122376319",
+    "https://openalex.org/W2314831271",
+    "https://openalex.org/W2422477401",
+    "https://openalex.org/W2476671202",
+    "https://openalex.org/W2610987121",
+    "https://openalex.org/W3123933303",
+    "https://openalex.org/W3132233181"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.7528348
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.59254205
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4274882
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C29122968",
+      "name": "Incentive",
+      "sameAs": "https://www.wikidata.org/wiki/Q1414816"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C110121322",
+      "name": "Distribution (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q865811"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778137410",
+      "name": "Government (linguistics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2732820"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779808786",
+      "name": "Locality",
+      "sameAs": "https://www.wikidata.org/wiki/Q6664603"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C206345919",
+      "name": "Resource (disambiguation)",
+      "sameAs": "https://www.wikidata.org/wiki/Q20380951"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C169549615",
+      "name": "Return on investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q939134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134306372",
+      "name": "Mathematical analysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q7754"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C31258907",
+      "name": "Computer network",
+      "sameAs": "https://www.wikidata.org/wiki/Q1301371"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Attracting investment capital to help develop the economy of countries in general and attractive localities in particular. This study was carried out to evaluate the impact of the distribution of local attributes on attracting investment capital in the Thai Nguyen province of Vietnam. The research method is conducted through quantitative analysis with 150 enterprises surveyed in the locality. With multivariable analysis technique (reliability test, PLS-SEM model analysis) on Smart-PLS version 3 software. Research results from 150 business enterprises in Thai Nguyen (a province of Vietnam). Vietnam) shows that all four groups of local attributes influence investment decisions in the area as well as investor satisfaction: (1) investment incentives; (2) government support; (3) skill training; and (4) living environment. From the results of this study, the authors make some recommendations to help Thai Nguyen province better attract investment capital based on appropriate local resource allocation.",
+  "url": "https://doi.org/10.18280/ijsdp.170327",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.iieta.org/download/file/fid/75929",
+    "encodingFormat": "text/html"
+  }
+}

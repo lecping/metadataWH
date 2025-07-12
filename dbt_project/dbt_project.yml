@@ -14,4 +14,17 @@ snapshot-paths: ["snapshots"]
 target-path: "target"
 clean-targets:
   - "target"
-  - "dbt_packages
+  - "dbt_packages"
+ 
+models:
+  dbt_datawarehouse:
+    +create_schema: true
+    staging:
+      +schema: raw
+      +materialized: table
+    transform:
+      +schema: transform
+      +materialized: table
+    stats:
+      +schema: transform
+      +materialized: table

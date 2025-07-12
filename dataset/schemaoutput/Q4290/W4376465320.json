@@ -1,0 +1,274 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4376465320",
+  "doi": "10.56548/msr.v1i4.51",
+  "name": "INVESTMENT KNOWLEDGE, MINIMUM CAPITAL, INVESTEMNT INTEREST: DOES SOCIAL MEDIA HAS MODERATING ROLE?",
+  "headline": "INVESTMENT KNOWLEDGE, MINIMUM CAPITAL, INVESTEMNT INTEREST: DOES SOCIAL MEDIA HAS MODERATING ROLE?",
+  "datePublished": "2022-10-30",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-sa",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Management Science Research Journal",
+    "issn": "2828-4216",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5020178244",
+      "name": "Fauji Sanusi",
+      "givenName": "Fauji",
+      "familyName": "Sanusi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3130588412",
+          "name": "Sultan Ageng Tirtayasa University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-4483-5611"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5091936219",
+      "name": "Endah Bati Purnama",
+      "givenName": "Endah",
+      "familyName": "Purnama",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3130588412",
+          "name": "Sultan Ageng Tirtayasa University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5067917190",
+      "name": "Emma Suryani",
+      "givenName": "Emma",
+      "familyName": "Suryani",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3130588412",
+          "name": "Sultan Ageng Tirtayasa University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5016482815",
+      "name": "Yeni Januarsi",
+      "givenName": "Yeni",
+      "familyName": "Januarsi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3130588412",
+          "name": "Sultan Ageng Tirtayasa University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-6619-486X"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W270420347",
+    "https://openalex.org/W2734421733",
+    "https://openalex.org/W2981781013",
+    "https://openalex.org/W3126820065",
+    "https://openalex.org/W3167733895",
+    "https://openalex.org/W3175294316",
+    "https://openalex.org/W3179671476",
+    "https://openalex.org/W4206933132",
+    "https://openalex.org/W4231950465",
+    "https://openalex.org/W4241530433",
+    "https://openalex.org/W4401652127"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.7535205
+    },
+    {
+      "id": "https://openalex.org/keywords/sample",
+      "display_name": "Sample (material)",
+      "score": 0.590211
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5122987
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.51114994
+    },
+    {
+      "id": "https://openalex.org/keywords/moderation",
+      "display_name": "Moderation",
+      "score": 0.44344437
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C198531522",
+      "name": "Sample (material)",
+      "sameAs": "https://www.wikidata.org/wiki/Q485146"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C68062652",
+      "name": "Social capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q214693"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C93225998",
+      "name": "Moderation",
+      "sameAs": "https://www.wikidata.org/wiki/Q1941972"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C518677369",
+      "name": "Social media",
+      "sameAs": "https://www.wikidata.org/wiki/Q202833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C77805123",
+      "name": "Social psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q161272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C36289849",
+      "name": "Social science",
+      "sameAs": "https://www.wikidata.org/wiki/Q34749"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C43617362",
+      "name": "Chromatography",
+      "sameAs": "https://www.wikidata.org/wiki/Q170050"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This study investigates how investment interest is affected by investing expertise, and the required minimum capital. We also examine the moderating effects of social media on the relationship between the three variables. We use one hundred and thirty-five students from colleges and institutions in the province of Banten as our sample by using a purposeful sample technique. Data is gathered via a questionnaire and analysed using smartPLS or partial least squares (PLS). We find that investment knowledge do not influence investment interest. However, we document that minimum capital effect the investment interest. In addition, we fail to evidence the moderating role of social media on the investment knowledge, minimum capital, and investing interest. This study implies that minimum capital play as an essential role to enhance the investment interest.",
+  "url": "https://doi.org/10.56548/msr.v1i4.51",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://managementscienceresearchjournal.com/index.php/msr/article/download/51/45",
+    "encodingFormat": "text/html"
+  }
+}

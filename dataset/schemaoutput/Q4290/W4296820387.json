@@ -1,0 +1,226 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4296820387",
+  "doi": "10.1088/1755-1315/1081/1/012051",
+  "name": "Comparison Analysis of Options to Comply with IMO 2020 Sulphur Cap Regarding Environmental and Economic Aspect",
+  "headline": "Comparison Analysis of Options to Comply with IMO 2020 Sulphur Cap Regarding Environmental and Economic Aspect",
+  "datePublished": "2022-09-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "IOP Conference Series Earth and Environmental Science",
+    "issn": "1755-1315",
+    "publisher": {
+      "@type": "Organization",
+      "name": "IOP Publishing"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5044950227",
+      "name": "Danuja Wijayanto",
+      "givenName": "Danuja",
+      "familyName": "Wijayanto",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I166843116",
+          "name": "Sepuluh Nopember Institute of Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5066866980",
+      "name": "Gede Bagus Dwi Suasti Antara",
+      "givenName": "Gede",
+      "familyName": "Antara",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I166843116",
+          "name": "Sepuluh Nopember Institute of Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 3,
+  "citation": [
+    "https://openalex.org/W2069909812",
+    "https://openalex.org/W2766633502",
+    "https://openalex.org/W2997195304",
+    "https://openalex.org/W3019160097",
+    "https://openalex.org/W3117196433",
+    "https://openalex.org/W3184850187",
+    "https://openalex.org/W3193071257"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5633871
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5337357
+    },
+    {
+      "id": "https://openalex.org/keywords/fuel-oil",
+      "display_name": "Fuel oil",
+      "score": 0.51322937
+    },
+    {
+      "id": "https://openalex.org/keywords/economic-analysis",
+      "display_name": "Economic Analysis",
+      "score": 0.43706757
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C107053047",
+      "name": "Scrubber",
+      "sameAs": "https://www.wikidata.org/wiki/Q943331"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C82576440",
+      "name": "Fuel oil",
+      "sameAs": "https://www.wikidata.org/wiki/Q214199"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C100405246",
+      "name": "Emissions trading",
+      "sameAs": "https://www.wikidata.org/wiki/Q8348417"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985697011",
+      "name": "Economic analysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134560507",
+      "name": "Environmental economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q753291"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C548081761",
+      "name": "Waste management",
+      "sameAs": "https://www.wikidata.org/wiki/Q180388"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C47737302",
+      "name": "Greenhouse gas",
+      "sameAs": "https://www.wikidata.org/wiki/Q167336"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111368507",
+      "name": "Oceanography",
+      "sameAs": "https://www.wikidata.org/wiki/Q43518"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127313418",
+      "name": "Geology",
+      "sameAs": "https://www.wikidata.org/wiki/Q1069"
+    }
+  ],
+  "abstract": "Abstract IMO enforce new regulation known as IMO 2020 Sulphur Cap which limits the sulphur content in the fuel oil used onboard ships. This new global sulphur cap is a significant challenge for the shipping industry. The compliance options may be classified into three main options: using alternative fuels, low-sulphur fuel oil, and scrubbers. Each option comes with some advantages and disadvantages which creates a trade-off between the options. Some options may require a higher initial investment in terms of capital expenses, and some are more expensive during operations than others. A comparison analysis will be conducted with respect to the environmental and economic aspects.",
+  "url": "https://doi.org/10.1088/1755-1315/1081/1/012051",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1088/1755-1315/1081/1/012051",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4297021563",
+  "doi": "10.22430/22565337.2381",
+  "name": "Techno-Economic Evaluation of a Skimmed Milk Powder Production Process",
+  "headline": "Techno-Economic Evaluation of a Skimmed Milk Powder Production Process",
+  "datePublished": "2022-09-20",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-sa",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "TecnoLógicas",
+    "issn": "0123-7799",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Metropolitan Technological Institute (Medellin)"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5060000362",
+      "name": "Amaury Pérez Sánchez",
+      "givenName": "Amaury",
+      "familyName": "Sánchez",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I78807220",
+          "name": "University of Camagüey",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-0819-6760"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5047314263",
+      "name": "Vladimir Olivera Romero",
+      "givenName": "Vladimir",
+      "familyName": "Romero",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I78807220",
+          "name": "University of Camagüey",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-2221-7900"
+    }
+  ],
+  "citationCount": 1,
+  "citation": [
+    "https://openalex.org/W1571691451",
+    "https://openalex.org/W1963941804",
+    "https://openalex.org/W1970089031",
+    "https://openalex.org/W1970401596",
+    "https://openalex.org/W2018210198",
+    "https://openalex.org/W2039320552",
+    "https://openalex.org/W2044353215",
+    "https://openalex.org/W2060220814",
+    "https://openalex.org/W2188517760",
+    "https://openalex.org/W2293165717",
+    "https://openalex.org/W2493352195",
+    "https://openalex.org/W2762350269",
+    "https://openalex.org/W2794078005",
+    "https://openalex.org/W2794268743",
+    "https://openalex.org/W2959018487",
+    "https://openalex.org/W2976428278",
+    "https://openalex.org/W3006766129",
+    "https://openalex.org/W3035054762",
+    "https://openalex.org/W3085918507",
+    "https://openalex.org/W3127603309",
+    "https://openalex.org/W4235579471",
+    "https://openalex.org/W4239814538",
+    "https://openalex.org/W4248261428",
+    "https://openalex.org/W631921326"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/payback-period",
+      "display_name": "Payback period",
+      "score": 0.63286775
+    },
+    {
+      "id": "https://openalex.org/keywords/economic-evaluation",
+      "display_name": "Economic Evaluation",
+      "score": 0.5063547
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.49120897
+    },
+    {
+      "id": "https://openalex.org/keywords/benefit–cost-ratio",
+      "display_name": "Benefit–cost ratio",
+      "score": 0.47137842
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-cost",
+      "display_name": "Capital cost",
+      "score": 0.4639454
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4525038
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37917861",
+      "name": "Internal rate of return",
+      "sameAs": "https://www.wikidata.org/wiki/Q507477"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181230689",
+      "name": "Net present value",
+      "sameAs": "https://www.wikidata.org/wiki/Q192472"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144553756",
+      "name": "Payback period",
+      "sameAs": "https://www.wikidata.org/wiki/Q15081665"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C129361004",
+      "name": "Profitability index",
+      "sameAs": "https://www.wikidata.org/wiki/Q2470236"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37621935",
+      "name": "Agricultural science",
+      "sameAs": "https://www.wikidata.org/wiki/Q3606845"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776125615",
+      "name": "Economic evaluation",
+      "sameAs": "https://www.wikidata.org/wiki/Q18391886"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778709658",
+      "name": "Benefit–cost ratio",
+      "sameAs": "https://www.wikidata.org/wiki/Q4887470"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C157062255",
+      "name": "Capital cost",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035697"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C189977493",
+      "name": "Skimmed milk",
+      "sameAs": "https://www.wikidata.org/wiki/Q2352187"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C31903555",
+      "name": "Food science",
+      "sameAs": "https://www.wikidata.org/wiki/Q1637030"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    }
+  ],
+  "abstract": "Milk powder is a highly demanded food that is used in various ways, both in the industrial area and in everyday life. In the present work, an innovative and unprecedented techno-economic evaluation of a technological proposal for a skimmed milk powder production plant with an annual capacity of 700 tons was carried out through the use of the SuperPro Designer® simulator, in order to know its main economic and profitability indicators under the current economic conditions in Cuba. For economic performance evaluation, the total capital investment, unit production cost, internal rate of return (IRR), net present value (NPV) and project payback time (PT) among other indicators, were determined. A sensitivity study was also accomplished, to determine from what value of the fluid milk unit cost the proposed skimmed milk powder plant begins to be unprofitable. A total capital investment of USD 22 744 000, an annual operating cost of USD 9 884 000, a working capital of USD 647 000 and a unit production cost of USD 352.95 per 25 kg bag were obtained. From the techno-economic results obtained, it can be concluded that the evaluated skimmed milk powder production plant is profitable and feasible due to the values of NPV (USD 14 475 000), IRR (18.98 %) and PT (4.46 years) obtained. The proposed production plant becomes unprofitable from a value of the fluid milk unit cost of USD 1.32/L.",
+  "url": "https://doi.org/10.22430/22565337.2381",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://revistas.itm.edu.co/index.php/tecnologicas/article/download/2381/2576",
+    "encodingFormat": "text/html"
+  }
+}

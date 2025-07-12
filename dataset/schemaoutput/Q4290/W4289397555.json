@@ -1,0 +1,150 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4289397555",
+  "doi": "10.1201/9781003295952-41",
+  "name": "The impact of working capital management on firm performance and corporate investment",
+  "headline": "The impact of working capital management on firm performance and corporate investment",
+  "datePublished": "2022-08-02",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-nd",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "CRC Press eBooks",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": "Informa"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5006310577",
+      "name": "N.M. Paskalino",
+      "givenName": "N.M.",
+      "familyName": "Paskalino",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I29617571",
+          "name": "University of Indonesia",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5030864335",
+      "name": "V. Diyanty",
+      "givenName": "V.",
+      "familyName": "Diyanty",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I29617571",
+          "name": "University of Indonesia",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1194537554",
+    "https://openalex.org/W1974304125",
+    "https://openalex.org/W2065077483",
+    "https://openalex.org/W2471766423",
+    "https://openalex.org/W2548918880",
+    "https://openalex.org/W2564281136",
+    "https://openalex.org/W2605653278",
+    "https://openalex.org/W2785910076",
+    "https://openalex.org/W3122076001",
+    "https://openalex.org/W3125748266",
+    "https://openalex.org/W4234156351",
+    "https://openalex.org/W4241461346"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.57416904
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.529931
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C60679458",
+      "name": "Working capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q823288"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The purpose of this study involved investigating the impact of a firm's working capital management on performance and corporate investment using ROA and the amount of investment. The sample size included 205 non-financial firms listed on the Indonesia Stock Exchange market from 2010 to 2019. An asymmetric model was used to account for a non-linear relationship and allow for the positive and negative excess to be observed. The empirical results showed that underinvested (overinvested) firms that manage to increase (decrease) their working capital investment will outperform. Additionally, overinvested companies will conduct capital expenditure in terms of corporate investment even if their working capital is not optimized. The findings provide evidence that non-optimal working capital management in impacts firm performance.",
+  "url": "https://doi.org/10.1201/9781003295952-41",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.1201/9781003295952-41&type=chapterpdf",
+    "encodingFormat": "text/html"
+  }
+}

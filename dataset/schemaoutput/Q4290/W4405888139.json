@@ -1,0 +1,226 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4405888139",
+  "doi": "10.35774/jee2024.04.688",
+  "name": "EXPLORING THE IMPACT OF AI RESEARCH, VENTURE CAPITAL INVESTMENT, AND ADOPTION ON PRODUCTIVITY: A MULTI-COUNTRY PANEL DATA ANALYSIS",
+  "headline": "EXPLORING THE IMPACT OF AI RESEARCH, VENTURE CAPITAL INVESTMENT, AND ADOPTION ON PRODUCTIVITY: A MULTI-COUNTRY PANEL DATA ANALYSIS",
+  "datePublished": "2024-12-01",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "JOURNAL OF EUROPEAN ECONOMY",
+    "issn": "2519-4070",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5106928099",
+      "name": "Shah Mehmood Wagan",
+      "givenName": "Shah",
+      "familyName": "WAGAN",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I24185976",
+          "name": "Sichuan University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0009-0003-0449-2655"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5108978449",
+      "name": "Sidra Sidra",
+      "givenName": "Sidra",
+      "familyName": "SIDRA",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I24185976",
+          "name": "Sichuan University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2115272038",
+    "https://openalex.org/W2958532096",
+    "https://openalex.org/W2969583386",
+    "https://openalex.org/W2980544481",
+    "https://openalex.org/W2995804959",
+    "https://openalex.org/W3017872050",
+    "https://openalex.org/W3082083132",
+    "https://openalex.org/W3144307509",
+    "https://openalex.org/W3180246070",
+    "https://openalex.org/W3183317028",
+    "https://openalex.org/W3196457279",
+    "https://openalex.org/W3206900611",
+    "https://openalex.org/W4212816653",
+    "https://openalex.org/W4223904750",
+    "https://openalex.org/W4308093201",
+    "https://openalex.org/W4323349180",
+    "https://openalex.org/W4352978415",
+    "https://openalex.org/W4372348801",
+    "https://openalex.org/W4386648066",
+    "https://openalex.org/W4388143903",
+    "https://openalex.org/W4389264418",
+    "https://openalex.org/W4393038530",
+    "https://openalex.org/W4393379458",
+    "https://openalex.org/W4399610149",
+    "https://openalex.org/W4400600382",
+    "https://openalex.org/W4400911311",
+    "https://openalex.org/W4401684406",
+    "https://openalex.org/W4401728811",
+    "https://openalex.org/W4402658501"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5739228
+    },
+    {
+      "id": "https://openalex.org/keywords/panel-analysis",
+      "display_name": "Panel analysis",
+      "score": 0.49417666
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.44768453
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4106379
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21279758",
+      "name": "Venture capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q219409"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C6422946",
+      "name": "Panel data",
+      "sameAs": "https://www.wikidata.org/wiki/Q857354"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204983608",
+      "name": "Productivity",
+      "sameAs": "https://www.wikidata.org/wiki/Q2111958"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C60675406",
+      "name": "Panel analysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q2049349"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149782125",
+      "name": "Econometrics",
+      "sameAs": "https://www.wikidata.org/wiki/Q160039"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Artificial intelligence is the most important technological development of the 21st century, which is transforming businesses and economies. This paper investigates how AI venture capital investment, AI research publications, and AI adoption affect total factor productivity (TFP). The study utilizes fixed effects econometric modeling on panel data from 14 countries over the period from 2013 to 2023. Results indicate that total factor productivity is being positively affected by AI venture capital investment, AI research output, and AI adoption, with the highest contribution coming from AI adoption. These findings show that a strong ecosystem of venture capital, research, and diffusion of artificial intelligence technologies within industries have to be fostered for innovation in artificial intelligence.",
+  "url": "https://doi.org/10.35774/jee2024.04.688",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.35774/jee2024.04.688",
+    "encodingFormat": "text/html"
+  }
+}

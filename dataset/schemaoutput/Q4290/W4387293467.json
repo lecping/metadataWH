@@ -1,0 +1,163 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4387293467",
+  "doi": "10.48550/arxiv.2309.16888",
+  "name": "Sourcing Investment Targets for Venture and Growth Capital Using Multivariate Time Series Transformer",
+  "headline": "Sourcing Investment Targets for Venture and Growth Capital Using Multivariate Time Series Transformer",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "other-oa",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "arXiv (Cornell University)",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": "Cornell University"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5090184412",
+      "name": "Lele Cao",
+      "givenName": "Cao,",
+      "familyName": "Lele",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-5680-9031"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5089316730",
+      "name": "Gustaf Halvardsson",
+      "givenName": "Halvardsson,",
+      "familyName": "Gustaf",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-6559-1521"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5015643543",
+      "name": "Andrew McCornack",
+      "givenName": "McCornack,",
+      "familyName": "Andrew",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5052213727",
+      "name": "Vilhelm von Ehrenheim",
+      "givenName": "von",
+      "familyName": "Vilhelm",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-4210-4989"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5039027821",
+      "name": "Pawel Herman",
+      "givenName": "Herman,",
+      "familyName": "Pawel",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0001-6553-823X"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.49701837
+    },
+    {
+      "id": "https://openalex.org/keywords/equity",
+      "display_name": "Equity",
+      "score": 0.48659265
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C161584116",
+      "name": "Multivariate statistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q1952580"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21279758",
+      "name": "Venture capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q219409"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199728807",
+      "name": "Equity (law)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2578557"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119857082",
+      "name": "Machine learning",
+      "sameAs": "https://www.wikidata.org/wiki/Q2539"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149782125",
+      "name": "Econometrics",
+      "sameAs": "https://www.wikidata.org/wiki/Q160039"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This paper addresses the growing application of data-driven approaches within the Private Equity (PE) industry, particularly in sourcing investment targets (i.e., companies) for Venture Capital (VC) and Growth Capital (GC). We present a comprehensive review of the relevant approaches and propose a novel approach leveraging a Transformer-based Multivariate Time Series Classifier (TMTSC) for predicting the success likelihood of any candidate company. The objective of our research is to optimize sourcing performance for VC and GC investments by formally defining the sourcing problem as a multivariate time series classification task. We consecutively introduce the key components of our implementation which collectively contribute to the successful application of TMTSC in VC/GC sourcing: input features, model architecture, optimization target, and investor-centric data augmentation and split. Our extensive experiments on four datasets, benchmarked towards three popular baselines, demonstrate the effectiveness of our approach in improving decision making within the VC and GC industry.",
+  "url": "https://arxiv.org/abs/2309.16888",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://arxiv.org/abs/2309.16888",
+    "encodingFormat": "text/html"
+  }
+}

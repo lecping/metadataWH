@@ -1,0 +1,307 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W3157637156",
+  "doi": "10.1016/j.najef.2022.101759",
+  "name": "How do technological innovations affect corporate investment and hiring?",
+  "headline": "How do technological innovations affect corporate investment and hiring?",
+  "datePublished": "2022-07-30",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "The North American Journal of Economics and Finance",
+    "issn": "1062-9408",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Elsevier BV"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5043803934",
+      "name": "Ying Liu",
+      "givenName": "Ying",
+      "familyName": "Liu",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I146613903",
+          "name": "Shanghai Lixin University of Accounting and Finance",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-7167-6142"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5033464437",
+      "name": "Steve Liu",
+      "givenName": "Steve",
+      "familyName": "Liu",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I17626003",
+          "name": "University of Rhode Island",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5016544864",
+      "name": "Ziqi Wu",
+      "givenName": "Ziqi",
+      "familyName": "Wu",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I11406153",
+          "name": "Shanghai International Studies University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100775086",
+      "name": "Yi Xiao",
+      "givenName": "Yi",
+      "familyName": "Xiao",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I11406153",
+          "name": "Shanghai International Studies University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-9071-8005"
+    }
+  ],
+  "citationCount": 16,
+  "citation": [
+    "https://openalex.org/W1497789111",
+    "https://openalex.org/W1544617770",
+    "https://openalex.org/W1601128533",
+    "https://openalex.org/W1821977771",
+    "https://openalex.org/W1984640356",
+    "https://openalex.org/W1995503011",
+    "https://openalex.org/W2010506078",
+    "https://openalex.org/W2049113026",
+    "https://openalex.org/W2050953547",
+    "https://openalex.org/W2057943244",
+    "https://openalex.org/W2069223897",
+    "https://openalex.org/W2101171995",
+    "https://openalex.org/W2126495048",
+    "https://openalex.org/W2128185359",
+    "https://openalex.org/W2136404521",
+    "https://openalex.org/W2148821773",
+    "https://openalex.org/W2149614545",
+    "https://openalex.org/W2168446738",
+    "https://openalex.org/W2264825150",
+    "https://openalex.org/W2317208502",
+    "https://openalex.org/W2520939968",
+    "https://openalex.org/W2560753624",
+    "https://openalex.org/W2757815757",
+    "https://openalex.org/W2766214425",
+    "https://openalex.org/W2769274274",
+    "https://openalex.org/W2802572685",
+    "https://openalex.org/W2890465795",
+    "https://openalex.org/W2994955343",
+    "https://openalex.org/W3022125541",
+    "https://openalex.org/W3023597126",
+    "https://openalex.org/W3025498968",
+    "https://openalex.org/W3035174169",
+    "https://openalex.org/W3122090684",
+    "https://openalex.org/W3122204825",
+    "https://openalex.org/W3122418294",
+    "https://openalex.org/W3122454653",
+    "https://openalex.org/W3122666126",
+    "https://openalex.org/W3122866201",
+    "https://openalex.org/W3123695678",
+    "https://openalex.org/W3123821384",
+    "https://openalex.org/W3123970111",
+    "https://openalex.org/W3123978637",
+    "https://openalex.org/W3124418789",
+    "https://openalex.org/W3125024395",
+    "https://openalex.org/W3125374214",
+    "https://openalex.org/W3125412740",
+    "https://openalex.org/W3125495408",
+    "https://openalex.org/W3125498346",
+    "https://openalex.org/W3158368367",
+    "https://openalex.org/W3181162203",
+    "https://openalex.org/W4242361829"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.7679404
+    },
+    {
+      "id": "https://openalex.org/keywords/affect",
+      "display_name": "Affect",
+      "score": 0.47726128
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4551149
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4181084
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C137996800",
+      "name": "Technological change",
+      "sameAs": "https://www.wikidata.org/wiki/Q762702"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776035688",
+      "name": "Affect (linguistics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1606558"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C145236788",
+      "name": "Labour economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q28161"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "url": "https://doi.org/10.1016/j.najef.2022.101759",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://scholarsbank.uoregon.edu/xmlui/bitstream/1794/25659/1/Liu_oregon_0171A_12788.pdf",
+    "encodingFormat": "text/html"
+  }
+}

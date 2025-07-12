@@ -1,0 +1,205 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4285597644",
+  "doi": "10.54097/fbem.v4i2.869",
+  "name": "Research on the Spatio-temporal Evolution and Influencing Factors of the Innovation Capability of the New Generation of Information Technology Industry",
+  "headline": "Research on the Spatio-temporal Evolution and Influencing Factors of the Innovation Capability of the New Generation of Information Technology Industry",
+  "datePublished": "2022-07-13",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Frontiers in Business Economics and Management",
+    "issn": "2766-824X",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5115694806",
+      "name": "Qianying Wang",
+      "givenName": "Qianying",
+      "familyName": "Wang",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I188935350",
+          "name": "Anhui University of Finance and Economics",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5049414098",
+      "name": "Ling Jiang",
+      "givenName": "Ling",
+      "familyName": "Jiang",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I188935350",
+          "name": "Anhui University of Finance and Economics",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-1464-5881"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W4255939700"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.60373765
+    },
+    {
+      "id": "https://openalex.org/keywords/information-industry",
+      "display_name": "Information industry",
+      "score": 0.44292498
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.43962494
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C191935318",
+      "name": "China",
+      "sameAs": "https://www.wikidata.org/wiki/Q148"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121017731",
+      "name": "Information technology",
+      "sameAs": "https://www.wikidata.org/wiki/Q11661"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C191007597",
+      "name": "Information industry",
+      "sameAs": "https://www.wikidata.org/wiki/Q1136351"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136264566",
+      "name": "Economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q159810"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111919701",
+      "name": "Operating system",
+      "sameAs": "https://www.wikidata.org/wiki/Q9135"
+    }
+  ],
+  "abstract": "In the critical period of China's economic transformation, the new generation of information technology plays an important role, and the key to the development of the new generation of information technology industry lies in innovation. This paper takes 31 Chinese provinces and cities as the research objects, and based on the data related to the innovation capability of the new generation of information technology industry from 2010 to 2019.Firstly this paper analyzes the spatial and temporal evolution of the innovation capability of the new generation of information technology industry in 31 Chinese provinces and cities using the entropy method. Secondly, principal component regression analysis is applied to analyze the main influencing factors of the innovation capability of the new generation of information technology industry and its degree of influence. Then it was concluded that the innovation capability of China's the new generation of information technology industry showed an overall upward trend, but the growth rate slowed down in 2018; there were obvious differences between the innovation capability of coastal regions and inland regions, and the regional development was unbalanced; the factors that had a greater impact on the innovation capability were focused on the capital investment in innovation (41.839%) and talent investment (26.975%).Finally, it proposes to strengthen the core technology research and development to accelerate the development of independent innovation, strengthen the leading role of coastal areas to promote balanced and coordinated development of the industry, broaden financing channels to increase capital investment, pay attention to personnel training while strengthening the government's guiding role, and improve the industrial development environment.",
+  "url": "https://doi.org/10.54097/fbem.v4i2.869",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://drpress.org/ojs/index.php/fbem/article/download/869/801",
+    "encodingFormat": "text/html"
+  }
+}

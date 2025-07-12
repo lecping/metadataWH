@@ -1,0 +1,179 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4391619240",
+  "doi": "10.32782/business-navigator.74-22",
+  "name": "ECONOMIC ESSENCE OF RISKS IN INVESTMENT ACTIVITIES IN THE HOTEL – RESTAURANT BUSINESS",
+  "headline": "ECONOMIC ESSENCE OF RISKS IN INVESTMENT ACTIVITIES IN THE HOTEL – RESTAURANT BUSINESS",
+  "datePublished": "2024-01-01",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Business Navigator",
+    "issn": "2522-4751",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5026206765",
+      "name": "V. P. Zhukov",
+      "givenName": "Vladlen",
+      "familyName": "Zhukov",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-0039-2556"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6322205
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4595626
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4343849
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-budgeting",
+      "display_name": "Capital Budgeting",
+      "score": 0.4190333
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181622380",
+      "name": "Profit (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q26911"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C6177178",
+      "name": "Discounting",
+      "sameAs": "https://www.wikidata.org/wiki/Q10998070"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162118730",
+      "name": "Actuarial science",
+      "sameAs": "https://www.wikidata.org/wiki/Q1128453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C112930515",
+      "name": "Risk analysis (engineering)",
+      "sameAs": "https://www.wikidata.org/wiki/Q4389547"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C57918260",
+      "name": "Capital budgeting",
+      "sameAs": "https://www.wikidata.org/wiki/Q1354666"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C169549615",
+      "name": "Return on investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q939134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21425071",
+      "name": "Project appraisal",
+      "sameAs": "https://www.wikidata.org/wiki/Q7249389"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "The article examines the approaches of scientists to the definition of the essence of the concept of \"investment risk\" as an economic category, a morphological analysis was carried out in order to highlight the essential features and clarify the key concepts, which are probability, uncertainty and totality. From the considered definitions of the concept of \"risk\", we can conclude that risk is the possibility of danger for the enterprise, loss of profit, the cause of which is a lack of information, which leads to unforeseen events of a negative nature for the enterprise. A content analysis of the concept was carried out, where the numerical expression of keywords is obtained. The conducted analysis showed that there are many examples and definitions of investment risk, which are the same in essence, but different in content, because each author interprets it differently. The scores of similar keywords are summarized, those with the highest scores are considered the most significant keywords and phrases. A proper definition of \"investment risk\" is proposed as the probability of unforeseen losses, which threatens the enterprise with receiving monetary losses, loss of capital and making balanced decisions. It is proposed to introduce the main criteria for making investment decisions, as well as to reduce costs in the face of risk reduction for investors such as: the presence of viable alternatives to investing in large sums; short term of capital investments; low cost of the project; ensuring the stability of income from the project; high return on investment after discounting; remove information to provide reliable data about the investment project, divide the risk with other enterprises and bankers who insure the investment with an insurance company; expand the number of experts who praise investment decisions. How to change the quality of the inheritance of the rhizic plant. Ensure a thorough selection of project participants (preferably on a competitive basis; selection should be based on an analysis of competitive proposals, taking into account the recommendations of independent individuals and organizations. With the help of a combination of indicators, the investor can praise the decision for the benefit of one or another, investment project.",
+  "url": "https://doi.org/10.32782/business-navigator.74-22",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.32782/business-navigator.74-22",
+    "encodingFormat": "text/html"
+  }
+}

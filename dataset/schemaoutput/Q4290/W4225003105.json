@@ -1,0 +1,257 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4225003105",
+  "doi": "10.20849/ajsss.v7i4.1099",
+  "name": "Experiences of Diversified Investment in Basic Research",
+  "headline": "Experiences of Diversified Investment in Basic Research",
+  "datePublished": "2022-04-14",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Asian Journal of Social Science Studies",
+    "issn": "2424-8517",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100416650",
+      "name": "Shanshan Chen",
+      "givenName": "Shanshan",
+      "familyName": "Chen",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210092944",
+          "name": "Dalian University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-9723-2403"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/basic-research",
+      "display_name": "Basic Research",
+      "score": 0.91341543
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.69464946
+    },
+    {
+      "id": "https://openalex.org/keywords/fund-raising",
+      "display_name": "Fund raising",
+      "score": 0.5044559
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.49626094
+    },
+    {
+      "id": "https://openalex.org/keywords/basic-income",
+      "display_name": "Basic income",
+      "score": 0.49385864
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.48242888
+    },
+    {
+      "id": "https://openalex.org/keywords/basic-education",
+      "display_name": "Basic education",
+      "score": 0.44148487
+    },
+    {
+      "id": "https://openalex.org/keywords/basic-law",
+      "display_name": "Basic law",
+      "score": 0.4222408
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2986762682",
+      "name": "Basic research",
+      "sameAs": "https://www.wikidata.org/wiki/Q964754"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C191935318",
+      "name": "China",
+      "sameAs": "https://www.wikidata.org/wiki/Q148"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778496695",
+      "name": "Dilemma",
+      "sameAs": "https://www.wikidata.org/wiki/Q254128"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779530757",
+      "name": "Quality (philosophy)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1207505"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2993022114",
+      "name": "Fund raising",
+      "sameAs": "https://www.wikidata.org/wiki/Q1161355"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779264144",
+      "name": "Basic income",
+      "sameAs": "https://www.wikidata.org/wiki/Q678522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779175122",
+      "name": "Basic education",
+      "sameAs": "https://www.wikidata.org/wiki/Q3309206"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780363275",
+      "name": "Basic law",
+      "sameAs": "https://www.wikidata.org/wiki/Q390689"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C111472728",
+      "name": "Epistemology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9471"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C120912362",
+      "name": "Higher education",
+      "sameAs": "https://www.wikidata.org/wiki/Q136822"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C161191863",
+      "name": "Library science",
+      "sameAs": "https://www.wikidata.org/wiki/Q199655"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776154427",
+      "name": "Constitution",
+      "sameAs": "https://www.wikidata.org/wiki/Q7755"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "Basic research is the source of the whole scientific system. How to improve the efficiency of diversified investment in basic research is of special significance to the development of basic research in China. Therefore, this paper combines China's basic research investment dilemma, draws on the excellent experience of the United States, Japan and other advanced countries, further develops the fund-raising channels for basic research, guides social capital to fund basic research in the form of donations or the establishment of foundations, etc., and promotes the high-quality development of basic research in China.",
+  "url": "https://doi.org/10.20849/ajsss.v7i4.1099",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "http://journal.julypress.com/index.php/ajsss/article/download/1099/813",
+    "encodingFormat": "text/html"
+  }
+}

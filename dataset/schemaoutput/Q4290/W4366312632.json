@@ -1,0 +1,244 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4366312632",
+  "doi": "10.59331/jasd.v4i4.257",
+  "name": "ECONOMIC ANALYSIS AND TECHNICAL EFFICIENCY OF WATERMELON PRODUCTION IN NIGER STATE OF NIGERIA",
+  "headline": "ECONOMIC ANALYSIS AND TECHNICAL EFFICIENCY OF WATERMELON PRODUCTION IN NIGER STATE OF NIGERIA",
+  "datePublished": "2021-12-01",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Agripreneurship and Sustainable Development",
+    "issn": "2651-6365",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5057197551",
+      "name": "M. A. Ndanitsa",
+      "givenName": "None",
+      "familyName": "A.",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5069856897",
+      "name": "H. Sallawu",
+      "givenName": "None",
+      "familyName": "H.",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5071006243",
+      "name": "Ramatu Usman Bako",
+      "givenName": "None",
+      "familyName": "U.",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5034649215",
+      "name": "A. I. Oseghale",
+      "givenName": "None",
+      "familyName": "I.",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5022534263",
+      "name": "S. Jibrin",
+      "givenName": "None",
+      "familyName": "S.",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5037573701",
+      "name": "D. Mohammed",
+      "givenName": "None",
+      "familyName": "D.",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0002-2402-4686"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5090052952",
+      "name": "N. Ndako",
+      "givenName": "None",
+      "familyName": "N.",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 2,
+  "citation": [
+    "https://openalex.org/W1988203537",
+    "https://openalex.org/W2120807103",
+    "https://openalex.org/W2181816796",
+    "https://openalex.org/W2253222989",
+    "https://openalex.org/W2587799136",
+    "https://openalex.org/W2900199966",
+    "https://openalex.org/W2921631624",
+    "https://openalex.org/W3125980399",
+    "https://openalex.org/W4366312364"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6259228
+    },
+    {
+      "id": "https://openalex.org/keywords/multistage-sampling",
+      "display_name": "Multistage sampling",
+      "score": 0.49034595
+    },
+    {
+      "id": "https://openalex.org/keywords/sample",
+      "display_name": "Sample (material)",
+      "score": 0.44076708
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4265467
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39896193",
+      "name": "Descriptive statistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q380344"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37621935",
+      "name": "Agricultural science",
+      "sameAs": "https://www.wikidata.org/wiki/Q3606845"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139134214",
+      "name": "Multistage sampling",
+      "sameAs": "https://www.wikidata.org/wiki/Q3652044"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C198531522",
+      "name": "Sample (material)",
+      "sameAs": "https://www.wikidata.org/wiki/Q485146"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105795698",
+      "name": "Statistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q12483"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C43617362",
+      "name": "Chromatography",
+      "sameAs": "https://www.wikidata.org/wiki/Q170050"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    }
+  ],
+  "abstract": "The study examines the economic analysis and technical efficiency of watermelon production in Niger State of Nigeria. Multi-stage sampling procedure was used to draw up the sample and watermelon farmers in the area were the unit of the survey. Accordingly, 150 respondents were selected for the survey. Primary data were collected with the use of structured questionnaire. Information elicited for include socio-economic variables, farm information and management data, information on inputs and outputs and their relative prices, and information on constraints in watermelon production. Data were analyzed using descriptive statistics, farm budgeting techniques as well as stochastic frontier production function. The result of the analyses shows that the mean age of respondents was 41 years, 98% were males and most of them (88%) were married, and having average household size of 9 persons. A typical watermelon farmer in the study area realizes a gross farm income of N534,747.50/ha, and a net farm income of N459,769.56/ha and a return to investment of 6.13. The constraints to watermelon production in the study area include; inadequate capital for investment, high cost of inputs and their inadequacies, small farm size, poor market integration/pricing of produce, inadequate rainfall, problem of pests/diseases infestation, etc. It was concluded that watermelon is a profitable venture whose production can be increased if more land can be put under cultivation, ensuring that farmers have access to production inputs, provision of infrastructural facilities, land like good roads.",
+  "url": "https://doi.org/10.59331/jasd.v4i4.257",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "http://njaat.atbu.edu.ng/index.php/jasd/article/download/257/255",
+    "encodingFormat": "text/html"
+  }
+}

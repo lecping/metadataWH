@@ -1,0 +1,322 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4388602769",
+  "doi": "10.1016/j.csite.2023.103714",
+  "name": "Waste heat recovery integration options for commercial bakeries in a thermo-economic-environmental perspective",
+  "headline": "Waste heat recovery integration options for commercial bakeries in a thermo-economic-environmental perspective",
+  "datePublished": "2023-11-11",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Case Studies in Thermal Engineering",
+    "issn": "2214-157X",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Elsevier BV"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5024043313",
+      "name": "Jahedul Islam Chowdhury",
+      "givenName": "Jahedul",
+      "familyName": "Chowdhury",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I82284825",
+          "name": "Cranfield University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-1953-2173"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5090637454",
+      "name": "Faisal Asfand",
+      "givenName": "Faisal",
+      "familyName": "Asfand",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I133837150",
+          "name": "University of Huddersfield",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-1928-6224"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5010581683",
+      "name": "Mohammad Ja’fari",
+      "givenName": "Mohammad",
+      "familyName": "Ja’fari",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I133837150",
+          "name": "University of Huddersfield",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5051551100",
+      "name": "Sanjay Mukherjee",
+      "givenName": "Sanjay",
+      "familyName": "Mukherjee",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I82284825",
+          "name": "Cranfield University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-8503-4872"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5085003521",
+      "name": "Nazmiye Balta‐Ozkan",
+      "givenName": "Nazmiye",
+      "familyName": "Balta-Ozkan",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I82284825",
+          "name": "Cranfield University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-2848-5535"
+    }
+  ],
+  "citationCount": 4,
+  "citation": [
+    "https://openalex.org/W1591073760",
+    "https://openalex.org/W2020230375",
+    "https://openalex.org/W2110069242",
+    "https://openalex.org/W2192141444",
+    "https://openalex.org/W2587866017",
+    "https://openalex.org/W2754224162",
+    "https://openalex.org/W2797522180",
+    "https://openalex.org/W2801934545",
+    "https://openalex.org/W2883770528",
+    "https://openalex.org/W2890728120",
+    "https://openalex.org/W3044780387",
+    "https://openalex.org/W3048250719",
+    "https://openalex.org/W3081638723",
+    "https://openalex.org/W3106520719",
+    "https://openalex.org/W3135574654",
+    "https://openalex.org/W3139510682",
+    "https://openalex.org/W3199223325",
+    "https://openalex.org/W3212192052",
+    "https://openalex.org/W4224265013",
+    "https://openalex.org/W4289933957",
+    "https://openalex.org/W4292996473",
+    "https://openalex.org/W4306399840",
+    "https://openalex.org/W4308309639",
+    "https://openalex.org/W4318065414"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 700,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/payback-period",
+      "display_name": "Payback period",
+      "score": 0.7054157
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-cost",
+      "display_name": "Capital cost",
+      "score": 0.6490316
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.47148582
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4481923
+    },
+    {
+      "id": "https://openalex.org/keywords/degree-rankine",
+      "display_name": "Degree Rankine",
+      "score": 0.4288801
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144553756",
+      "name": "Payback period",
+      "sameAs": "https://www.wikidata.org/wiki/Q15081665"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C184235594",
+      "name": "Waste heat",
+      "sameAs": "https://www.wikidata.org/wiki/Q288706"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C157062255",
+      "name": "Capital cost",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035697"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105994980",
+      "name": "Waste heat recovery unit",
+      "sameAs": "https://www.wikidata.org/wiki/Q15081379"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C548081761",
+      "name": "Waste management",
+      "sameAs": "https://www.wikidata.org/wiki/Q180388"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127145964",
+      "name": "Heat recovery ventilation",
+      "sameAs": "https://www.wikidata.org/wiki/Q2142051"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C44431628",
+      "name": "Degree Rankine",
+      "sameAs": "https://www.wikidata.org/wiki/Q207488"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21880701",
+      "name": "Process engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q2144042"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C107706546",
+      "name": "Heat exchanger",
+      "sameAs": "https://www.wikidata.org/wiki/Q189124"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78519656",
+      "name": "Mechanical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q101333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    }
+  ],
+  "abstract": "In commercial bakeries, a substantial amount of heat is exhausted which is not only a waste of useful resource, but also contributes to higher fuel consumption and carbon emissions, if not recovered. In this study, waste heat from a single oven is considered and five potential heat recovery options are investigated in a techno-economic-environmental perspective to provide essential results for integrating an appropriate technology for waste heat recovery in the commercial bakeries sector. Waste heat recovery options were selected considering the temperature profile, the waste heat source, quality and quantity of heat and the heat energy demand for the various processes in commercial bakeries. Thermodynamic, economic, and environmental models are developed to assess the heat recovery performance, cost savings and emission reduction at both design and off-design conditions. Results show that up to 286 kW of waste heat can be recovered and reused in the case of air pre-heater, which can save up to 161.93 t/year of natural gas and an equivalent cost and emission savings of $ 93,594/year and 412.5 tCO2e/year, respectively. Moreover, the earliest payback period of 0.77 years was estimated for the air pre-heater option with an estimated capital investment cost of $71,631, whereas a maximum payback period of 4.59 years was estimated for the electricity generation by the organic Rankine cycle having an estimated capital investment cost of $304,040. These results reveal that air preheating is the most energy-efficient and cost-effective option to recover the waste heat from the ovens in the bakery industry.",
+  "url": "https://doi.org/10.1016/j.csite.2023.103714",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1016/j.csite.2023.103714",
+    "encodingFormat": "text/html"
+  }
+}

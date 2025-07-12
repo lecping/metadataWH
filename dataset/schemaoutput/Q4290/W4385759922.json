@@ -1,0 +1,263 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4385759922",
+  "doi": "10.3390/su151612293",
+  "name": "Effects of Science, Technology, and Innovation Official Development Assistance on Foreign Direct Investment in Developing Countries",
+  "headline": "Effects of Science, Technology, and Innovation Official Development Assistance on Foreign Direct Investment in Developing Countries",
+  "datePublished": "2023-08-11",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Sustainability",
+    "issn": "2071-1050",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Multidisciplinary Digital Publishing Institute"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5104155186",
+      "name": "Jeunghan Lee",
+      "givenName": "Jeunghan",
+      "familyName": "Lee",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I848706",
+          "name": "Sungkyunkwan University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "KR"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5015896195",
+      "name": "Keuntae Cho",
+      "givenName": "Keuntae",
+      "familyName": "Cho",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I848706",
+          "name": "Sungkyunkwan University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "KR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-9754-1860"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1970883168",
+    "https://openalex.org/W1976345761",
+    "https://openalex.org/W1990946619",
+    "https://openalex.org/W2005144066",
+    "https://openalex.org/W2009623235",
+    "https://openalex.org/W2043564143",
+    "https://openalex.org/W2059781752",
+    "https://openalex.org/W2066265425",
+    "https://openalex.org/W2102585677",
+    "https://openalex.org/W2105053829",
+    "https://openalex.org/W2108747612",
+    "https://openalex.org/W2108795964",
+    "https://openalex.org/W2122927661",
+    "https://openalex.org/W2133517305",
+    "https://openalex.org/W2145256625",
+    "https://openalex.org/W2163082452",
+    "https://openalex.org/W2203911698",
+    "https://openalex.org/W2232611595",
+    "https://openalex.org/W2415654523",
+    "https://openalex.org/W2792646991",
+    "https://openalex.org/W2967170058",
+    "https://openalex.org/W3005656475",
+    "https://openalex.org/W3012101096",
+    "https://openalex.org/W3013324902",
+    "https://openalex.org/W3034054334",
+    "https://openalex.org/W3041784521",
+    "https://openalex.org/W3045972452",
+    "https://openalex.org/W3123743859",
+    "https://openalex.org/W3123888140",
+    "https://openalex.org/W3124700467",
+    "https://openalex.org/W3125135438",
+    "https://openalex.org/W33863551",
+    "https://openalex.org/W4205801387",
+    "https://openalex.org/W4241356701",
+    "https://openalex.org/W4295768364",
+    "https://openalex.org/W4297193115",
+    "https://openalex.org/W4312188405",
+    "https://openalex.org/W4319316923",
+    "https://openalex.org/W4327653238"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 2200,
+      "currency": "CHF"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/absorptive-capacity",
+      "display_name": "Absorptive Capacity",
+      "score": 0.7289213
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.49512377
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4377857
+    },
+    {
+      "id": "https://openalex.org/keywords/foreign-capital",
+      "display_name": "Foreign capital",
+      "score": 0.41344246
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33842695",
+      "name": "Foreign direct investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q490513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2777724570",
+      "name": "Absorptive capacity",
+      "sameAs": "https://www.wikidata.org/wiki/Q4669907"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83864248",
+      "name": "Developing country",
+      "sameAs": "https://www.wikidata.org/wiki/Q177323"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C6422946",
+      "name": "Panel data",
+      "sameAs": "https://www.wikidata.org/wiki/Q857354"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C552854447",
+      "name": "Sustainable development",
+      "sameAs": "https://www.wikidata.org/wiki/Q131201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2993879009",
+      "name": "Foreign capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q8137"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18547055",
+      "name": "International economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q47417"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149782125",
+      "name": "Econometrics",
+      "sameAs": "https://www.wikidata.org/wiki/Q160039"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This study investigated the effects of Science, Technology, and Innovation Official Development Assistance (STI ODA) on Foreign Direct Investment (FDI) in developing countries. The study sought to empirically analyze whether STI ODA has contributed to attracting FDI in recipient countries and whether specific sub-variables, such as absorptive capacity, human capital, infrastructure, and scientific and technical journal articles have a moderating effect. The analysis method was a panel analysis model that combined cross-sectional and time-series data as fixed-effect and random-effect models to reflect individual effects in the empirical analysis. This study highlights the importance of STI ODA in achieving sustainable development goals and fostering economic growth.",
+  "url": "https://doi.org/10.3390/su151612293",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.mdpi.com/2071-1050/15/16/12293/pdf?version=1691762376",
+    "encodingFormat": "text/html"
+  }
+}

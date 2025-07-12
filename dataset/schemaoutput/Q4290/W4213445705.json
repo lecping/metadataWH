@@ -1,0 +1,361 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4213445705",
+  "doi": "10.3390/jrfm15030100",
+  "name": "Corporate Social Responsibility and Capital Allocation Efficiency in Australia and New Zealand",
+  "headline": "Corporate Social Responsibility and Capital Allocation Efficiency in Australia and New Zealand",
+  "datePublished": "2022-02-23",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of risk and financial management",
+    "issn": "1911-8066",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Multidisciplinary Digital Publishing Institute"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5076338625",
+      "name": "Alexandre Garel",
+      "givenName": "Alexandre",
+      "familyName": "Garel",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I161463649",
+          "name": "Audencia Business School",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "FR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-5301-9678"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5067865060",
+      "name": "Alireza Tourani‐Rad",
+      "givenName": "Alireza",
+      "familyName": "Tourani-Rad",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I39854758",
+          "name": "Auckland University of Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NZ"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-0743-463X"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5079097162",
+      "name": "Shengze Xu",
+      "givenName": "Shengze",
+      "familyName": "Xu",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I39854758",
+          "name": "Auckland University of Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NZ"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0009-0005-7581-8012"
+    }
+  ],
+  "citationCount": 2,
+  "citation": [
+    "https://openalex.org/W116194920",
+    "https://openalex.org/W1691197151",
+    "https://openalex.org/W1775941128",
+    "https://openalex.org/W1870906085",
+    "https://openalex.org/W1963080271",
+    "https://openalex.org/W1977240483",
+    "https://openalex.org/W1978282661",
+    "https://openalex.org/W1985721027",
+    "https://openalex.org/W1994185064",
+    "https://openalex.org/W2003498350",
+    "https://openalex.org/W2005080425",
+    "https://openalex.org/W2018435171",
+    "https://openalex.org/W2041085379",
+    "https://openalex.org/W2055274915",
+    "https://openalex.org/W2069430191",
+    "https://openalex.org/W2070361664",
+    "https://openalex.org/W2070384429",
+    "https://openalex.org/W2070595615",
+    "https://openalex.org/W2092091902",
+    "https://openalex.org/W2098935104",
+    "https://openalex.org/W2103200671",
+    "https://openalex.org/W2113771126",
+    "https://openalex.org/W2134729569",
+    "https://openalex.org/W2135736612",
+    "https://openalex.org/W2146006314",
+    "https://openalex.org/W2149088624",
+    "https://openalex.org/W2158153410",
+    "https://openalex.org/W2167599156",
+    "https://openalex.org/W2189126026",
+    "https://openalex.org/W2313128179",
+    "https://openalex.org/W2322872268",
+    "https://openalex.org/W2497687133",
+    "https://openalex.org/W2583542257",
+    "https://openalex.org/W2626512247",
+    "https://openalex.org/W2795029922",
+    "https://openalex.org/W2802352621",
+    "https://openalex.org/W2943524151",
+    "https://openalex.org/W3021945653",
+    "https://openalex.org/W3121693921",
+    "https://openalex.org/W3121958340",
+    "https://openalex.org/W3122337292",
+    "https://openalex.org/W3122638935",
+    "https://openalex.org/W3122711915",
+    "https://openalex.org/W3123009431",
+    "https://openalex.org/W3123136587",
+    "https://openalex.org/W3123551409",
+    "https://openalex.org/W3124651905",
+    "https://openalex.org/W3125550055",
+    "https://openalex.org/W3125591356",
+    "https://openalex.org/W3156650419",
+    "https://openalex.org/W3200981441",
+    "https://openalex.org/W4239467316",
+    "https://openalex.org/W4242039071",
+    "https://openalex.org/W4244549379",
+    "https://openalex.org/W4249036971"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 1200,
+      "currency": "CHF"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-allocation-line",
+      "display_name": "Capital allocation line",
+      "score": 0.8137411
+    },
+    {
+      "id": "https://openalex.org/keywords/sample",
+      "display_name": "Sample (material)",
+      "score": 0.51731324
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.51271474
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-expenditure",
+      "display_name": "Capital expenditure",
+      "score": 0.49455592
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.48896515
+    },
+    {
+      "id": "https://openalex.org/keywords/stock",
+      "display_name": "Stock (firearms)",
+      "score": 0.45733362
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.44563532
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138142054",
+      "name": "Capital allocation line",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035692"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C141261163",
+      "name": "Corporate social responsibility",
+      "sameAs": "https://www.wikidata.org/wiki/Q218600"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C200870193",
+      "name": "Stock exchange",
+      "sameAs": "https://www.wikidata.org/wiki/Q11691"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C198531522",
+      "name": "Sample (material)",
+      "sameAs": "https://www.wikidata.org/wiki/Q485146"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C172497479",
+      "name": "Capital expenditure",
+      "sameAs": "https://www.wikidata.org/wiki/Q302208"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204036174",
+      "name": "Stock (firearms)",
+      "sameAs": "https://www.wikidata.org/wiki/Q909380"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C147598955",
+      "name": "Social responsibility",
+      "sameAs": "https://www.wikidata.org/wiki/Q3427818"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121955636",
+      "name": "Accounting",
+      "sameAs": "https://www.wikidata.org/wiki/Q4116214"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C100001284",
+      "name": "Public economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q2248246"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39549134",
+      "name": "Public relations",
+      "sameAs": "https://www.wikidata.org/wiki/Q133080"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C29122968",
+      "name": "Incentive",
+      "sameAs": "https://www.wikidata.org/wiki/Q1414816"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78519656",
+      "name": "Mechanical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q101333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C43617362",
+      "name": "Chromatography",
+      "sameAs": "https://www.wikidata.org/wiki/Q170050"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    }
+  ],
+  "abstract": "In this paper, we investigate whether a firm’s Corporate Social Responsibility initiatives could affect its financial performance. We specifically investigate the firm’s capital allocation efficiency as a moderating channel affecting their performance. We employ a comprehensive sample of Australian and New Zealand stock exchange-listed firms consisting of 3324 firm-year observations for the period 2004–2017. We do not find that the firm’s capital allocation efficiency is negatively affected by the overall CSR scores or its two main components, namely the environmental or social dimensions. However, our empirical analysis exposes a challenging result for the firms in that we find strong evidence that extremely costly environmental CSR initiatives or policies (e.g., emission reduction, employee health and safety improvements, clean energy products) could reduce the firm’s investment efficiency. Hence, firms need to follow a balancing act when contemplating CSR plans and investing in them. While investors appreciate moderate levels of investment in CSRs, they penalize those firms that invest excessively in such initiatives.",
+  "url": "https://doi.org/10.3390/jrfm15030100",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.mdpi.com/1911-8074/15/3/100/pdf?version=1645692557",
+    "encodingFormat": "text/html"
+  }
+}

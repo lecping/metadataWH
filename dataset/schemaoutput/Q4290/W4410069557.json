@@ -1,0 +1,206 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4410069557",
+  "doi": "10.36982/jeg.v10i1.5383",
+  "name": "Analyzing Factors Influencing Investment Decisions in the Indonesian Capital Market",
+  "headline": "Analyzing Factors Influencing Investment Decisions in the Indonesian Capital Market",
+  "datePublished": "2025-05-05",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Jurnal Ecoment Global",
+    "issn": "2540-816X",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5117428440",
+      "name": "Geontsinimus Karo",
+      "givenName": "Geontsinimus",
+      "familyName": "Karo",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5117428441",
+      "name": "Habibi Ghulam Barus",
+      "givenName": "Habibi",
+      "familyName": "Barus",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5117428442",
+      "name": "Nazwa Lexano Salsabila",
+      "givenName": "Nazwa",
+      "familyName": "Salsabila",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5117428443",
+      "name": "Rajwa Nur Aisyah Harahap",
+      "givenName": "Rajwa",
+      "familyName": "Harahap",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5117428444",
+      "name": "Reza Syahutra",
+      "givenName": "Reza",
+      "familyName": "Syahutra",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5117428445",
+      "name": "R. Bima Rayoga",
+      "givenName": "R.",
+      "familyName": "Rayoga",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.61178815
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5663823
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.47371596
+    },
+    {
+      "id": "https://openalex.org/keywords/investment-decisions",
+      "display_name": "Investment Decisions",
+      "score": 0.41743544
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779207338",
+      "name": "Indonesian",
+      "sameAs": "https://www.wikidata.org/wiki/Q9240"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C143910263",
+      "name": "Capital market",
+      "sameAs": "https://www.wikidata.org/wiki/Q750458"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778865806",
+      "name": "Investment decisions",
+      "sameAs": "https://www.wikidata.org/wiki/Q6060850"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C109574028",
+      "name": "Behavioral economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q647525"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Objective: This study aims to identify and comprehensively analyze the factors influencing investment decisions in the Indonesian capital market based on a descriptive qualitative literature study. This study seeks to broaden the understanding of investment decision-making dynamics by highlighting various perspectives and findings from previous studies.Design/Method/Approach: The method used is qualitative descriptive with a literature study method (library research). Data was collected from various relevant and credible secondary literature, including scientific journals, reference books, research reports, and official publications from OJK, IDX, and BI in the last five years. Data analysis was carried out using content analysis techniques to identify patterns, themes, and variables related to investment decisions in the Indonesian capital market. Findings: The results of the literature analysis identified five main themes influencing investment decisions in the Indonesian capital market: (1) Investment Knowledge, which improves the quality of decisions; (2) Social influence, including herding behavior and the role of social media, especially for young investors; (3) Profit Motivation, as the main driver although it needs to be balanced with risk understanding; (4) Risk Perception, which negatively affects interest in volatile assets; and (5) Availability of transparent information, which is crucial for informed decision-making.Originality/Value: This study provides a comprehensive synthesis of various factors influencing investment decisions in the Indonesian capital market based on a recent literature study. A key contribution lies in the in-depth identification and analysis of the interaction between rational and irrational factors, as well as their implications for investor behavior in the Indonesian contextPractical/policy implications: The findings of this study imply the need to improve financial literacy through effective education programs, strengthen regulations related to information transparency, consider the social and psychological dimensions in education and marketing of investment products, and develop investment instruments in accordance with the preferences of Indonesian investors to increase participation and strengthen the domestic capital market.",
+  "url": "https://doi.org/10.36982/jeg.v10i1.5383",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.36982/jeg.v10i1.5383",
+    "encodingFormat": "text/html"
+  }
+}

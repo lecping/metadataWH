@@ -1,0 +1,226 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4226289688",
+  "doi": "10.2991/assehr.k.220301.101",
+  "name": "Capital Expenditure as a Mediator on the Effect of Foreign Investment and Domestic Investment to Regional Economic Growth in Regencies/Cities throughout East Nusa Tenggara Province",
+  "headline": "Capital Expenditure as a Mediator on the Effect of Foreign Investment and Domestic Investment to Regional Economic Growth in Regencies/Cities throughout East Nusa Tenggara Province",
+  "datePublished": "2022-01-01",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Advances in Social Science, Education and Humanities Research/Advances in social science, education and humanities research",
+    "issn": "2731-8060",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5091311846",
+      "name": "Clara Margilina Reinamah",
+      "givenName": "Clara",
+      "familyName": "Reinamah",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210133755",
+          "name": "Universitas Muhammadiyah Kupang",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5089076786",
+      "name": "Selfesina Samadara",
+      "givenName": "Selfesina",
+      "familyName": "Samadara",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210133755",
+          "name": "Universitas Muhammadiyah Kupang",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5007003801",
+      "name": "Moni Yuniati Siahaan",
+      "givenName": "Moni",
+      "familyName": "Siahaan",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1669189634",
+    "https://openalex.org/W2138632812",
+    "https://openalex.org/W2561237176",
+    "https://openalex.org/W3209629182",
+    "https://openalex.org/W626026843"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.7138621
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5713941
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-expenditure",
+      "display_name": "Capital expenditure",
+      "score": 0.5480523
+    },
+    {
+      "id": "https://openalex.org/keywords/mediator",
+      "display_name": "Mediator",
+      "score": 0.5449192
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5135241
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33842695",
+      "name": "Foreign direct investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q490513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C172497479",
+      "name": "Capital expenditure",
+      "sameAs": "https://www.wikidata.org/wiki/Q302208"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2107291",
+      "name": "Mediator",
+      "sameAs": "https://www.wikidata.org/wiki/Q14886885"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26271046",
+      "name": "Economic geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q187097"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136264566",
+      "name": "Economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q159810"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C71924100",
+      "name": "Medicine",
+      "sameAs": "https://www.wikidata.org/wiki/Q11190"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C126322002",
+      "name": "Internal medicine",
+      "sameAs": "https://www.wikidata.org/wiki/Q11180"
+    }
+  ],
+  "abstract": "This Research aimed to find out the direct and indirect effect of investment that consist of Foreign and Domestic Investment on Capital Expenditure and Economic Growth in 2017-2019 of all the regencies/city in East Nusa Tenggara Province.This Research used secondary data published by Central Bureau of Statistic.The data were analyzed by using Path Analysis.The results of data analysis showed that Domestic Investment had both directly and indirectly effect to the Economic Growth by Capital Expenditure.Otherwise, The Foreign Investment had no direct and indirect effect to the Economic growth by Capital Expenditure.The Capital Expenditure can't become an optimal mediator on the indirect effect of Domestic Investment but it can mediate the indirect effect of Foreign Investment to the Economic Growth of each regency/city of East Nusa Tenggara Province.",
+  "url": "https://doi.org/10.2991/assehr.k.220301.101",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.atlantis-press.com/article/125971071.pdf",
+    "encodingFormat": "text/html"
+  }
+}

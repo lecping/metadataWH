@@ -1,0 +1,200 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4403921287",
+  "doi": "10.30855/gjeb.2024.10.3.005",
+  "name": "A panel data analysis application to determine the factors affecting the return on equity capital of development and investment banks during times of inflation",
+  "headline": "A panel data analysis application to determine the factors affecting the return on equity capital of development and investment banks during times of inflation",
+  "datePublished": "2024-10-30",
+  "copyrightYear": 2024,
+  "inLanguage": "tr",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Gazi iktisat ve işletme dergisi",
+    "issn": "2149-4924",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Gazi Publishing"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5016698365",
+      "name": "Ersan Özgür",
+      "givenName": "ERSAN",
+      "familyName": "OZGUR",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4387155408",
+          "name": "Türkiye Büyük Millet Meclisi",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": null
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-6165-4556"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1840218356",
+    "https://openalex.org/W2126318162",
+    "https://openalex.org/W2185289956",
+    "https://openalex.org/W2302392072",
+    "https://openalex.org/W2884099775",
+    "https://openalex.org/W3083072893",
+    "https://openalex.org/W3168393966",
+    "https://openalex.org/W4214728556",
+    "https://openalex.org/W4248234354"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/equity",
+      "display_name": "Equity",
+      "score": 0.52564466
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.46264565
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.449189
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C6422946",
+      "name": "Panel data",
+      "sameAs": "https://www.wikidata.org/wiki/Q857354"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199728807",
+      "name": "Equity (law)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2578557"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C200941418",
+      "name": "Inflation (cosmology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q273508"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C155530773",
+      "name": "Return on equity",
+      "sameAs": "https://www.wikidata.org/wiki/Q591174"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C169549615",
+      "name": "Return on investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q939134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149782125",
+      "name": "Econometrics",
+      "sameAs": "https://www.wikidata.org/wiki/Q160039"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C129361004",
+      "name": "Profitability index",
+      "sameAs": "https://www.wikidata.org/wiki/Q2470236"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121332964",
+      "name": "Physics",
+      "sameAs": "https://www.wikidata.org/wiki/Q413"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33332235",
+      "name": "Theoretical physics",
+      "sameAs": "https://www.wikidata.org/wiki/Q18362"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Kalkınma ve yatırım bankaları ülkelerin ekonomik büyümesine katkı sağlamak",
+  "url": "https://doi.org/10.30855/gjeb.2024.10.3.005",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.30855/gjeb.2024.10.3.005",
+    "encodingFormat": "text/html"
+  }
+}

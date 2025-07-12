@@ -1,0 +1,227 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4408846580",
+  "doi": "10.1111/1911-3838.12397",
+  "name": "The Effect of Operating Leverage on Managers' Capital Investment Decisions<sup>*</sup>",
+  "headline": "The Effect of Operating Leverage on Managers' Capital Investment Decisions<sup>*</sup>",
+  "datePublished": "2025-03-24",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-nd",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Accounting Perspectives",
+    "issn": "1911-382X",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Wiley"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5028983079",
+      "name": "Sang Mok Lee",
+      "givenName": "Sangmok",
+      "familyName": "Lee",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I44265643",
+          "name": "Rowan University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-9018-8216"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1487804605",
+    "https://openalex.org/W1497179728",
+    "https://openalex.org/W1968864236",
+    "https://openalex.org/W1972902889",
+    "https://openalex.org/W1979362802",
+    "https://openalex.org/W1986010321",
+    "https://openalex.org/W1986419981",
+    "https://openalex.org/W2037588148",
+    "https://openalex.org/W2044500210",
+    "https://openalex.org/W2071666535",
+    "https://openalex.org/W2105509278",
+    "https://openalex.org/W2118338381",
+    "https://openalex.org/W2120597540",
+    "https://openalex.org/W2133959146",
+    "https://openalex.org/W2135539456",
+    "https://openalex.org/W2142918075",
+    "https://openalex.org/W2152089437",
+    "https://openalex.org/W2162260603",
+    "https://openalex.org/W2167953453",
+    "https://openalex.org/W2171421397",
+    "https://openalex.org/W2405191100",
+    "https://openalex.org/W2784845614",
+    "https://openalex.org/W2941790208",
+    "https://openalex.org/W2962202409",
+    "https://openalex.org/W2967182829",
+    "https://openalex.org/W2972168825",
+    "https://openalex.org/W2987085420",
+    "https://openalex.org/W3121146548",
+    "https://openalex.org/W3122428554",
+    "https://openalex.org/W3122883816",
+    "https://openalex.org/W3122954855",
+    "https://openalex.org/W3123017429",
+    "https://openalex.org/W3123142049",
+    "https://openalex.org/W3123986649",
+    "https://openalex.org/W3124098392",
+    "https://openalex.org/W3124293565",
+    "https://openalex.org/W3124834539",
+    "https://openalex.org/W3125265655",
+    "https://openalex.org/W3166645889",
+    "https://openalex.org/W4234570737",
+    "https://openalex.org/W4320300817",
+    "https://openalex.org/W4376848210",
+    "https://openalex.org/W4381111122",
+    "https://openalex.org/W4387468673",
+    "https://openalex.org/W4388658658",
+    "https://openalex.org/W633717801"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 2630,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/leverage",
+      "display_name": "Leverage (statistics)",
+      "score": 0.7817691
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.66692865
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.59085023
+    },
+    {
+      "id": "https://openalex.org/keywords/operating-leverage",
+      "display_name": "Operating leverage",
+      "score": 0.4626089
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.44131345
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C153083717",
+      "name": "Leverage (statistics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q6535263"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C84566663",
+      "name": "Operating leverage",
+      "sameAs": "https://www.wikidata.org/wiki/Q2738224"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C129361004",
+      "name": "Profitability index",
+      "sameAs": "https://www.wikidata.org/wiki/Q2470236"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119857082",
+      "name": "Machine learning",
+      "sameAs": "https://www.wikidata.org/wiki/Q2539"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "ABSTRACT Holding all else constant, a larger proportion of fixed costs in the cost structure (i.e., higher operating leverage) implies a greater profit volatility for a given level of demand fluctuation. In a setting where operating leverage is irrelevant to the choice of investment projects, I experimentally examine whether managers under high operating leverage (as opposed to low operating leverage) choose a less profitable project for lower variability in anticipated earnings. Inconsistent with the hypothesis, I find that the level of operating leverage has an insignificant impact on managers' investment choices, providing preliminary evidence that managers may correctly identify the level of operating leverage as irrelevant. Notably, providing the cost structure information to managers, regardless of whether it pertains to high or low operating leverage, increases the likelihood of selecting the more profitable investment. Additional analyses suggest that the excerpt on operating leverage might prime managers to deliberate more on the investment decisions. Managers who receive the cost structure information dedicate more time to assessing the investment projects, which in turn aids in identifying the more profitable project.",
+  "url": "https://doi.org/10.1111/1911-3838.12397",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1111/1911-3838.12397",
+    "encodingFormat": "text/html"
+  }
+}

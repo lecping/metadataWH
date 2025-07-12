@@ -1,0 +1,265 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4310731606",
+  "doi": "10.26668/businessreview/2022.v7i5.e738",
+  "name": "Capital Solutions to Promote Fleet Investment in Shipping in Countries Such as Vietnam",
+  "headline": "Capital Solutions to Promote Fleet Investment in Shipping in Countries Such as Vietnam",
+  "datePublished": "2022-11-25",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Professional Business Review",
+    "issn": "2525-3654",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Tutor Treinamento e Desenvolvimento"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5062640420",
+      "name": "Vu Thi Hoang Yen",
+      "givenName": "Vu",
+      "familyName": "Yen",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210093468",
+          "name": "Hanoi University of Natural Resources and Environment",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "VN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-2539-8161"
+    }
+  ],
+  "citationCount": 2,
+  "citation": [
+    "https://openalex.org/W4281988110"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/vietnamese",
+      "display_name": "Vietnamese",
+      "score": 0.7183343
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.63979805
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5642811
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5500669
+    },
+    {
+      "id": "https://openalex.org/keywords/quantitative-analysis",
+      "display_name": "Quantitative Analysis",
+      "score": 0.51353455
+    },
+    {
+      "id": "https://openalex.org/keywords/value",
+      "display_name": "Value (mathematics)",
+      "score": 0.4707965
+    },
+    {
+      "id": "https://openalex.org/keywords/qualitative-analysis",
+      "display_name": "Qualitative analysis",
+      "score": 0.4361356
+    },
+    {
+      "id": "https://openalex.org/keywords/research-method",
+      "display_name": "Research method",
+      "score": 0.4271078
+    },
+    {
+      "id": "https://openalex.org/keywords/sample",
+      "display_name": "Sample (material)",
+      "score": 0.42049363
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C103621254",
+      "name": "Vietnamese",
+      "sameAs": "https://www.wikidata.org/wiki/Q9199"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776950860",
+      "name": "Originality",
+      "sameAs": "https://www.wikidata.org/wiki/Q2914681"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95986675",
+      "name": "Quantitative analysis (chemistry)",
+      "sameAs": "https://www.wikidata.org/wiki/Q185168"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776291640",
+      "name": "Value (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q2912517"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C3018587665",
+      "name": "Qualitative analysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q7268696"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2983515908",
+      "name": "Research method",
+      "sameAs": "https://www.wikidata.org/wiki/Q42240"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C198531522",
+      "name": "Sample (material)",
+      "sameAs": "https://www.wikidata.org/wiki/Q485146"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C190248442",
+      "name": "Qualitative research",
+      "sameAs": "https://www.wikidata.org/wiki/Q839486"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C178550888",
+      "name": "Business administration",
+      "sameAs": "https://www.wikidata.org/wiki/Q2043282"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C36289849",
+      "name": "Social science",
+      "sameAs": "https://www.wikidata.org/wiki/Q34749"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C43617362",
+      "name": "Chromatography",
+      "sameAs": "https://www.wikidata.org/wiki/Q170050"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119857082",
+      "name": "Machine learning",
+      "sameAs": "https://www.wikidata.org/wiki/Q2539"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Purpose: Research on capital solutions to develop the fleet in Vietnam's shipping enterprises from 2022 to 2030. Originality/value: The research sample is the fleet of boats that Vietnamese shipping enterprises registered at the Vietnam Maritime Administration from 2011 – 2018. Design/methodology/approach: Using Qualitative Research (Statistical Analysis Methods; System analysis; Expert interview methods) and quantitative research methods (Comparative methods; Methods of analysis of indicators). Findings: Based on the research, the author offers several discussions and recommendations on capital solutions to promote investment and development of the fleet in Vietnam's shipping.",
+  "url": "https://doi.org/10.26668/businessreview/2022.v7i5.e738",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.openaccessojs.com/JBReview/article/download/738/321",
+    "encodingFormat": "text/html"
+  }
+}

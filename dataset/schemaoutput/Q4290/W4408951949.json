@@ -1,0 +1,203 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4408951949",
+  "doi": "10.1080/09512748.2025.2483521",
+  "name": "Patient capital, corporate governance and investment in digital innovation: what can Japan learn from South Korea’s experience?",
+  "headline": "Patient capital, corporate governance and investment in digital innovation: what can Japan learn from South Korea’s experience?",
+  "datePublished": "2025-03-27",
+  "copyrightYear": 2025,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-nd",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "The Pacific Review",
+    "issn": "0951-2748",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Taylor & Francis"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5090225609",
+      "name": "Fumihito Gotoh",
+      "givenName": "Fumihito",
+      "familyName": "Gotoh",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I91136226",
+          "name": "University of Sheffield",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-3931-8564"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1485588601",
+    "https://openalex.org/W1503592599",
+    "https://openalex.org/W1537202098",
+    "https://openalex.org/W1553746973",
+    "https://openalex.org/W1578669615",
+    "https://openalex.org/W1579425923",
+    "https://openalex.org/W1608316558",
+    "https://openalex.org/W1963481060",
+    "https://openalex.org/W1969491030",
+    "https://openalex.org/W1971976569",
+    "https://openalex.org/W1982071394",
+    "https://openalex.org/W2075734445",
+    "https://openalex.org/W2089314759",
+    "https://openalex.org/W2118549945",
+    "https://openalex.org/W2125264752",
+    "https://openalex.org/W2145016669",
+    "https://openalex.org/W2148173140",
+    "https://openalex.org/W2160370263",
+    "https://openalex.org/W2161384082",
+    "https://openalex.org/W2297968721",
+    "https://openalex.org/W2478985432",
+    "https://openalex.org/W2489768507",
+    "https://openalex.org/W2512641047",
+    "https://openalex.org/W2514258752",
+    "https://openalex.org/W2528107912",
+    "https://openalex.org/W2542076109",
+    "https://openalex.org/W2573472343",
+    "https://openalex.org/W2575623718",
+    "https://openalex.org/W2620861504",
+    "https://openalex.org/W2802307245",
+    "https://openalex.org/W2889843029",
+    "https://openalex.org/W2910091230",
+    "https://openalex.org/W2911052494",
+    "https://openalex.org/W2911663063",
+    "https://openalex.org/W2918667398",
+    "https://openalex.org/W2946541917",
+    "https://openalex.org/W2964866859",
+    "https://openalex.org/W2966423719",
+    "https://openalex.org/W2975262496",
+    "https://openalex.org/W3003143987",
+    "https://openalex.org/W3107791621",
+    "https://openalex.org/W3138049272",
+    "https://openalex.org/W3139684375",
+    "https://openalex.org/W3161064800",
+    "https://openalex.org/W3172772352",
+    "https://openalex.org/W3191116680",
+    "https://openalex.org/W3195746621",
+    "https://openalex.org/W3200963800",
+    "https://openalex.org/W4205509449",
+    "https://openalex.org/W4229738978",
+    "https://openalex.org/W4234330676",
+    "https://openalex.org/W4240641419",
+    "https://openalex.org/W4251344825",
+    "https://openalex.org/W4302595117",
+    "https://openalex.org/W4310524672",
+    "https://openalex.org/W4311814535",
+    "https://openalex.org/W4315648056",
+    "https://openalex.org/W4320800888",
+    "https://openalex.org/W4322767002",
+    "https://openalex.org/W4324382098",
+    "https://openalex.org/W4399818227",
+    "https://openalex.org/W4403458484",
+    "https://openalex.org/W4403521019",
+    "https://openalex.org/W562608518",
+    "https://openalex.org/W596447740",
+    "https://openalex.org/W607926947"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.64728606
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6254307
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5633212
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39389867",
+      "name": "Corporate governance",
+      "sameAs": "https://www.wikidata.org/wiki/Q380767"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "url": "https://doi.org/10.1080/09512748.2025.2483521",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1080/09512748.2025.2483521",
+    "encodingFormat": "text/html"
+  }
+}

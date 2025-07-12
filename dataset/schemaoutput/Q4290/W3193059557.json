@@ -1,0 +1,319 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W3193059557",
+  "doi": "10.3343/alm.2022.42.1.89",
+  "name": "Economic Evaluation of Total Laboratory Automation in the Clinical Laboratory of a Tertiary Care Hospital",
+  "headline": "Economic Evaluation of Total Laboratory Automation in the Clinical Laboratory of a Tertiary Care Hospital",
+  "datePublished": "2021-08-10",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Annals of Laboratory Medicine",
+    "issn": "2234-3806",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Seoul National University"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5071351028",
+      "name": "KyungYi Kim",
+      "givenName": "KyungYi",
+      "familyName": "Kim",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I193775966",
+          "name": "Yonsei University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "KR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-7856-3255"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5014879826",
+      "name": "Sang‐Guk Lee",
+      "givenName": "Sang-Guk",
+      "familyName": "Lee",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I193775966",
+          "name": "Yonsei University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "KR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-3862-3660"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100439006",
+      "name": "Tae Hyun Kim",
+      "givenName": "Tae",
+      "familyName": "Kim",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210160791",
+          "name": "Yonsei University Health System",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "KR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-1053-8958"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100439017",
+      "name": "Sang Gyu Lee",
+      "givenName": "Sang",
+      "familyName": "Lee",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I193775966",
+          "name": "Yonsei University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "KR"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-4847-2421"
+    }
+  ],
+  "citationCount": 18,
+  "citation": [
+    "https://openalex.org/W118192852",
+    "https://openalex.org/W1662171231",
+    "https://openalex.org/W1919575819",
+    "https://openalex.org/W1937420985",
+    "https://openalex.org/W1984553608",
+    "https://openalex.org/W2000192744",
+    "https://openalex.org/W2003191067",
+    "https://openalex.org/W2065360903",
+    "https://openalex.org/W2066852676",
+    "https://openalex.org/W2077843701",
+    "https://openalex.org/W2109362073",
+    "https://openalex.org/W2131830066",
+    "https://openalex.org/W2135295076",
+    "https://openalex.org/W2137761254",
+    "https://openalex.org/W2398455024",
+    "https://openalex.org/W2567562060",
+    "https://openalex.org/W2626133268",
+    "https://openalex.org/W2762732341",
+    "https://openalex.org/W2781115366",
+    "https://openalex.org/W2810413687",
+    "https://openalex.org/W2897284165",
+    "https://openalex.org/W2901459489",
+    "https://openalex.org/W2943316034",
+    "https://openalex.org/W2944183611",
+    "https://openalex.org/W3105400067",
+    "https://openalex.org/W3151002452"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/payback-period",
+      "display_name": "Payback period",
+      "score": 0.8828792
+    },
+    {
+      "id": "https://openalex.org/keywords/depreciation",
+      "display_name": "Depreciation (economics)",
+      "score": 0.61752367
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5706022
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.51225966
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-cost",
+      "display_name": "Capital cost",
+      "score": 0.48537028
+    },
+    {
+      "id": "https://openalex.org/keywords/economic-evaluation",
+      "display_name": "Economic Evaluation",
+      "score": 0.4845966
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144553756",
+      "name": "Payback period",
+      "sameAs": "https://www.wikidata.org/wiki/Q15081665"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95383336",
+      "name": "Depreciation (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q4198710"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21547014",
+      "name": "Operations management",
+      "sameAs": "https://www.wikidata.org/wiki/Q1423657"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C157062255",
+      "name": "Capital cost",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035697"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776125615",
+      "name": "Economic evaluation",
+      "sameAs": "https://www.wikidata.org/wiki/Q18391886"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C71924100",
+      "name": "Medicine",
+      "sameAs": "https://www.wikidata.org/wiki/Q11190"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C195487862",
+      "name": "Revenue",
+      "sameAs": "https://www.wikidata.org/wiki/Q850210"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121955636",
+      "name": "Accounting",
+      "sameAs": "https://www.wikidata.org/wiki/Q4116214"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119599485",
+      "name": "Electrical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q43035"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C58202505",
+      "name": "Capital formation",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035700"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C142724271",
+      "name": "Pathology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7208"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C44750222",
+      "name": "Financial capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q1897397"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    }
+  ],
+  "abstract": "Total laboratory automation (TLA) is an innovation in laboratory technology; however, the high up-front costs restrict its widespread adoption. To examine whether the capital investment for TLA is worthwhile, we analyzed its clinical- and cost-effectiveness for the expected payback period.Clinical chemistry tests and immunoassays performed in the clinical laboratory of a tertiary care hospital were divided into a post-TLA group, including 1,182,419 tests performed during December 2019, and a pre-TLA group, including 1,151,501 tests performed during December 2018. Laboratory information system data were used to measure clinical effectiveness, and depreciation data were used to calculate TLA costs.Laboratory performance improved after TLA adoption in all four key performance indicators: mean turn-around time (TAT), representing the timeliness of result reporting, decreased by 6.1%; the 99th percentile of TAT, representing the outlier rate, decreased by 13.3%; the TAT CV, representing predictability, decreased by 70.0%; and weighted tube touch moment (wTTM), representing staff safety, improved by 77.6%. Based on these effectiveness results, economic evaluation was performed using two approaches. First, the incremental cost-effectiveness ratio and wTTM were used as the most cost-effective performance indicators. Second, the expected payback period was calculated. Considering only staff cost reduction, it was anticipated that 4.75 yrs would be needed to payback the initial investment.TLA can significantly enhance laboratory performance, has a relatively quick payback period, and can reduce total hospital expenses in the long term. Therefore, the capital investment for TLA adoption is considered to be worthwhile.",
+  "url": "https://doi.org/10.3343/alm.2022.42.1.89",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.annlabmed.org/journal/download_pdf.php?doi=10.3343/alm.2022.42.1.89",
+    "encodingFormat": "text/html"
+  }
+}

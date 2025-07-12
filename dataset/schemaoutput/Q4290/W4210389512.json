@@ -1,0 +1,202 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4210389512",
+  "doi": "10.14254/1800-5845/2022.18-1.6",
+  "name": "Sharia-Compliance, Internal Capital Allocation and Investment Policy: Evidence from Malaysia",
+  "headline": "Sharia-Compliance, Internal Capital Allocation and Investment Policy: Evidence from Malaysia",
+  "datePublished": "2022-01-15",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "MONTENEGRIN JOURNAL OF ECONOMICS",
+    "issn": "1800-5845",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5067060351",
+      "name": "Moncef Guizani",
+      "givenName": "Moncef",
+      "familyName": "Guizani",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I55167344",
+          "name": "University of Kairouan",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "TN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-1980-6795"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5040738982",
+      "name": "Aafar Abdalkrim",
+      "givenName": "Aafar",
+      "familyName": "Abdalkrim",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I142608572",
+          "name": "Prince Sattam Bin Abdulaziz University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "SA"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 2,
+  "citation": [
+    "https://openalex.org/W1563103971",
+    "https://openalex.org/W1823890749",
+    "https://openalex.org/W1993938495",
+    "https://openalex.org/W2025610165",
+    "https://openalex.org/W2060976518",
+    "https://openalex.org/W2123252687",
+    "https://openalex.org/W2124597406",
+    "https://openalex.org/W2140358882",
+    "https://openalex.org/W2140964565",
+    "https://openalex.org/W2197454797",
+    "https://openalex.org/W2597496650",
+    "https://openalex.org/W2605278155",
+    "https://openalex.org/W2805288032",
+    "https://openalex.org/W2888006637",
+    "https://openalex.org/W2916468214",
+    "https://openalex.org/W2927118230",
+    "https://openalex.org/W2948832353",
+    "https://openalex.org/W3121131820",
+    "https://openalex.org/W3122282069",
+    "https://openalex.org/W3122808314",
+    "https://openalex.org/W3123136587"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.56526005
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.4807177
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2781460075",
+      "name": "Compliance (psychology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1399332"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C168702047",
+      "name": "Sharia",
+      "sameAs": "https://www.wikidata.org/wiki/Q482752"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121955636",
+      "name": "Accounting",
+      "sameAs": "https://www.wikidata.org/wiki/Q4116214"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C4445939",
+      "name": "Islam",
+      "sameAs": "https://www.wikidata.org/wiki/Q432"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C77805123",
+      "name": "Social psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q161272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    }
+  ],
+  "abstract": "This study provides novel evidence of the impact of Sharia-compliance on the efficiency of internal capital allocation.Methodology/approach: We apply a generalized method of moments (GMM) estimation technique to analyze the results.The data covers 178 Malaysian listed firms for the period of 2008 to 2017.Findings: Our findings show that Sharia compliance plays a significant role in determining investment decision.In particular, Sharia-compliance firms are associated with less dependence on their internally generated funds when undertaking new investment projects.The results also reveal that Sharia-compliance is a nature of business that improves investment efficiency.Conclusion: The findings show that adopting Islamic business principles affects corporate investment, suggesting that Sharia compliance can reduce financial constraints and improve efficient capital allocation.Investors in Malaysia can draw on these results to evaluate and locate good investment opportunities.",
+  "url": "https://doi.org/10.14254/1800-5845/2022.18-1.6",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.14254/1800-5845/2022.18-1.6",
+    "encodingFormat": "text/html"
+  }
+}

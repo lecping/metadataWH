@@ -1,0 +1,215 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4401142072",
+  "doi": "10.32782/2708-0366/2024.20.20",
+  "name": "INVESTMENT IN THE DEVELOPMENT OF AGRICULTURE",
+  "headline": "INVESTMENT IN THE DEVELOPMENT OF AGRICULTURE",
+  "datePublished": "2024-05-31",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Таврійський науковий вісник Серія Економіка",
+    "issn": "2708-0366",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5113712649",
+      "name": "В. В. Ярмоленко",
+      "givenName": "В.В.",
+      "familyName": "Ярмоленко",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210141101",
+          "name": "Kherson State Agrarian and Economic University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "UA"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2998725059",
+    "https://openalex.org/W4289537258",
+    "https://openalex.org/W4365519625"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.74266183
+    },
+    {
+      "id": "https://openalex.org/keywords/hectare",
+      "display_name": "Hectare",
+      "score": 0.6090058
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.58710945
+    },
+    {
+      "id": "https://openalex.org/keywords/ukrainian",
+      "display_name": "Ukrainian",
+      "score": 0.4624228
+    },
+    {
+      "id": "https://openalex.org/keywords/agricultural-machinery",
+      "display_name": "Agricultural machinery",
+      "score": 0.42451054
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C118518473",
+      "name": "Agriculture",
+      "sameAs": "https://www.wikidata.org/wiki/Q11451"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C202050865",
+      "name": "Hectare",
+      "sameAs": "https://www.wikidata.org/wiki/Q35852"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C112964050",
+      "name": "Livestock",
+      "sameAs": "https://www.wikidata.org/wiki/Q103459"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C53844881",
+      "name": "Modernization theory",
+      "sameAs": "https://www.wikidata.org/wiki/Q856122"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21931767",
+      "name": "Ukrainian",
+      "sameAs": "https://www.wikidata.org/wiki/Q8798"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C47136581",
+      "name": "Agricultural machinery",
+      "sameAs": "https://www.wikidata.org/wiki/Q16000047"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C97137747",
+      "name": "Forestry",
+      "sameAs": "https://www.wikidata.org/wiki/Q38112"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    }
+  ],
+  "abstract": "The article is dedicated to exploring the state of investment activity in the agricultural sector of the Ukrainian economy. The article analyzes trends in attracting investment resources by types of economic activity from 2018 to 2022. It is determined that investments in agriculture occupy a significant share in the overall structure of capital investments. The growth of investment resources in agriculture over five years (2018–2022) amounted to 3.8 billion UAH or 5.9%. In 2023, specialists in demining surveyed 274 thousand hectares of agricultural land in Ukraine, and already 208 thousand hectares were transferred to the agricultural sector for use. The main directions of investment in agriculture were also identified, including technology modernization, infrastructure development, crop production, livestock development, ecological investments, support for small farms, and the development of agritourism.",
+  "url": "https://doi.org/10.32782/2708-0366/2024.20.20",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "http://tnv-econom.ksauniv.ks.ua/index.php/journal/article/download/527/494",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4387308766",
+  "doi": "10.2991/978-94-6463-204-0_12",
+  "name": "Analysis of Generation Z’s Investment Interest in the Islamic Capital Market",
+  "headline": "Analysis of Generation Z’s Investment Interest in the Islamic Capital Market",
+  "datePublished": "2023-10-03",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Advances in economics, business and management research/Advances in Economics, Business and Management Research",
+    "issn": "2352-5428",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Atlantis Press"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5111050435",
+      "name": "Amrina Rosada",
+      "givenName": "Amrina",
+      "familyName": "Rosada",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3131389504",
+          "name": "Muhammadiyah University of Surakarta",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5050536839",
+      "name": "Muhammad Sholahuddin",
+      "givenName": "Muhammad",
+      "familyName": "Sholahuddin",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I3131389504",
+          "name": "Muhammadiyah University of Surakarta",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-6966-7028"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1585314612",
+    "https://openalex.org/W2994506434",
+    "https://openalex.org/W3091081375",
+    "https://openalex.org/W3173418227",
+    "https://openalex.org/W3181767027",
+    "https://openalex.org/W3186018722",
+    "https://openalex.org/W3190869782",
+    "https://openalex.org/W3202674542",
+    "https://openalex.org/W3216780521",
+    "https://openalex.org/W4223893393",
+    "https://openalex.org/W4281760786",
+    "https://openalex.org/W4284672742",
+    "https://openalex.org/W4294266106",
+    "https://openalex.org/W4295767247",
+    "https://openalex.org/W4312685399",
+    "https://openalex.org/W4312879265",
+    "https://openalex.org/W4379177923"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5612843
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.46447217
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C4445939",
+      "name": "Islam",
+      "sameAs": "https://www.wikidata.org/wiki/Q432"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27206212",
+      "name": "Theology",
+      "sameAs": "https://www.wikidata.org/wiki/Q34178"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    }
+  ],
+  "abstract": "This research aimed to determine the extent to which motivation, investment knowledge, and technological advances affect Generation Z's investment interest in the Islamic Capital Market.This research uses quantitative methods.The data source of this research is primary data obtained from distributing questionnaires.The population of this research includes generation z in the Surakarta area.The number of samples is 150 respondents.In determining the proper model, this research uses specific purposive sampling criteria: generation z in the Surakarta area with a minimum high school education, a minimum age of 17 years, and a maximum of 26 years.This analysis uses a data processing tool, that is SmartPLS 3.0.The results of data processing show that (1) Motivation has a positive and significant effect on investment interest, (2) Investment knowledge has a positive and significant impact on investment interest, and (3) Technology advances have a positive and significant impact on investment interest.Investment as a means to multiply and develop assets is no longer a luxury activity intended for certain groups or only a few people.The research's results found a new perspective that investment is not only limited or leads to the rich but also among those with a minimal budget.In this research is generation Z which is the youngest generation that has just entered the world of work with a limited budget but has a high investment interest.",
+  "url": "https://doi.org/10.2991/978-94-6463-204-0_12",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.atlantis-press.com/article/125992220.pdf",
+    "encodingFormat": "text/html"
+  }
+}

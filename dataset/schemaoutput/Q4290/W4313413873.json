@@ -1,0 +1,306 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4313413873",
+  "doi": "10.3390/foods12010157",
+  "name": "Techno-Economic Analysis of the Multiple-Pass Ultrasonication with Mechanical Homogenization (MPUMH) Processing of Processed Carrot Discards to Puree",
+  "headline": "Techno-Economic Analysis of the Multiple-Pass Ultrasonication with Mechanical Homogenization (MPUMH) Processing of Processed Carrot Discards to Puree",
+  "datePublished": "2022-12-28",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Foods",
+    "issn": "2304-8158",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Multidisciplinary Digital Publishing Institute"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5035291591",
+      "name": "Gagan Jyot Kaur",
+      "givenName": "Gagan",
+      "familyName": "Kaur",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I79817857",
+          "name": "University of Guelph",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-6869-6129"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5047341857",
+      "name": "Deepak Kumar",
+      "givenName": "Deepak",
+      "familyName": "Kumar",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I103497121",
+          "name": "Purchase College",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I157349981",
+          "name": "SUNY College of Environmental Science and Forestry",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-1366-3308"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5038795533",
+      "name": "Valérie Orsat",
+      "givenName": "Valerie",
+      "familyName": "Orsat",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I5023651",
+          "name": "McGill University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-0416-514X"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5012131192",
+      "name": "Ashutosh Singh",
+      "givenName": "Ashutosh",
+      "familyName": "Singh",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I79817857",
+          "name": "University of Guelph",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CA"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-0844-0209"
+    }
+  ],
+  "citationCount": 3,
+  "citation": [
+    "https://openalex.org/W1677947070",
+    "https://openalex.org/W1964464635",
+    "https://openalex.org/W1987356934",
+    "https://openalex.org/W2037349743",
+    "https://openalex.org/W2079302419",
+    "https://openalex.org/W2084249108",
+    "https://openalex.org/W2298445472",
+    "https://openalex.org/W2577436999",
+    "https://openalex.org/W2793167743",
+    "https://openalex.org/W3035290902",
+    "https://openalex.org/W3092838409",
+    "https://openalex.org/W3095599870",
+    "https://openalex.org/W3144464430",
+    "https://openalex.org/W3152618218",
+    "https://openalex.org/W3173901872",
+    "https://openalex.org/W4210580387",
+    "https://openalex.org/W4210795753",
+    "https://openalex.org/W4281757234",
+    "https://openalex.org/W4285728465",
+    "https://openalex.org/W4294917737",
+    "https://openalex.org/W4307296202",
+    "https://openalex.org/W4313413873"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 2200,
+      "currency": "CHF"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/homogenization",
+      "display_name": "Homogenization",
+      "score": 0.5471909
+    },
+    {
+      "id": "https://openalex.org/keywords/sonication",
+      "display_name": "Sonication",
+      "score": 0.5204877
+    },
+    {
+      "id": "https://openalex.org/keywords/operational-costs",
+      "display_name": "Operational costs",
+      "score": 0.44173416
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.42560664
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778722038",
+      "name": "Homogenization (climate)",
+      "sameAs": "https://www.wikidata.org/wiki/Q17030643"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C129361004",
+      "name": "Profitability index",
+      "sameAs": "https://www.wikidata.org/wiki/Q2470236"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C104628117",
+      "name": "Sonication",
+      "sameAs": "https://www.wikidata.org/wiki/Q3964828"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C169549615",
+      "name": "Return on investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q939134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C528095902",
+      "name": "Pulp and paper industry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2283886"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2986883954",
+      "name": "Operational costs",
+      "sameAs": "https://www.wikidata.org/wiki/Q1362005"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C195487862",
+      "name": "Revenue",
+      "sameAs": "https://www.wikidata.org/wiki/Q850210"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37621935",
+      "name": "Agricultural science",
+      "sameAs": "https://www.wikidata.org/wiki/Q3606845"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21547014",
+      "name": "Operations management",
+      "sameAs": "https://www.wikidata.org/wiki/Q1423657"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C43617362",
+      "name": "Chromatography",
+      "sameAs": "https://www.wikidata.org/wiki/Q170050"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C130217890",
+      "name": "Biodiversity",
+      "sameAs": "https://www.wikidata.org/wiki/Q47041"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    }
+  ],
+  "abstract": "A sustainable valorization process for puree processing from processed carrot discards (PDCs) was proposed by using multiple-pass ultrasonication with mechanical homogenization (MPUMH), optimized at 9 min ultrasonication followed by mechanical homogenization for 1 min, subjected to three passes. Techno-economic analysis of the puree processing plant was studied for two process models using SuperPro Designer for a plant with a capacity of 17.4 MT/day, operational for 26 weeks, with a 20-year lifetime. The two scenarios were (i) base case (PDCs processed without peels and crowns) and (ii) case 2 (PDCs and carrots (50:50, w/w) processed with peels and crowns). Both scenarios were economically feasible with an internal rate of return (IRR) and return on investment (ROI) at 24.71% and 31.04% (base case) and 86.11% and 119.87% (case 2), respectively. Case 2 had a higher total capital investment (Can$13.7 million) but a lower annual operating cost (Can$8.9 million), resulting in greater revenue generation (Can$29.7 million), thus offering a higher ROI. Sensitivity analysis related to the number of passes on puree quality and price is suggested to lower the capital investment. For the base case, a lower ROI was due to the high labor cost incurred for manual peeling of PDCs, indicating the critical need for developing a commercial peeler equipped to cut labor costs and increase profitability. The study casts insights into the techno-economic performance of a sustainable process for the valorization of PDCs.",
+  "url": "https://doi.org/10.3390/foods12010157",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.mdpi.com/2304-8158/12/1/157/pdf?version=1672219479",
+    "encodingFormat": "text/html"
+  }
+}

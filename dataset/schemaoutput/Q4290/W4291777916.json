@@ -1,0 +1,356 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4291777916",
+  "doi": "10.1017/s0022109022000849",
+  "name": "Short-Sale Constraints and Corporate Investment",
+  "headline": "Short-Sale Constraints and Corporate Investment",
+  "datePublished": "2022-08-15",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Financial and Quantitative Analysis",
+    "issn": "0022-1090",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Cambridge University Press"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5051782406",
+      "name": "Xiaohu Deng",
+      "givenName": "Xiaohu",
+      "familyName": "Deng",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I31746571",
+          "name": "UNSW Sydney",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-8419-0865"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5071994432",
+      "name": "Vishal K. Gupta",
+      "givenName": "Vishal",
+      "familyName": "Gupta",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I17301866",
+          "name": "University of Alabama",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-2173-0240"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5052187259",
+      "name": "Marc L. Lipson",
+      "givenName": "Marc",
+      "familyName": "Lipson",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I51556381",
+          "name": "University of Virginia",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-9226-6591"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5000062052",
+      "name": "Sandra Mortal",
+      "givenName": "Sandra",
+      "familyName": "Mortal",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I17301866",
+          "name": "University of Alabama",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-8769-1515"
+    }
+  ],
+  "citationCount": 6,
+  "citation": [
+    "https://openalex.org/W1546044195",
+    "https://openalex.org/W2024623582",
+    "https://openalex.org/W2026824595",
+    "https://openalex.org/W2032947759",
+    "https://openalex.org/W2034925237",
+    "https://openalex.org/W2037270550",
+    "https://openalex.org/W2070892101",
+    "https://openalex.org/W2074167316",
+    "https://openalex.org/W2088006783",
+    "https://openalex.org/W2091901314",
+    "https://openalex.org/W2102281187",
+    "https://openalex.org/W2103838917",
+    "https://openalex.org/W2104822863",
+    "https://openalex.org/W2121606993",
+    "https://openalex.org/W2128422529",
+    "https://openalex.org/W2141703703",
+    "https://openalex.org/W2142831770",
+    "https://openalex.org/W2144844788",
+    "https://openalex.org/W2149101203",
+    "https://openalex.org/W2149367714",
+    "https://openalex.org/W2252821271",
+    "https://openalex.org/W2271674507",
+    "https://openalex.org/W2605111594",
+    "https://openalex.org/W2790233174",
+    "https://openalex.org/W2791859701",
+    "https://openalex.org/W2952479076",
+    "https://openalex.org/W2969300137",
+    "https://openalex.org/W2980034524",
+    "https://openalex.org/W3021915290",
+    "https://openalex.org/W3026110307",
+    "https://openalex.org/W3121362994",
+    "https://openalex.org/W3121593127",
+    "https://openalex.org/W3122478445",
+    "https://openalex.org/W3122551571",
+    "https://openalex.org/W3122682831",
+    "https://openalex.org/W3122818300",
+    "https://openalex.org/W3123102838",
+    "https://openalex.org/W3123190879",
+    "https://openalex.org/W3123452713",
+    "https://openalex.org/W3123519783",
+    "https://openalex.org/W3123614550",
+    "https://openalex.org/W3123728483",
+    "https://openalex.org/W3123825352",
+    "https://openalex.org/W3123871479",
+    "https://openalex.org/W3124138979",
+    "https://openalex.org/W3124218631",
+    "https://openalex.org/W3124326590",
+    "https://openalex.org/W3124664297",
+    "https://openalex.org/W3124896525",
+    "https://openalex.org/W3125720591",
+    "https://openalex.org/W3125898740",
+    "https://openalex.org/W3125901151",
+    "https://openalex.org/W3126017435",
+    "https://openalex.org/W3126044242",
+    "https://openalex.org/W4239467316",
+    "https://openalex.org/W4241680639"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-expenditure",
+      "display_name": "Capital expenditure",
+      "score": 0.65068555
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6420983
+    },
+    {
+      "id": "https://openalex.org/keywords/stock",
+      "display_name": "Stock (firearms)",
+      "score": 0.6332896
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4559669
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.44032824
+    },
+    {
+      "id": "https://openalex.org/keywords/sample",
+      "display_name": "Sample (material)",
+      "score": 0.4397478
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C172497479",
+      "name": "Capital expenditure",
+      "sameAs": "https://www.wikidata.org/wiki/Q302208"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C204036174",
+      "name": "Stock (firearms)",
+      "sameAs": "https://www.wikidata.org/wiki/Q909380"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2988984586",
+      "name": "Stock price",
+      "sameAs": "https://www.wikidata.org/wiki/Q1020013"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C76178495",
+      "name": "Asset (computer security)",
+      "sameAs": "https://www.wikidata.org/wiki/Q4808784"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C198531522",
+      "name": "Sample (material)",
+      "sameAs": "https://www.wikidata.org/wiki/Q485146"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78519656",
+      "name": "Mechanical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q101333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C151730666",
+      "name": "Paleontology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7205"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C38652104",
+      "name": "Computer security",
+      "sameAs": "https://www.wikidata.org/wiki/Q3510521"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C43617362",
+      "name": "Chromatography",
+      "sameAs": "https://www.wikidata.org/wiki/Q170050"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C143724316",
+      "name": "Series (stratigraphy)",
+      "sameAs": "https://www.wikidata.org/wiki/Q312468"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    }
+  ],
+  "abstract": "Abstract In a sample of non-U.S. regulatory regime shifts, we find that expanded short selling is associated with stock price declines, reductions in capital expenditure, and lower asset growth. In a reversal of results found for U.S. stocks in a study of Regulation SHO by Grullon, Michenaud, and Weston (2015), our results are stronger for large firms than for small firms. We also show that this investment effect is stronger for firms that previously relied on outside financing. Our results suggest that short-sale policies affect corporate investment and that this effect is not driven by capital constraints.",
+  "url": "https://doi.org/10.1017/s0022109022000849",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AB9980AC159604C16223AE306A182F4A/S0022109022000849a.pdf/div-class-title-short-sale-constraints-and-corporate-investment-div.pdf",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4313472992",
+  "doi": "10.3390/su15010651",
+  "name": "Cost Analysis of Implementing In-Pipe Hydro Turbine in the United Arab Emirates Water Network",
+  "headline": "Cost Analysis of Implementing In-Pipe Hydro Turbine in the United Arab Emirates Water Network",
+  "datePublished": "2022-12-30",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Sustainability",
+    "issn": "2071-1050",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Multidisciplinary Digital Publishing Institute"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5083303860",
+      "name": "Ghaya Alawadhi",
+      "givenName": "Ghaya",
+      "familyName": "Alawadhi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210153389",
+          "name": "American University of Ras Al Khaimah",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AE"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5001482967",
+      "name": "Meera Almehiri",
+      "givenName": "Meera",
+      "familyName": "Almehiri",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210153389",
+          "name": "American University of Ras Al Khaimah",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AE"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5005797729",
+      "name": "Ahmad Sakhrieh",
+      "givenName": "Ahmad",
+      "familyName": "Sakhrieh",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210153389",
+          "name": "American University of Ras Al Khaimah",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "AE"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I114972647",
+          "name": "University of Jordan",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "JO"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-8182-0462"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5088253794",
+      "name": "Ahmad Alshwawra",
+      "givenName": "Ahmad",
+      "familyName": "Alshwawra",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I230091363",
+          "name": "German Jordanian University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "JO"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I114112103",
+          "name": "Leibniz University Hannover",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "DE"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-2849-7613"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5049080954",
+      "name": "Jamil Al Asfar",
+      "givenName": "Jamil",
+      "familyName": "Asfar",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I114972647",
+          "name": "University of Jordan",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "JO"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-5539-7322"
+    }
+  ],
+  "citationCount": 3,
+  "citation": [
+    "https://openalex.org/W1995521761",
+    "https://openalex.org/W2022809424",
+    "https://openalex.org/W2027325162",
+    "https://openalex.org/W2515701473",
+    "https://openalex.org/W2591709452",
+    "https://openalex.org/W2766204051",
+    "https://openalex.org/W2797849024",
+    "https://openalex.org/W2912764223",
+    "https://openalex.org/W2913153290",
+    "https://openalex.org/W2949019905",
+    "https://openalex.org/W2975885495",
+    "https://openalex.org/W2985154618",
+    "https://openalex.org/W3010712459",
+    "https://openalex.org/W3080111502",
+    "https://openalex.org/W3089067832",
+    "https://openalex.org/W3115561284",
+    "https://openalex.org/W3137158165",
+    "https://openalex.org/W3215070931",
+    "https://openalex.org/W4200542279",
+    "https://openalex.org/W4283074959",
+    "https://openalex.org/W4293573150",
+    "https://openalex.org/W4297384355",
+    "https://openalex.org/W4308105943"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 1986,
+      "currency": "EUR"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/payback-period",
+      "display_name": "Payback period",
+      "score": 0.85520536
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6333921
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-cost",
+      "display_name": "Capital cost",
+      "score": 0.574582
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.51234066
+    },
+    {
+      "id": "https://openalex.org/keywords/rate-of-return",
+      "display_name": "Rate of return",
+      "score": 0.45861012
+    },
+    {
+      "id": "https://openalex.org/keywords/installation",
+      "display_name": "Installation",
+      "score": 0.42806366
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-expenditure",
+      "display_name": "Capital expenditure",
+      "score": 0.42108122
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144553756",
+      "name": "Payback period",
+      "sameAs": "https://www.wikidata.org/wiki/Q15081665"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40675005",
+      "name": "Hydropower",
+      "sameAs": "https://www.wikidata.org/wiki/Q170196"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C169549615",
+      "name": "Return on investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q939134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C157062255",
+      "name": "Capital cost",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035697"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C206658404",
+      "name": "Electricity",
+      "sameAs": "https://www.wikidata.org/wiki/Q12725"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37917861",
+      "name": "Internal rate of return",
+      "sameAs": "https://www.wikidata.org/wiki/Q507477"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C181230689",
+      "name": "Net present value",
+      "sameAs": "https://www.wikidata.org/wiki/Q192472"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C4311470",
+      "name": "Power station",
+      "sameAs": "https://www.wikidata.org/wiki/Q159719"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86637286",
+      "name": "Rate of return",
+      "sameAs": "https://www.wikidata.org/wiki/Q7317264"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C146778888",
+      "name": "Installation",
+      "sameAs": "https://www.wikidata.org/wiki/Q836862"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C172497479",
+      "name": "Capital expenditure",
+      "sameAs": "https://www.wikidata.org/wiki/Q302208"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C87717796",
+      "name": "Environmental engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q146326"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134560507",
+      "name": "Environmental economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q753291"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C119599485",
+      "name": "Electrical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q43035"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78519656",
+      "name": "Mechanical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q101333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Water transmission lines have potential reserved energy, which is usually lost. Therefore, targeting this clean energy to produce electricity to power up the auxiliaries and utilities of water plants or consumers is financially and environmentally beneficial. This paper aims to investigate the feasibility of installing an inline hydropower system in an existing transmission water pipe. It analyzes the feasibility of implementing a mini-hydropower plant in the transmission line of Liwa’s reservoir in the UAE. The maximum possible power harvested is 218.175 kW at the given water flow rate and net head. The payback period and the return on investment are analyzed based on different scenarios related to capital investment, operation, maintenance cost, and plant capacity factor. It is found that the payback period ranges between one to six years, where the return on investment can be as high as 85%. Furthermore, the expected CO2 emissions saving for this project is calculated to be between 395 and 1939 tons per year.",
+  "url": "https://doi.org/10.3390/su15010651",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.mdpi.com/2071-1050/15/1/651/pdf?version=1672393347",
+    "encodingFormat": "text/html"
+  }
+}

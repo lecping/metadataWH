@@ -1,0 +1,249 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4391481557",
+  "doi": "10.62320/jfbr.v2i2.41",
+  "name": "Forest sector investment in the United States - trends and implications of capital investment and annual expenditure",
+  "headline": "Forest sector investment in the United States - trends and implications of capital investment and annual expenditure",
+  "datePublished": "2023-11-20",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Deleted Journal",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5035039915",
+      "name": "Jaana Korhonen",
+      "givenName": "Jaana",
+      "familyName": "Korhonen",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I1281378812",
+          "name": "Oak Ridge Associated Universities",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210115267",
+          "name": "Southern Research Station",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        },
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4389425366",
+          "name": "Oak Ridge Institute for Science and Education",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": null
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-9266-2260"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5039708730",
+      "name": "Gregory E. Frey",
+      "givenName": "Gregory",
+      "familyName": "Frey",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210115267",
+          "name": "Southern Research Station",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-0538-0199"
+    }
+  ],
+  "citationCount": 5,
+  "citation": [
+    "https://openalex.org/W2226143215",
+    "https://openalex.org/W2888612214",
+    "https://openalex.org/W2921039895",
+    "https://openalex.org/W2945824174",
+    "https://openalex.org/W3047119352",
+    "https://openalex.org/W3082559457",
+    "https://openalex.org/W3141534312",
+    "https://openalex.org/W3212529791",
+    "https://openalex.org/W4224257929",
+    "https://openalex.org/W4225370740",
+    "https://openalex.org/W4281953953",
+    "https://openalex.org/W4309595764",
+    "https://openalex.org/W4376651530",
+    "https://openalex.org/W4388028777",
+    "https://openalex.org/W4391481523",
+    "https://openalex.org/W4391481543"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.7536852
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-expenditure",
+      "display_name": "Capital expenditure",
+      "score": 0.7286012
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.6366075
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5230252
+    },
+    {
+      "id": "https://openalex.org/keywords/fixed-investment",
+      "display_name": "Fixed investment",
+      "score": 0.4757773
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C172497479",
+      "name": "Capital expenditure",
+      "sameAs": "https://www.wikidata.org/wiki/Q302208"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C120564339",
+      "name": "Fixed investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q5456372"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175605778",
+      "name": "Natural resource economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q3299701"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C58202505",
+      "name": "Capital formation",
+      "sameAs": "https://www.wikidata.org/wiki/Q5035700"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C44750222",
+      "name": "Financial capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q1897397"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Investment is essential to ensure that forests are properly restored, protected, and managed to meet the various needs of society, including a wide range of public and private organizations. This article offers an overview of capital investment and annual expenditures related to forests in the United States, encompassing both the public and private sectors. In 2020, the total capital investment and annual expenditure were $242 billion (in 2020 dollars). Our findings indicate that private investment is surpassing public investment. However, there were differences in the types of investments made between the private and public sectors and differences in investment and annual expenditure levels can be observed in different geographical contexts. We also elaborated on potential sustainability impacts and identified knowledge gaps that present opportunities for future research.",
+  "url": "https://doi.org/10.62320/jfbr.v2i2.41",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://forest-journal.com/index.php/JFBR/article/download/forest-sector-investment-usa/56",
+    "encodingFormat": "text/html"
+  }
+}

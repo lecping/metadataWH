@@ -1,0 +1,213 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4403988152",
+  "doi": "10.61990/ijamesc.v2i5.240",
+  "name": "EFFECT OF FOREIGN INVESTMENT INFLOWS ON CAPITAL MARKET PERFORMANCE IN NIGERIA",
+  "headline": "EFFECT OF FOREIGN INVESTMENT INFLOWS ON CAPITAL MARKET PERFORMANCE IN NIGERIA",
+  "datePublished": "2024-10-28",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-sa",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Accounting Management Economics and Social Sciences (IJAMESC)",
+    "issn": "2986-8645",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5110418573",
+      "name": "A. Muazu",
+      "givenName": "None",
+      "familyName": "Muazu",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I31959934",
+          "name": "Nasarawa State University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NG"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5114491682",
+      "name": "Ismaila Abdullahi Olotu",
+      "givenName": "None",
+      "familyName": "Olotu",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I31959934",
+          "name": "Nasarawa State University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NG"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5114491683",
+      "name": "Abdulkarim Alhassan Shuibu",
+      "givenName": "None",
+      "familyName": "Shuibu",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I31959934",
+          "name": "Nasarawa State University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NG"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/foreign-capital",
+      "display_name": "Foreign capital",
+      "score": 0.5097198
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.49650627
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.44670355
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.41640887
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33842695",
+      "name": "Foreign direct investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q490513"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2993879009",
+      "name": "Foreign capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q8137"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18547055",
+      "name": "International economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q47417"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C73283319",
+      "name": "Financial system",
+      "sameAs": "https://www.wikidata.org/wiki/Q1416617"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C139719470",
+      "name": "Macroeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39680"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "This study explores the relevance of disaggregate financial information disclosure suggested by standard setters in promoting decision usefulness of financial information by exploring the effect of foreign investment inflows on capital market performance in Nigeria. The study adopted ex-post facto research design using quarterly time series data from 2005Q1 – 2022Q4. The study employed autoregressive distributed lag (ARDL) model in the data analysis technique and determined the long-run and short-run relationship between the variables of the study. The findings of the study revealed that equity capital, loans and currency deposits have significant positive effect on capital market performance measured with market capitalization, while money market instrument and trade credit have negative significant effect. However, other capital, other equity, bond and other claims have no significant effect on capital market performance in Nigeria. The study investigates only the relationship between foreign investment financial inflows and capital market performance in Nigeria and does not incorporate control variables such as inflation rate, exchange rate, interest rate and so on. This study provide insight that effective performance evaluation, decision making and transparency in the public and private sector required disaggregate financial information disclosure. Previous studies adopted aggregate approach in investigating capital inflows performance, policy decision and its implications without considering various heterogeneity of the components of these inflows. This overblows performance result and policy decision impacts. This study considered various heterogeneity of the different components of the foreign investment financial inflows in the research.",
+  "url": "https://doi.org/10.61990/ijamesc.v2i5.240",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://ijamesc.com/index.php/go/article/download/240/211",
+    "encodingFormat": "text/html"
+  }
+}

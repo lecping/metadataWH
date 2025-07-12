@@ -1,0 +1,206 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4393181619",
+  "doi": "10.32515/2663-1636.2023.10(43).188-193",
+  "name": "Investment and innovation activities in Ukraine in the context of European integration",
+  "headline": "Investment and innovation activities in Ukraine in the context of European integration",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Central Ukrainian Scientific Bulletin Economic Sciences",
+    "issn": "2663-1636",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5112732045",
+      "name": "Natalia Gavrilova",
+      "givenName": "Natalia",
+      "familyName": "Gavrilova",
+      "affiliation": []
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5083880151",
+      "name": "Larysa Zadorozhnia",
+      "givenName": "Larysa",
+      "familyName": "Zadorozhnia",
+      "affiliation": [],
+      "sameAs": "https://orcid.org/0000-0001-9075-3011"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.68476117
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.45697057
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.44973034
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779343474",
+      "name": "Context (archaeology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q3109175"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C182306322",
+      "name": "Order (exchange)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1779371"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37531588",
+      "name": "Exhibition",
+      "sameAs": "https://www.wikidata.org/wiki/Q464980"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48103436",
+      "name": "State (computer science)",
+      "sameAs": "https://www.wikidata.org/wiki/Q599031"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C190974861",
+      "name": "European integration",
+      "sameAs": "https://www.wikidata.org/wiki/Q1048268"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136264566",
+      "name": "Economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q159810"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C74363100",
+      "name": "Economic system",
+      "sameAs": "https://www.wikidata.org/wiki/Q273005"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2910001868",
+      "name": "European union",
+      "sameAs": "https://www.wikidata.org/wiki/Q458"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C148383697",
+      "name": "Regional science",
+      "sameAs": "https://www.wikidata.org/wiki/Q1781695"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105639569",
+      "name": "Economic policy",
+      "sameAs": "https://www.wikidata.org/wiki/Q582577"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C11413529",
+      "name": "Algorithm",
+      "sameAs": "https://www.wikidata.org/wiki/Q8366"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    }
+  ],
+  "abstract": "The article considers the role of innovation as the basis of the European integration processes in Ukraine, considers the views of modern scientists on the concept of innovation, analyzes the state of innovation activity in Ukraine and its peculiarities in the conditions of war. Determination of investment opportunities of Ukraine in the conditions of European integration. The state of investment activity in Ukraine in the period 2021-2022 is analyzed. According to the results of the study, the largest investor countries were Cyprus, the Netherlands, Switzerland, the United Kingdom, Germany, Austria, Luxembourg and France. At the end of 2021, 36% of the total capital investment was invested in the industry, rural, forest construction - 8.3%. According to the results of the study, it is noted that industrial parks and business incubators are important methods of attracting innovation to Ukraine. In order to further expand innovative relationships in the context of European integration, it will allow to expand innovative business, through the creation of exhibition space, the development of technological agencies, innovative solutions, through the demonstration of the best domestic scientific and innovative developments and cooperative relations, through promoting the development of platforms for communication.",
+  "url": "https://doi.org/10.32515/2663-1636.2023.10(43).188-193",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "http://economics.kntu.kr.ua/pdf/10(43)/20.pdf",
+    "encodingFormat": "text/html"
+  }
+}

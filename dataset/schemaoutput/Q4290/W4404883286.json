@@ -1,0 +1,197 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4404883286",
+  "doi": "10.53840/jmm.v14i2.198",
+  "name": "Securities Crowdfunding as a Source of Capital and Alternative Investment in the Maqāṣid al-Sharī’ah Perspective: Indonesian Case",
+  "headline": "Securities Crowdfunding as a Source of Capital and Alternative Investment in the Maqāṣid al-Sharī’ah Perspective: Indonesian Case",
+  "datePublished": "2024-11-29",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Management and Muamalah",
+    "issn": "2180-1681",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5112627467",
+      "name": "Azwar Azwar",
+      "givenName": "Azwar",
+      "familyName": "Azwar",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210165272",
+          "name": "Universitas Islam Makassar",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5009812085",
+      "name": "Jamaluddin Jamaluddin",
+      "givenName": "Jamaluddin",
+      "familyName": "Jamaluddin",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210165272",
+          "name": "Universitas Islam Makassar",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-3362-850X"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5138838
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.45049372
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.43422255
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2779207338",
+      "name": "Indonesian",
+      "sameAs": "https://www.wikidata.org/wiki/Q9240"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C12713177",
+      "name": "Perspective (graphical)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1900281"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C138885662",
+      "name": "Philosophy",
+      "sameAs": "https://www.wikidata.org/wiki/Q5891"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41895202",
+      "name": "Linguistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8162"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C154945302",
+      "name": "Artificial intelligence",
+      "sameAs": "https://www.wikidata.org/wiki/Q11660"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    }
+  ],
+  "abstract": "This research aims to describe the implementation of Securities Crowdfunding (SSC) in Indonesia from the perspective of Maqāṣid al-Sharī’ah. A descriptive-qualitative method is employed using library research and content analysis techniques. The results show that the implementation of SSC in Indonesia is in line with and has a meeting point with the values of the Maqāṣid al-Sharī’ah concept, especially in the context of safeguarding religion, soul, mind, lineage, and property. In the context of religious protection (ḥifẓ al-dīn), the implementation of the SSC, which is based on the DSN-MUI fatwa based on the Qur'an, Hadith, and other Islamic laws, becomes the legitimization of Islamic religious values and norms so that the entire Muslim community can maintain the purity and experience of their religion in economic transactions. In the context of protecting the soul (ḥifẓ al-nafs), the implementation of SSC, which refers to the DSN-MUI fatwa and principles, provides peace of mind for the perpetrators because they have avoided deviant practices. In the context of safeguarding reasons (ḥifẓ al- ‘aql), SSC operators are required to have adequate knowledge and competence, both in financial and aspects. In the context of safeguarding assets (ḥifẓ al-māl), the implementation of SSC does not contain elements of usury, maysir (gambling), garār (fraud), and mudarat (negative effects) so that assets are kept safe and halal. Meanwhile, in the context of safeguarding descendants (ḥifẓ al-nasl), the conformity of transactions with principles in SSC will determine the halalness of the assets obtained so that they have a positive impact on the family and descendants who are supported by the results of the business.",
+  "url": "https://doi.org/10.53840/jmm.v14i2.198",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://jmm.uis.edu.my/index.php/jurnal/article/download/198/140",
+    "encodingFormat": "text/html"
+  }
+}

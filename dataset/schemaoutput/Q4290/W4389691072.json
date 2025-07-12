@@ -1,0 +1,252 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4389691072",
+  "doi": "10.1051/e3sconf/202346010014",
+  "name": "Sustainable development and formation of a competitive machine-building complex in Russia",
+  "headline": "Sustainable development and formation of a competitive machine-building complex in Russia",
+  "datePublished": "2023-01-01",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "E3S Web of Conferences",
+    "issn": "2267-1242",
+    "publisher": {
+      "@type": "Organization",
+      "name": "EDP Sciences"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5079130650",
+      "name": "Ludmila Borisova",
+      "givenName": "Ludmila",
+      "familyName": "Borisova",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210097717",
+          "name": "Don State Technical University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-5757-0341"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5090210644",
+      "name": "T. V. Zhukova",
+      "givenName": "Tatyana",
+      "familyName": "Zhukova",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210097717",
+          "name": "Don State Technical University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RU"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-5568-4089"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2810640077",
+    "https://openalex.org/W3176334642"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/national-economy",
+      "display_name": "National economy",
+      "score": 0.6233764
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5123223
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.49993944
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.4953381
+    },
+    {
+      "id": "https://openalex.org/keywords/high-tech",
+      "display_name": "High tech",
+      "score": 0.4600648
+    },
+    {
+      "id": "https://openalex.org/keywords/machine-building",
+      "display_name": "Machine building",
+      "score": 0.45524734
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C552854447",
+      "name": "Sustainable development",
+      "sameAs": "https://www.wikidata.org/wiki/Q131201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2989282585",
+      "name": "National economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q6456916"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C91306197",
+      "name": "Competition (biology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q45767"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C74363100",
+      "name": "Economic system",
+      "sameAs": "https://www.wikidata.org/wiki/Q273005"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C191920346",
+      "name": "High tech",
+      "sameAs": "https://www.wikidata.org/wiki/Q466410"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C40700",
+      "name": "Industrial organization",
+      "sameAs": "https://www.wikidata.org/wiki/Q1411783"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2992113537",
+      "name": "Machine building",
+      "sameAs": "https://www.wikidata.org/wiki/Q101333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2994475961",
+      "name": "Russian economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q461731"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136264566",
+      "name": "Economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q159810"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78519656",
+      "name": "Mechanical engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q101333"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C95457728",
+      "name": "History",
+      "sameAs": "https://www.wikidata.org/wiki/Q309"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18903297",
+      "name": "Ecology",
+      "sameAs": "https://www.wikidata.org/wiki/Q7150"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C86803240",
+      "name": "Biology",
+      "sameAs": "https://www.wikidata.org/wiki/Q420"
+    }
+  ],
+  "abstract": "The article discusses the problems of sustainable development of the national economy of Russia, in particular one of the basic sectors of the economy - the country's machine-building complex. It is noted that mechanical engineering is the basic guideline and the main vector of economic development. The sustainable development of all sectors of the economy is determined by the successful development of high-tech engineering production. Innovative forms of development are possible on the platform of leading industrial enterprises that determine key directions and high-tech forms of dynamic development of all sectors of the national economy. The tendencies in the development of industrial enterprises in conditions of increased competition are identified. The possibilities of investment and innovative methods for updating the fixed capital fund of machine-building enterprises are considered. Factors of negative impact and measures of strategy for the successful development of the Russian economy are identified.",
+  "url": "https://doi.org/10.1051/e3sconf/202346010014",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/97/e3sconf_bft2023_10014.pdf",
+    "encodingFormat": "text/html"
+  }
+}

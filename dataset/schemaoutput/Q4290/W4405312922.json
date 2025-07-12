@@ -1,0 +1,204 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4405312922",
+  "doi": "10.2478/amns-2024-3406",
+  "name": "Research on Regional Technological Innovation and Human Capital Investment by Public Library Construction",
+  "headline": "Research on Regional Technological Innovation and Human Capital Investment by Public Library Construction",
+  "datePublished": "2024-01-01",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Applied Mathematics and Nonlinear Sciences",
+    "issn": "2444-8656",
+    "publisher": {
+      "@type": "Organization",
+      "name": "De Gruyter"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5100435506",
+      "name": "Ping Li",
+      "givenName": "Ping",
+      "familyName": "Li",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210123686",
+          "name": "Quzhou University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-3314-943X"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5010725385",
+      "name": "Jiacheng Gao",
+      "givenName": "Jiacheng",
+      "familyName": "Gao",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I291386647",
+          "name": "Belarusian State University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "BY"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-2087-2212"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2236790390",
+    "https://openalex.org/W2769882629",
+    "https://openalex.org/W2795393366",
+    "https://openalex.org/W3021393587",
+    "https://openalex.org/W3021896466",
+    "https://openalex.org/W3122992687",
+    "https://openalex.org/W4206979691",
+    "https://openalex.org/W4310665648",
+    "https://openalex.org/W4390919451"
+  ],
+  "funding": {
+    "@type": "MonetaryGrant",
+    "amount": {
+      "@type": "MonetaryAmount",
+      "value": 1500,
+      "currency": "USD"
+    },
+    "name": "Article Processing Charge"
+  },
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.7011195
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.42398524
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.42127234
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2994464924",
+      "name": "Public investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q1929688"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C50522688",
+      "name": "Economic growth",
+      "sameAs": "https://www.wikidata.org/wiki/Q189833"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105639569",
+      "name": "Economic policy",
+      "sameAs": "https://www.wikidata.org/wiki/Q582577"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2910001868",
+      "name": "European union",
+      "sameAs": "https://www.wikidata.org/wiki/Q458"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Abstract The construction of public libraries is an important part of China’s 14th Five Year Plan. Based on the global DEA-CCR and DEA-BCC to measure the efficiency of technological innovation and human capital investment, we evaluated the level of public library construction through entropy weight method. Through the impulse response analysis of the coordinated development of technological innovation and human capital investment by using the VAR model. The study conclusively demonstrates that public library construction significantly propels the synergy between technological innovation and human capital investment.",
+  "url": "https://doi.org/10.2478/amns-2024-3406",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.2478/amns-2024-3406",
+    "encodingFormat": "text/html"
+  }
+}

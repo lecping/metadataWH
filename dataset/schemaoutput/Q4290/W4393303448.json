@@ -1,0 +1,194 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4393303448",
+  "doi": "10.29040/ijebar.v8i1.12638",
+  "name": "THE INFLUENCE OF PERCEPTION, UNDERSTANDING OF INVESTMENT, AND TRAINING ON INTEREST IN INVESTING IN THE CAPITAL MARKET",
+  "headline": "THE INFLUENCE OF PERCEPTION, UNDERSTANDING OF INVESTMENT, AND TRAINING ON INTEREST IN INVESTING IN THE CAPITAL MARKET",
+  "datePublished": "2024-03-25",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Economics Business and Accounting Research (IJEBAR)",
+    "issn": "2614-1280",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5061953377",
+      "name": "Ardyan Firdausi Mustoffa",
+      "givenName": "Ardyan",
+      "familyName": "Mustoffa",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210117859",
+          "name": "Muhammadiyah University of Ponorogo",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5043060211",
+      "name": "LMS Kristiyanti",
+      "givenName": "LMS",
+      "familyName": "Kristiyanti",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1692304024",
+    "https://openalex.org/W2232871114",
+    "https://openalex.org/W2257024953",
+    "https://openalex.org/W2597834169",
+    "https://openalex.org/W2786693304",
+    "https://openalex.org/W2890876288",
+    "https://openalex.org/W2981781013",
+    "https://openalex.org/W2992003955",
+    "https://openalex.org/W3014159772",
+    "https://openalex.org/W3113856728",
+    "https://openalex.org/W3208452372",
+    "https://openalex.org/W4206933132",
+    "https://openalex.org/W4210494936",
+    "https://openalex.org/W4285730352"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6298222
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.5205001
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.5078824
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2777211547",
+      "name": "Training (meteorology)",
+      "sameAs": "https://www.wikidata.org/wiki/Q17141490"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C26760741",
+      "name": "Perception",
+      "sameAs": "https://www.wikidata.org/wiki/Q160402"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C15744967",
+      "name": "Psychology",
+      "sameAs": "https://www.wikidata.org/wiki/Q9418"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C169760540",
+      "name": "Neuroscience",
+      "sameAs": "https://www.wikidata.org/wiki/Q207011"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C153294291",
+      "name": "Meteorology",
+      "sameAs": "https://www.wikidata.org/wiki/Q25261"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Investment is an important factor that influences a country's growth and economic development. We as the young generation have an important role to play in increasing the growth and economic development of our country in a better direction, one of which is by participating in the success of government programs in terms of increasing the number of new investors among the younger generation, especially students. This study aims to analyze the effect of Perception, understanding of investment, and training on student investment interest in Ponorogo. The population in this study were active students at universities in Ponorogo, considering their status as active students for the 2020/2021 academic year at universities in Ponorogo, where the college has an Investment Gallery of the Indonesia Stock Exchange, totaling 4814 students. The sampling technique was determined using the Slovin formula. From the calculation, results obtained a sample of 98 student samples. The method of data collection is in the form of a questionnaire with a Likert measurement scale. The data analysis technique used is multiple linear regression analysis. The results showed that Perception has a significant positive effect on investment interest, meaning that the better one's Perception of investment, the higher interest in investing in the capital market. Understanding of investment has a significant positive effect on investment interest, it means that the better one's understanding of investment, the higher interest in investing in the capital market training has a significant positive effect on investment interest, meaning that the better the training, the more interest in investing. Perception, understanding of investment, and training have a simultaneous (simultaneous) effect on investment interest. This means that better Perception, understanding of investment, and training, will increase one's interest in investing.”&#x0D; Keywords: Capital Market, Investment Interest, Perception, Investment Understanding, Capital Market Training.",
+  "url": "https://doi.org/10.29040/ijebar.v8i1.12638",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://jurnal.stie-aas.ac.id/index.php/IJEBAR/article/download/12638/5152",
+    "encodingFormat": "text/html"
+  }
+}

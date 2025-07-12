@@ -1,0 +1,242 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4306315620",
+  "doi": "10.32410/huj-10426",
+  "name": "Obstacles and problems facing the industrial sector in Halabja Governorate and future prospects",
+  "headline": "Obstacles and problems facing the industrial sector in Halabja Governorate and future prospects",
+  "datePublished": "2022-09-30",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-nd",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Halabja University Journal",
+    "issn": "2412-9607",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5036131293",
+      "name": "Fwad Xalid",
+      "givenName": "Fwad",
+      "familyName": "Xalid",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I64952554",
+          "name": "University of Sulaimani",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IQ"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5082144287",
+      "name": "Ranjdar Jamal Rashed",
+      "givenName": "Ranjdar",
+      "familyName": "Rashed",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I64952554",
+          "name": "University of Sulaimani",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IQ"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/scope",
+      "display_name": "Scope (computer science)",
+      "score": 0.759743
+    },
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6206418
+    },
+    {
+      "id": "https://openalex.org/keywords/capital",
+      "display_name": "Capital (architecture)",
+      "score": 0.46442237
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.4515459
+    },
+    {
+      "id": "https://openalex.org/keywords/industrial-production",
+      "display_name": "Industrial Production",
+      "score": 0.43977767
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778012447",
+      "name": "Scope (computer science)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1034415"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C169685871",
+      "name": "Secondary sector of the economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q55639"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C110121322",
+      "name": "Distribution (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q865811"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C36503486",
+      "name": "Domain (mathematical analysis)",
+      "sameAs": "https://www.wikidata.org/wiki/Q11235244"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C83646750",
+      "name": "Capital (architecture)",
+      "sameAs": "https://www.wikidata.org/wiki/Q193893"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C148383697",
+      "name": "Regional science",
+      "sameAs": "https://www.wikidata.org/wiki/Q1781695"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C82753439",
+      "name": "Industrial production",
+      "sameAs": "https://www.wikidata.org/wiki/Q1419090"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C91375879",
+      "name": "Environmental planning",
+      "sameAs": "https://www.wikidata.org/wiki/Q15473274"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C136264566",
+      "name": "Economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q159810"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134306372",
+      "name": "Mathematical analysis",
+      "sameAs": "https://www.wikidata.org/wiki/Q7754"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C165556158",
+      "name": "Keynesian economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q83937"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199360897",
+      "name": "Programming language",
+      "sameAs": "https://www.wikidata.org/wiki/Q9143"
+    }
+  ],
+  "abstract": "The current research falls within industrial geography domain and is regarded as the first particular study that focuses on the obstacles which prevent industrial development in Halabja governorate. This study sheds light on the obstacles as well as the future prospects of industrial sector in the afore-mentioned area based on the accurate scientific plans. Furthermore, the industrial bases and the factors behind their distribution in the area such as; amount of capital and investment, geographical location, climate, and availability of energy and raw materials will be explained. Also, industrial interaction between the target industrial area and surrounding areas in both transforming and production aspects will be investigated.&#x0D; The scope of the study covers the administrative borders of Halabja governorate. The aim of the present study is to indicate the impediments which hinder the development of industrial sector in the target area and show the future prospects drawn for it. To achieve the aim of this study, regional and analytical methods were applied.&#x0D; Based on the objectives, the research was divided into three chapters.&#x0D; By the end of the research, some major findings have been reached according to which, certain suggestions have been proposed.",
+  "url": "https://doi.org/10.32410/huj-10426",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://huj.uoh.edu.iq/index.php/HUJ/article/download/huj-10426/pdf",
+    "encodingFormat": "text/html"
+  }
+}

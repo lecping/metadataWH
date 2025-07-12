@@ -1,0 +1,243 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4319995346",
+  "doi": "10.54183/jssr.v2i4.79",
+  "name": "A Bibliometric Analysis of Asset-Light Fee-Oriented (ALFO) Strategy: Potential Future Implications for Hospitality Industry",
+  "headline": "A Bibliometric Analysis of Asset-Light Fee-Oriented (ALFO) Strategy: Potential Future Implications for Hospitality Industry",
+  "datePublished": "2022-12-30",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "journal of social sciences review",
+    "issn": "2789-441X",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5050990228",
+      "name": "Rabia Aslam",
+      "givenName": "Rabia",
+      "familyName": "Aslam",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I161237661",
+          "name": "Lahore College for Women University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PK"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-2830-6525"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5013396542",
+      "name": "Adeel Nasir",
+      "givenName": "Adeel",
+      "familyName": "Nasir",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I161237661",
+          "name": "Lahore College for Women University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PK"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-4065-3159"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5001428595",
+      "name": "Saqib Rehman",
+      "givenName": "Saqib",
+      "familyName": "Rehman",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I161237661",
+          "name": "Lahore College for Women University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PK"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0001-6307-7978"
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W1967731079",
+    "https://openalex.org/W1996523187",
+    "https://openalex.org/W2029701545",
+    "https://openalex.org/W2037988865",
+    "https://openalex.org/W2043784419",
+    "https://openalex.org/W2117386776",
+    "https://openalex.org/W2135263619",
+    "https://openalex.org/W2266414103",
+    "https://openalex.org/W2291128798",
+    "https://openalex.org/W2313119952",
+    "https://openalex.org/W2541499351",
+    "https://openalex.org/W2600794632",
+    "https://openalex.org/W2801941389",
+    "https://openalex.org/W2885897981",
+    "https://openalex.org/W2895373639",
+    "https://openalex.org/W2902306014",
+    "https://openalex.org/W2963101048",
+    "https://openalex.org/W2972105681",
+    "https://openalex.org/W2976270429",
+    "https://openalex.org/W2998021954",
+    "https://openalex.org/W2999374224",
+    "https://openalex.org/W3011163428",
+    "https://openalex.org/W3023540573",
+    "https://openalex.org/W3043220749",
+    "https://openalex.org/W3099188441",
+    "https://openalex.org/W3113733366",
+    "https://openalex.org/W3125707221",
+    "https://openalex.org/W3133884245",
+    "https://openalex.org/W3150228119",
+    "https://openalex.org/W4249725626",
+    "https://openalex.org/W4290564353"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/hospitality",
+      "display_name": "Hospitality",
+      "score": 0.7608093
+    },
+    {
+      "id": "https://openalex.org/keywords/hospitality-management-studies",
+      "display_name": "Hospitality management studies",
+      "score": 0.52421534
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.46598735
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C107482638",
+      "name": "Hospitality",
+      "sameAs": "https://www.wikidata.org/wiki/Q815825"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18918823",
+      "name": "Tourism",
+      "sameAs": "https://www.wikidata.org/wiki/Q49389"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778805511",
+      "name": "Citation",
+      "sameAs": "https://www.wikidata.org/wiki/Q1713"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C189705334",
+      "name": "Hospitality management studies",
+      "sameAs": "https://www.wikidata.org/wiki/Q15816013"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C525551149",
+      "name": "Hospitality industry",
+      "sameAs": "https://www.wikidata.org/wiki/Q1495452"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162853370",
+      "name": "Marketing",
+      "sameAs": "https://www.wikidata.org/wiki/Q39809"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2777910564",
+      "name": "Collateral",
+      "sameAs": "https://www.wikidata.org/wiki/Q694563"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C76178495",
+      "name": "Asset (computer security)",
+      "sameAs": "https://www.wikidata.org/wiki/Q4808784"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C187736073",
+      "name": "Management",
+      "sameAs": "https://www.wikidata.org/wiki/Q2920921"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C38652104",
+      "name": "Computer security",
+      "sameAs": "https://www.wikidata.org/wiki/Q3510521"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "Asset-light fee-oriented (ALFO) is a hospitality industry model that enhances the firm's growth with minimal capital investment and reduces the risk of collateral loss. This analysis aims to examine and provide a comprehensive bibliometric analysis of the ALFO strategy in social and management sciences.The authors reviewed 60 research articles on ALFO from 2003 to 2022 using the \"bibliometrix 3.0\" package of R studio. International journal of hospitality and management was a core journal that mainly targeted Asset light fee-oriented strategy publications. Purdue University is the primary affiliation. Brazil, United States, and France are significant countries for literary research in the stated field. Sohn. J is the core author for developing a contemporary ALFO strategy. The study suggests two research themes and streams using co-citation and bibliometric coupling; \"Application of ALFO strategy in the hospitality industry\" and \"Role of ALFO in behavioural finance of the hospitality industry\". The study's main areas and themes will help us generate future research directions regarding the ALFO strategy. The study provides strong influential and theoretical implications for policymakers, researchers, the tourism sector, and hospitality stakeholders.",
+  "url": "https://doi.org/10.54183/jssr.v2i4.79",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://ojs.jssr.org.pk/index.php/jssr/article/download/79/92",
+    "encodingFormat": "text/html"
+  }
+}

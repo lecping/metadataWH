@@ -1,0 +1,332 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4290791562",
+  "doi": "10.1016/j.petrol.2022.110933",
+  "name": "Sequential production of two oil fields with an option to switch",
+  "headline": "Sequential production of two oil fields with an option to switch",
+  "datePublished": "2022-08-09",
+  "copyrightYear": 2022,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Petroleum Science and Engineering",
+    "issn": "0920-4105",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Elsevier BV"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5011195423",
+      "name": "Semyon Fedorov",
+      "givenName": "Semyon",
+      "familyName": "Fedorov",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I204778367",
+          "name": "Norwegian University of Science and Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NO"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-4979-3876"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5000065373",
+      "name": "Menad Nait Amar",
+      "givenName": "Menad",
+      "familyName": "Amar",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I121407953",
+          "name": "Sonatrach (Algeria)",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "DZ"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5059503092",
+      "name": "Verena Hagspiel",
+      "givenName": "Verena",
+      "familyName": "Hagspiel",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I204778367",
+          "name": "Norwegian University of Science and Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NO"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-3076-5728"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5027037762",
+      "name": "Thomas Lerdahl",
+      "givenName": "Thomas",
+      "familyName": "Lerdahl",
+      "affiliation": []
+    }
+  ],
+  "citationCount": 4,
+  "citation": [
+    "https://openalex.org/W1604094010",
+    "https://openalex.org/W1989671390",
+    "https://openalex.org/W2054947075",
+    "https://openalex.org/W2090263478",
+    "https://openalex.org/W2092015801",
+    "https://openalex.org/W2100280228",
+    "https://openalex.org/W2124183708",
+    "https://openalex.org/W2126311658",
+    "https://openalex.org/W2141139094",
+    "https://openalex.org/W2145224101",
+    "https://openalex.org/W2162206904",
+    "https://openalex.org/W2163722560",
+    "https://openalex.org/W2167807912",
+    "https://openalex.org/W2227048027",
+    "https://openalex.org/W2469285920",
+    "https://openalex.org/W2496629137",
+    "https://openalex.org/W2565868890",
+    "https://openalex.org/W2750310661",
+    "https://openalex.org/W2752252878",
+    "https://openalex.org/W2793358577",
+    "https://openalex.org/W2799466495",
+    "https://openalex.org/W2883612320",
+    "https://openalex.org/W2897468183",
+    "https://openalex.org/W2900156860",
+    "https://openalex.org/W2916550129",
+    "https://openalex.org/W2944176819",
+    "https://openalex.org/W2981894749",
+    "https://openalex.org/W2991957674",
+    "https://openalex.org/W2996299274",
+    "https://openalex.org/W3040340497",
+    "https://openalex.org/W3157653356",
+    "https://openalex.org/W3173805367",
+    "https://openalex.org/W3207981234",
+    "https://openalex.org/W3213457460",
+    "https://openalex.org/W4205498112",
+    "https://openalex.org/W4206424356",
+    "https://openalex.org/W799005682"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.6344391
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-expenditure",
+      "display_name": "Capital expenditure",
+      "score": 0.4571817
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.44760603
+    },
+    {
+      "id": "https://openalex.org/keywords/benchmark",
+      "display_name": "Benchmark (surveying)",
+      "score": 0.43003538
+    },
+    {
+      "id": "https://openalex.org/keywords/downside-risk",
+      "display_name": "Downside risk",
+      "score": 0.4157337
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2778348673",
+      "name": "Production (economics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q739302"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776364302",
+      "name": "Oil field",
+      "sameAs": "https://www.wikidata.org/wiki/Q1845437"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41008148",
+      "name": "Computer science",
+      "sameAs": "https://www.wikidata.org/wiki/Q21198"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C172497479",
+      "name": "Capital expenditure",
+      "sameAs": "https://www.wikidata.org/wiki/Q302208"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C9652623",
+      "name": "Field (mathematics)",
+      "sameAs": "https://www.wikidata.org/wiki/Q190109"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185798385",
+      "name": "Benchmark (surveying)",
+      "sameAs": "https://www.wikidata.org/wiki/Q1161707"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776719154",
+      "name": "Downside risk",
+      "sameAs": "https://www.wikidata.org/wiki/Q1094965"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C42475967",
+      "name": "Operations research",
+      "sameAs": "https://www.wikidata.org/wiki/Q194292"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C134560507",
+      "name": "Environmental economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q753291"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C112930515",
+      "name": "Risk analysis (engineering)",
+      "sameAs": "https://www.wikidata.org/wiki/Q4389547"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C175444787",
+      "name": "Microeconomics",
+      "sameAs": "https://www.wikidata.org/wiki/Q39072"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C78762247",
+      "name": "Petroleum engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q1273174"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780821815",
+      "name": "Portfolio",
+      "sameAs": "https://www.wikidata.org/wiki/Q5340806"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C121955636",
+      "name": "Accounting",
+      "sameAs": "https://www.wikidata.org/wiki/Q4116214"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C13280743",
+      "name": "Geodesy",
+      "sameAs": "https://www.wikidata.org/wiki/Q131089"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C202444582",
+      "name": "Pure mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q837863"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C106159729",
+      "name": "Financial economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q2294553"
+    }
+  ],
+  "abstract": "Re-using existing infrastructure has become a standard approach for the development of marginal offshore oil fields. Many small discoveries are, however, located in remote areas or require unreasonably high costs to be tied back to already installed production facilities. Feasible solutions must be found to develop such prospects in a cost-efficient way. In this paper, we analyze whether sequential development of two stand-alone small fields (A and B) using the same production facilities can be an economical strategy compared to the investment in parallel development. We apply and compare two different approaches to evaluate such a sequential strategy. The first considers that the decision maker maximizes the recovery factor of Field A first and then invests in Field B disregarding the information about uncertain factors (\"myopic\" approach). The second approach allows accounting for the decision maker's ability to optimize the development strategy given it can learn about uncertainties over time and initiate switching between two fields when it is optimal, or leave Field B undeveloped (\"options\" approach). We account for several sources of uncertainty affecting the project value: Fields A and B reservoir uncertainty that is replicated by a benchmark reservoir model, oil price, operational expenditure (OPEX), and capital expenditure (CAPEX) to switch between two fields. Our findings are threefold: (1) sequential investment can be the preferred development concept for small stand-alone discoveries; (2) the sequential development strategy allows the downside risks of the investment to be partly hedged, including the reservoir, oil price, and cost risks; (3) the \"options\" approach is needed to capture the additional monetary value of such a strategy and is considered to be a superior method to assess the value of the sequential production as opposed to a \"myopic\" approach.",
+  "url": "https://doi.org/10.1016/j.petrol.2022.110933",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1016/j.petrol.2022.110933",
+    "encodingFormat": "text/html"
+  }
+}

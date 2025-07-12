@@ -1,0 +1,204 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4210531104",
+  "doi": "10.30587/umgeshic.v1i2.3447",
+  "name": "Analysis of Operational Risk Management of Broiler Farms Closed House Systems",
+  "headline": "Analysis of Operational Risk Management of Broiler Farms Closed House Systems",
+  "datePublished": "2021-12-23",
+  "copyrightYear": 2021,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal Universitas Muhammadiyah Gresik Engineering Social Science and Health International Conference (UMGESHIC)",
+    "issn": "2797-1058",
+    "publisher": {
+      "@type": "Organization",
+      "name": null
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5049220809",
+      "name": "Elly Ismiyah",
+      "givenName": "Elly",
+      "familyName": "Ismiyah",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210092405",
+          "name": "Universitas Muhammadiyah Gresik",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W129885691",
+    "https://openalex.org/W1523712360",
+    "https://openalex.org/W1841346181",
+    "https://openalex.org/W1963099841",
+    "https://openalex.org/W2018384073",
+    "https://openalex.org/W2078319271",
+    "https://openalex.org/W2893874031",
+    "https://openalex.org/W2910921027"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.46826747
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.46572632
+    },
+    {
+      "id": "https://openalex.org/keywords/poultry-farming",
+      "display_name": "Poultry farming",
+      "score": 0.41370082
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C37621935",
+      "name": "Agricultural science",
+      "sameAs": "https://www.wikidata.org/wiki/Q3606845"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C118518473",
+      "name": "Agriculture",
+      "sameAs": "https://www.wikidata.org/wiki/Q11451"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2908647359",
+      "name": "Population",
+      "sameAs": "https://www.wikidata.org/wiki/Q2625603"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C66914385",
+      "name": "Poultry farming",
+      "sameAs": "https://www.wikidata.org/wiki/Q861182"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21547014",
+      "name": "Operations management",
+      "sameAs": "https://www.wikidata.org/wiki/Q1423657"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C48824518",
+      "name": "Agricultural economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q396340"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C205649164",
+      "name": "Geography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C149923435",
+      "name": "Demography",
+      "sameAs": "https://www.wikidata.org/wiki/Q37732"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C166957645",
+      "name": "Archaeology",
+      "sameAs": "https://www.wikidata.org/wiki/Q23498"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144024400",
+      "name": "Sociology",
+      "sameAs": "https://www.wikidata.org/wiki/Q21201"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C97137747",
+      "name": "Forestry",
+      "sameAs": "https://www.wikidata.org/wiki/Q38112"
+    }
+  ],
+  "abstract": "Broiler farming is one of the businesses that people are interested in, especially people in rural areas who still have sufficient land area to build a cage as a place for raising chickens. This is because chicken meat is a food commodity that is still in demand in every community. Running a business in the field of broiler farming certainly requires capital, although the required capital can be minimized by establishing a nucleus-plasma partnership with companies engaged in chicken farming. Of course, the breeders hope that from the effort they make, they get maximum profit with the various simulations that have been carried out. The cage is an important environmental factor in the maintenance of broiler chickens, because the cage is a place for chickens to live and move so that its comfort determines productivity results. The closed house maintenance system is a maintenance system with a closed cage concept where the microclimate in the cage is adjusted according to needs. The advantages of closed house cages are more capacity or population, chickens are protected from physical disturbances, weather, pollution, and disease. However, the closed house system also has drawbacks, especially in terms of investment and high operating expenses. This study will analyze operational risk management on closed house system farms with a case study of livestock in Lamongan Regency. The results of this study are expected to be used as a basis for mitigation actions that must be taken so that risks can be minimized. 3 (three) risks with the highest RPN value are the calculation of harvest yields does not match daily recordings. High chicken mortality at a time when harvesting IP is very far from expectations. Meanwhile, the proposed mitigation measures are to provide strict sanctions if fraud cases are found by certain persons, provide more counseling it would be better to provide knowledge to the caged chicks on how to better manage the cage, and to increase understanding of disease outbreaks for PPL and caged chicks to determine appropriate treatment actions",
+  "url": "https://doi.org/10.30587/umgeshic.v1i2.3447",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "http://journal.umg.ac.id/index.php/umgeshic/article/download/3447/2093",
+    "encodingFormat": "text/html"
+  }
+}

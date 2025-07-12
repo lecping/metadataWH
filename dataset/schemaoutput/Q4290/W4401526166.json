@@ -1,0 +1,155 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4401526166",
+  "doi": "10.1201/9781003440406-17",
+  "name": "Chapter 17 Investment in human capital and economic growth",
+  "headline": "Chapter 17 Investment in human capital and economic growth",
+  "datePublished": "2024-08-13",
+  "copyrightYear": 2024,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "cc-by-nc-nd",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "CRC Press eBooks",
+    "issn": null,
+    "publisher": {
+      "@type": "Organization",
+      "name": "Informa"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5106424138",
+      "name": "Chamchoune Hind",
+      "givenName": "Chamchoune",
+      "familyName": "Hind",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I81605866",
+          "name": "Sidi Mohamed Ben Abdellah University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "MA"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5113331428",
+      "name": "Abdellaoui Mohammed",
+      "givenName": "Abdellaoui",
+      "familyName": "Mohammed",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I81605866",
+          "name": "Sidi Mohamed Ben Abdellah University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "MA"
+          }
+        }
+      ]
+    }
+  ],
+  "citationCount": 0,
+  "citation": [
+    "https://openalex.org/W2894713174",
+    "https://openalex.org/W3006845000",
+    "https://openalex.org/W3127643014",
+    "https://openalex.org/W3131280984",
+    "https://openalex.org/W3203180228",
+    "https://openalex.org/W4205440698",
+    "https://openalex.org/W4205474121",
+    "https://openalex.org/W4311111497",
+    "https://openalex.org/W4320854915",
+    "https://openalex.org/W4363673910",
+    "https://openalex.org/W4366815508"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/investment",
+      "display_name": "Investment",
+      "score": 0.5505326
+    },
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.44158506
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C27548731",
+      "name": "Investment (military)",
+      "sameAs": "https://www.wikidata.org/wiki/Q88272"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2776943663",
+      "name": "Human capital",
+      "sameAs": "https://www.wikidata.org/wiki/Q165687"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C162324750",
+      "name": "Economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q8134"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C556758197",
+      "name": "Monetary economics",
+      "sameAs": "https://www.wikidata.org/wiki/Q580018"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C34447519",
+      "name": "Market economy",
+      "sameAs": "https://www.wikidata.org/wiki/Q179522"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C17744445",
+      "name": "Political science",
+      "sameAs": "https://www.wikidata.org/wiki/Q36442"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94625758",
+      "name": "Politics",
+      "sameAs": "https://www.wikidata.org/wiki/Q7163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C199539241",
+      "name": "Law",
+      "sameAs": "https://www.wikidata.org/wiki/Q7748"
+    }
+  ],
+  "abstract": "The overarching objective of this article is to analyze scientific production regarding the behaviour of Investment in human capital and economic growth., in English and French, on A mixed-method bibliometric study was conducted using the SCOPUS portal for data collection. This research has synthesized the key findings and identified gaps in the literature concerning this topic, presenting them in a comprehensive summary table.",
+  "url": "https://doi.org/10.1201/9781003440406-17",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://doi.org/10.1201/9781003440406-17",
+    "encodingFormat": "text/html"
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://openalex.org/W4383069333",
+  "doi": "10.31315/e.v20i2.9096",
+  "name": "Current Research on The Development of Carbon Separation and Capture with Polymeric Membrane: A State of The Art Review",
+  "headline": "Current Research on The Development of Carbon Separation and Capture with Polymeric Membrane: A State of The Art Review",
+  "datePublished": "2023-07-03",
+  "copyrightYear": 2023,
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Eksergi",
+    "issn": "1410-394X",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Universitas Pembangunan Nasional Veteran Yogyakarta"
+    }
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5036414845",
+      "name": "Retno Dwi Nyamiati",
+      "givenName": "Retno",
+      "familyName": "Nyamiati",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210156102",
+          "name": "Universitas Pembangunan Nasional Veteran Yogyakarta",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0003-2719-9817"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5071330006",
+      "name": "Siti Nurkhamidah",
+      "givenName": "Siti",
+      "familyName": "Nurkhamidah",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I166843116",
+          "name": "Sepuluh Nopember Institute of Technology",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-4916-2989"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5035438987",
+      "name": "Dodi Eko Nanda",
+      "givenName": "Dodi",
+      "familyName": "Nanda",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I135237710",
+          "name": "Zhejiang Normal University",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CN"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5085763860",
+      "name": "Daniel Timotius",
+      "givenName": "Daniel",
+      "familyName": "Timotius",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210156102",
+          "name": "Universitas Pembangunan Nasional Veteran Yogyakarta",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-3440-1705"
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5020151781",
+      "name": "Mahreni Mahreni",
+      "givenName": "Mahreni",
+      "familyName": "Mahreni",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210156102",
+          "name": "Universitas Pembangunan Nasional Veteran Yogyakarta",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5018002429",
+      "name": "Dian Purnami Handayani",
+      "givenName": "Dian",
+      "familyName": "Handayani",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210156102",
+          "name": "Universitas Pembangunan Nasional Veteran Yogyakarta",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5092393927",
+      "name": "Dwi Amalia",
+      "givenName": "Dwi",
+      "familyName": "Amalia",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210156102",
+          "name": "Universitas Pembangunan Nasional Veteran Yogyakarta",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "identifier": "https://openalex.org/A5065196068",
+      "name": "Alfathony Krisnabudhi",
+      "givenName": "Alfathony",
+      "familyName": "Krisnabudhi",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "identifier": "https://openalex.org/I4210156102",
+          "name": "Universitas Pembangunan Nasional Veteran Yogyakarta",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ID"
+          }
+        }
+      ],
+      "sameAs": "https://orcid.org/0000-0002-6158-341X"
+    }
+  ],
+  "citationCount": 3,
+  "citation": [
+    "https://openalex.org/W1988340296",
+    "https://openalex.org/W1994386701",
+    "https://openalex.org/W2070449229",
+    "https://openalex.org/W2098649737",
+    "https://openalex.org/W2102061815",
+    "https://openalex.org/W2114372745",
+    "https://openalex.org/W2317913255",
+    "https://openalex.org/W2326935822",
+    "https://openalex.org/W2520100759",
+    "https://openalex.org/W2591185705",
+    "https://openalex.org/W2885512159",
+    "https://openalex.org/W2910507574",
+    "https://openalex.org/W2937759283",
+    "https://openalex.org/W2964669218",
+    "https://openalex.org/W2997643612",
+    "https://openalex.org/W3033090376",
+    "https://openalex.org/W3117645957",
+    "https://openalex.org/W3133561447",
+    "https://openalex.org/W3157092764",
+    "https://openalex.org/W3162815143",
+    "https://openalex.org/W3176337322",
+    "https://openalex.org/W4205880738",
+    "https://openalex.org/W4206486861",
+    "https://openalex.org/W4225718821",
+    "https://openalex.org/W4306250688",
+    "https://openalex.org/W4306674024",
+    "https://openalex.org/W4310193699",
+    "https://openalex.org/W4383069333"
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/capital-investment",
+      "display_name": "Capital investment",
+      "score": 0.6372184
+    },
+    {
+      "id": "https://openalex.org/keywords/membrane-technology",
+      "display_name": "Membrane Technology",
+      "score": 0.44764587
+    },
+    {
+      "id": "https://openalex.org/keywords/carbon-fibers",
+      "display_name": "Carbon fibers",
+      "score": 0.4292817
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C41625074",
+      "name": "Membrane",
+      "sameAs": "https://www.wikidata.org/wiki/Q176088"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2780598303",
+      "name": "Flexibility (engineering)",
+      "sameAs": "https://www.wikidata.org/wiki/Q65921492"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C2985722716",
+      "name": "Capital investment",
+      "sameAs": "https://www.wikidata.org/wiki/Q4290"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C18411161",
+      "name": "Gas separation",
+      "sameAs": "https://www.wikidata.org/wiki/Q17050218"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C21880701",
+      "name": "Process engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q2144042"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C521977710",
+      "name": "Polymer",
+      "sameAs": "https://www.wikidata.org/wiki/Q81163"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C192562407",
+      "name": "Materials science",
+      "sameAs": "https://www.wikidata.org/wiki/Q228736"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C94005225",
+      "name": "Membrane technology",
+      "sameAs": "https://www.wikidata.org/wiki/Q1751537"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C140205800",
+      "name": "Carbon fibers",
+      "sameAs": "https://www.wikidata.org/wiki/Q5860"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C171250308",
+      "name": "Nanotechnology",
+      "sameAs": "https://www.wikidata.org/wiki/Q11468"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C39432304",
+      "name": "Environmental science",
+      "sameAs": "https://www.wikidata.org/wiki/Q188847"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C127413603",
+      "name": "Engineering",
+      "sameAs": "https://www.wikidata.org/wiki/Q11023"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C185592680",
+      "name": "Chemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q2329"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C159985019",
+      "name": "Composite material",
+      "sameAs": "https://www.wikidata.org/wiki/Q181790"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C144133560",
+      "name": "Business",
+      "sameAs": "https://www.wikidata.org/wiki/Q4830453"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C55493867",
+      "name": "Biochemistry",
+      "sameAs": "https://www.wikidata.org/wiki/Q7094"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C105795698",
+      "name": "Statistics",
+      "sameAs": "https://www.wikidata.org/wiki/Q12483"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C33923547",
+      "name": "Mathematics",
+      "sameAs": "https://www.wikidata.org/wiki/Q395"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C10138342",
+      "name": "Finance",
+      "sameAs": "https://www.wikidata.org/wiki/Q43015"
+    },
+    {
+      "@type": "Thing",
+      "identifier": "https://openalex.org/C104779481",
+      "name": "Composite number",
+      "sameAs": "https://www.wikidata.org/wiki/Q50707"
+    }
+  ],
+  "abstract": "Separation and capture of carbon dioxide (CO2) has become a very hot topic of discussion recently. The increasing amount of carbon dioxide in the environment makes environmental pollution very significant. Membrane technology is one of the alternative carbon separation processes that are increasingly in demand, because membrane technology provides excellent advantages in terms of energy requirements used, capital investment invested, and ease of operating equipment compared to other processes. Many membrane constituent materials can be used to be the basic material for making membranes, including polymeric materials. This review discusses the various polymeric materials that can be used as basic materials for gas membranes in terms of plasticization, constituent components, flexibility, and mechanical strength. It also provides an understanding of alternatives to improve the properties of polymer-based membranes.",
+  "url": "https://doi.org/10.31315/e.v20i2.9096",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "http://jurnal.upnyk.ac.id/index.php/eksergi/article/download/9096/pdf",
+    "encodingFormat": "text/html"
+  }
+}
